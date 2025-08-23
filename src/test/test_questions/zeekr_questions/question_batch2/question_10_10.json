@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "generated_date": "2025-06-06 11:44:36",
+    "database": "/root/autodl-tmp/RAG_Agent_production/tmp/database_202506_zeekr",
+    "batch_index": "10_10"
+  },
+  "questions": [
+    {
+      "question_index": 0,
+      "original_question": "What is Zeekr’s market outlook and future expansion plan according to industry forecasts?",
+      "answer": "Zeekr, a premium electric vehicle (EV) brand under Geely, has a promising market outlook and ambitious future expansion plans according to industry forecasts. The brand is well-positioned for growth, driven by its focus on innovative technology, high-performance vehicles, and a strong commitment to sustainability and cutting-edge design. These factors align with the increasing global demand for premium EVs, particularly in key regions like Europe.\n\nZeekr’s future expansion strategy includes enhancing its product lineup with more advanced EV models and increasing its market share through strategic partnerships and technological innovation. The brand aims to solidify its presence in the electric vehicle market by targeting international markets and leveraging its position within the Geely ecosystem. This dual approach of product development and geographic expansion underscores Zeekr’s goal of becoming a significant player in the global EV industry. For more detailed insights, consulting a human assistant is recommended.",
+      "duration": 16.28371787071228,
+      "rewritten_question": [
+        "What is Zeekr’s market outlook according to industry forecasts?",
+        "What is Zeekr’s future expansion plan according to industry forecasts?"
+      ],
+      "need_rag": false,
+      "rag_info": [],
+      "all_retrieved_content": []
+    }
+  ]
+}

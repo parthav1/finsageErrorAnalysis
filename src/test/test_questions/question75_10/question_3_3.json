@@ -1,0 +1,508 @@
+{
+  "metadata": {
+    "generated_date": "2025-08-18 01:04:45",
+    "database": "/root/autodl-tmp/RAG_Agent_production/tmp/database_202506",
+    "batch_index": "3_3"
+  },
+  "questions": [
+    {
+      "question_index": 0,
+      "original_question": "路特斯科技的主营业务是什么？",
+      "answer": "Lotus Technology 的主要业务包括设计、开发和销售以“Lotus”品牌命名的豪华电池电动汽车（BEV生活方式车型），以及销售以“Lotus”品牌命名的豪华跑车。此外，Lotus Technology 还提供汽车零部件和周边产品，并通过为OEM客户提供汽车设计和开发服务、技术相关服务及售后服务来生成收入。Lotus Technology 也从事汽车及其关键部件的研发活动，以及汽车工程开发服务。\n\n以上信息基于2025年3月4日之前的知识。",
+      "duration": 6.846456527709961,
+      "rewritten_question": [
+        "What is the main business of Lotus Technology?"
+      ],
+      "need_rag": true,
+      "rag_info": [
+        {
+          "timeinfo": "2024-09-19",
+          "chunk_id": "2076d804fbb07cd39d8b28a5a96d0b51050bfa9ae57e58bcdd3fc589618ff462",
+          "chunk_content": "Lotus Technology is a leading global intelligent and luxury mobility provider that designs and develops luxury lifestyle vehicles (non-sports car vehicles for daily usage) under the iconic British brand “Lotus” and sells all Lotus-branded cars. With over seven decades of racing heritage and proven leadership in the automotive industry, the Lotus brand symbolizes market-leading standards in performance, design, and engineering. Fusing proprietary next-generation technology built on world-class research and development capabilities and an asset-light model empowered by Geely Holding, Lotus Technology is breaking new ground in electrification, digitization, and intelligence. The Lotus brand was founded in the U.K. in 1948 and has since established itself as a high-performance luxury vehicle brand with innovative engineering and cutting-edge technologies, renowned for its superior aerodynamics and lightweight design. The Lotus brand was born out of legendary success on the racetrack, including 13 FIA Formula 1 world titles and many other championship honors. In 2017, Geely Holding acquired a 51% stake in Lotus Technology and further positioned the company as a luxury lifestyle battery electric vehicle (BEV) manufacturer.",
+          "chunk_bundle_id": 4.0,
+          "sub_query": "What is the main business of Lotus Technology?"
+        },
+        {
+          "timeinfo": "2024-09-19",
+          "chunk_id": "c936f93cd552fdde8a04e8fbeaa187255754708d9893aa72731804fa21189e63",
+          "chunk_content": "Services. Lotus Technology generates revenues mainly by providing automotive design and development services to OEM customers, technology-related services, and after-sales service.",
+          "chunk_bundle_id": 2.0,
+          "sub_query": "What is the main business of Lotus Technology?"
+        },
+        {
+          "timeinfo": "2024-01-11",
+          "chunk_id": "3d5324e78605cfb977f506196b268978ce2ee539f709862e034ba89a349b63d5",
+          "chunk_content": "Lotus Technology is a pioneering luxury battery electric vehicle (BEV) maker that designs, develops, and sells luxury lifestyle vehicles (non-sports car vehicles for daily usage) under the iconic British brand “Lotus.” With over seven decades of racing heritage and proven leadership in the automotive industry, the Lotus brand symbolizes the market-leading standards in performance, design, and engineering. Fusing proprietary next-generation technology built on world-class research and development capabilities and an asset-light model empowered by Geely Holding, Lotus Technology is breaking new ground in electrification, digitization, and intelligence. The mailing address of Lotus Technology’s principal executive office is No. 800 Century Avenue, Pudong District, Shanghai, People’s Republic of China, and its phone number is +86 21 5466-6258. Lotus Technology’s corporate website address is www.group-lotus.com. Lotus Technology’s website and the information contained on, or that can be accessed through, the website are not deemed to be incorporated by reference in, and are not considered part of, this proxy statement/prospectus.",
+          "chunk_bundle_id": 3.0,
+          "sub_query": "What is the main business of Lotus Technology?"
+        },
+        {
+          "timeinfo": "2024-01-12",
+          "chunk_id": "eebe32c8063f44ce2929a52d12d5505bdc37bc3f558b3d1e3bcb49959fd57e25",
+          "chunk_content": "Lotus Technology's main website is www.group-lotus.com. Neither the information on Lotus Technology's main website, nor the information on the websites of any of Lotus Technology's brands and businesses, is incorporated by reference into this proxy statement/consent solicitation statement/prospectus, or into any other filings with, or into any other information furnished or submitted to, the SEC.",
+          "chunk_bundle_id": 16.0,
+          "sub_query": "What is the main business of Lotus Technology?"
+        },
+        {
+          "timeinfo": "2024-04-22",
+          "chunk_id": "87dac2495dc9581e78d68872d270e5147fb07fa81850517ebb59800f610d2f0f",
+          "chunk_content": "Lotus Technology is a pioneering luxury battery electric vehicle (BEV) maker that designs and develops luxury lifestyle vehicles (non-sports car vehicles for daily usage) under the iconic British brand “Lotus” and sells all Lotus branded cars. Lotus Technology has established a successful track record since its inception. In 2023, Lotus Technology delivered a total of 6,970 vehicles, which consisted of its lifestyle vehicles and sportscars distributed through Lotus Technology International Limited (LTIL). As of December 31, 2023, Lotus Technology had 3,180 full-time employees globally, including in China and Europe, among which approximately 56.7% belong to its R&D division. Lotus Technology's total revenues increased from US\\$9.6 million for the year ended December 31, 2022, to US\\$679.0 million for the year ended December 31, 2023. Lotus Technology recorded a net loss of US\\$750.3 million, US\\$724.6 million, and US\\$110.5 million in 2023, 2022, and 2021, respectively.",
+          "chunk_bundle_id": 0.0,
+          "sub_query": "What is the main business of Lotus Technology?"
+        },
+        {
+          "timeinfo": "2024-05-24",
+          "chunk_id": "d1b49ff8d4c9e2dad13d2a7924c2fd14c257c1bbaa231c07b8cd979cd66f1c2c",
+          "chunk_content": "Lotus Technology generates revenues primarily through sales of goods and services. Sales of goods. Lotus Technology generates revenues by providing the following products: • BEV lifestyle models developed by Lotus Technology;  \n• Lotus-brand sports cars developed by Lotus UK;  \n• auto parts; and  \n• peripheral products. Services.    Lotus Technology generates revenues mainly by providing automotive design and development services to OEM customers and after-sales service. The following table sets forth a breakdown of revenues by type both in absolute amount and as a percentage of Lotus Technology's revenues for the years indicated.",
+          "chunk_bundle_id": 8.0,
+          "sub_query": "What is the main business of Lotus Technology?"
+        },
+        {
+          "timeinfo": "2024-05-29",
+          "chunk_id": "f67c04d6523f47d6844c9e04d4fa17ca989022f7ee757d5fa1ae8f9047e34732",
+          "chunk_content": "Lotus Technology Inc. has operations across the UK, the EU, and China. Lotus Technology Inc. is dedicated to delivering luxury lifestyle battery electric vehicles, with a focus on world-class research and development in next-generation automobility technologies such as electrification, digitalisation, and more. For more information about Lotus Technology Inc., please visit www.group-lotus.com.",
+          "chunk_bundle_id": 10.0,
+          "sub_query": "What is the main business of Lotus Technology?"
+        },
+        {
+          "timeinfo": "2024-04-08",
+          "chunk_id": "0547eeee16675caf5c50940a0ff9850db3a031bd7381b8517e58732761d57788",
+          "chunk_content": "Lotus Technology recorded revenue of \\$679 million in 2023, driven by growing sales of lifestyle battery electric vehicles (BEVs) and sports cars. The company achieved a gross profit margin of 15% in the first year of BEV deliveries, with the scaling of asset-light production. Lotus Technology expanded its global footprint to 215 stores, with new flagship locations in Paris, London, and Seoul. The company expects to achieve about a threefold increase in deliveries in 2024 amid steady market expansion. New York - April 8, 2024 - Lotus Technology Inc. (\"Lotus Tech\" or \"the Company\"), a leading global luxury electric vehicle maker, today announced its unaudited financial results for the fourth quarter and the year ended December 31, 2023. The results reflect steady progress in Lotus Technology's execution of its Vision80 strategy to become an all-electric, intelligent, and luxury mobility provider before Lotus Technology's 80th anniversary in 2028. In its first year of battery electric vehicle (BEV) delivery, Lotus Technology achieved revenue of \\$679 million and a gross profit margin of 15% in 2023. Revenue in the fourth quarter of 2023 was \\$361 million, representing a 92% quarter-on-quarter increase. This strong performance was enabled by Lotus Technology's asset-light business model, as the company ramped up production and sales of BEV models. Lotus Technology delivered 6,970 vehicles in 2023, an annual record in the 76-year history of the Lotus brand, with battery electric vehicle (BEV) models representing 63% of total deliveries. Vehicle deliveries in the fourth quarter of 2023 increased nearly 110% quarter-over-quarter to 3,749.",
+          "chunk_bundle_id": 7.0,
+          "sub_query": "What is the main business of Lotus Technology?"
+        },
+        {
+          "timeinfo": "2022-12-01",
+          "chunk_id": "b461104bca9c195b55b1d3cf90c7bb636d6a068ad95406f3edf72ecf5d000a67",
+          "chunk_content": "British Formula 1 constructors were caught out by the decision of the sport’s governing body to limit engine size to just 1.5 litres for the 1961 season. None could quite believe that it would actually go ahead with a limit which equated to what had been Formula 2 specification the previous year. The main British engine supplier to Formula 1, Coventry Climax, was unprepared for the move, and so the major teams (Lotus, Cooper, and even BRM) were forced to rely on the outdated four-cylinder FPF engine. Ferrari, by contrast, had been working on a new and far superior V6 power unit for some time.\n\nCoventry Climax hastily decided to develop a new V8 engine and issued installation drawings to the main teams. The eventual FWMV engine was in fact deeper and longer than planned, forcing chassis redesigns for those teams which had intentions to use the unit. For 1961, this particular problem did not affect Lotus. Colin Chapman’s personal relationship with Coventry Climax’s Leonard Lee was at an all-time low following rows over the quality of the FWE engines being supplied for the Elite road car. Although he designed the Type 21 to use the projected new V8 engine, Chapman",
+          "chunk_bundle_id": 19.0,
+          "sub_query": "What is the main business of Lotus Technology?"
+        },
+        {
+          "timeinfo": "2025-03-04",
+          "chunk_id": "96a3e374c06f4d40f57108392121bd48bb55f89de01c2f2e32e4ef5ef072b999",
+          "chunk_content": "Lotus Technology Inc. (the “Company”) No. 800 Century Avenue Pudong District, Shanghai, People's Republic of China Dear Sirs/Madams, Lotus Technology Inc. has acted as the PRC legal counsel as to the laws of the People’s Republic of China (the “PRC”, for the purpose of this letter only, excluding the Hong Kong Special Administrative Region, the Macau Special Administrative Region and Taiwan) to the Company in connection with the Company’s registration statement on Form F-3, including all amendments and supplements thereto (the “Registration Statement”), filed with the Securities and Exchange Commission (the “SEC”) under the U.S. Securities Act of 1933 (as amended). Lotus Technology Inc. hereby consents to the reference of its name in the Registration Statement and the filing of this consent letter with the SEC as an exhibit to the Registration Statement. In giving such consent, Lotus Technology Inc. does not thereby admit that Lotus Technology Inc. comes within the category of persons whose consent is required under Section 7 of the Securities Exchange Act of 1933, or under the Securities Exchange Act of 1934, in each case, as amended, or the regulations promulgated thereunder.",
+          "chunk_bundle_id": 11.0,
+          "sub_query": "What is the main business of Lotus Technology?"
+        }
+      ],
+      "all_retrieved_content": [
+        [
+          {
+            "retriever": "FAISS",
+            "score": 0.7107588052749634,
+            "page_content": "Lotus Technology is a pioneering luxury battery electric vehicle (BEV) maker that designs and develops luxury lifestyle vehicles (non-sports car vehicles for daily usage) under the iconic British brand “Lotus” and sells all Lotus branded cars. Lotus Technology has established a successful track record since its inception. In 2023, Lotus Technology delivered a total of 6,970 vehicles, which consisted of its lifestyle vehicles and sportscars distributed through Lotus Technology International Limited (LTIL). As of December 31, 2023, Lotus Technology had 3,180 full-time employees globally, including in China and Europe, among which approximately 56.7% belong to its R&D division. Lotus Technology's total revenues increased from US\\$9.6 million for the year ended December 31, 2022, to US\\$679.0 million for the year ended December 31, 2023. Lotus Technology recorded a net loss of US\\$750.3 million, US\\$724.6 million, and US\\$110.5 million in 2023, 2022, and 2021, respectively.",
+            "metadata": {
+              "date_published": "2024-04-22",
+              "doc_id": "87dac2495dc9581e78d68872d270e5147fb07fa81850517ebb59800f610d2f0f",
+              "filename": "20240422_final.json",
+              "global_id": 8956,
+              "next_chunk_id": "aba504e6d4bec66b72e3f9b212266b550d53d3a1a939587ce853c96313dd0f74",
+              "page_number": 126,
+              "prev_chunk_id": "",
+              "title_summary": "title: A. Operating Results \nsummary: We are a pioneering luxury battery electric vehicle (BEV) manufacturer focused on creating premium lifestyle vehicles for everyday use under the esteemed British brand \"Lotus.\" Our portfolio includes a variety of Lotus-branded cars that reflect luxury and sophistication. Since our establishment, we have achieved notable success, delivering 6,970 vehicles in 2023, which encompassed both lifestyle and sports models. By the year's end, our global workforce reached 3,180 full-time employees, with around 56.7% dedicated to research and development across teams in China and Europe. Our total revenues for 2023 soared to $679.0 million, a remarkable rise from $9.6 million in 2022. However, despite this growth, we faced a net loss of $750.3 million in 2023, an increase from losses of $724.6 million in 2022 and $110.5 million in 2021."
+            },
+            "bundle_id": 0
+          },
+          {
+            "retriever": "FAISS",
+            "score": 0.7078651189804077,
+            "page_content": "Lotus Technology is a leading global intelligent and luxury mobility provider that designs and develops luxury lifestyle vehicles (non-sports cars for daily usage) under the iconic British brand “Lotus” and sells all Lotus branded cars. Lotus Technology has established a successful track record since its inception. In 2024, Lotus Technology delivered a total of 12,134 vehicles, which consisted of its lifestyle vehicles and sportscars distributed through Lotus Technology International Limited (LTIL). As of December 31, 2024, Lotus Technology had 1,996 full-time employees globally, including in China and Europe, among which approximately 52% belong to its R&D division. Lotus Technology's total revenues increased from US\\$9.6 million for the year ended December 31, 2022, to US\\$679.0 million for the year ended December 31, 2023, and again to US\\$924.3 million for the year ended December 31, 2024. Lotus Technology recorded a net loss of US\\$724.6 million, US\\$750.3 million, and US\\$1,107.3 million in 2022, 2023, and 2024, respectively.",
+            "metadata": {
+              "date_published": "2025-04-30",
+              "doc_id": "e65d26403123437bb19f359fae9b5d8c6f555d083214a42daa9f0a7d768f5a41",
+              "filename": "20250430.json",
+              "global_id": 11848,
+              "next_chunk_id": "cdb2ee7116247503dd40cfbea940d9740d1554954802e83db225a8866f1c1437",
+              "page_number": 123,
+              "prev_chunk_id": "48a23ab840a80ec47928087f407b8c52fc2dd7dca6ec6236372d6d9253330ada",
+              "title_summary": "title: A. Operating Results \nsummary: We are a leading global provider of luxury mobility solutions, focusing on the design and development of sophisticated lifestyle vehicles under the esteemed British brand \"Lotus.\" Our product lineup includes a comprehensive range of Lotus-branded cars, reflecting our commitment to quality in the luxury automotive sector. In 2024, we achieved significant milestones, delivering 12,134 vehicles, including both lifestyle and sports models, through our distribution partner LTIL. Our workforce expanded to 1,996 full-time employees, with approximately 52% dedicated to Research and Development across teams in China and Europe. Financially, we experienced substantial revenue growth, with total revenues increasing from US$9.6 million in 2022 to US$924.3 million in 2024. However, this growth was accompanied by net losses, which escalated from US$724.6 million in 2022 to US$1,107.3 million in 2024."
+            },
+            "bundle_id": 1
+          },
+          {
+            "retriever": "FAISS",
+            "score": 0.7008088827133179,
+            "page_content": "Services. Lotus Technology generates revenues mainly by providing automotive design and development services to OEM customers, technology-related services, and after-sales service.",
+            "metadata": {
+              "date_published": "2024-09-19",
+              "doc_id": "c936f93cd552fdde8a04e8fbeaa187255754708d9893aa72731804fa21189e63",
+              "filename": "0919_final.json",
+              "global_id": 2617,
+              "next_chunk_id": "28d30daeea64010e99add963e0c2b38f1d5680fd5aeceffa69b47090aceac276",
+              "page_number": 158,
+              "prev_chunk_id": "e7757881d60c0acdb383b264c134681b4baeee77a204add4b61ae64a5a42f4a5",
+              "title_summary": "title: Revenues \nsummary: **Comprehensive Summary of Revenues**\n\nThe company generates its revenues primarily through the sale of goods and services, with a strong emphasis on automotive products and design services. The key revenue sources are categorized into sales of goods and service revenues.\n\n**Sales of Goods**: \n- The company's sales of goods include battery electric vehicle (BEV) lifestyle models, Lotus-brand sports cars, auto parts, and peripheral products. \n- For the six months ended June 30, 2024, sales of goods totaled $382,893, representing 96.2% of total revenues, a slight increase from $124,854 (96.0%) during the same period in 2023. \n- For the year ended December 31, 2023, sales of goods reached $660,158, accounting for 97.2% of total revenues, a significant decrease from $1,186 (12.4%) in 2022.\n\n**Service Revenues**: \n- The company also derives revenue from automotive design and development services, technology-related services, and after-sales support. \n- For the six months ended June 30, 2024, service revenues were $15,222, making up 3.8% of total revenues, an increase from $5,181 (4.0%) in 2023. \n- For the year ended December 31, 2023, service revenues amounted to $18,850, which constituted 2.8% of total revenues, compared to $8,371 (87.6%) in 2022.\n\n**Total Revenues**: \n- The total revenues for the six months ended June 30, 2024, were $398,115, a significant rise from $130,035 in 2023. \n- For the year ended December 31, 2023, total revenues stood at $679,008, a substantial increase from $9,557 in 2022.\n\n**Costs Associated with Revenues**: \n- The company incurs costs categorized into cost of goods sold (COGS) and cost of services. \n- For the six months ended June 30, 2024, the cost of goods sold was $340,882, representing 98.2% of total revenue costs. \n- For the year ended December 31, 2023, COGS totaled $564,741, accounting for 97.9% of total revenue costs. \n- The cost of services for the six months ended June 30, 2024, was $6,321, which is 1.8% of total revenue costs. \n- For the year ended December 31, 2023, the cost of services reached $12,086, representing 2.1% of total revenue costs.\n\nOverall, the company’s revenue generation strategy highlights a robust focus on product distribution and service delivery, with notable shifts in revenue composition and cost structure over the analyzed periods. All financial figures are reported in thousands of US dollars."
+            },
+            "bundle_id": 2
+          },
+          {
+            "retriever": "FAISS",
+            "score": 0.6971848011016846,
+            "page_content": "Lotus Technology is a pioneering luxury battery electric vehicle (BEV) maker that designs, develops, and sells luxury lifestyle vehicles (non-sports car vehicles for daily usage) under the iconic British brand “Lotus.” With over seven decades of racing heritage and proven leadership in the automotive industry, the Lotus brand symbolizes the market-leading standards in performance, design, and engineering. Fusing proprietary next-generation technology built on world-class research and development capabilities and an asset-light model empowered by Geely Holding, Lotus Technology is breaking new ground in electrification, digitization, and intelligence. The mailing address of Lotus Technology’s principal executive office is No. 800 Century Avenue, Pudong District, Shanghai, People’s Republic of China, and its phone number is +86 21 5466-6258. Lotus Technology’s corporate website address is www.group-lotus.com. Lotus Technology’s website and the information contained on, or that can be accessed through, the website are not deemed to be incorporated by reference in, and are not considered part of, this proxy statement/prospectus.",
+            "metadata": {
+              "date_published": "2024-01-11",
+              "doc_id": "3d5324e78605cfb977f506196b268978ce2ee539f709862e034ba89a349b63d5",
+              "filename": "20240111_final.json",
+              "global_id": 3808,
+              "next_chunk_id": "",
+              "page_number": 47,
+              "prev_chunk_id": "",
+              "title_summary": "title: Lotus Tech \nsummary: Lotus Tech is a luxury battery electric vehicle (BEV) manufacturer known for producing high-end lifestyle vehicles under the esteemed British brand \"Lotus.\" With over 70 years of experience in racing and a strong automotive reputation, Lotus embodies excellence in performance, design, and engineering. The company utilizes advanced proprietary technology and a research-driven approach, supported by an asset-light model from Geely Holding, positioning itself at the forefront of electrification, digitization, and intelligent vehicle solutions. Lotus Tech's headquarters is located in Pudong District, Shanghai, China, and can be contacted at +86 21 5466-6258. While information about the company is available on its website, it is not considered part of the official proxy statement/prospectus."
+            },
+            "bundle_id": 3
+          },
+          {
+            "retriever": "FAISS",
+            "score": 0.6965532898902893,
+            "page_content": "Lotus Technology is a leading global intelligent and luxury mobility provider that designs and develops luxury lifestyle vehicles (non-sports car vehicles for daily usage) under the iconic British brand “Lotus” and sells all Lotus-branded cars. With over seven decades of racing heritage and proven leadership in the automotive industry, the Lotus brand symbolizes market-leading standards in performance, design, and engineering. Fusing proprietary next-generation technology built on world-class research and development capabilities and an asset-light model empowered by Geely Holding, Lotus Technology is breaking new ground in electrification, digitization, and intelligence. The Lotus brand was founded in the U.K. in 1948 and has since established itself as a high-performance luxury vehicle brand with innovative engineering and cutting-edge technologies, renowned for its superior aerodynamics and lightweight design. The Lotus brand was born out of legendary success on the racetrack, including 13 FIA Formula 1 world titles and many other championship honors. In 2017, Geely Holding acquired a 51% stake in Lotus Technology and further positioned the company as a luxury lifestyle battery electric vehicle (BEV) manufacturer.",
+            "metadata": {
+              "date_published": "2024-09-19",
+              "doc_id": "2076d804fbb07cd39d8b28a5a96d0b51050bfa9ae57e58bcdd3fc589618ff462",
+              "filename": "0919_final.json",
+              "global_id": 2402,
+              "next_chunk_id": "89cd967f67c83bae8d1bc2be6b417f7155e5250a84607b4fdd18bc73ad16c516",
+              "page_number": 108,
+              "prev_chunk_id": "4a7969ebe9ad4b93e4e439904d1d480d1b4166695c64cdb97183e166ceb92b22",
+              "title_summary": "title: Our Business \nsummary: **Comprehensive Summary of Our Business**\n\nLotus is a premier global provider of intelligent and luxury mobility solutions, renowned for designing and developing luxury lifestyle vehicles under its iconic British brand. Established in the U.K. in 1948, Lotus has a rich heritage of over seven decades in racing, symbolizing excellence in performance, design, and engineering, with a legacy that includes 13 FIA Formula 1 world titles.\n\nIn 2017, Geely Holding acquired a 51% stake in Lotus UK, transforming the company into a luxury lifestyle battery electric vehicle (BEV) manufacturer. This strategic partnership enhances Lotus's capabilities in manufacturing, supply chain, research and development (R&D), and logistics, facilitating a transition from a traditional sports car company to a leader in high-performance electric vehicles. The luxury BEV market is currently underserved, with only about 10 existing models compared to over 100 internal combustion engine luxury models, positioning Lotus to capitalize on first-mover advantages.\n\nLotus launched its first fully electric Hyper-SUV, the Eletre, in 2022, with deliveries commencing in 2023. The Eletre features an advanced 800-volt EPA platform, offering three versions: Eletre, Eletre S, and Eletre R. The Eletre R achieves an impressive 905 horsepower and accelerates from 0-100 km/h in just 2.95 seconds. Its 112-kWh battery provides a WLTP range of 490 km and can be charged from 10% to 80% in under 20 minutes, with an average MSRP exceeding $100,000. Following the Eletre, the second model, the Emeya, was launched in September 2023, with deliveries expected to begin in March 2024.\n\nLotus's R&D capabilities are a competitive strength, highlighted by the proprietary 800-volt EPA developed over five years, which supports rapid model rollout and production scalability. The company also features advanced ADAS technology, including the first deployable LiDAR system. R&D facilities in Europe and China foster collaboration among experienced teams, enhancing innovation.\n\nAll BEV lifestyle models are manufactured through a contract partnership with Geely, utilizing their state-of-the-art EV manufacturing facilities in Wuhan, China. This partnership enhances scalability and flexibility while minimizing upfront capital commitments. Access to Geely’s global supply chain allows Lotus to secure high-quality components at competitive prices, effectively managing supply chain risks.\n\nLotus's sales strategy emphasizes a digital-first, omni-channel approach, providing a luxury retail experience through premium stores and a comprehensive digital platform. As of June 30, 2024, the company has established a global distribution network with 207 stores and a Global Commercial Platform for distributing Lotus vehicles, including the Eletre and Emeya. In 2023, Lotus delivered 6,970 vehicles, with 4,873 vehicles delivered in the first half of 2024, encompassing both lifestyle and sports cars.\n\nThis comprehensive approach positions Lotus as a leader in the luxury BEV market, leveraging its rich heritage, innovative technology, and strategic partnerships to drive future growth."
+            },
+            "bundle_id": 4
+          },
+          {
+            "retriever": "FAISS",
+            "score": 0.6964062452316284,
+            "page_content": "Lotus Technology is a pioneering luxury battery electric vehicle (BEV) maker that designs, develops, and sells luxury lifestyle vehicles (non-sports car vehicles for daily usage) under the iconic British brand “Lotus.” With over seven decades of racing heritage and proven leadership in the automotive industry, the Lotus brand symbolizes the market-leading standards in performance, design, and engineering. Fusing proprietary next-generation technology built on world-class research and development capabilities and an asset-light model empowered by Geely Holding, Lotus Technology is breaking new ground in electrification, digitization, and intelligence. The mailing address of Lotus Technology’s principal executive office is No. 800 Century Avenue, Pudong District, Shanghai, People’s Republic of China, and the phone number is +86 21 5466-6258. Lotus Technology’s corporate website address is www.group-lotus.com. Lotus Technology’s website and the information contained on, or that can be accessed through, the website are not deemed to be incorporated by reference in, and are not considered part of, this proxy statement/prospectus.",
+            "metadata": {
+              "date_published": "2024-01-12",
+              "doc_id": "1cb59d404c47e112a423d5375cd268d26ee3976ca9571e8887dfc942f2a8390a",
+              "filename": "20240112_final.json",
+              "global_id": 6234,
+              "next_chunk_id": "01ba19aac8c2af1e55d364a6a93fa6b2d634ccc16d71149d9570cddff4279c71",
+              "page_number": 46,
+              "prev_chunk_id": "1599be36a4ac98a4a03aacb6c2e47e27f232cfe928b61816cc837e76b055c415",
+              "title_summary": "title: Lotus Tech \nsummary: Lotus Tech is a cutting-edge luxury battery electric vehicle (BEV) manufacturer known for its high-end lifestyle vehicles under the prestigious British brand \"Lotus.\" With a legacy of over 70 years in racing and a strong automotive reputation, Lotus embodies excellence in performance, design, and engineering. The company leverages advanced proprietary technology and robust research and development, operating under an asset-light model supported by Geely Holding. Lotus Tech is leading the way in electrification, digitization, and intelligent vehicle solutions. Its principal office is located in Shanghai, China, and further information can be found on their corporate website, though it is not part of the official proxy statement/prospectus."
+            },
+            "bundle_id": 5
+          },
+          {
+            "retriever": "FAISS",
+            "score": 0.6953101754188538,
+            "page_content": "Lotus Technology is a leading global intelligent and luxury mobility provider that designs and develops luxury lifestyle vehicles (non-sports car vehicles for daily usage) under the iconic British brand “Lotus” and sells all Lotus-branded cars. With over seven decades of racing heritage and proven leadership in the automotive industry, the Lotus brand symbolizes market-leading standards in performance, design, and engineering. Fusing proprietary next-generation technology built on world-class research and development capabilities and an asset-light model empowered by Geely Holding, Lotus Technology is breaking new ground in electrification, digitization, and intelligence. The Lotus brand was founded in the U.K. in 1948 and has since established itself as a high-performance sports car brand with innovative engineering and cutting-edge technologies, renowned for its superior aerodynamics and lightweight design. The Lotus brand was born out of legendary success on the racetrack, including 13 FIA Formula 1 world titles and many other championship honors. In 2017, Geely Holding acquired a 51% stake in Lotus UK and further positioned the company as a luxury lifestyle battery electric vehicle (BEV) maker.",
+            "metadata": {
+              "date_published": "2024-09-19",
+              "doc_id": "65ea2f337b316c7bb29bd1eacc108c5e8007fcad7f610a902a1c5413e227c06a",
+              "filename": "0919_final.json",
+              "global_id": 2607,
+              "next_chunk_id": "2b193cd709177b4da78d402e6ca76e286eaafa87703f96b3b61ffe6fa1886899",
+              "page_number": 156,
+              "prev_chunk_id": "501c20f0a10041b483d65bf71692460d017133fbf206bb784d35ecbc8126635d",
+              "title_summary": "title: Overview \nsummary: We are a leading global provider of intelligent and luxury mobility solutions, specializing in the design and development of luxury lifestyle vehicles under the esteemed British brand \"Lotus.\" With a rich racing heritage spanning over 70 years, Lotus is renowned for its high-performance standards in both design and engineering. Since Geely Holding acquired a 51% stake in Lotus UK in 2017, we have successfully transitioned into a luxury lifestyle battery electric vehicle (BEV) manufacturer, benefiting from Geely's support across various operational areas.\n\nOur flagship model, the Eletre, is a luxury E-segment SUV that showcases our innovative 800-volt Electrical Performance Architecture (EPA). The Eletre is available in three versions: Eletre, Eletre S, and Eletre R. The Eletre R stands out with an impressive 905 horsepower, achieving acceleration from 0 to 100 km/h in just 2.95 seconds, and offers a WLTP range of 490 km, complemented by rapid charging capabilities. Deliveries of the Eletre commenced in 2023, and we launched our second model, the Emeya, in September 2023, with deliveries set to begin in March 2024. Furthermore, we have plans to introduce two additional models in the near future.\n\nOur research and development capabilities, deeply rooted in Lotus's sports car legacy, serve as a significant competitive advantage, exemplified by the five-year development of the EPA, which facilitates rapid model rollout and enhances production efficiency. Additionally, we have developed an advanced Advanced Driver Assistance System (ADAS) featuring Level 4-ready hardware and a deployable LiDAR system.\n\nTo enhance customer experience, we employ a digital-first, omni-channel sales model, operating premium stores in high-traffic areas alongside a global digital platform for vehicle customization and purchasing. As of June 30, 2024, our global distribution network comprises 207 stores. In 2023, we delivered a total of 6,970 vehicles, with 4,873 vehicles delivered in the first half of 2024. Our workforce consists of 2,989 full-time employees, with a substantial 54.6% dedicated to research and development. \n\nThis comprehensive approach positions us at the forefront of the luxury electric vehicle market, driving innovation and excellence in mobility solutions."
+            },
+            "bundle_id": 6
+          },
+          {
+            "retriever": "FAISS",
+            "score": 0.6913518905639648,
+            "page_content": "Lotus Technology recorded revenue of \\$679 million in 2023, driven by growing sales of lifestyle battery electric vehicles (BEVs) and sports cars. The company achieved a gross profit margin of 15% in the first year of BEV deliveries, with the scaling of asset-light production. Lotus Technology expanded its global footprint to 215 stores, with new flagship locations in Paris, London, and Seoul. The company expects to achieve about a threefold increase in deliveries in 2024 amid steady market expansion. New York - April 8, 2024 - Lotus Technology Inc. (\"Lotus Tech\" or \"the Company\"), a leading global luxury electric vehicle maker, today announced its unaudited financial results for the fourth quarter and the year ended December 31, 2023. The results reflect steady progress in Lotus Technology's execution of its Vision80 strategy to become an all-electric, intelligent, and luxury mobility provider before Lotus Technology's 80th anniversary in 2028. In its first year of battery electric vehicle (BEV) delivery, Lotus Technology achieved revenue of \\$679 million and a gross profit margin of 15% in 2023. Revenue in the fourth quarter of 2023 was \\$361 million, representing a 92% quarter-on-quarter increase. This strong performance was enabled by Lotus Technology's asset-light business model, as the company ramped up production and sales of BEV models. Lotus Technology delivered 6,970 vehicles in 2023, an annual record in the 76-year history of the Lotus brand, with battery electric vehicle (BEV) models representing 63% of total deliveries. Vehicle deliveries in the fourth quarter of 2023 increased nearly 110% quarter-over-quarter to 3,749.",
+            "metadata": {
+              "date_published": "2024-04-08",
+              "doc_id": "0547eeee16675caf5c50940a0ff9850db3a031bd7381b8517e58732761d57788",
+              "filename": "Lotus_6-K_20240408_final.json",
+              "global_id": 13126,
+              "next_chunk_id": "01299f882348cf8b8a806b615a64c72e57e6772605392e173ea1a356bb9ca43a",
+              "page_number": 3,
+              "prev_chunk_id": "6fbf40d80309f270a7efeb6d9065b0b7f72a8a41e43ce3364bb19b10add269b4",
+              "title_summary": "title: Lotus Technology Reports Unaudited Fourth Quarter and Full Year 2023 Financial Results \nsummary: In 2023, Lotus Tech achieved significant milestones, reporting a revenue of $679 million, driven by strong sales of lifestyle battery electric vehicles (BEVs) and sports cars. The company recorded a gross profit margin of 15% in its inaugural year of BEV deliveries, benefiting from an asset-light production model. Lotus Tech expanded its global footprint to 215 stores, including new flagship locations in major cities like Paris, London, and Seoul, and delivered a record 6,970 vehicles, with BEVs making up 63% of total deliveries. The fourth quarter alone saw a remarkable 92% increase in revenue, reaching $361 million, and nearly 110% growth in vehicle deliveries compared to the previous quarter, largely due to the success of the Eletre lifestyle BEV.\n\nLooking forward, Lotus Tech anticipates a nearly threefold increase in deliveries in 2024, targeting a total of 26,000 units while aiming to enhance its gross margin to between 17-19%. The company is set to expand its Vision80 strategy, which seeks to transform Lotus into a fully electric and luxury mobility provider by 2028. Deliveries of the Emeya, its first electric hyper-grand tourer, have begun in China, with European deliveries expected in the third quarter. CEO Qingfeng Feng expressed optimism about the company's progress, emphasizing a commitment to long-term growth and value creation for customers and investors as they leverage their luxury brand and advanced technology."
+            },
+            "bundle_id": 7
+          },
+          {
+            "retriever": "FAISS",
+            "score": 0.6910851001739502,
+            "page_content": "Lotus Technology generates revenues primarily through sales of goods and services. Sales of goods. Lotus Technology generates revenues by providing the following products: • BEV lifestyle models developed by Lotus Technology;  \n• Lotus-brand sports cars developed by Lotus UK;  \n• auto parts; and  \n• peripheral products. Services.    Lotus Technology generates revenues mainly by providing automotive design and development services to OEM customers and after-sales service. The following table sets forth a breakdown of revenues by type both in absolute amount and as a percentage of Lotus Technology's revenues for the years indicated.",
+            "metadata": {
+              "date_published": "2024-05-24",
+              "doc_id": "d1b49ff8d4c9e2dad13d2a7924c2fd14c257c1bbaa231c07b8cd979cd66f1c2c",
+              "filename": "20240524_final.json",
+              "global_id": 10646,
+              "next_chunk_id": "9cc76a0fec42e69de5de054ac9ea2ee24d3e9b372398593f17a6a38dbf3405aa",
+              "page_number": 176,
+              "prev_chunk_id": "fac2ee5fa34285a28c250c1aecbc41ed289feba132ef354b0a862369048e2723",
+              "title_summary": "title: Revenues \nsummary: The company primarily generates revenue through the sale of goods and services, with a significant focus on automotive products. Key revenue streams include a diverse range of Battery Electric Vehicle (BEV) lifestyle models that align with modern consumer preferences for sustainability and innovative design. Additionally, the company collaborates with Lotus UK to develop high-performance sports cars, reinforcing its commitment to engineering excellence and advanced technology. The portfolio also features durable auto parts that support both BEV models and other automotive applications, as well as peripheral products designed to enhance the overall automotive experience.\n\nA detailed analysis of revenue sources reveals a dramatic shift in 2023, where sales of goods surged to US$660,158, representing 97.2% of total revenues, while services revenues contributed only US$18,850 (2.8%). This marks a significant change from 2022, when sales of goods were merely US$1,186 (12.4%) and services revenues dominated at US$8,371 (87.6%). In 2021, the trend continued with sales of goods at US$369 (10.0%) and services at US$3,318 (90.0%). Overall, total revenues increased to US$679,008 in 2023, compared to US$9,557 in 2022 and US$3,687 in 2021. This evolution underscores the company’s strategic focus on product sales and its impact on revenue composition over the years, with all figures expressed in thousands of US dollars."
+            },
+            "bundle_id": 8
+          },
+          {
+            "retriever": "FAISS",
+            "score": 0.6910117268562317,
+            "page_content": "Lotus Technology is a leading global intelligent and luxury mobility provider that designs and develops luxury lifestyle vehicles (non-sports car vehicles for daily usage) under the iconic British brand “Lotus” and sells all Lotus branded cars. With over seven decades of racing heritage and proven leadership in the automotive industry, the Lotus brand symbolizes the market-leading standards in performance, design, and engineering. Fusing proprietary next-generation technology built on world-class research and development capabilities and an asset-light model empowered by Geely Holding, Lotus Technology is breaking new ground in electrification, digitization, and intelligence. The Lotus brand was founded in the U.K. in 1948 and has since established itself as a high-performance luxury vehicle brand with innovative engineering and cutting-edge technologies, renowned for its superior aerodynamics and lightweight design. The Lotus brand was born out of legendary success on the racetrack, including 13 FIA Formula 1 world titles and many other championship honors. In 2017, Geely Holding acquired a 51% stake in Lotus Technology and further set Lotus Technology up as a luxury lifestyle battery electric vehicle (BEV) maker. Geely Holding, a global mobility technology group with a proven track record in seeding BEV brands, has successfully incubated and revitalized a series of world-renowned brands with attractive financial profiles, including Volvo, Polestar, LYNK&CO., and Zeekr.",
+            "metadata": {
+              "date_published": "2025-03-04",
+              "doc_id": "174cd06127eca5dc30a584a2428dfd96cfe3d0a4fb54e54d76872f0f9fc88cf7",
+              "filename": "Lotus_POS_AM_20250304_final.json",
+              "global_id": 15814,
+              "next_chunk_id": "cdf0accc034541cd727a8463443823fb6e8d20ac0020dda0e2fa859796f823e0",
+              "page_number": 13,
+              "prev_chunk_id": "d55dea82d79272b53ceba5fce7d25714ec6776b3b4a1bb569e4c046c7389d0b4",
+              "title_summary": "title: Overview \nsummary: We are a leading global provider of luxury mobility solutions, focusing on the design and development of high-performance electric vehicles under the prestigious British brand \"Lotus.\" With a rich heritage spanning over 70 years in motorsport, Lotus is renowned for its exceptional performance, innovative engineering, and lightweight design. Following Geely Holding's acquisition of a 51% stake in 2017, Lotus has evolved into a luxury battery electric vehicle (BEV) manufacturer, leveraging Geely's expertise in revitalizing automotive brands and its extensive support in manufacturing and R&D.\n\nThe luxury BEV market, characterized by vehicles priced over $80,000, is on the cusp of significant growth, and Lotus is at the forefront of this transformation. The launch of the Eletre, a fully electric Hyper-SUV, in 2022 marked our entry into this underserved segment, offering advanced performance features and rapid charging capabilities. The Eletre lineup includes three versions, with the high-performance Eletre R delivering impressive specifications, such as 905 horsepower and a 0 to 100 km/h acceleration in just 2.95 seconds. Additionally, the Emeya, our second lifestyle vehicle, is set to launch in 2024, with plans for more models in the pipeline.\n\nOur competitive edge lies in our robust R&D capabilities, highlighted by our proprietary 800-volt Electric Powertrain Architecture (EPA), which enhances efficiency and flexibility across vehicle classes. This innovative platform, combined with our advanced driver assistance systems, positions us well in the market. We produce all BEV models in collaboration with Geely, utilizing their state-of-the-art manufacturing facilities in China, which allows for scalability and cost-effectiveness.\n\nTo enhance customer engagement, we employ a digital-first, omni-channel sales model, featuring premium stores and a comprehensive online platform for vehicle customization and aftersales services. With over 200 stores worldwide and a commitment to expanding our retail presence, we aim to deliver a luxury purchasing experience that reflects our brand's heritage and global aspirations."
+            },
+            "bundle_id": 9
+          },
+          {
+            "retriever": "Title Summary",
+            "score": 0.6995775699615479,
+            "page_content": "Lotus Technology Inc. has operations across the UK, the EU, and China. Lotus Technology Inc. is dedicated to delivering luxury lifestyle battery electric vehicles, with a focus on world-class research and development in next-generation automobility technologies such as electrification, digitalisation, and more. For more information about Lotus Technology Inc., please visit www.group-lotus.com.",
+            "metadata": {
+              "date_published": "2024-05-29",
+              "doc_id": "f67c04d6523f47d6844c9e04d4fa17ca989022f7ee757d5fa1ae8f9047e34732",
+              "filename": "Lotus_424B3_20240529_final.json",
+              "global_id": 12526,
+              "next_chunk_id": "07c16dd1be516ddbe65095e6207d11e64e4a0815ff0edbb2573cefebe1bb3bb5",
+              "page_number": 5,
+              "prev_chunk_id": "ac67251cc5a492e3b78ed54ca98096dc3a184c62b8cbb3e3bb486e52e9c7f554",
+              "title_summary": "title: About Lotus\nTechnology \nsummary: Lotus Technology Inc. is a luxury lifestyle electric vehicle manufacturer with operations in the UK, EU, and China. The company focuses on cutting-edge research and development in advanced automotive technologies, particularly in electrification and digitalization. For more information, you can visit their website at www.group-lotus.com."
+            },
+            "bundle_id": 10
+          },
+          {
+            "retriever": "Title Summary",
+            "score": 0.6963801383972168,
+            "page_content": "Lotus Technology Inc. (the “Company”) No. 800 Century Avenue Pudong District, Shanghai, People's Republic of China Dear Sirs/Madams, Lotus Technology Inc. has acted as the PRC legal counsel as to the laws of the People’s Republic of China (the “PRC”, for the purpose of this letter only, excluding the Hong Kong Special Administrative Region, the Macau Special Administrative Region and Taiwan) to the Company in connection with the Company’s registration statement on Form F-3, including all amendments and supplements thereto (the “Registration Statement”), filed with the Securities and Exchange Commission (the “SEC”) under the U.S. Securities Act of 1933 (as amended). Lotus Technology Inc. hereby consents to the reference of its name in the Registration Statement and the filing of this consent letter with the SEC as an exhibit to the Registration Statement. In giving such consent, Lotus Technology Inc. does not thereby admit that Lotus Technology Inc. comes within the category of persons whose consent is required under Section 7 of the Securities Exchange Act of 1933, or under the Securities Exchange Act of 1934, in each case, as amended, or the regulations promulgated thereunder.",
+            "metadata": {
+              "date_published": "2025-03-04",
+              "doc_id": "96a3e374c06f4d40f57108392121bd48bb55f89de01c2f2e32e4ef5ef072b999",
+              "filename": "Lotus_F-3_20250304.json",
+              "global_id": 16986,
+              "next_chunk_id": "7beea817c65a81e72d79191c3b80bc5a8e97dea489cfe18b4ddd2dff20622fdb",
+              "page_number": 91,
+              "prev_chunk_id": "5c28632cd8852f8775062aec4367311b6deea109a816f6688fb56fb4c1cf1541",
+              "title_summary": "title: To: \nsummary: Lotus Technology Inc. is an innovative technology company likely operating in the automotive, software, or advanced manufacturing sectors. While specific details about its products and market position are not disclosed, the company aims to utilize cutting-edge technology to enhance user experiences, improve efficiency, and promote sustainability. Additional insights into its operations and strategic goals would clarify its impact in the industry.\n\nThe company is associated with a location at No. 800 Century Avenue, which may be significant in a commercial district, though further context about the building's purpose is needed for a detailed understanding. \n\nPudong District, where the company may be located, is a rapidly developing area in Shanghai, China. It has evolved from an agricultural region into a major financial and commercial hub, featuring iconic skyscrapers and advanced infrastructure, including the Shanghai Free Trade Zone and Pudong International Airport. This vibrant district combines residential, commercial, and recreational spaces, showcasing the dynamic urban growth of modern Shanghai.\n\nAdditionally, the company has engaged legal counsel regarding its registration statement on Form F-3 with the SEC, which includes a total offering cap of $1.5 billion for various equity and debt securities. The registration encompasses ordinary shares, preferred shares, warrants, subscription rights, and debt securities, although specific details about these securities remain unspecified. The registration statement allows for flexibility in the sale of securities over time and includes provisions for additional shares due to corporate actions. The registration fee is calculated based on the maximum total offering price, ensuring compliance with relevant securities regulations."
+            },
+            "bundle_id": 11
+          },
+          {
+            "retriever": "Title Summary",
+            "score": 0.6963801383972168,
+            "page_content": "[Table Level]\n- Table Title: Registration Table for Various Securities\n- Table Summary: The table lists various securities to be registered under a Form F-3 registration statement filed with the Securities and Exchange Commission (SEC). It includes categories such as Equity and Debt, detailing the types of securities, amounts to be registered, proposed maximum offering prices, fee rates, and registration fee amounts.\n- Context: The table is part of a legal document concerning the registration of securities for an offering, potentially involving ordinary shares, preferred shares, debt securities, and other financial instruments, with a total offering cap of US$1.5 billion.\n- Special Notes: The ordinary shares have a par value of US$0.00001 per share. Pursuant to various rules, there is a provision for an indeterminate number of additional shares due to corporate actions like stock splits.\n\n[Row Level]\nRow 1: For securities classified under \"Equity,\" titled as \"Ordinary shares\" with a par value of US$0.00001 per share, the specified registration conditions and amounts are referenced without specific values under this section.\nRow 2: Under the \"Equity\" category, \"Preferred shares\" are listed; however, specific registration values and details are not filled in.\nRow 3: \"Equity\" also includes \"Warrants,\" but similar to other entries, lacks specified registration values.\nRow 4: The \"Subscription rights\" appear under \"Equity,\" with similarly unspecified registration details.\nRow 5: For \"Equity\" titled \"Units,\" the section remains unfilled regarding specific amounts or other financial specifics.\nRow 6: Under the \"Debt\" category, there are \"Debt Securities,\" once again lacking specific registration details.\nRow 7: In the \"Debt Convertible into Equity\" segment, \"Debt Securities\" are mentioned without detailed registration specifics.\nRow 8: Another mention of \"Debt Securities\" under \"Non-Convertible Debt,\" continuing the trend of omitted details.\nRow 9: The total aggregate for the offering is listed as US$1,400,000,000.\nRow 10: Total fees previously paid are noted as \"N/A\" (not applicable).\nRow 11: Total fee offsets are also marked \"N/A.\"\nRow 12: The net fee due for the registration is calculated as US$214,340, reflecting the financial commitment required for the registration procedure, with a fee rate of 0.0001531 applied.",
+            "metadata": {
+              "date_published": "2025-03-04",
+              "doc_id": "7beea817c65a81e72d79191c3b80bc5a8e97dea489cfe18b4ddd2dff20622fdb",
+              "filename": "Lotus_F-3_20250304.json",
+              "global_id": 16987,
+              "next_chunk_id": "e84a50236f97e33dbf1948ac4d999adc9fede2e838d9a50965f3cb25fffd5342",
+              "page_number": 92,
+              "prev_chunk_id": "96a3e374c06f4d40f57108392121bd48bb55f89de01c2f2e32e4ef5ef072b999",
+              "title_summary": "title: To: \nsummary: Lotus Technology Inc. is an innovative technology company likely operating in the automotive, software, or advanced manufacturing sectors. While specific details about its products and market position are not disclosed, the company aims to utilize cutting-edge technology to enhance user experiences, improve efficiency, and promote sustainability. Additional insights into its operations and strategic goals would clarify its impact in the industry.\n\nThe company is associated with a location at No. 800 Century Avenue, which may be significant in a commercial district, though further context about the building's purpose is needed for a detailed understanding. \n\nPudong District, where the company may be located, is a rapidly developing area in Shanghai, China. It has evolved from an agricultural region into a major financial and commercial hub, featuring iconic skyscrapers and advanced infrastructure, including the Shanghai Free Trade Zone and Pudong International Airport. This vibrant district combines residential, commercial, and recreational spaces, showcasing the dynamic urban growth of modern Shanghai.\n\nAdditionally, the company has engaged legal counsel regarding its registration statement on Form F-3 with the SEC, which includes a total offering cap of $1.5 billion for various equity and debt securities. The registration encompasses ordinary shares, preferred shares, warrants, subscription rights, and debt securities, although specific details about these securities remain unspecified. The registration statement allows for flexibility in the sale of securities over time and includes provisions for additional shares due to corporate actions. The registration fee is calculated based on the maximum total offering price, ensuring compliance with relevant securities regulations."
+            },
+            "bundle_id": 12
+          },
+          {
+            "retriever": "Title Summary",
+            "score": 0.6963801383972168,
+            "page_content": "(1) Pursuant to Rule 416 of the Securities Act of 1933, as amended, or the Securities Act, this registration statement includes an indeterminate number of additional shares that may be issuable as a result of stock splits or stock dividends which occur during this continuous offering. (2) There are being registered under this registration statement such indeterminate number of ordinary shares, preferred shares, debt securities, warrants, subscription rights, and units as may be sold by Lotus Technology Inc. from time to time, which collectively shall have an aggregate initial offering price not to exceed US$1,500,000,000, or, if any securities are issued for consideration denominated in a foreign currency, such amount as shall result in an aggregate initial offering price equivalent to a maximum of US$1,500,000,000. The securities registered hereunder also include such indeterminate number of ordinary shares as may be issued upon conversion, exercise, or exchange of convertible debt securities and warrants that provide for such conversion into, exercise for, or exchange into ordinary shares. (3) Not specified as to each class of securities to be registered pursuant to Instruction 2.A.iii.b to the Calculation of Filing Fee Tables and Related Disclosure in Item 9(b) of Form F-3.",
+            "metadata": {
+              "date_published": "2025-03-04",
+              "doc_id": "e84a50236f97e33dbf1948ac4d999adc9fede2e838d9a50965f3cb25fffd5342",
+              "filename": "Lotus_F-3_20250304.json",
+              "global_id": 16988,
+              "next_chunk_id": "d273b0363ba4f2b58fc4b86582adaae8d02d9c9c3d4a93e6f018c6f15e9ea940",
+              "page_number": 92,
+              "prev_chunk_id": "7beea817c65a81e72d79191c3b80bc5a8e97dea489cfe18b4ddd2dff20622fdb",
+              "title_summary": "title: To: \nsummary: Lotus Technology Inc. is an innovative technology company likely operating in the automotive, software, or advanced manufacturing sectors. While specific details about its products and market position are not disclosed, the company aims to utilize cutting-edge technology to enhance user experiences, improve efficiency, and promote sustainability. Additional insights into its operations and strategic goals would clarify its impact in the industry.\n\nThe company is associated with a location at No. 800 Century Avenue, which may be significant in a commercial district, though further context about the building's purpose is needed for a detailed understanding. \n\nPudong District, where the company may be located, is a rapidly developing area in Shanghai, China. It has evolved from an agricultural region into a major financial and commercial hub, featuring iconic skyscrapers and advanced infrastructure, including the Shanghai Free Trade Zone and Pudong International Airport. This vibrant district combines residential, commercial, and recreational spaces, showcasing the dynamic urban growth of modern Shanghai.\n\nAdditionally, the company has engaged legal counsel regarding its registration statement on Form F-3 with the SEC, which includes a total offering cap of $1.5 billion for various equity and debt securities. The registration encompasses ordinary shares, preferred shares, warrants, subscription rights, and debt securities, although specific details about these securities remain unspecified. The registration statement allows for flexibility in the sale of securities over time and includes provisions for additional shares due to corporate actions. The registration fee is calculated based on the maximum total offering price, ensuring compliance with relevant securities regulations."
+            },
+            "bundle_id": 13
+          },
+          {
+            "retriever": "Title Summary",
+            "score": 0.6963801383972168,
+            "page_content": "An indeterminate aggregate amount of securities is being registered as may from time to time be sold at indeterminate prices by Lotus Technology Inc. The registration fee has been calculated pursuant to Rule 457(o) under the Securities Act on the basis of the maximum aggregate offering price of the securities registered by Lotus Technology Inc. (6) These ordinary shares may be represented by American depositary shares, each of which represents one ordinary share. American depositary shares issuable upon deposit of ordinary shares registered by Lotus Technology Inc. have been registered under separate registration statements on Form F-6 (Registration No. 333-275006 and No. 333-282411).",
+            "metadata": {
+              "date_published": "2025-03-04",
+              "doc_id": "d273b0363ba4f2b58fc4b86582adaae8d02d9c9c3d4a93e6f018c6f15e9ea940",
+              "filename": "Lotus_F-3_20250304.json",
+              "global_id": 16989,
+              "next_chunk_id": "",
+              "page_number": 92,
+              "prev_chunk_id": "e84a50236f97e33dbf1948ac4d999adc9fede2e838d9a50965f3cb25fffd5342",
+              "title_summary": "title: To: \nsummary: Lotus Technology Inc. is an innovative technology company likely operating in the automotive, software, or advanced manufacturing sectors. While specific details about its products and market position are not disclosed, the company aims to utilize cutting-edge technology to enhance user experiences, improve efficiency, and promote sustainability. Additional insights into its operations and strategic goals would clarify its impact in the industry.\n\nThe company is associated with a location at No. 800 Century Avenue, which may be significant in a commercial district, though further context about the building's purpose is needed for a detailed understanding. \n\nPudong District, where the company may be located, is a rapidly developing area in Shanghai, China. It has evolved from an agricultural region into a major financial and commercial hub, featuring iconic skyscrapers and advanced infrastructure, including the Shanghai Free Trade Zone and Pudong International Airport. This vibrant district combines residential, commercial, and recreational spaces, showcasing the dynamic urban growth of modern Shanghai.\n\nAdditionally, the company has engaged legal counsel regarding its registration statement on Form F-3 with the SEC, which includes a total offering cap of $1.5 billion for various equity and debt securities. The registration encompasses ordinary shares, preferred shares, warrants, subscription rights, and debt securities, although specific details about these securities remain unspecified. The registration statement allows for flexibility in the sale of securities over time and includes provisions for additional shares due to corporate actions. The registration fee is calculated based on the maximum total offering price, ensuring compliance with relevant securities regulations."
+            },
+            "bundle_id": 14
+          },
+          {
+            "retriever": "Title Summary",
+            "score": 0.6920116543769836,
+            "page_content": "Pursuant to the requirements of the Securities Exchange Act of 1934, Lotus Technology has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized. Lotus Technology Inc. By: /s/ Alexious Kuen Long Lee  \nName: Alexious Kuen Long Lee  \nTitle: Director and Chief Financial Officer Date: January 23, 2025",
+            "metadata": {
+              "date_published": "2025-01-23",
+              "doc_id": "11f45dab9c3804ec6deb916ca9360e5766dcb9325a83d04aca221198a82e50b9",
+              "filename": "Lotus_6-K_20250123.json",
+              "global_id": 13699,
+              "next_chunk_id": "",
+              "page_number": 4,
+              "prev_chunk_id": "587c822d4471970621f61646f5dd22f534546dddc9d5810482e7543e86049970",
+              "title_summary": "title: SIGNATURES \nsummary: Lotus Technology Inc. is a forward-looking company dedicated to developing innovative solutions in the automotive and mobility sectors, with a strong focus on electric vehicles (EVs), smart mobility, and advanced technologies. Committed to sustainability and cutting-edge design, the company aims to enhance the driving experience through high-performance vehicles and integrated digital solutions. As part of the esteemed Lotus brand, known for its engineering excellence, Lotus Technology is well-positioned to influence the automotive industry's transition towards electrification and smart technologies. The report has been officially signed in compliance with the Securities Exchange Act of 1934, with Alexious Kuen Long Lee serving as the Director and Chief Financial Officer."
+            },
+            "bundle_id": 15
+          },
+          {
+            "retriever": "BM25",
+            "score": 4.442981719970703,
+            "page_content": "Lotus Technology's main website is www.group-lotus.com. Neither the information on Lotus Technology's main website, nor the information on the websites of any of Lotus Technology's brands and businesses, is incorporated by reference into this proxy statement/consent solicitation statement/prospectus, or into any other filings with, or into any other information furnished or submitted to, the SEC.",
+            "metadata": {
+              "date_published": "2024-01-12",
+              "doc_id": "eebe32c8063f44ce2929a52d12d5505bdc37bc3f558b3d1e3bcb49959fd57e25",
+              "filename": "20240112_final.json",
+              "global_id": 7286,
+              "next_chunk_id": "",
+              "page_number": 324,
+              "prev_chunk_id": "",
+              "title_summary": "title: Additional Information \nsummary: The proxy statement, consent solicitation statement, and prospectus do not incorporate or reference information from the main website, www.group-lotus.com, or from the websites of its associated brands and businesses, nor do they include such information in any other SEC filings or submissions."
+            },
+            "bundle_id": 16
+          },
+          {
+            "retriever": "BM25",
+            "score": 4.412227153778076,
+            "page_content": "With the production of the Elite delayed, the Seven took on an unexpected mantle as Lotus' main road car effort, and about 60 cars were built during 1958. The increasing workload of the Lotus empire at this time led the company to move from its Hornsey base to a much larger factory not far away in Cheshunt. Another thing to be said of the Seven was that it brought in the funds that Lotus needed to get the Elite into proper production. The Seven itself was also a costly car to make, taking many man-hours to put together what was essentially just a few pieces of metal. The chassis, in particular, sub-contracted to the Progress Chassis Co., was a somewhat expensive item. \n\n1957 Series 1 Seven Milestone Car:\n\n- Initial Acceleration: Exceptional\n- Running Economy: Efficient\n- Handling: Superior\n- Dry Weather Grip: Excellent\n- Motoring Fun: Sheer\n\n\"What other machine can offer such initial acceleration, running economy, handling, dry weather grip, and sheer motoring fun?\" - John Miles Milestone Car",
+            "metadata": {
+              "date_published": "2022-12-01",
+              "doc_id": "a4e1a799ca9709e8f59f14b3cb28a2a2ca509938ad926d66563456278cf5aff7",
+              "filename": "car_stats.json",
+              "global_id": 14109,
+              "next_chunk_id": "2e64569c9dac850cad76a593f2932efbeda6e5ee5a555f75e177617aa661f9d6",
+              "page_number": 22,
+              "prev_chunk_id": "45380a3071b96604c9a471393413af6b7ae68f561c4f8a11d2d4ed37944d62bd"
+            },
+            "bundle_id": 17
+          },
+          {
+            "retriever": "BM25",
+            "score": 4.379605770111084,
+            "page_content": "Tasman Car Type 32B. Although he was forced to retire (his only retirement in the series) in the first main event race of the series (the New Zealand Grand Prix) when he was rammed by Bruce McLaren’s Cooper, he went on to win nine of the total of thirteen races (and five of the main eight events). Taking a second, a fifth, and an eighth place in addition, Jimmy had clinched the Championship (ahead of Bruce McLaren and Jack Brabham) by the sixth race of the series. An extraordinarily good result for a single driver/car entry in this highly competitive series. The Type 32B is unique in Lotus history in that it was designed and built specifically for Jim Clark, and only he drove it for all thirteen of its races with Team Lotus. And what’s more, it won nearly seventy-five percent of the races it competed in. As happened with many of the Team Lotus Tasman cars over the years, and ostensibly to save the cost of shipping the car back to the UK, at the end of the 1965 series, the 32B was sold off to a local racer. In the case of the 32B, this was",
+            "metadata": {
+              "date_published": "2022-12-01",
+              "doc_id": "607ac73377f8e5e48ad1a8be6e8b360bb2ee42c3609b6e3bbf0e97e05623b6ab",
+              "filename": "car_stats.json",
+              "global_id": 14251,
+              "next_chunk_id": "f64cde362ebd61361f2dbc6502ba8c97ce2cd9f97e4c8670b3ccd51873d7584c",
+              "page_number": 57,
+              "prev_chunk_id": "b9aaf014893d7714ee8be6b42518a47c423bcedaee5c07bb51252762273827ce"
+            },
+            "bundle_id": 18
+          },
+          {
+            "retriever": "BM25",
+            "score": 4.075044631958008,
+            "page_content": "British Formula 1 constructors were caught out by the decision of the sport’s governing body to limit engine size to just 1.5 litres for the 1961 season. None could quite believe that it would actually go ahead with a limit which equated to what had been Formula 2 specification the previous year. The main British engine supplier to Formula 1, Coventry Climax, was unprepared for the move, and so the major teams (Lotus, Cooper, and even BRM) were forced to rely on the outdated four-cylinder FPF engine. Ferrari, by contrast, had been working on a new and far superior V6 power unit for some time.\n\nCoventry Climax hastily decided to develop a new V8 engine and issued installation drawings to the main teams. The eventual FWMV engine was in fact deeper and longer than planned, forcing chassis redesigns for those teams which had intentions to use the unit. For 1961, this particular problem did not affect Lotus. Colin Chapman’s personal relationship with Coventry Climax’s Leonard Lee was at an all-time low following rows over the quality of the FWE engines being supplied for the Elite road car. Although he designed the Type 21 to use the projected new V8 engine, Chapman",
+            "metadata": {
+              "date_published": "2022-12-01",
+              "doc_id": "b461104bca9c195b55b1d3cf90c7bb636d6a068ad95406f3edf72ecf5d000a67",
+              "filename": "car_stats.json",
+              "global_id": 14174,
+              "next_chunk_id": "80339390c45de3899d5d4552a01c7b9198d07dbf333da725a227edab9053ee3c",
+              "page_number": 39,
+              "prev_chunk_id": "fbfb4b3ec6d2ae47f94398f4d0224691ee65c8a86453618fd66be4420bebd246"
+            },
+            "bundle_id": 19
+          },
+          {
+            "retriever": "BM25",
+            "score": 3.9143152236938477,
+            "page_content": "The board of directors of Lotus Technology will determine whether, to what extent, at what times and places, and under what conditions or regulations the accounts and books will be open to inspection by shareholders, and no shareholder will otherwise have any right of inspecting any account, book, or document of Lotus Technology except as required by law or authorized by the board of directors or the shareholders by special resolution.",
+            "metadata": {
+              "date_published": "2024-05-24",
+              "doc_id": "a865b506cf6acf1c4a1d9b472e9234572c307d5db3fdddf875bd959b539dd8a5",
+              "filename": "20240524_final.json",
+              "global_id": 10802,
+              "next_chunk_id": "52e7c7f7c82603a21c79ed4b1235774a21837b9f6950f13e04adee3c70106d35",
+              "page_number": 221,
+              "prev_chunk_id": "4ab5eecae7bd18506c1e2f29d27ee8cfe206ef49bd9737e3fa91a6c28d098047",
+              "title_summary": "title: Inspection of Books and Records \nsummary: The board of directors will establish the guidelines for shareholder access to the company's accounts and records. Shareholders may only inspect these documents if granted permission by the board, mandated by law, or approved through a special resolution by the shareholders."
+            },
+            "bundle_id": 20
+          },
+          {
+            "retriever": "BM25",
+            "score": 3.9143152236938477,
+            "page_content": "The board of directors will determine whether, to what extent, at what times and places, and under what conditions or regulations the accounts and books of Lotus Technology will be open to inspection by shareholders, and no shareholder will otherwise have any right of inspecting any account, book, or document of Lotus Technology except as required by law or authorized by the board of directors or the shareholders by special resolution.",
+            "metadata": {
+              "date_published": "2025-05-30",
+              "doc_id": "ae4b6596be5aaf5b1350b1d85a65c9d9941ab8738943aedb8d98bacf95f1c845",
+              "filename": "Lotus_F-3:A_20250530_final.json",
+              "global_id": 15486,
+              "next_chunk_id": "433948a1834b4b50cc1f502d164743e8b7488bcf8583bfde690d392ba192d1c1",
+              "page_number": 26,
+              "prev_chunk_id": "",
+              "title_summary": "title: Inspection of Books and Records \nsummary: The board of directors will establish the terms for shareholder access to the company's accounts and records, determining the scope, timing, and location of such inspections. Shareholders generally lack the right to review company documents unless required by law or authorized through a special resolution from the board or fellow shareholders."
+            },
+            "bundle_id": 21
+          },
+          {
+            "retriever": "BM25",
+            "score": 3.9143152236938477,
+            "page_content": "The board of directors will determine whether, to what extent, at what times and places, and under what conditions or regulations the accounts and books of Lotus Technology will be open to inspection by shareholders. No shareholder will otherwise have any right to inspect any account, book, or document of Lotus Technology except as required by law or authorized by the board of directors or the shareholders by special resolution.",
+            "metadata": {
+              "date_published": "2025-06-20",
+              "doc_id": "7dc674d0d2c4d136088580b7584a56f962fa868b615695848451962aa23ba48a",
+              "filename": "20250620_final.json",
+              "global_id": 16431,
+              "next_chunk_id": "",
+              "page_number": 45,
+              "prev_chunk_id": "",
+              "title_summary": "title: Inspection of Books and Records \nsummary: The board of directors will establish the terms for shareholder access to the company's accounts and records. Shareholders may only inspect these documents if allowed by law, authorized by the board, or approved via a special resolution from the shareholders."
+            },
+            "bundle_id": 22
+          },
+          {
+            "retriever": "BM25",
+            "score": 3.909076452255249,
+            "page_content": "The board of directors of Lotus Technology Corporation will determine whether, to what extent, at what times and places, and under what conditions or regulations the accounts and books of Lotus Technology Corporation will be open to the inspection by Lotus Technology Corporation shareholders, and no Lotus Technology Corporation shareholder will otherwise have any right of inspecting any account or book or document of Lotus Technology Corporation except as required by law or authorized by the board of directors of Lotus Technology Corporation or Lotus Technology Corporation shareholders by special resolution.",
+            "metadata": {
+              "date_published": "2024-01-12",
+              "doc_id": "8e34ef444dd2e6d0654b6d5b3d286f313e51892b0b5bfc5fb06120110b7a046c",
+              "filename": "20240112_final.json",
+              "global_id": 7487,
+              "next_chunk_id": "",
+              "page_number": 385,
+              "prev_chunk_id": "",
+              "title_summary": "title: Inspection of Books and Records \nsummary: The board of directors of LTC holds the power to determine the conditions for shareholder access to the company's accounts and books. Shareholders do not possess an automatic right to inspect these documents; such access is contingent upon board approval, legal requirements, or a special resolution passed by the shareholders."
+            },
+            "bundle_id": 23
+          },
+          {
+            "retriever": "BM25",
+            "score": 3.606771469116211,
+            "page_content": "Lotus Technology will need significant capital to, among other things, conduct research and development, expand its production capacity, and roll out its sales network, as well as delivery and servicing centers. As Lotus Technology ramps up its production capacity and operations, it may also require significant capital to maintain its property, plant, and equipment, and such costs may be greater than what the company currently anticipates. Lotus Technology expects that its level of capital expenditures will be significantly affected by consumer demand for its products and services. The fact that Lotus Technology has a limited operating history means it has limited historical data on the demand for its products and services. As a result, the company's future capital requirements may be uncertain, and actual capital requirements may be significantly different from what Lotus Technology currently anticipates. Lotus Technology may need to seek equity or debt financing to finance a portion of its capital expenditures. Such financing might not be available to the company in a timely manner or on terms that are acceptable, or at all. If Lotus Technology cannot obtain sufficient capital on acceptable terms, its business, financial condition, and prospects may be materially and adversely affected. Lotus Technology's ability to obtain the necessary financing to carry out its business plan is subject to a number of factors, including general market conditions and investor acceptance of its business plan. These factors may make the timing, amount, terms, and conditions of such financing unattractive or unavailable to Lotus Technology.",
+            "metadata": {
+              "date_published": "2025-04-30",
+              "doc_id": "61f96c621cb9f4c8bdf3e9703e8f87396da531b8fccaac22539712564fefffb9",
+              "filename": "20250430.json",
+              "global_id": 11481,
+              "next_chunk_id": "",
+              "page_number": 32,
+              "prev_chunk_id": "",
+              "title_summary": "title: Our business plans require a significant amount of capital. In addition, our future capital needs may require us to obtain additional equity or debt financing that may dilute our shareholders or introduce covenants that may restrict our operations or our ability to pay dividends. \nsummary: The company faces significant capital requirements for research and development, production expansion, and the establishment of sales and service networks. As production increases, ongoing facility maintenance costs may surpass initial estimates, and capital expenditures will largely hinge on uncertain consumer demand due to the company's limited operating history. This uncertainty could lead to substantial variations in future capital needs, necessitating potential equity or debt financing, which may not be readily accessible or offered on favorable terms. Insufficient capital could adversely impact the company's operations, financial health, and growth prospects, potentially forcing it to reduce spending, delay investments, or restructure.\n\nAdditionally, the company has entered into put option agreements with Geely HK and Etika, allowing them to require the company to buy back their equity interests in Lotus Advance Technologies Sdn Bhd at a predetermined price, contingent upon the sale of over 5,000 vehicles in 2024—a condition met by the end of that year. Geely HK has already exercised its option to sell 51% of its equity interest, with the transaction expected to close in 2025, pending governmental approvals. This could create significant financial obligations, further straining the company's liquidity and overall financial condition.\n\nTo address future capital requirements, the company may need to issue additional equity or debt securities or secure a credit facility, which could dilute existing shareholders or increase debt service obligations, potentially imposing operational and financial constraints that affect its ability to operate and pay dividends."
+            },
+            "bundle_id": 24
+          },
+          {
+            "retriever": "BM25",
+            "score": 3.604590892791748,
+            "page_content": "In the period leading up to the Closing of the Business Combination, events may occur that, pursuant to the Merger Agreement, would require LCAA to agree to amend the Merger Agreement, to consent to certain actions taken by Lotus Technology Corporation (LTC) or to waive rights that LCAA is entitled to under the Merger Agreement. Such events could arise because of the changes in the course of LTC’s business, a request by LTC to undertake actions that would otherwise be prohibited by the terms of the Merger Agreement or the occurrence of other events that would have a material adverse effect on LTC’s business or could entitle LCAA to terminate the Merger Agreement. In any of such circumstances, it would be at LCAA’s discretion, acting through the LCAA Board, to grant its consent or waive those rights; provided that under the terms of the Merger Agreement, such consent or waiver in certain cases is not to be unreasonably withheld. The existence of financial and personal interests of one or more of the directors may result in conflicts of interests on the part of such director(s) between what the directors of LCAA may believe is the best for LCAA and what the directors may believe is the best for themselves in determining whether or not to take the requested action.",
+            "metadata": {
+              "date_published": "2024-01-12",
+              "doc_id": "a02a37194b01030f72bc08ceec8afd2ad282dde871190e76b54ab1133ac2972d",
+              "filename": "20240112_final.json",
+              "global_id": 6646,
+              "next_chunk_id": "7951046a2e0fd9b35fb99e8cde23b94fe842dc76a1d615ce925ddf8e5997e29b",
+              "page_number": 150,
+              "prev_chunk_id": "",
+              "title_summary": "title: The exercise of LCAA directors’ discretion in agreeing to changes or waivers in the terms of the Business Combination may result in a conflict of interests when determining whether such changes to the terms of the Business Combination or waivers of conditions are appropriate and in LCAA’s best interest. \nsummary: As LCAA approaches the Closing of the Business Combination, various circumstances may require amendments to the Merger Agreement, consent to LTC's requests, or waivers of certain rights. These situations could arise from changes in LTC's operations or other factors that might adversely affect its business, potentially leading LCAA to consider terminating the agreement. The Board of LCAA has the authority to grant such consents or waivers, provided they are not unreasonably withheld. However, potential conflicts of interest among directors, stemming from their personal and financial stakes, could influence their decision-making. The proxy statement/prospectus details the considerations for LCAA's directors and officers regarding the Business Combination and emphasizes that, despite differing personal views, no changes or waivers are expected post-shareholder approval. Should any significant alterations to the transaction terms occur that could impact shareholders, LCAA pledges to issue a revised proxy statement/prospectus and seek further shareholder input. Furthermore, under Cayman Islands law, LCAA's directors are obligated to prioritize the company's best interests in their decisions."
+            },
+            "bundle_id": 25
+          }
+        ]
+      ]
+    }
+  ]
+}

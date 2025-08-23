@@ -1,0 +1,1005 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chat Test</title>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <!-- jQuery and Bootstrap JS libraries -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <style>
+        #chat-box {
+            height: 500px;
+            overflow-y: scroll;
+            border: 1px solid #ccc;
+            padding: 10px;
+            background-color: #f8f9fa;
+        }
+
+        .chat-message {
+            margin-bottom: 10px;
+            padding: 10px;
+            border-radius: 10px;
+        }
+
+        .user-message {
+            background-color: #d1e7dd;
+            border: 1px solid #badbcc;
+        }
+
+        .bot-message {
+            background-color: #f8d7da;
+            border: 1px solid #f5c2c7;
+        }
+
+        .internal-assistant-message {
+            background-color: #e2e3e5;
+            border: 1px solid #d6d8db;
+        }
+        
+        /* Styles for JSON display */
+        dl.row {
+            margin-bottom: 0.5rem;
+        }
+        
+        dt {
+            font-weight: bold;
+        }
+        
+        details summary {
+            cursor: pointer;
+            color: #007bff;
+        }
+        
+        details summary:hover {
+            text-decoration: underline;
+        }
+        
+        /* Rating stars styling */
+        .rating {
+            display: flex;
+            align-items: center;
+        }
+        
+        .star {
+            font-size: 24px;
+            color: #ccc;
+            cursor: pointer;
+            margin-right: 5px;
+        }
+        
+        .star.selected {
+            color: #ffc107;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <h1 class="mt-5">Finsage</h1>
+        <!-- Authentication Section -->
+        <div class="row mt-3">
+            <div class="col-md-12">
+                <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title">请输入验证信息</h5>
+                        <div class="form-group">
+                            <label for="auth-token">验证信息:</label>
+                            <div class="input-group">
+                                <input type="text" class="form-control" id="auth-token" placeholder="Enter your authentication token">
+                                <div class="input-group-append">
+                                    <button type="button" class="btn btn-primary" id="auth-button">验证</button>
+                                </div>
+                            </div>
+                        </div>
+                        <div id="auth-status" class="mt-2"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row mt-3">
+            <div class="col-md-12">
+                <div id="chat-box"></div>
+            </div>
+        </div>
+        
+        <div id="online_searching_text" style="display: none;">
+            <span style="color:violet; font-weight:bold;">正在联网查询答案 请稍等...</span>
+        </div>
+
+
+        <!-- User can rate the response with score 1 - 5 -->
+        <div class="row mt-3" id="rating-section" style="display: none;">
+            <div class="col-md-12">
+                <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title">Rate this response</h5>
+                        <div class="d-flex align-items-center">
+                            <div class="rating">
+                                <span class="star" data-rating="1">★</span>
+                                <span class="star" data-rating="2">★</span>
+                                <span class="star" data-rating="3">★</span>
+                                <span class="star" data-rating="4">★</span>
+                                <span class="star" data-rating="5">★</span>
+                                <span class="ml-2" id="rating-value"></span>
+                            </div>
+                        </div>
+                        <div class="form-group mt-2">
+                            <label for="feedback-text">Additional feedback (optional):</label>
+                            <textarea class="form-control" id="feedback-text" rows="2" placeholder="Your feedback helps us improve"></textarea>
+                        </div>
+                        <button type="button" class="btn btn-primary" id="submit-rating">Submit Feedback</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- User chat input with voice input button -->
+        <div class="row mt-3">
+            <div class="col-md-12">
+                <form id="chat-form">
+                    <div class="form-group">
+                        <label for="question">User Question:</label>
+                        <div class="input-group">
+                            <input type="text" class="form-control" id="question" placeholder="Type your question here"
+                                required>
+                            <div class="input-group-append">
+                                <button type="button" class="btn btn-success" id="voice-button">Start Voice
+                                    Input</button><span id="voice-status" class="ml-2"></span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="form-check">
+                        <input type="checkbox" class="form-check-input" id="voice-reply">
+                        <label class="form-check-label" for="voice-reply">Reply with Voice</label>
+                    </div>
+
+                    <button type="submit" class="btn btn-primary" id="send-button">Send</button>
+                </form>
+            </div>
+        </div>
+
+        <!-- Internal assistant chat input -->
+        <div class="row mt-3">
+            <div class="col-md-12">
+                <form id="internal-chat-form">
+                    <div class="form-group">
+                        <label for="internal-input">Internal Assistant Input:</label>
+                        <input type="text" class="form-control" id="internal-input"
+                            placeholder="Type internal assistant input">
+                    </div>
+                    <button type="submit" class="btn btn-secondary" id="internal-send-button">Submit Internal
+                        Input</button>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <!-- Log Section -->
+    <div class="container mt-4 mb-5">
+        <div class="row">
+            <div class="col-md-12">
+                <button id="get-log-button" class="btn btn-info">Get Session Log</button>
+                <button id="open-raw-log-button" class="btn btn-info" disabled>Open Raw JSON</button>
+                <button id="report-error-button" class="btn btn-danger" disabled>Report Error</button>
+                <div id="log-container" class="mt-3" style="display: none;">
+                    <details>
+                        <summary>Session Log (Click to expand/collapse)</summary>
+                        <div id="log-content" style="max-height: 400px; overflow-y: auto; background-color: #f8f9fa; padding: 10px; border-radius: 5px;"></div>
+                    </details>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Error Report Modal -->
+    <div class="modal fade" id="errorReportModal" tabindex="-1" role="dialog" aria-labelledby="errorReportModalLabel" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="errorReportModalLabel">Report Error</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <form id="error-report-form">
+                        <div class="form-group">
+                            <label for="error-message">Error Description:</label>
+                            <textarea class="form-control" id="error-message" rows="4" required placeholder="Please describe the error you encountered"></textarea>
+                        </div>
+                    </form>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                    <button type="button" class="btn btn-primary" id="submit-error-report">Submit Report</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- User Name Modal -->
+    <div class="modal fade" id="userNameModal" tabindex="-1" role="dialog" aria-labelledby="userNameModalLabel" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="userNameModalLabel">Enter Your Name</h5>
+                </div>
+                <div class="modal-body">
+                    <form id="user-name-form">
+                        <div class="form-group">
+                            <label for="user-name-input">Please enter your name:</label>
+                            <input type="text" class="form-control" id="user-name-input" placeholder="Your name" required>
+                            <div id="user-name-error" class="text-danger mt-2" style="display: none;">Please enter your name</div>
+                        </div>
+                    </form>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-primary" id="save-user-name">Save</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        let responseStream;
+        let botMessageElement;
+        let interruptIndex = 0;  // Track where the assistant message was interrupted
+        let storedInternalInput = '';  // To store internal inputs temporarily
+        let mediaRecorder;
+        let audioChunks = [];
+        let isRecording = false;
+        let fullBotResponse = '';  // Store the full response for voice synthesis
+        let bearerToken = '';  // Store the authentication token
+        let sessionId = '';  // Store the session ID for conversation continuity
+        let currentResponseId = null;  // Track the current response for rating
+        let ratedResponses = new Set();  // Track which responses have been rated
+        let currentRating = 1;  // Track the current selected rating value
+        let questionByResponseId = {}; // To store questions by response ID
+
+        // Display a welcome message from the bot when the page loads
+        window.addEventListener('DOMContentLoaded', function () {
+            // Show name modal if not present
+            const savedName = localStorage.getItem('userName');
+            if (!savedName) {
+                $('#userNameModal').modal({backdrop: 'static', keyboard: false});
+                $('#userNameModal').modal('show');
+            }
+            
+            // Check if we have a saved token
+            const savedToken = localStorage.getItem('bearerToken');
+            if (savedToken) {
+                bearerToken = savedToken;
+                document.getElementById('auth-token').value = savedToken;
+                document.getElementById('auth-status').innerHTML = '<div class="alert alert-info">Token loaded from storage</div>';
+            }
+            
+            // Use the session ID passed from the server
+            sessionId = '{{ session_id }}';
+            console.log('Session ID from server:', sessionId);
+            const chatBox = document.getElementById('chat-box');
+            const welcomeMessageElement = document.createElement('div');
+            welcomeMessageElement.className = 'chat-message bot-message';
+            welcomeMessageElement.textContent = 'Bot: 您好！我是您的lotus专属AI助手，您可以向我提问！';
+            chatBox.appendChild(welcomeMessageElement);
+            chatBox.scrollTop = chatBox.scrollHeight;
+        });
+
+        // Handle user input and generate a response
+        document.getElementById('chat-form').addEventListener('submit', function (e) {
+            e.preventDefault();
+
+            const question = document.getElementById('question').value;
+            if (!question) return;
+
+            // Disable all buttons during chat submission
+            const sendButton = document.getElementById('send-button');
+            const internalSendButton = document.getElementById('internal-send-button');
+            const authButton = document.getElementById('auth-button');
+            const voiceButton = document.getElementById('voice-button');
+            const getLogButton = document.getElementById('get-log-button');
+            const reportErrorButton = document.getElementById('report-error-button');
+            const openRawLogButton = document.getElementById('open-raw-log-button');
+            
+            sendButton.disabled = true;
+            internalSendButton.disabled = true;
+            authButton.disabled = true;
+            voiceButton.disabled = true;
+            getLogButton.disabled = true;
+            reportErrorButton.disabled = true;
+            openRawLogButton.disabled = true;
+            
+            // Hide rating section when starting a new chat
+            hideRatingSection();
+
+            // Check if we have a session ID, if not, create one
+            if (!sessionId) {
+                sessionId = crypto.randomUUID();
+            }
+            
+            const chatBox = document.getElementById('chat-box');
+            const questionElement = document.createElement('div');
+            questionElement.className = 'chat-message user-message';
+            questionElement.textContent = `You: ${question}`;
+            chatBox.appendChild(questionElement);
+            chatBox.scrollTop = chatBox.scrollHeight;
+
+            document.getElementById('question').value = '';
+
+            // Send both the user question and any stored internal input (if available)
+            const payload = {
+                question: question,
+                session_id: sessionId,  // Include the session ID in the request
+                internal_input: storedInternalInput ? storedInternalInput.trim() : null,  // Send stored internal input if available
+                interrupt_index: null  // User input does not need an interrupt index
+            };
+
+            // Clear stored internal input after it is used
+            storedInternalInput = '';
+            fullBotResponse = '';
+
+            // Make the request to generate the response
+            fetch('/api_chat_stream', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                    'Authorization': bearerToken ? `Bearer ${bearerToken}` : ''
+                },
+                body: JSON.stringify(payload)
+            }).then(response => {
+                const reader = response.body.getReader();
+                const decoder = new TextDecoder();
+                botMessageElement = document.createElement('div');
+                botMessageElement.className = 'chat-message bot-message';
+                botMessageElement.innerHTML = '<span class="bot-prefix">Bot: </span><span class="bot-content"></span>';
+                chatBox.appendChild(botMessageElement);
+                chatBox.scrollTop = chatBox.scrollHeight;
+
+                responseStream = reader;
+                streamResponse(decoder, chatBox);
+                // Enable the report error button when log data is available
+            }).catch(error => {
+                console.error('Error:', error);
+                sendButton.disabled = false;
+                internalSendButton.disabled = false;
+                authButton.disabled = false;
+                voiceButton.disabled = false;
+                getLogButton.disabled = false;
+                reportErrorButton.disabled = false;
+                openRawLogButton.disabled = logJsonData === null;
+            });
+        });
+
+        // Function to stream the bot response
+        function streamResponse(decoder, chatBox) {
+            responseStream.read().then(({ done, value }) => {
+                if (done) {
+                    // Re-enable all buttons when streaming is complete
+                    document.getElementById('send-button').disabled = false;
+                    document.getElementById('internal-send-button').disabled = false;
+                    document.getElementById('auth-button').disabled = false;
+                    document.getElementById('voice-button').disabled = false;
+                    document.getElementById('get-log-button').disabled = false;
+                    document.getElementById('open-raw-log-button').disabled = logJsonData === null;
+                    document.getElementById('report-error-button').disabled = false;
+                    
+                    // Speak any remaining part of the response
+                    if (document.getElementById('voice-reply').checked && fullBotResponse) {
+                        responsiveVoice.speak(fullBotResponse, 'Chinese Female');
+                        fullBotResponse = '';
+                    }
+                    
+                    // Show rating section if this response hasn't been rated yet
+                    if (!ratedResponses.has(currentResponseId)) {
+                        showRatingSection(currentResponseId);
+                    }
+                    return;
+                }
+                const jsonText = decoder.decode(value, { stream: true });
+                const lines = jsonText.split('\n');
+                lines.forEach(line => {
+                    if (line) {
+                        const data = JSON.parse(line.substring(6)); // remove "data: " prefix
+                        
+                        // Check if this chunk contains a response_id and question (should be in the first chunk)
+                        if (data.response_id) {
+                            currentResponseId = data.response_id;
+                            questionByResponseId[currentResponseId] = data.question;
+                        }
+                        
+                        const botContent = botMessageElement.querySelector('.bot-content');
+                        botContent.innerHTML += data.response.replace(/\n/g, '<br>');
+                        chatBox.scrollTop = chatBox.scrollHeight;
+
+                        // Append the response to the full response for voice synthesis
+                        fullBotResponse += data.response;
+
+                        // Check if the response ends with a punctuation mark indicating the end of a sentence
+                        if (/[.!?]\s*$/.test(fullBotResponse)) {
+                            if (document.getElementById('voice-reply').checked) {
+                                responsiveVoice.speak(fullBotResponse, 'UK English Male');
+                                fullBotResponse = '';  // Clear after speaking
+                            }
+                        }
+                    }
+                });
+                interruptIndex += value.length;  // Update the interrupt index as response continues
+                streamResponse(decoder, chatBox);
+            });
+        }
+
+        // Handle internal assistant submission
+        document.getElementById('internal-chat-form').addEventListener('submit', function (e) {
+            e.preventDefault();
+
+            const internalInput = document.getElementById('internal-input').value;
+            if (!internalInput) return;
+            if (!bearerToken) {
+                alert('Please authenticate first');
+                return;
+            }
+
+            // Disable all buttons during API call
+            const internalSendButton = document.getElementById('internal-send-button');
+            const sendButton = document.getElementById('send-button');
+            const authButton = document.getElementById('auth-button');
+            const voiceButton = document.getElementById('voice-button');
+            const getLogButton = document.getElementById('get-log-button');
+            const reportErrorButton = document.getElementById('report-error-button');
+            
+            internalSendButton.disabled = true;
+            sendButton.disabled = true;
+            authButton.disabled = true;
+            voiceButton.disabled = true;
+            getLogButton.disabled = true;
+            reportErrorButton.disabled = true;
+
+            // Call the internal_assistant API
+            fetch('/api/internal_assistant', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                    'Authorization': `Bearer ${bearerToken}`
+                },
+                body: JSON.stringify({
+                    session_id: sessionId,
+                    message: internalInput
+                })
+            })
+            .then(response => response.json())
+            .then(data => {
+                if (data.status === 'success') {
+                    // Add the internal assistant message to the chat box
+                    const chatBox = document.getElementById('chat-box');
+                    const internalMessageElement = document.createElement('div');
+                    internalMessageElement.className = 'chat-message internal-assistant-message';
+                    internalMessageElement.textContent = `Internal Assistant: ${internalInput}`;
+                    chatBox.appendChild(internalMessageElement);
+                    chatBox.scrollTop = chatBox.scrollHeight;
+                    
+                    // Clear the input field
+                    document.getElementById('internal-input').value = '';
+                } else {
+                    // Display error message
+                    alert('Error: ' + data.message);
+                }
+            })
+            .catch(error => {
+                console.error('Error:', error);
+                alert('Error calling internal assistant API: ' + error.message);
+            })
+            .finally(() => {
+                // Re-enable all buttons after API call completes
+                internalSendButton.disabled = false;
+                sendButton.disabled = false;
+                authButton.disabled = false;
+                voiceButton.disabled = false;
+                getLogButton.disabled = false;
+                reportErrorButton.disabled = true;
+            });
+        });
+
+        // Handle authentication
+        document.getElementById('auth-button').addEventListener('click', function() {
+            const tokenInput = document.getElementById('auth-token');
+            const token = tokenInput.value.trim();
+            const authStatus = document.getElementById('auth-status');
+            
+            if (!token) {
+                authStatus.innerHTML = '<div class="alert alert-danger">Please enter a token</div>';
+                return;
+            }
+            
+            // Store the token for future requests
+            bearerToken = token;
+            
+            // Test the token with a simple request
+            fetch('/api/check_token', {
+                method: 'GET',
+                headers: {
+                    'Authorization': `Bearer ${bearerToken}`
+                }
+            }).then(response => {
+                if (response.ok) {
+                    authStatus.innerHTML = '<div class="alert alert-success">Authentication successful!</div>';
+                    // Save token to localStorage for persistence across page refreshes
+                    localStorage.setItem('bearerToken', bearerToken);
+                } else {
+                    authStatus.innerHTML = `<div class="alert alert-danger">Authentication failed: ${response.status}</div>`;
+                    bearerToken = '';
+                }
+            }).catch(error => {
+                authStatus.innerHTML = `<div class="alert alert-danger">Error: ${error.message}</div>`;
+                bearerToken = '';
+            });
+        });
+
+        // Voice input handling with MediaRecorder API
+        document.getElementById('voice-button').addEventListener('click', function () {
+            if (isRecording) {
+                mediaRecorder.stop();
+            } else {
+
+                navigator.mediaDevices.getUserMedia({ audio: true }).then(stream => {
+                    mediaRecorder = new MediaRecorder(stream);
+                    audioChunks = [];
+
+                    mediaRecorder.ondataavailable = function (event) {
+                        audioChunks.push(event.data);
+                    };
+
+                    mediaRecorder.onstop = function () {
+                        const audioBlob = new Blob(audioChunks, { type: 'audio/wav' });
+                        isRecording = false;
+                        document.getElementById('voice-button').textContent = 'Start Voice Input';
+                        document.getElementById('voice-status').textContent = 'Recording stopped';
+                        sendAudioBlob(audioBlob);  // Send the recorded audio to the backend
+                    };
+
+                    mediaRecorder.start();
+                    isRecording = true;
+                    document.getElementById('voice-button').textContent = 'Stop Voice Input';
+                    document.getElementById('voice-status').textContent = 'Recording...';
+                }).catch(error => {
+                    console.error('Error accessing microphone:', error);
+                    document.getElementById('voice-status').textContent = 'Error accessing microphone';
+                });
+            }
+        });
+
+        // Function to send audio blob to backend
+        function sendAudioBlob(audioBlob) {
+            const formData = new FormData();
+            formData.append('audio', audioBlob, 'audio_blob.wav');
+            formData.append('session_id', sessionId);  // Include the session ID in the audio upload
+            fetch('/upload-audio', {
+                method: 'POST',
+                headers: {
+                    'Authorization': bearerToken ? `Bearer ${bearerToken}` : ''
+                },
+                body: formData
+            })
+                .then(response => response.json())
+                .then(data => {
+                    if (data.status === 'success') {
+                        document.getElementById('question').value = data.data.transcription;
+                    } else {
+                        console.error('Error in transcription:', data.message);
+                    }
+                })
+                .catch(error => {
+                    console.error('Error uploading audio:', error);
+                });
+        }
+
+        // Log functionality is implemented below
+        // Function to get and display session log
+        // Store log data globally to be used by the raw JSON button
+        let logJsonData = null;
+
+        document.getElementById('get-log-button').addEventListener('click', function() {
+            if (!bearerToken) {
+                alert('Please enter an authentication token');
+                return;
+            }
+            
+            fetch(`/api/log?session_id=${sessionId}`, {
+                method: 'GET',
+                headers: {
+                    'Authorization': `Bearer ${bearerToken}`
+                }
+            })
+            .then(response => response.json())
+            .then(data => {
+                const logContainer = document.getElementById('log-container');
+                const logContent = document.getElementById('log-content');
+                const openRawLogButton = document.getElementById('open-raw-log-button');
+                
+                if (data.status === 'success') {
+                    // Store the data globally
+                    logJsonData = data.data;
+                    // Enable the raw JSON button now that we have data
+                    openRawLogButton.disabled = false;
+                    
+                    // Clear previous content
+                    logContent.innerHTML = '';
+                    
+                    // Create a function to recursively display JSON data
+                    function displayJsonData(data, container, level = 0) {
+                        const dl = document.createElement('dl');
+                        dl.className = 'row';
+                        
+                        Object.entries(data).forEach(([key, value]) => {
+                            // Create term (key)
+                            const dt = document.createElement('dt');
+                            dt.className = 'col-sm-3';
+                            dt.textContent = key;
+                            dl.appendChild(dt);
+                            
+                            // Create description (value)
+                            const dd = document.createElement('dd');
+                            dd.className = 'col-sm-9';
+                            
+                            // Handle different value types
+                            if (value === null) {
+                                dd.textContent = 'null';
+                            } else if (typeof value === 'object' && !Array.isArray(value)) {
+                                // For objects, create a collapsible section
+                                const details = document.createElement('details');
+                                const summary = document.createElement('summary');
+                                summary.textContent = '{...}';
+                                details.appendChild(summary);
+                                
+                                const nestedContainer = document.createElement('div');
+                                nestedContainer.style.marginLeft = '20px';
+                                details.appendChild(nestedContainer);
+                                
+                                displayJsonData(value, nestedContainer, level + 1);
+                                dd.appendChild(details);
+                            } else if (Array.isArray(value)) {
+                                // For arrays
+                                if (value.length === 0) {
+                                    dd.textContent = '[]';
+                                } else {
+                                    const details = document.createElement('details');
+                                    const summary = document.createElement('summary');
+                                    summary.textContent = `[${value.length} items]`;
+                                    details.appendChild(summary);
+                                    
+                                    const arrayContainer = document.createElement('div');
+                                    arrayContainer.style.marginLeft = '20px';
+                                    
+                                    // For arrays of objects
+                                    if (typeof value[0] === 'object' && value[0] !== null) {
+                                        value.forEach((item, index) => {
+                                            const itemHeader = document.createElement('h6');
+                                            itemHeader.textContent = `Item ${index}:`;
+                                            arrayContainer.appendChild(itemHeader);
+                                            displayJsonData(item, arrayContainer, level + 1);
+                                        });
+                                    } else {
+                                        // For arrays of primitive values
+                                        const arrayList = document.createElement('ul');
+                                        value.forEach(item => {
+                                            const listItem = document.createElement('li');
+                                            // Check if the item is a long string
+                                            if (typeof item === 'string' && item.length > 100) {
+                                                const itemDetails = document.createElement('details');
+                                                const itemSummary = document.createElement('summary');
+                                                itemSummary.textContent = `${item.substring(0, 100)}...`;
+                                                itemDetails.appendChild(itemSummary);
+                                                
+                                                const fullText = document.createElement('pre');
+                                                fullText.textContent = item;
+                                                itemDetails.appendChild(fullText);
+                                                listItem.appendChild(itemDetails);
+                                            } else {
+                                                listItem.textContent = JSON.stringify(item);
+                                            }
+                                            arrayList.appendChild(listItem);
+                                        });
+                                        arrayContainer.appendChild(arrayList);
+                                    }
+                                    
+                                    details.appendChild(arrayContainer);
+                                    dd.appendChild(details);
+                                }
+                            } else if (typeof value === 'string' && value.length > 100) {
+                                // For long strings, create a collapsible section
+                                const details = document.createElement('details');
+                                const summary = document.createElement('summary');
+                                summary.textContent = `${value.substring(0, 100)}...`;
+                                details.appendChild(summary);
+                                
+                                const pre = document.createElement('pre');
+                                pre.textContent = value;
+                                pre.style.whiteSpace = 'pre-wrap';
+                                pre.style.wordBreak = 'break-word';
+                                details.appendChild(pre);
+                                
+                                dd.appendChild(details);
+                            } else {
+                                // For primitive values
+                                dd.textContent = JSON.stringify(value);
+                            }
+                            
+                            dl.appendChild(dd);
+                        });
+                        
+                        container.appendChild(dl);
+                    }
+                    
+                    // Display the data
+                    displayJsonData(data.data, logContent);
+                    logContainer.style.display = 'block';
+                } else {
+                    alert(`Error: ${data.message}`);
+                }
+            })
+            .catch(error => {
+                console.error('Error fetching log:', error);
+                alert(`Error fetching log: ${error.message}`);
+            });
+        });
+
+        // Add event listener for the raw JSON button - only uses already fetched data
+        document.getElementById('open-raw-log-button').addEventListener('click', function() {
+            if (!logJsonData) {
+                alert('Please fetch session logs first using the "Get Session Log" button');
+                return;
+            }
+            
+            const rawWindow = window.open('', '_blank');
+            if (rawWindow) {
+                rawWindow.document.write('<html><head><title>Raw Session Log</title></head><body><pre>' + 
+                    JSON.stringify(logJsonData, null, 2) + 
+                    '</pre></body></html>');
+                rawWindow.document.close();
+            } else {
+                alert('Please allow pop-ups for this site to open the raw JSON view.');
+            }
+        });
+
+        // Add event listener for the report error button
+        document.getElementById('report-error-button').addEventListener('click', function() {
+            $('#errorReportModal').modal('show');
+        });
+
+        // Handle error report submission
+        document.getElementById('submit-error-report').addEventListener('click', function() {
+            const errorMessage = document.getElementById('error-message').value.trim();
+            if (!errorMessage) {
+                alert('Please enter an error description');
+                return;
+            }
+
+            // Disable buttons during submission
+            document.getElementById('submit-error-report').disabled = true;
+            
+            // Send the error report to the server
+            fetch('/api/report_error', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                    'Authorization': 'Bearer ' + bearerToken
+                },
+                body: JSON.stringify({
+                    session_id: sessionId,
+                    error_message: errorMessage
+                })
+            })
+            .then(response => response.json())
+            .then(data => {
+                if (data.status === 'success') {
+                    alert('Report submitted successfully!');
+                    $('#errorReportModal').modal('hide');
+                    document.getElementById('error-message').value = '';
+                } else {
+                    alert(`Error: ${data.message}`);
+                }
+                document.getElementById('submit-error-report').disabled = false;
+            })
+            .catch(error => {
+                console.error('Error submitting report:', error);
+                alert(`Error submitting report: ${error.message}`);
+                document.getElementById('submit-error-report').disabled = false;
+            });
+        });
+        // Rating functionality
+        function showRatingSection(responseId) {
+            // Only show rating if this response hasn't been rated yet
+            if (!ratedResponses.has(responseId)) {
+                currentResponseId = responseId;
+                document.getElementById('rating-section').style.display = 'block';
+                
+                // Reset rating UI
+                document.getElementById('feedback-text').value = '';
+                currentRating = 1;  // Reset to default rating
+                document.querySelectorAll('.star').forEach(s => {
+                    s.classList.remove('selected');
+                });
+                document.querySelector('.star[data-rating="1"]').classList.add('selected');
+                document.getElementById('rating-value').textContent = '(1/5)';
+            }
+        }
+        function hideRatingSection() {
+            const ratingSection = document.getElementById('rating-section');
+            ratingSection.style.display = 'none';
+        }
+        
+        // Add event listeners for star rating
+        document.querySelectorAll('.star').forEach(star => {
+            star.addEventListener('mouseover', function() {
+                const rating = parseInt(this.getAttribute('data-rating'));
+                highlightStars(rating);
+            });
+            
+            star.addEventListener('click', function() {
+                const rating = parseInt(this.getAttribute('data-rating'));
+                selectRating(rating);
+            });
+        });
+        
+        function highlightStars(rating) {
+            document.querySelectorAll('.star').forEach(star => {
+                const starRating = parseInt(star.getAttribute('data-rating'));
+                if (starRating <= rating) {
+                    star.classList.add('selected');
+                } else {
+                    star.classList.remove('selected');
+                }
+            });
+        }
+        
+        function selectRating(rating) {
+            currentRating = rating;  // Update the current rating value
+            document.querySelectorAll('.star').forEach(star => {
+                const starRating = parseInt(star.getAttribute('data-rating'));
+                if (starRating <= rating) {
+                    star.classList.add('selected');
+                } else {
+                    star.classList.remove('selected');
+                }
+            });
+            document.getElementById('rating-value').textContent = `(${rating}/5)`;
+        }
+
+        // User Name Modal logic
+        document.getElementById('save-user-name').addEventListener('click', function() {
+            const nameInput = document.getElementById('user-name-input');
+            const errorDiv = document.getElementById('user-name-error');
+            const name = nameInput.value.trim();
+            if (name) {
+                localStorage.setItem('userName', name);
+                $('#userNameModal').modal('hide');
+            } else {
+                errorDiv.style.display = 'block';
+            }
+        });
+        // Prevent form submission by Enter key in modal
+        document.getElementById('user-name-form').addEventListener('submit', function(e) {
+            e.preventDefault();
+            document.getElementById('save-user-name').click();
+        });
+
+        // Ensure modal can't be closed without entering a name
+        $('#userNameModal').on('hide.bs.modal', function (e) {
+            const name = localStorage.getItem('userName');
+            if (!name) {
+                e.preventDefault();
+            }
+        });
+
+        // Autofocus input when modal is shown
+        $('#userNameModal').on('shown.bs.modal', function () {
+            document.getElementById('user-name-input').focus();
+        });
+
+        // Optionally, prefill if name exists (should not happen, but for safety)
+        if (localStorage.getItem('userName')) {
+            document.getElementById('user-name-input').value = localStorage.getItem('userName');
+        }
+
+        // Handle submit rating
+        document.getElementById('submit-rating').addEventListener('click', function() {
+            if (currentRating < 1) {
+                alert('Please select a rating before submitting');
+                return;
+            }
+            const question = questionByResponseId[currentResponseId] || 'N/A';
+            const rating = currentRating;
+            const feedback = document.getElementById('feedback-text').value.trim();
+            const userName = localStorage.getItem('userName') || '';
+            const sendButton = document.getElementById('send-button');
+
+            // Disable send button to prevent user from sending messages during internet search
+            sendButton.disabled = true;
+
+            fetch('/api/submit_rating', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                    'Authorization': bearerToken ? `Bearer ${bearerToken}` : ''
+                },
+                body: JSON.stringify({
+                    session_id: sessionId,
+                    response_id: currentResponseId,
+                    rating: rating,
+                    feedback: feedback,
+                    question: question,
+                    response_content: fullBotResponse, // Always use the most recent response
+                    user: userName
+                })
+            })
+            .then(response => response.json())
+            .then(data => {
+                if (data.status === 'success') {
+                    // 后端执行完成后 才执行
+                    ratedResponses.add(currentResponseId);
+                    hideRatingSection();
+
+                    // 如果满足条件，就插一条消息
+                    const online_answer = data.data?.online_answer;
+                    if (online_answer && rating <= 2) {
+                        const chatBox = document.getElementById('chat-box');
+                        const fbElem = document.createElement('div');
+                        fbElem.className = 'chat-message bot-message';  // 复用红色样式
+                        fbElem.innerHTML = `Internet: 问题：${question}<br> 看起来您对答案不太满意 以下是从网上找到的信息:<br> ${online_answer}`;
+                        chatBox.appendChild(fbElem);
+                        chatBox.scrollTop = chatBox.scrollHeight;
+
+                        document.getElementById('online_searching_text').style.display = 'none';
+
+                        // Generate a new response ID for this interaction
+                        currentResponseId = crypto.randomUUID();
+                        questionByResponseId[currentResponseId] = question;
+
+                        // Show rating section if this response hasn't been rated yet
+                        if (!ratedResponses.has(currentResponseId)) {
+                            showRatingSection(currentResponseId);// 刷新打分框
+                        }
+
+                        fullBotResponse = online_answer
+
+                    }
+                } else {
+                    alert('Error submitting rating: ' + data.message);
+                }
+            })
+            .catch(error => {
+                console.error('Error:', error);
+                alert('Error submitting rating: ' + error.message);
+            })
+            .finally(() => {
+                sendButton.disabled = false;
+            });
+            
+            if (rating > 2){
+                // For now, just mark as rated and hide the section
+                ratedResponses.add(currentResponseId);
+                hideRatingSection();
+            }
+
+            if (rating<=2){
+                document.getElementById('online_searching_text').style.display = 'block';
+                hideRatingSection();
+            }
+            
+            
+            // Show confirmation
+            alert('Thank you for your feedback!');
+        });
+        
+        if (localStorage.getItem('userName')) {
+            document.getElementById('user-name-input').value = localStorage.getItem('userName');
+        }
+    </script>
+
+    <!-- ResponsiveVoice JS -->
+    <script src="https://code.responsivevoice.org/responsivevoice.js?key=XO5dwZ6S"></script>
+</body>
+
+</html>

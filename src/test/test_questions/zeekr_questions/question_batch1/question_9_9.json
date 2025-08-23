@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "generated_date": "2025-06-06 11:38:27",
+    "database": "/root/autodl-tmp/RAG_Agent_production/tmp/database_202506_zeekr",
+    "batch_index": "9_9"
+  },
+  "questions": [
+    {
+      "question_index": 0,
+      "original_question": "What is Zeekr Technology Group?",
+      "answer": "Zeekr Technology Group is a subsidiary of Geely Auto Group, focusing on the development and production of premium electric vehicles. It aims to deliver innovative and high-performance EVs with advanced technology and luxurious design. If you need more detailed information, our human assistant can provide it.",
+      "duration": 5.394951581954956,
+      "rewritten_question": [
+        "What is Zeekr Technology Group?"
+      ],
+      "need_rag": false,
+      "rag_info": [],
+      "all_retrieved_content": []
+    }
+  ]
+}

@@ -1,0 +1,408 @@
+{
+  "metadata": {
+    "generated_date": "2025-08-18 12:43:11",
+    "database": "/root/autodl-tmp/RAG_Agent_production/tmp/database_20250220_opus_2_0_0",
+    "batch_index": "0_0"
+  },
+  "questions": [
+    {
+      "question_index": 0,
+      "original_question": "路特斯科技的总部位于哪里？",
+      "answer": "Lotus Technology 的全球总部位于中国武汉。此信息基于2024年9月19日之前的知识。",
+      "duration": 6.529531002044678,
+      "rewritten_question": [
+        "Where is the headquarters of Lotus Technology located?"
+      ],
+      "need_rag": true,
+      "rag_info": [
+        {
+          "timeinfo": "2024-05-03",
+          "chunk_id": "fd5749e4fa3c2d0cf46aa5f8da9d8b30e36cf91b29d8827cab8edde9375a1fd8",
+          "chunk_content": "Lotus Technology Company (LTC) was incorporated as an exempted company in accordance with the laws and regulations of the Cayman Islands on August 9, 2021. The mailing address of Lotus Technology's principal executive office is No. 800 Century Avenue, Pudong District, Shanghai, People’s Republic of China, and the phone number is +86 21 5466 - 6258. Lotus Technology's corporate website address is www.group-lotus.com. The information contained in, or accessible through, Lotus Technology's website does not constitute a part of this prospectus.",
+          "chunk_bundle_id": 2.0,
+          "sub_query": "Where is the headquarters of Lotus Technology located?"
+        },
+        {
+          "timeinfo": "2024-05-03",
+          "chunk_id": "407d881c83a57708644fade34df8ef01c0a9073e77d275a4eb1a38abc7f3867b",
+          "chunk_content": "Lotus Technology's research and development efforts are focusing on the development of key electric vehicle technologies while benefiting from the technological support from the Geely Holding ecosystem. Lotus Technology intends to continually develop cutting-edge technologies, including the 800-volt EPA architecture and hardware, algorithms, and software systems to enhance the competitiveness of its vehicles. Lotus Technology also plans to monetize its R&D capabilities by licensing its intellectual properties and software via subscriptions to other luxury automotive brands. Guided by Lotus Technology's R&D leaders, the global research and development team has extensive experience in the automotive and technology industries. As of December 31, 2023, Lotus Technology's R&D team consisted of 1,802 professionals with extensive knowledge in automotive engineering, software, and artificial intelligence, as well as diversified working experiences from leading vehicle manufacturers globally. Such composition ensures solid technology development capabilities, especially in intelligence and digitalization. The diversified cultural and professional background promotes the exchange of ideas from different perspectives and ensures the generation of innovations.",
+          "chunk_bundle_id": 10.0,
+          "sub_query": "Where is the headquarters of Lotus Technology located?"
+        },
+        {
+          "timeinfo": "2024-09-19",
+          "chunk_id": "4ecde974b7c2382596059dec10266220f45a85780116d3124730917f821910ff",
+          "chunk_content": "However, if the PCAOB determines in the future that it no longer has full access to inspect and investigate completely accounting firms in mainland China and Hong Kong, and Lotus Technology uses an accounting firm headquartered in one of these jurisdictions to issue an audit report on its financial statements filed with the SEC, Lotus Technology and investors in its securities would be deprived of the benefits of such PCAOB inspections, which could cause investors and potential investors in the securities to lose confidence in Lotus Technology's audit procedures and reported financial information and the quality of its financial statements. Lotus Technology's securities may be prohibited from trading in the U.S. under the Holding Foreign Companies Accountable Act, or the HFCAA, if the PCAOB is unable to inspect or investigate completely auditors located in China. The delisting of Lotus Technology's securities, or the threat of their being delisted, may materially and adversely affect the value of your investment.",
+          "chunk_bundle_id": 16.0,
+          "sub_query": "Where is the headquarters of Lotus Technology located?"
+        },
+        {
+          "timeinfo": "2024-09-19",
+          "chunk_id": "1d4fd4231d70ede58d51c129263d4583b8e09f34261e73413074c9b3004090d9",
+          "chunk_content": "In October 2023, Lotus Technology's wholly foreign-owned enterprise (WFOE) pledged the land use rights, buildings, and ancillary facilities on certain pieces of land totaling approximately 84,000 square meters where Lotus Technology's global headquarters is located in Wuhan, China, to the Jingkai Fund pursuant to an exchangeable note agreement entered into between the WFOE and the Jingkai Fund in September 2021. Such pledge was terminated in April 2024 following the listing of Lotus Technology's securities on Nasdaq pursuant to the terms of the pledge. Lotus Technology maintains various insurance policies to safeguard the company against risks and unexpected events. Lotus Technology maintains property insurance, public liability insurance, commercial general liability insurance, employer’s liability insurance, driver’s liability insurance, and inland transit insurance. In addition to providing social security insurance for employees as required by applicable laws, Lotus Technology also provides supplemental commercial medical insurance for employees. Lotus Technology does not maintain business interruption insurance or key-man insurance. Lotus Technology believes that its insurance coverage is adequate to cover key assets, facilities, and liabilities.",
+          "chunk_bundle_id": 15.0,
+          "sub_query": "Where is the headquarters of Lotus Technology located?"
+        },
+        {
+          "timeinfo": "2024-01-11",
+          "chunk_id": "3d5324e78605cfb977f506196b268978ce2ee539f709862e034ba89a349b63d5",
+          "chunk_content": "Lotus Technology is a pioneering luxury battery electric vehicle (BEV) maker that designs, develops, and sells luxury lifestyle vehicles (non-sports car vehicles for daily usage) under the iconic British brand “Lotus.” With over seven decades of racing heritage and proven leadership in the automotive industry, the Lotus brand symbolizes the market-leading standards in performance, design, and engineering. Fusing proprietary next-generation technology built on world-class research and development capabilities and an asset-light model empowered by Geely Holding, Lotus Technology is breaking new ground in electrification, digitization, and intelligence. The mailing address of Lotus Technology’s principal executive office is No. 800 Century Avenue, Pudong District, Shanghai, People’s Republic of China, and its phone number is +86 21 5466-6258. Lotus Technology’s corporate website address is www.group-lotus.com. Lotus Technology’s website and the information contained on, or that can be accessed through, the website are not deemed to be incorporated by reference in, and are not considered part of, this proxy statement/prospectus.",
+          "chunk_bundle_id": 0.0,
+          "sub_query": "Where is the headquarters of Lotus Technology located?"
+        },
+        {
+          "timeinfo": "2024-01-12",
+          "chunk_id": "382fb5ca04d104475ea81b870ec3b07c604f9c77abf241a07a470d957978c978",
+          "chunk_content": "Pursuant to the HFCAA, if the SEC determines that Lotus Technology has filed audit reports issued by a registered public accounting firm that has not been subject to inspections by the PCAOB for two consecutive years, the SEC will prohibit Lotus Technology's securities from being traded on a national securities exchange or in the over-the-counter trading market in the United States. On December 16, 2021, the PCAOB issued a report to notify the SEC of its determination that the PCAOB was unable to inspect or investigate completely registered public accounting firms headquartered in mainland China and Hong Kong, including Lotus Technology’s auditor. On December 15, 2022, the PCAOB issued a report that vacated its December 16, 2021 determination and removed mainland China and Hong Kong from the list of jurisdictions where it is unable to inspect or investigate completely registered public accounting firms. Each year, the PCAOB will determine whether it can inspect and investigate completely audit firms in mainland China and Hong Kong, among other jurisdictions. If the PCAOB determines in the future that it no longer has full access to inspect and investigate completely accounting firms in mainland China and Hong Kong and Lotus Technology continues to use an accounting firm headquartered in one of these jurisdictions to issue an audit report on its financial statements filed with the Securities and Exchange Commission, Lotus Technology would be identified as a Commission-Identified Issuer following the filing of the annual report on Form 20-F for the relevant fiscal year.",
+          "chunk_bundle_id": 17.0,
+          "sub_query": "Where is the headquarters of Lotus Technology located?"
+        },
+        {
+          "timeinfo": "2024-05-24",
+          "chunk_id": "8d284b93fe5d80418df15ec4e50122c7df096ffb39d628c8ff35a70a895ee188",
+          "chunk_content": "Lotus Technology has a dedicated global team to support its R&D activities with a sizable scale and comprehensive functionalities, covering all major technological perspectives. Lotus Technology's approach to innovation demonstrates an inter-connected global collaboration among highly experienced and dedicated teams in the U.K., Germany, and China, each with different technological focuses. Centered around Lotus Technology's global headquarters in Wuhan, China, which focuses on cloud computing and online data processing, the company operates a software center in Shanghai focusing on global system integration and network security and a research institute in Ningbo focusing on electric architecture, charging and power systems, and intelligent driving. Lotus Technology has established two R&D centers on engineering and product design, including the Lotus Technology Creative Centre (LTCC) located in the heart of the British car industry in Coventry, U.K., with a focus on automotive design and design strategy, product and brand communication, and sustainable material science, and the Lotus Technology Innovative Centre (LTIC) located in Frankfurt, Germany, with a focus on behavioral science, innovative vehicle technologies, dynamic attribute development, user interface, and regional tuning and application. Lotus Technology's research and development efforts are focusing on the development of key EV technologies while benefiting from the technological support from the Geely Holding ecosystem. Lotus Technology intends to continually develop cutting-edge technologies, including the 800-volt EPA architecture and hardware, algorithms, and software systems to enhance the competitiveness of its vehicles. Lotus Technology also plans to monetize its R&D capabilities by licensing its intellectual properties and software via subscriptions to other luxury auto brands.",
+          "chunk_bundle_id": 9.0,
+          "sub_query": "Where is the headquarters of Lotus Technology located?"
+        },
+        {
+          "timeinfo": "2024-04-22",
+          "chunk_id": "79da8f1659bec2ad4ccdf40b661f720dee7995cd330c7a69bea3ba5ae7b36e47",
+          "chunk_content": "As of the date of this annual report, Lotus Technology Corporation’s operations in mainland China are conducted by its mainland China subsidiaries and Lotus Technology Corporation does not have any Variable Interest Entity (VIE) structure. On February 22, 2024, Lotus Technology Corporation consummated the Business Combination with LCAA, pursuant to the Merger Agreement. LCAA was a blank check company incorporated for the purpose of effecting a merger, share exchange, asset acquisition, share purchase, reorganization or similar business combination with one or more businesses or entities. Lotus Technology Corporation's ADSs and Warrants have been listed on The Nasdaq Global Market since February 23, 2024 under the symbol “LOT” and “LOTWW,” respectively. The mailing address of Lotus Technology Corporation's principal executive office is No. 800 Century Avenue, Pudong District, Shanghai, People’s Republic of China, and its phone number is +8621 5466-6258. Lotus Technology Corporation's corporate website address is www.group-lotus.com. The information contained in, or accessible through, Lotus Technology Corporation's website does not constitute a part of this annual report. The SEC maintains an internet site that contains reports, proxy and information statements, and other information regarding issuers, such as Lotus Technology Corporation, that file electronically, with the SEC at www.sec.gov.",
+          "chunk_bundle_id": 4.0,
+          "sub_query": "Where is the headquarters of Lotus Technology located?"
+        },
+        {
+          "timeinfo": "2024-01-19",
+          "chunk_id": "2448ef41509a97310cbd16b335b35675a0fffe24c884091842c66cc8082436eb",
+          "chunk_content": "Lotus Technology Inc., headquartered in Wuhan, China, has operations across China, the UK, and the EU. Lotus Technology is dedicated to delivering luxury lifestyle battery electric vehicles, including SUVs and sedans, with a focus on world-class research and development in next-generation automobility technologies such as electrification, digitalization, and more. For more information about Lotus Technology Inc., please visit www.group-lotus.com.",
+          "chunk_bundle_id": 3.0,
+          "sub_query": "Where is the headquarters of Lotus Technology located?"
+        }
+      ],
+      "all_retrieved_content": [
+        [
+          {
+            "retriever": "FAISS",
+            "score": 0.725135087966919,
+            "page_content": "Lotus Technology is a pioneering luxury battery electric vehicle (BEV) maker that designs, develops, and sells luxury lifestyle vehicles (non-sports car vehicles for daily usage) under the iconic British brand “Lotus.” With over seven decades of racing heritage and proven leadership in the automotive industry, the Lotus brand symbolizes the market-leading standards in performance, design, and engineering. Fusing proprietary next-generation technology built on world-class research and development capabilities and an asset-light model empowered by Geely Holding, Lotus Technology is breaking new ground in electrification, digitization, and intelligence. The mailing address of Lotus Technology’s principal executive office is No. 800 Century Avenue, Pudong District, Shanghai, People’s Republic of China, and its phone number is +86 21 5466-6258. Lotus Technology’s corporate website address is www.group-lotus.com. Lotus Technology’s website and the information contained on, or that can be accessed through, the website are not deemed to be incorporated by reference in, and are not considered part of, this proxy statement/prospectus.",
+            "metadata": {
+              "date_published": "2024-01-11",
+              "doc_id": "3d5324e78605cfb977f506196b268978ce2ee539f709862e034ba89a349b63d5",
+              "filename": "20240111_final.json",
+              "global_id": 3732,
+              "next_chunk_id": "",
+              "page_number": 47,
+              "prev_chunk_id": "",
+              "title_summary": "title: Lotus Tech \nsummary: Lotus Tech is a luxury battery electric vehicle (BEV) manufacturer known for producing high-end lifestyle vehicles under the esteemed British brand \"Lotus.\" With over 70 years of experience in racing and a strong automotive reputation, Lotus embodies excellence in performance, design, and engineering. The company utilizes advanced proprietary technology and a research-driven approach, supported by an asset-light model from Geely Holding, positioning itself at the forefront of electrification, digitization, and intelligent vehicle solutions. Lotus Tech's headquarters is located in Pudong District, Shanghai, China, and can be contacted at +86 21 5466-6258. While information about the company is available on its website, it is not considered part of the official proxy statement/prospectus."
+            },
+            "bundle_id": 0
+          },
+          {
+            "retriever": "FAISS",
+            "score": 0.7246122360229492,
+            "page_content": "Lotus Technology is a pioneering luxury battery electric vehicle (BEV) maker that designs, develops, and sells luxury lifestyle vehicles (non-sports car vehicles for daily usage) under the iconic British brand “Lotus.” With over seven decades of racing heritage and proven leadership in the automotive industry, the Lotus brand symbolizes the market-leading standards in performance, design, and engineering. Fusing proprietary next-generation technology built on world-class research and development capabilities and an asset-light model empowered by Geely Holding, Lotus Technology is breaking new ground in electrification, digitization, and intelligence. The mailing address of Lotus Technology’s principal executive office is No. 800 Century Avenue, Pudong District, Shanghai, People’s Republic of China, and the phone number is +86 21 5466-6258. Lotus Technology’s corporate website address is www.group-lotus.com. Lotus Technology’s website and the information contained on, or that can be accessed through, the website are not deemed to be incorporated by reference in, and are not considered part of, this proxy statement/prospectus.",
+            "metadata": {
+              "date_published": "2024-01-12",
+              "doc_id": "1cb59d404c47e112a423d5375cd268d26ee3976ca9571e8887dfc942f2a8390a",
+              "filename": "20240112_final.json",
+              "global_id": 6211,
+              "next_chunk_id": "01ba19aac8c2af1e55d364a6a93fa6b2d634ccc16d71149d9570cddff4279c71",
+              "page_number": 46,
+              "prev_chunk_id": "1599be36a4ac98a4a03aacb6c2e47e27f232cfe928b61816cc837e76b055c415",
+              "title_summary": "title: Lotus Tech \nsummary: Lotus Tech is a cutting-edge luxury battery electric vehicle (BEV) manufacturer known for its high-end lifestyle vehicles under the prestigious British brand \"Lotus.\" With a legacy of over 70 years in racing and a strong automotive reputation, Lotus embodies excellence in performance, design, and engineering. The company leverages advanced proprietary technology and robust research and development, operating under an asset-light model supported by Geely Holding. Lotus Tech is leading the way in electrification, digitization, and intelligent vehicle solutions. Its principal office is located in Shanghai, China, and further information can be found on their corporate website, though it is not part of the official proxy statement/prospectus."
+            },
+            "bundle_id": 1
+          },
+          {
+            "retriever": "FAISS",
+            "score": 0.7019320130348206,
+            "page_content": "Lotus Technology Company (LTC) was incorporated as an exempted company in accordance with the laws and regulations of the Cayman Islands on August 9, 2021. The mailing address of Lotus Technology's principal executive office is No. 800 Century Avenue, Pudong District, Shanghai, People’s Republic of China, and the phone number is +86 21 5466 - 6258. Lotus Technology's corporate website address is www.group-lotus.com. The information contained in, or accessible through, Lotus Technology's website does not constitute a part of this prospectus.",
+            "metadata": {
+              "date_published": "2024-05-03",
+              "doc_id": "fd5749e4fa3c2d0cf46aa5f8da9d8b30e36cf91b29d8827cab8edde9375a1fd8",
+              "filename": "0503_final.json",
+              "global_id": 90,
+              "next_chunk_id": "",
+              "page_number": 23,
+              "prev_chunk_id": "8a48e92ae3f03e62bc64741cb485b199e110e38d7762df2cc7bd3c444ddce6d0",
+              "title_summary": "title: Our Corporate Information \nsummary: LTC was incorporated as an exempted company under the laws of the Cayman Islands on August 9, 2021. The company's principal executive office is situated at No. 800 Century Avenue, Pudong District, Shanghai, People's Republic of China. For inquiries, LTC can be contacted at +86 21 5466 - 6258. The corporate website, www.group-lotus.com, provides additional information; however, it is important to note that the content on the website is not part of this prospectus. This summary encapsulates the key corporate information regarding LTC, ensuring clarity and completeness while adhering to regulatory and legal standards."
+            },
+            "bundle_id": 2
+          },
+          {
+            "retriever": "FAISS",
+            "score": 0.6958730220794678,
+            "page_content": "Lotus Technology Inc., headquartered in Wuhan, China, has operations across China, the UK, and the EU. Lotus Technology is dedicated to delivering luxury lifestyle battery electric vehicles, including SUVs and sedans, with a focus on world-class research and development in next-generation automobility technologies such as electrification, digitalization, and more. For more information about Lotus Technology Inc., please visit www.group-lotus.com.",
+            "metadata": {
+              "date_published": "2024-01-19",
+              "doc_id": "2448ef41509a97310cbd16b335b35675a0fffe24c884091842c66cc8082436eb",
+              "filename": "Lotus_425_20240119_final.json",
+              "global_id": 11659,
+              "next_chunk_id": "cba3cfafa9bd65de5750e1bc9f8a525a193a0bd23910bcc06a10b21a7658054e",
+              "page_number": 0,
+              "prev_chunk_id": "05d7e1ff4496118df59cf307fc416c564a54dc91be1fd8f3e23502616ffe7844",
+              "title_summary": "title: About Lotus Technology \nsummary: Lotus Technology Inc., headquartered in Wuhan, China, is a prominent player in the luxury battery electric vehicle market, offering a range of SUVs and sedans across China, the UK, and the EU. The company prioritizes cutting-edge research and development in next-generation automotive technologies, with a strong emphasis on electrification and digital innovation. For more information, you can visit their website at www.group-lotus.com."
+            },
+            "bundle_id": 3
+          },
+          {
+            "retriever": "FAISS",
+            "score": 0.6957570910453796,
+            "page_content": "As of the date of this annual report, Lotus Technology Corporation’s operations in mainland China are conducted by its mainland China subsidiaries and Lotus Technology Corporation does not have any Variable Interest Entity (VIE) structure. On February 22, 2024, Lotus Technology Corporation consummated the Business Combination with LCAA, pursuant to the Merger Agreement. LCAA was a blank check company incorporated for the purpose of effecting a merger, share exchange, asset acquisition, share purchase, reorganization or similar business combination with one or more businesses or entities. Lotus Technology Corporation's ADSs and Warrants have been listed on The Nasdaq Global Market since February 23, 2024 under the symbol “LOT” and “LOTWW,” respectively. The mailing address of Lotus Technology Corporation's principal executive office is No. 800 Century Avenue, Pudong District, Shanghai, People’s Republic of China, and its phone number is +8621 5466-6258. Lotus Technology Corporation's corporate website address is www.group-lotus.com. The information contained in, or accessible through, Lotus Technology Corporation's website does not constitute a part of this annual report. The SEC maintains an internet site that contains reports, proxy and information statements, and other information regarding issuers, such as Lotus Technology Corporation, that file electronically, with the SEC at www.sec.gov.",
+            "metadata": {
+              "date_published": "2024-04-22",
+              "doc_id": "79da8f1659bec2ad4ccdf40b661f720dee7995cd330c7a69bea3ba5ae7b36e47",
+              "filename": "20240422_final.json",
+              "global_id": 10187,
+              "next_chunk_id": "e76581e5e08d61409b3698ef90a739d3840c5f7d3acaa7c126d533f577b4cecf",
+              "page_number": 78,
+              "prev_chunk_id": "1af5e4583c29b5ebc0b45eecb8aeab0125bc57c501b32e232685f579fc397662",
+              "title_summary": "title: A. History and Development of the Company \nsummary: The Lotus BEV business, established in 2018, operates through various entities, including Wuhan Lotus Cars and Ningbo Geely R&D in China, as well as Lotus Tech UK and Lotus Tech Innovation Centre GmbH in Germany. In 2023, the company underwent a significant restructuring, eliminating its previous Variable Interest Entity (VIE) structure, which had been used for operations in mainland China. This restructuring included the establishment of LTC as a limited liability company in the Cayman Islands on August 9, 2021, and the transfer of assets and employees to create a Wholly Foreign-Owned Enterprise (WFOE) from Wuhan Lotus Cars. The company acquired equity interests in Lotus Tech UK and Lotus GmbH in late 2021 and mid-2022, respectively.\n\nAdditionally, a trademark license agreement with Group Lotus Limited was finalized in June 2022, allowing LTC to use the \"Lotus\" trademark for lifestyle vehicles, which included the issuance of 216,700,000 ordinary shares as compensation. In March 2022, LTC executed a 10-for-1 stock split, increasing its ordinary shares to 2,167,000,000. \n\nAs of early 2023, LTC's operations in mainland China are now managed through its subsidiaries without the VIE structure. The company completed a Business Combination with LCAA on February 22, 2024, enabling its American Depositary Shares and Warrants to begin trading on The Nasdaq Global Market the following day. The principal executive office is located in Shanghai, China, and further information can be accessed through the SEC's electronic filing system."
+            },
+            "bundle_id": 4
+          },
+          {
+            "retriever": "FAISS",
+            "score": 0.6839592456817627,
+            "page_content": "Lotus Technology Inc.",
+            "metadata": {
+              "date_published": "2024-01-11",
+              "doc_id": "2728542af49381a97e68b0a962b38d4b16127686f7e37414b0b276a42907146d",
+              "filename": "20240111_final.json",
+              "global_id": 3600,
+              "next_chunk_id": "bd7e8aa81478f94ffed3d71e6cf37d3d571b9812c343aabf085a56fcd7e8c757",
+              "page_number": 703,
+              "prev_chunk_id": "b6032465ad9090105e2a63ccbb14231f09666b26bba0cadb50a55a49a5e582c1",
+              "title_summary": "title: Lotus Technology Inc. \nsummary: L Catterton Asia Acquisition Corp (LCAA) has received approval from its board of directors for a Merger Agreement involving Lotus Technology Inc. (LTC) and its subsidiaries, Lotus Temp Limited and Lotus EV Limited. The agreement, which outlines a two-step merger process, was initially dated January 31, 2023, and amended on October 11, 2023. In the first step, Lotus Temp Limited will merge with LCAA, making LCAA a wholly-owned subsidiary of LTC, and converting its shareholders into LTC shareholders. The second step involves the surviving entity from the first merger merging into Lotus EV Limited, which will also become a wholly-owned subsidiary of LTC. \n\nShareholders of LCAA will vote on the proposed Business Combination, which, if approved, will transition their shares to LTC shares. Key actions prior to the merger include the conversion of LTC's preferred shares into ordinary shares, the adoption of amended articles of association, and a recapitalization process that will affect the share structure and outstanding options. \n\nLTC, a Cayman Islands holding company, has undergone a restructuring to eliminate its previous variable interest entity (VIE) structure, now directly operating through its subsidiaries in China. This change presents certain risks, including regulatory challenges in China and potential trading prohibitions in the U.S. under the Holding Foreign Companies Accountable Act (HFCAA). The company plans to list its American Depositary Shares (ADSs) on Nasdaq following the merger.\n\nThe document also outlines the financial performance of LTC, including audited and unaudited financial statements, and details the registration fees associated with the securities being registered in connection with the merger. The extraordinary general meeting for LCAA shareholders will address the merger proposals, with the board recommending approval. However, shareholders are advised to consider potential conflicts of interest among LCAA's directors and officers regarding the Business Combination. The SEC has not evaluated the merits of the transactions, and any claims to the contrary are considered criminal offenses."
+            },
+            "bundle_id": 5
+          },
+          {
+            "retriever": "FAISS",
+            "score": 0.6830869913101196,
+            "page_content": "In October 2023, Lotus Technology's wholly foreign-owned enterprise (WFOE) pledged the land use rights, buildings, and ancillary facilities on certain pieces of land totaling approximately 84,000 square meters where Lotus Technology's global headquarters is located in Wuhan, China, to the Jingkai Fund pursuant to an exchangeable note agreement entered into between the WFOE and the Jingkai Fund in September 2021. Such pledge will be terminated upon the listing of Lotus Technology's securities on Nasdaq.",
+            "metadata": {
+              "date_published": "2024-01-12",
+              "doc_id": "a893255a7f3f084df00e43b3d98fd02b3e7fe3a41fa082ebc965facc8f6329f1",
+              "filename": "20240112_final.json",
+              "global_id": 7127,
+              "next_chunk_id": "54d30acc78978bccc97794e8a289048b20b5ac8ea17adb935dd7041d1c8892d5",
+              "page_number": 290,
+              "prev_chunk_id": "",
+              "title_summary": "title: Properties and Facilities \nsummary: As of June 30, 2023, the company has established a diverse portfolio of leased office spaces across multiple cities in China and Europe, totaling approximately 84,000 square meters. These premises are strategically leased through agreements with independent third parties to support current operations and anticipated future growth. The facilities include various uses such as offices, experience stores, and Lotus centers, with lease terms ranging from short-term agreements of less than a year to longer commitments of up to 15 years.\n\nKey locations include major cities like Shanghai, Wuhan, and Beijing in China, as well as London, Paris, and Amsterdam in Europe. The company is currently satisfied with its facilities but recognizes the potential need for additional space as it expands. Furthermore, in October 2023, the company pledged the land use rights and buildings at its global headquarters in Wuhan to the Jingkai Fund as part of an exchangeable note agreement, which will be lifted upon the listing of its securities on Nasdaq. This comprehensive overview underscores the company's commitment to enhancing its operational footprint while maintaining flexibility in its leasing strategy."
+            },
+            "bundle_id": 6
+          },
+          {
+            "retriever": "FAISS",
+            "score": 0.6819274425506592,
+            "page_content": "LTC was incorporated as an exempted company in accordance with the laws and regulations of the Cayman Islands on August 9, 2021. The mailing address of Lotus Technology's principal executive office is No. 800 Century Avenue, Pudong District, Shanghai, People’s Republic of China, and the phone number is +86 21 5466-6258. Lotus Technology's corporate website address is www.group-lotus.com. The information contained in, or accessible through, Lotus Technology's website does not constitute a part of this prospectus.",
+            "metadata": {
+              "date_published": "2024-05-24",
+              "doc_id": "f2b0b5b16073a2caeec0565e971ce297e2d09b2161cf25c6e8768fce5bc8d8c2",
+              "filename": "20240524_final.json",
+              "global_id": 8624,
+              "next_chunk_id": "9c7c48f4440220a4a892c6042032c76bafcb5659eb8168f9a348e47ba8e0a95a",
+              "page_number": 23,
+              "prev_chunk_id": "d71028f0c42e8271f5c2ef2fa0413e0a7bee2c78e299af71f72d4cea9e4afe2d",
+              "title_summary": "title: Our Corporate Information \nsummary: LTC, an exempted company established in the Cayman Islands on August 9, 2021, has its principal executive office situated in Shanghai, China. The company can be contacted at +86 21 5466-6258, and further information is available on its website, www.group-lotus.com, although this website content is not included in the prospectus."
+            },
+            "bundle_id": 7
+          },
+          {
+            "retriever": "FAISS",
+            "score": 0.6800270080566406,
+            "page_content": "Lotus Technology has a dedicated global team to support its R&D activities with a sizable scale and comprehensive functionalities, covering all major technological perspectives. Lotus Technology's approach to innovation demonstrates an interconnected global collaboration among highly experienced and dedicated teams in the U.K., Germany, and China, each with different technological focuses. Centered around Lotus Technology's global headquarters in Wuhan, China, which focuses on cloud computing and online data processing, the company operates a software center in Shanghai focusing on global system integration and network security, and a research institute in Ningbo focusing on electric architecture, charging and power systems, and intelligent driving. Lotus Technology has established two R&D centers on engineering and product design, including the Lotus Technology Creative Centre (LTCC) located in the heart of the British car industry in Coventry, U.K., with a focus on automotive design and design strategy, product and brand communication, and sustainable material science, and the Lotus Technology Innovative Centre (LTIC) located in Frankfurt, Germany, with a focus on behavioral science, innovative vehicle technologies, dynamic attribute development, user interface, and regional tuning and application.",
+            "metadata": {
+              "date_published": "2024-05-03",
+              "doc_id": "73ccf536610ccac18108fbfe27f7bc526d12297b71da398c115cf5254f27ddc3",
+              "filename": "0503_final.json",
+              "global_id": 497,
+              "next_chunk_id": "407d881c83a57708644fade34df8ef01c0a9073e77d275a4eb1a38abc7f3867b",
+              "page_number": 124,
+              "prev_chunk_id": "b3bd472f149811cedace27efa616e49061a4fe6c8f4c8f1ad4f9589d6d0f6954",
+              "title_summary": "title: Worldwide Research and Development Footprint \nsummary: Lotus has developed a comprehensive global research and development (R&D) footprint aimed at enhancing its technological capabilities across various sectors, particularly in the automotive industry. The core of this R&D initiative is centered at its global headquarters in Wuhan, China, where the focus is on cloud computing and online data processing. Complementing this facility are a software center in Shanghai, which specializes in global system integration and network security, and a research institute in Ningbo that concentrates on electric architecture, charging systems, and intelligent driving technologies.\n\nIn addition to its Chinese operations, Lotus operates two significant R&D centers in Europe: the Lotus Technology Creative Centre (LTCC) located in Coventry, U.K., which emphasizes automotive design, product communication, and the use of sustainable materials; and the Lotus Technology Innovative Centre (LTIC) in Frankfurt, Germany, which is dedicated to behavioral science, innovative vehicle technologies, and user interface development.\n\nA key focus of Lotus's R&D efforts is the advancement of essential electric vehicle (EV) technologies, supported by the Geely Holding ecosystem. Notable initiatives include the development of the 800-volt EPA architecture along with its associated hardware, algorithms, and software systems, all aimed at enhancing the competitiveness of Lotus vehicles in the luxury automotive market. Furthermore, Lotus is exploring opportunities to monetize its R&D capabilities by licensing its intellectual property and software to other luxury automotive brands.\n\nAs of December 31, 2023, Lotus's R&D team consists of 1,802 professionals with extensive expertise in automotive engineering, software development, and artificial intelligence. This diverse team fosters a rich cultural and professional environment that encourages innovation and the exchange of ideas, thereby reinforcing Lotus's strong capabilities in technology development, particularly in the realms of intelligence and digitalization."
+            },
+            "bundle_id": 8
+          },
+          {
+            "retriever": "FAISS",
+            "score": 0.6795043349266052,
+            "page_content": "Lotus Technology has a dedicated global team to support its R&D activities with a sizable scale and comprehensive functionalities, covering all major technological perspectives. Lotus Technology's approach to innovation demonstrates an inter-connected global collaboration among highly experienced and dedicated teams in the U.K., Germany, and China, each with different technological focuses. Centered around Lotus Technology's global headquarters in Wuhan, China, which focuses on cloud computing and online data processing, the company operates a software center in Shanghai focusing on global system integration and network security and a research institute in Ningbo focusing on electric architecture, charging and power systems, and intelligent driving. Lotus Technology has established two R&D centers on engineering and product design, including the Lotus Technology Creative Centre (LTCC) located in the heart of the British car industry in Coventry, U.K., with a focus on automotive design and design strategy, product and brand communication, and sustainable material science, and the Lotus Technology Innovative Centre (LTIC) located in Frankfurt, Germany, with a focus on behavioral science, innovative vehicle technologies, dynamic attribute development, user interface, and regional tuning and application. Lotus Technology's research and development efforts are focusing on the development of key EV technologies while benefiting from the technological support from the Geely Holding ecosystem. Lotus Technology intends to continually develop cutting-edge technologies, including the 800-volt EPA architecture and hardware, algorithms, and software systems to enhance the competitiveness of its vehicles. Lotus Technology also plans to monetize its R&D capabilities by licensing its intellectual properties and software via subscriptions to other luxury auto brands.",
+            "metadata": {
+              "date_published": "2024-05-24",
+              "doc_id": "8d284b93fe5d80418df15ec4e50122c7df096ffb39d628c8ff35a70a895ee188",
+              "filename": "20240524_final.json",
+              "global_id": 8986,
+              "next_chunk_id": "79aabdacc1aa19016b36556a6db5661e8a059228352cecb05b093a4fdd14621e",
+              "page_number": 130,
+              "prev_chunk_id": "ac1ae216b5a7deaec946e73eea52f4a5e8a32d22f7ea718ec4fe5324bdc3317d",
+              "title_summary": "title: Worldwide Research and Development Footprint \nsummary: Lotus has formed a dedicated global team to bolster its research and development (R&D) efforts, integrating a wide array of technological expertise across multiple locations. The team includes specialized groups in the U.K., Germany, and China, with the global headquarters in Wuhan focusing on cloud computing and data processing, a software center in Shanghai dedicated to system integration and network security, and a research institute in Ningbo that works on electric architecture, charging systems, and intelligent driving technologies. Additionally, Lotus operates two R&D centers: the Lotus Technology Creative Centre (LTCC) in Coventry, which emphasizes automotive design and sustainable materials, and the Lotus Technology Innovative Centre (LTIC) in Frankfurt, concentrating on behavioral science and innovative vehicle technologies.\n\nLotus's R&D initiatives prioritize the advancement of electric vehicle (EV) technologies, supported by the Geely Holding ecosystem. The company aims to innovate with cutting-edge technologies, including an 800-volt EPA architecture, while enhancing hardware, algorithms, and software systems to improve vehicle competitiveness. Furthermore, Lotus plans to leverage its R&D capabilities by licensing intellectual properties and software to other luxury automotive brands through subscription models.\n\nAs of December 31, 2023, the global R&D team, led by seasoned professionals, consists of 1,802 experts in automotive engineering, software, and AI. Their diverse experiences from leading vehicle manufacturers worldwide enrich Lotus's technology development, particularly in intelligence and digitalization, fostering a collaborative environment that drives innovation."
+            },
+            "bundle_id": 9
+          },
+          {
+            "retriever": "Title Summary",
+            "score": 0.6723864674568176,
+            "page_content": "Lotus Technology's research and development efforts are focusing on the development of key electric vehicle technologies while benefiting from the technological support from the Geely Holding ecosystem. Lotus Technology intends to continually develop cutting-edge technologies, including the 800-volt EPA architecture and hardware, algorithms, and software systems to enhance the competitiveness of its vehicles. Lotus Technology also plans to monetize its R&D capabilities by licensing its intellectual properties and software via subscriptions to other luxury automotive brands. Guided by Lotus Technology's R&D leaders, the global research and development team has extensive experience in the automotive and technology industries. As of December 31, 2023, Lotus Technology's R&D team consisted of 1,802 professionals with extensive knowledge in automotive engineering, software, and artificial intelligence, as well as diversified working experiences from leading vehicle manufacturers globally. Such composition ensures solid technology development capabilities, especially in intelligence and digitalization. The diversified cultural and professional background promotes the exchange of ideas from different perspectives and ensures the generation of innovations.",
+            "metadata": {
+              "date_published": "2024-05-03",
+              "doc_id": "407d881c83a57708644fade34df8ef01c0a9073e77d275a4eb1a38abc7f3867b",
+              "filename": "0503_final.json",
+              "global_id": 498,
+              "next_chunk_id": "60eaae8f3cb114424f4a0e8f445bd56cb5caf249ddcfea75f1f31dde4caaea13",
+              "page_number": 124,
+              "prev_chunk_id": "73ccf536610ccac18108fbfe27f7bc526d12297b71da398c115cf5254f27ddc3",
+              "title_summary": "title: Worldwide Research and Development Footprint \nsummary: Lotus has developed a comprehensive global research and development (R&D) footprint aimed at enhancing its technological capabilities across various sectors, particularly in the automotive industry. The core of this R&D initiative is centered at its global headquarters in Wuhan, China, where the focus is on cloud computing and online data processing. Complementing this facility are a software center in Shanghai, which specializes in global system integration and network security, and a research institute in Ningbo that concentrates on electric architecture, charging systems, and intelligent driving technologies.\n\nIn addition to its Chinese operations, Lotus operates two significant R&D centers in Europe: the Lotus Technology Creative Centre (LTCC) located in Coventry, U.K., which emphasizes automotive design, product communication, and the use of sustainable materials; and the Lotus Technology Innovative Centre (LTIC) in Frankfurt, Germany, which is dedicated to behavioral science, innovative vehicle technologies, and user interface development.\n\nA key focus of Lotus's R&D efforts is the advancement of essential electric vehicle (EV) technologies, supported by the Geely Holding ecosystem. Notable initiatives include the development of the 800-volt EPA architecture along with its associated hardware, algorithms, and software systems, all aimed at enhancing the competitiveness of Lotus vehicles in the luxury automotive market. Furthermore, Lotus is exploring opportunities to monetize its R&D capabilities by licensing its intellectual property and software to other luxury automotive brands.\n\nAs of December 31, 2023, Lotus's R&D team consists of 1,802 professionals with extensive expertise in automotive engineering, software development, and artificial intelligence. This diverse team fosters a rich cultural and professional environment that encourages innovation and the exchange of ideas, thereby reinforcing Lotus's strong capabilities in technology development, particularly in the realms of intelligence and digitalization."
+            },
+            "bundle_id": 10
+          },
+          {
+            "retriever": "Title Summary",
+            "score": 0.670587420463562,
+            "page_content": "Lotus Technology Inc. has operations across China, the UK, and the EU. Lotus Technology Inc. is dedicated to delivering luxury lifestyle battery electric vehicles, with a focus on world-class research and development in next-generation automobility technologies such as electrification, digitalization, and more. For more information about Lotus Technology Inc., please visit www.group-lotus.com.",
+            "metadata": {
+              "date_published": "2024-02-23",
+              "doc_id": "0e56116c44613011d348a7acea588c52c7c0e772af7029cd7b419db27978a13f",
+              "filename": "Lotus_6-K_20240223_final.json",
+              "global_id": 11920,
+              "next_chunk_id": "c48aad61a3a9710bef5726703628956c60be1ddcf997613602c3c1e5d5caadd4",
+              "page_number": 4,
+              "prev_chunk_id": "",
+              "title_summary": "title: About Lotus Technology \nsummary: Lotus Technology Inc. is a luxury battery electric vehicle manufacturer with operations in China, the UK, and the EU. The company focuses on cutting-edge research and development in advanced automotive technologies, particularly in electrification and digitalization. More information can be found on their website, www.group-lotus.com."
+            },
+            "bundle_id": 11
+          },
+          {
+            "retriever": "Title Summary",
+            "score": 0.6641778945922852,
+            "page_content": "Lotus Technology Inc. has operations across the UK, the EU, and China. Lotus Technology Inc. is dedicated to delivering luxury lifestyle battery electric vehicles, with a focus on world-class research and development in next-generation automobility technologies such as electrification, digitalisation, and more. For more information about Lotus Technology Inc., please visit www.group-lotus.com.",
+            "metadata": {
+              "date_published": "2024-05-29",
+              "doc_id": "f67c04d6523f47d6844c9e04d4fa17ca989022f7ee757d5fa1ae8f9047e34732",
+              "filename": "Lotus_424B3_20240529_final.json",
+              "global_id": 9802,
+              "next_chunk_id": "07c16dd1be516ddbe65095e6207d11e64e4a0815ff0edbb2573cefebe1bb3bb5",
+              "page_number": 5,
+              "prev_chunk_id": "ac67251cc5a492e3b78ed54ca98096dc3a184c62b8cbb3e3bb486e52e9c7f554",
+              "title_summary": "title: About Lotus\nTechnology \nsummary: Lotus Technology Inc. is a luxury lifestyle electric vehicle manufacturer with operations in the UK, EU, and China. The company focuses on cutting-edge research and development in advanced automotive technologies, particularly in electrification and digitalization. For more information, you can visit their website at www.group-lotus.com."
+            },
+            "bundle_id": 12
+          },
+          {
+            "retriever": "BM25",
+            "score": 6.800716876983643,
+            "page_content": "In October 2023, Lotus Technology's wholly foreign-owned enterprise (WFOE) pledged the land use rights, buildings, and ancillary facilities on certain pieces of land totaling approximately 84,000 square meters where Lotus Technology's global headquarters is located in Wuhan, China, to the Jingkai Fund pursuant to an exchangeable note agreement entered into between the WFOE and the Jingkai Fund in September 2021. Such pledge was terminated in April 2024 following the listing of Lotus Technology's securities on Nasdaq pursuant to the terms of the pledge.",
+            "metadata": {
+              "date_published": "2024-05-03",
+              "doc_id": "f3f889e235ac70fb80eb98618c267d5a4fcbb178ea897b20b2c46c7474ec27b0",
+              "filename": "0503_final.json",
+              "global_id": 526,
+              "next_chunk_id": "60125410f9292610693746fba5dfd93d0b799df45d0232bea55e998648ac5191",
+              "page_number": 131,
+              "prev_chunk_id": "ddfa50a3bb8ed17a88a4ed00586eeee307587d09168ee543300adeb9b8cd0007",
+              "title_summary": "title: Properties and Facilities \nsummary: As of December 31, 2023, the company has established a network of leased premises across various cities in China and Europe, primarily through operating lease agreements with independent third parties. The existing facilities are considered adequate for current operations, with plans to seek additional space to support future growth.\n\n### Summary of Leased Premises:\n\n**China:**\n- **Shanghai:** 26,745 sq. m. for office use, Lotus center, and experience store; lease term: 1-10 years.\n- **Wuhan:** 18,423 sq. m. for office, Lotus center, and experience store; lease term: 1-over 10 years.\n- **Ningbo:** 9,389 sq. m. office; lease term: 5 years.\n- **Hangzhou:** 8,319 sq. m. for office and VIP room; lease term: 1-3 years.\n- **Beijing:** 4,803 sq. m. for Lotus center and experience store; lease term: 2.5-8.5 years.\n\n**Europe:**\n- **London, U.K.:** 2,197 sq. m. office; lease term: <1-10 years.\n- **Coventry, U.K.:** 2,700 sq. m. office; lease term: 5 years.\n- **Paris, France:** 2,596 sq. m. for experience store, Lotus center, and office; lease term: 6-10 years.\n- **Amsterdam, Netherlands:** 2,795 sq. m. office; lease term: 6.5-15 years.\n- **Houten, Netherlands:** 802 sq. m. for Lotus center and office; lease term: 5-10 years.\n- **Oslo, Norway:** 1,170 sq. m. for experience store and fulfillment center; lease term: 2-8 years.\n- **Munich, Germany:** 475 sq. m. for office, experience store, and fulfillment center; lease term: <1-2 years.\n- **Frankfurt, Germany:** 7,551 sq. m. for office and workshop; lease term: 10-12 years.\n- **Gothenburg, Sweden:** 40 sq. m. office; lease term: <1 year.\n- **Milan, Italy:** 40 sq. m. office; lease term: <1 year.\n\nIn addition to the leased premises, in October 2023, the company's wholly foreign-owned enterprise (WFOE) pledged land use rights and buildings totaling approximately 84,000 sq. m. at its global headquarters in Wuhan, China, to the Jingkai Fund under an exchangeable note agreement established in September 2021. This pledge was subsequently terminated in April 2024 following the listing of the company's securities on Nasdaq.\n\nOverall, the company is well-positioned with its current facilities and is actively planning for future expansion to accommodate anticipated growth."
+            },
+            "bundle_id": 13
+          },
+          {
+            "retriever": "BM25",
+            "score": 6.79603910446167,
+            "page_content": "In October 2023, the Wholly Foreign-Owned Enterprise (WFOE) pledged the land use rights, buildings, and ancillary facilities on certain pieces of land totaling approximately 84,000 square meters where Lotus Technology's global headquarters is located in Wuhan, China, to the Jingkai Fund pursuant to an exchangeable note agreement entered into between the WFOE and the Jingkai Fund in September 2021. Such pledge was terminated in April 2024 following the listing of Lotus Technology's securities on Nasdaq pursuant to the terms of the pledge.",
+            "metadata": {
+              "date_published": "2024-04-22",
+              "doc_id": "1eea354a7f60a10fe10e15f0995bac9a93b911d9b8ba25847ad7dc603905d6ae",
+              "filename": "20240422_final.json",
+              "global_id": 10370,
+              "next_chunk_id": "99480e82191f89bd741abfbbb96f0fa24402426ba68c0b8c78bbe5073781cef4",
+              "page_number": 126,
+              "prev_chunk_id": "941c3ab65d220d7aa4744c37ad6172d99f456645cc70d25c99ba9e93ea017cbf",
+              "title_summary": "title: D. Property, Plant and Equipment \nsummary: As of December 31, 2023, the company has established a network of leased offices across various cities in China and Europe, which are crucial for its current operations and future growth. The facilities range in size and function, with significant locations in Shanghai and Wuhan, China, where the largest premises are located, serving as both office spaces and experience centers. Lease terms for these properties vary widely, from less than a year to over a decade, reflecting the company's strategic approach to real estate.\n\nIn Europe, key locations include London, Paris, and Frankfurt, accommodating diverse activities such as offices and fulfillment centers. Additionally, smaller leased spaces in cities like Gothenburg and Milan highlight the company's flexibility in its real estate strategy. Notably, the company has made a financial commitment by pledging land use rights and buildings on approximately 84,000 square meters at its Wuhan headquarters to the Jingkai Fund, a move linked to an exchangeable note agreement from September 2021. This pledge was terminated in April 2024, aligning with the company's securities listing on Nasdaq. Overall, the company is well-positioned with its current facilities while planning for future expansion."
+            },
+            "bundle_id": 14
+          },
+          {
+            "retriever": "BM25",
+            "score": 5.323337554931641,
+            "page_content": "In October 2023, Lotus Technology's wholly foreign-owned enterprise (WFOE) pledged the land use rights, buildings, and ancillary facilities on certain pieces of land totaling approximately 84,000 square meters where Lotus Technology's global headquarters is located in Wuhan, China, to the Jingkai Fund pursuant to an exchangeable note agreement entered into between the WFOE and the Jingkai Fund in September 2021. Such pledge was terminated in April 2024 following the listing of Lotus Technology's securities on Nasdaq pursuant to the terms of the pledge. Lotus Technology maintains various insurance policies to safeguard the company against risks and unexpected events. Lotus Technology maintains property insurance, public liability insurance, commercial general liability insurance, employer’s liability insurance, driver’s liability insurance, and inland transit insurance. In addition to providing social security insurance for employees as required by applicable laws, Lotus Technology also provides supplemental commercial medical insurance for employees. Lotus Technology does not maintain business interruption insurance or key-man insurance. Lotus Technology believes that its insurance coverage is adequate to cover key assets, facilities, and liabilities.",
+            "metadata": {
+              "date_published": "2024-09-19",
+              "doc_id": "1d4fd4231d70ede58d51c129263d4583b8e09f34261e73413074c9b3004090d9",
+              "filename": "0919_final.json",
+              "global_id": 2460,
+              "next_chunk_id": "9aac05759034316c7cfbbc7756727a2edf669fdaed0cff3127ab41ed8a399317",
+              "page_number": 123,
+              "prev_chunk_id": "ac2f05669593beb3875d0f6c56ad7fd1c21cb739e4b75cf453b10cf459302327",
+              "title_summary": "title: Properties and Facilities \nsummary: As of June 30, 2024, the company has established a network of offices across various cities in China and Europe, operating under lease agreements with independent third parties. The leased premises encompass a diverse range of facilities, primarily for office use, Lotus centers, and experience stores, with lease terms varying from less than one year to 15 years. Key leased locations include:\n\n- **Shanghai, China**: 26,745 sqm (office, Lotus center, experience store); lease term of 1 to 10 years.\n- **Wuhan, China**: 18,123 sqm (office, Lotus center, experience store); lease term of 1 to over 10 years.\n- **Ningbo, China**: 9,389 sqm; lease term of 5 years.\n- **Hangzhou, China**: 14,725 sqm (office, VIP room); lease term of 1 to 3 years.\n- **Beijing, China**: 3,911 sqm (Lotus center, experience store); lease term of 2.5 to 8.5 years.\n- **London, U.K.**: 1,732 sqm; lease term of 10 years.\n- **Coventry, U.K.**: 3,800 sqm; lease term of less than 1 year.\n- **Paris, France**: 2,596 sqm (experience store, Lotus center, office); lease term of 6 to 10 years.\n- **Amsterdam, Netherlands**: 2,795 sqm; lease term of 6.5 to 15 years.\n- **Houten, Netherlands**: 802 sqm (Lotus center, office); lease term of 5 to 10 years.\n- **Oslo, Norway**: 1,170 sqm (experience store, fulfillment center); lease term of 2 to 8 years.\n- **Munich, Germany**: 475 sqm (office, experience store, fulfillment center); lease term of less than 1 to 2 years.\n- **Frankfurt (Raunheim), Germany**: 7,551 sqm (office, workshop); lease term of 10 to 12 years.\n- **Gothenburg, Sweden**: 40 sqm (office); lease term of less than 1 year.\n- **Milan, Italy**: 40 sqm (office); lease term of less than 1 year.\n- **Singapore**: 18 sqm (office); lease term of less than 1 year.\n\nIn addition to the leased properties, in October 2023, the company’s wholly foreign-owned enterprise (WFOE) pledged land use rights and facilities totaling approximately 84,000 sqm for its global headquarters in Wuhan, China, to the Jingkai Fund under an exchangeable note agreement. This pledge was subsequently terminated in April 2024 following the listing of the company's securities on Nasdaq.\n\nThe company assesses its existing facilities as adequate for current operational needs but anticipates the necessity of seeking additional space to accommodate future growth. This strategic outlook reflects the company's commitment to expanding its footprint while ensuring operational efficiency across its international locations."
+            },
+            "bundle_id": 15
+          },
+          {
+            "retriever": "BM25",
+            "score": 4.597319602966309,
+            "page_content": "However, if the PCAOB determines in the future that it no longer has full access to inspect and investigate completely accounting firms in mainland China and Hong Kong, and Lotus Technology uses an accounting firm headquartered in one of these jurisdictions to issue an audit report on its financial statements filed with the SEC, Lotus Technology and investors in its securities would be deprived of the benefits of such PCAOB inspections, which could cause investors and potential investors in the securities to lose confidence in Lotus Technology's audit procedures and reported financial information and the quality of its financial statements. Lotus Technology's securities may be prohibited from trading in the U.S. under the Holding Foreign Companies Accountable Act, or the HFCAA, if the PCAOB is unable to inspect or investigate completely auditors located in China. The delisting of Lotus Technology's securities, or the threat of their being delisted, may materially and adversely affect the value of your investment.",
+            "metadata": {
+              "date_published": "2024-09-19",
+              "doc_id": "4ecde974b7c2382596059dec10266220f45a85780116d3124730917f821910ff",
+              "filename": "0919_final.json",
+              "global_id": 2231,
+              "next_chunk_id": "fa77388a43867234a6de5254ab2f66aa2c70209c5a89dba7060c4cb68b4c6807",
+              "page_number": 62,
+              "prev_chunk_id": "d6c9d77f25aca63177847997602b2215569aa534d0ed16d1259c5a236a41d4fb",
+              "title_summary": "title: The PCAOB had historically been unable to inspect our auditor in relation to their audit work. \nsummary: The independent registered public accounting firm auditing our financial statements is based in mainland China and is subject to PCAOB regulations. Historically, the PCAOB was unable to conduct inspections in mainland China and Hong Kong until December 15, 2022, when it removed these jurisdictions from its list of areas where it could not fully inspect firms. This previous inability complicated the assessment of our auditor's effectiveness compared to those outside China. If the PCAOB were to regain restrictions in the future, it could result in our classification as a Commission-Identified Issuer under the Holding Foreign Companies Accountable Act (HFCAA). This classification would prohibit our securities from trading in the U.S. if the auditor has not been inspected for two consecutive years, potentially adversely impacting our investment value and capital-raising ability.\n\nIn addition to auditing concerns, complex regulations in China regarding mergers and acquisitions (M&A) by foreign investors could hinder our growth strategies. The 2019 PRC Foreign Investment Law and its Implementation Rules, which became effective on January 1, 2020, aim to align foreign investment regulations with international practices but introduce uncertainties in interpretation and implementation. Compliance with these laws may delay or complicate potential acquisitions.\n\nMoreover, regulations governing loans and capital contributions to our PRC subsidiaries may restrict our liquidity and operational expansion. Loans must comply with statutory limits and registration requirements set by the State Administration of Foreign Exchange (SAFE), while capital contributions also require government registration. Although recent SAFE circulars have eased some restrictions, they still impose limitations on the use of funds, which could affect our ability to finance new ventures or acquisitions in China. \n\nIn summary, the combination of PCAOB inspection limitations, regulatory complexities surrounding foreign investment, and stringent financial regulations poses significant challenges to our operational flexibility and growth potential in the Chinese market."
+            },
+            "bundle_id": 16
+          },
+          {
+            "retriever": "BM25",
+            "score": 4.403784275054932,
+            "page_content": "Pursuant to the HFCAA, if the SEC determines that Lotus Technology has filed audit reports issued by a registered public accounting firm that has not been subject to inspections by the PCAOB for two consecutive years, the SEC will prohibit Lotus Technology's securities from being traded on a national securities exchange or in the over-the-counter trading market in the United States. On December 16, 2021, the PCAOB issued a report to notify the SEC of its determination that the PCAOB was unable to inspect or investigate completely registered public accounting firms headquartered in mainland China and Hong Kong, including Lotus Technology’s auditor. On December 15, 2022, the PCAOB issued a report that vacated its December 16, 2021 determination and removed mainland China and Hong Kong from the list of jurisdictions where it is unable to inspect or investigate completely registered public accounting firms. Each year, the PCAOB will determine whether it can inspect and investigate completely audit firms in mainland China and Hong Kong, among other jurisdictions. If the PCAOB determines in the future that it no longer has full access to inspect and investigate completely accounting firms in mainland China and Hong Kong and Lotus Technology continues to use an accounting firm headquartered in one of these jurisdictions to issue an audit report on its financial statements filed with the Securities and Exchange Commission, Lotus Technology would be identified as a Commission-Identified Issuer following the filing of the annual report on Form 20-F for the relevant fiscal year.",
+            "metadata": {
+              "date_published": "2024-01-12",
+              "doc_id": "382fb5ca04d104475ea81b870ec3b07c604f9c77abf241a07a470d957978c978",
+              "filename": "20240112_final.json",
+              "global_id": 6224,
+              "next_chunk_id": "1555235dcd7e545474340e9e76ba80a0e16ce3ddb62433a82ed7a0c2fb19af1e",
+              "page_number": 49,
+              "prev_chunk_id": "",
+              "title_summary": "title: The Holding Foreign Companies Accountable Act \nsummary: The Holding Foreign Companies Accountable Act (HFCAA) allows the SEC to prohibit trading of a company's securities if it relies on audit reports from a registered public accounting firm that has not been inspected by the PCAOB for two consecutive years. Initially, on December 16, 2021, the PCAOB reported its inability to fully inspect auditing firms in mainland China and Hong Kong, including the auditor for Lotus Tech. However, this determination was reversed on December 15, 2022, opening the possibility for future inspections in these regions. The PCAOB will continue to evaluate its inspection capabilities annually. If it concludes that full inspections remain unfeasible and Lotus Tech continues to use an auditor from these areas, the company could be designated as a Commission-Identified Issuer after filing its annual report on Form 20-F. This classification poses a risk, as there is no assurance that Lotus Tech will evade it in subsequent fiscal years. For a deeper understanding of the associated business risks, refer to the \"Risk Factors\" section."
+            },
+            "bundle_id": 17
+          },
+          {
+            "retriever": "BM25",
+            "score": 4.39369010925293,
+            "page_content": "Pursuant to the HFCAA, if the SEC determines that Lotus Technology has filed audit reports issued by a registered public accounting firm that has not been subject to inspections by the PCAOB for two consecutive years, the SEC will prohibit Lotus Technology's securities from being traded on a national securities exchange or in the over-the-counter trading market in the United States. On December 16, 2021, the PCAOB issued a report to notify the SEC of its determination that the PCAOB was unable to inspect or investigate completely registered public accounting firms headquartered in mainland China and Hong Kong, and Lotus Technology's auditor was subject to that determination. On December 15, 2022, the Public Company Accounting Oversight Board (PCAOB) removed mainland China and Hong Kong from the list of jurisdictions where the PCAOB is unable to inspect or investigate completely registered public accounting firms. Each year, the Public Company Accounting Oversight Board (PCAOB) will determine whether it can inspect and investigate completely audit firms in mainland China and Hong Kong, among other jurisdictions. If the PCAOB determines in the future that it no longer has full access to inspect and investigate completely accounting firms in mainland China and Hong Kong and Lotus Technology uses an accounting firm headquartered in one of these jurisdictions to issue an audit report on its financial statements filed with the SEC, Lotus Technology would be identified as a Commission-Identified Issuer following the filing of the annual report on Form 20-F for the relevant fiscal year.",
+            "metadata": {
+              "date_published": "2024-01-12",
+              "doc_id": "a410b011a88cd5d37ddf36065c82cd69b18e5190442ba420708633bf6a3ba257",
+              "filename": "20240112_final.json",
+              "global_id": 6561,
+              "next_chunk_id": "bfd075f083fc078f8dd905ffc2d97cc8e6683212f3d4c9683dd5bcb9fe1dd6d3",
+              "page_number": 134,
+              "prev_chunk_id": "",
+              "title_summary": "title: Our securities may be prohibited from trading in the United States under the Holding Foreign Companies Accountable Act, or the HFCAA, if the PCAOB is unable to inspect or investigate completely auditors located in China. The delisting of our securities, or the threat of their being delisted, may materially and adversely affect the value of your investment. \nsummary: The Holding Foreign Companies Accountable Act (HFCAA) mandates that if the SEC identifies a company using audit reports from a public accounting firm that has not been inspected by the PCAOB for two consecutive years, it will restrict trading of that company's securities in the U.S. markets. On December 16, 2021, the PCAOB reported its inability to fully inspect firms in mainland China and Hong Kong, including our auditor. However, on December 15, 2022, the PCAOB lifted these restrictions, allowing for potential oversight in these regions. The PCAOB will now evaluate its inspection capabilities annually. If it finds it cannot fully inspect firms and we continue to use an accounting firm from these areas for our SEC filings, we risk being classified as a Commission-Identified Issuer. Should this classification persist for two consecutive years, our securities would face trading bans in U.S. markets, severely limiting our ability to list on non-U.S. exchanges, impacting share liquidity, pricing, and our overall capacity to raise capital, which could adversely affect our business and financial health."
+            },
+            "bundle_id": 18
+          },
+          {
+            "retriever": "BM25",
+            "score": 4.218161582946777,
+            "page_content": "Lotus Technology has a dedicated global team to support its R&D activities with a sizable scale and comprehensive functionalities, covering all major technological perspectives. Lotus Technology's approach to innovation demonstrates an interconnected global collaboration among highly experienced and dedicated teams in the UK, Germany, and China, each with different technological focuses. Centered around Lotus Technology's global headquarters in Wuhan, China, which focuses on cloud computing and online data processing, the company operates a software center in Shanghai focusing on global system integration and network security and a research institute in Ningbo focusing on electric architecture, charging and power systems, and intelligent driving. Lotus Technology has established two R&D centers on engineering and product design, including the Lotus Technology Creative Centre (LTCC) located in the heart of the British car industry in Coventry, UK, with a focus on automotive design and design strategy, product and brand communication, and sustainable material science, and the Lotus Technology Innovative Centre (LTIC) located in Frankfurt, Germany, with a focus on behavioral science, innovative vehicle technologies, dynamic attribute development, user interface, and regional tuning and application. Lotus Technology's research and development efforts are focusing on the development of key EV technologies while benefiting from the technological support from the Geely Holding ecosystem. Lotus Technology intends to continuously develop cutting-edge technologies, including the 800-volt EPA architecture and hardware, algorithms, and software systems to enhance the competitiveness of its vehicles. Lotus Technology also plans to monetize its R&D capabilities by licensing its intellectual properties and software via subscriptions to other luxury auto brands.",
+            "metadata": {
+              "date_published": "2024-01-11",
+              "doc_id": "9d3b27fc992a3771ca2814728fa020d06666589a5ab6a660eafc3b4f5575b907",
+              "filename": "20240111_final.json",
+              "global_id": 4614,
+              "next_chunk_id": "",
+              "page_number": 284,
+              "prev_chunk_id": "",
+              "title_summary": "title: Worldwide Research and Development Footprint \nsummary: Lotus has formed a dedicated global team to bolster its research and development (R&D) efforts, encompassing a wide array of technological expertise across its facilities in the UK, Germany, and China. The global headquarters in Wuhan focuses on cloud computing and online data processing, while the Shanghai software center specializes in system integration and network security. The Ningbo research institute is dedicated to electric architecture, charging systems, and intelligent driving technologies. Additionally, Lotus operates two main R&D centers: the Lotus Technology Creative Centre (LTCC) in Coventry, UK, which emphasizes automotive design and sustainable materials, and the Lotus Technology Innovative Centre (LTIC) in Frankfurt, Germany, which centers on behavioral science and innovative vehicle technologies.\n\nLotus's R&D initiatives prioritize the advancement of electric vehicle (EV) technologies, leveraging support from the Geely Holding ecosystem. The company is committed to continuous innovation, particularly in its 800-volt EPA architecture, and aims to enhance vehicle competitiveness through improvements in hardware, algorithms, and software systems. Furthermore, Lotus plans to monetize its R&D capabilities by licensing intellectual properties and software to other luxury automotive brands via subscription models.\n\nAs of June 30, 2023, Lotus's global R&D team, led by industry experts, consists of 1,804 professionals with extensive knowledge in automotive engineering, software, and AI. Their diverse backgrounds contribute to a dynamic exchange of ideas, significantly enhancing Lotus's technology development, particularly in intelligence and digitalization, and driving innovation within the company."
+            },
+            "bundle_id": 19
+          }
+        ]
+      ]
+    }
+  ]
+}

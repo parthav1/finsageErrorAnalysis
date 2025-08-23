@@ -1,0 +1,1244 @@
+[
+    {
+        "question": "路特斯科技的总部位于哪里？",
+        "rewritten": [
+            "Where is the headquarters of Lotus Technology located?"
+        ],
+        "hyde": [
+            [
+                "The headquarters of Lotus Technology is located in Hangzhou, Zhejiang Province, China. The company, a subsidiary of Geely, focuses on electric vehicle development and innovation.",
+                "Lotus Technology, a key player in the electric vehicle market, has its main headquarters in Hangzhou, China. This strategic location supports its advanced R&D and manufacturing capabilities.",
+                "[Table Level]\n    •\tTable Title: Lotus Technology Corporate Information\n    •\tTable Summary: This table provides key information about Lotus Technology, including its headquarters location, founding year, and primary business focus.\n    •\tContext: The data highlights the company's strategic positioning in the global electric vehicle market and its significance in China's automotive industry.\n    •\tSpecial Notes: The table is updated annually to reflect any changes in the company's structure or operations.\n    [Row Level]\n    •\tRow 1: Headquarters Location: Hangzhou, Zhejiang, China\n    •\tRow 2: Founding Year: 2020\n    •\tRow 3: Primary Business Focus: Electric Vehicle Development and Innovation"
+            ]
+        ],
+        "perplexity": [
+            1.125335327228591
+        ]
+    },
+    {
+        "question": "路特斯科技股票在哪个交易所交易？股票代码是多少？",
+        "rewritten": [
+            "Where is Lotus Technology's stock traded? What is the stock code for Lotus Technology?"
+        ],
+        "hyde": [
+            [
+                "Lotus Technology's stock is traded on the New York Stock Exchange (NYSE). The stock code for Lotus Technology is LOTS.",
+                "As of the latest information, Lotus Technology is listed on the NASDAQ Global Market. The stock ticker symbol is LTT.",
+                "[Table Level]\n    •\tTable Title: Stock Listings for Lotus Technology\n    •\tTable Summary: This table provides the stock exchange and ticker symbol for Lotus Technology, as of the latest financial records.\n    •\tContext: This information is crucial for investors and analysts to track the company's stock performance and make informed decisions.\n    •\tSpecial Notes: The stock listing may change over time, so it's important to verify the current exchange and ticker symbol.\n    [Row Level]\n    •\tRow 1: Stock Exchange: NASDAQ\n    •\tRow 2: Ticker Symbol: LTT"
+            ]
+        ],
+        "perplexity": [
+            1.1446004009891808
+        ]
+    },
+    {
+        "question": "路特斯科技的一股美国存托股份【ADS】代表多少股普通股？",
+        "rewritten": [
+            "How many ordinary shares does one American Depositary Share (ADS) of Lotus Technology represent?"
+        ],
+        "hyde": [
+            [
+                "Each American Depositary Share (ADS) of Lotus Technology represents 5 ordinary shares. This structure is common for companies listed on U.S. exchanges to facilitate trading for international investors.",
+                "The ratio of ordinary shares to ADS for Lotus Technology is 5:1. This means each ADS you hold is equivalent to 5 ordinary shares of the company, enhancing liquidity and accessibility for U.S. investors.",
+                "[Table Level]\n    •\tTable Title: Lotus Technology ADS to Ordinary Share Ratio\n    •\tTable Summary: This table outlines the conversion ratio of ADS to ordinary shares for Lotus Technology, effective as of the latest listing.\n    •\tContext: Understanding this ratio is crucial for investors to accurately assess their holdings and the value of their investment.\n    •\tSpecial Notes: The ratio has been consistent since the company's initial public offering (IPO).\n\n    [Row Level]\n    •\tRow 1: ADS to Ordinary Share Ratio: 1:5\n    •\tRow 2: Effective Date: [Latest Listing Date]"
+            ]
+        ],
+        "perplexity": [
+            1.131152180784956
+        ]
+    },
+    {
+        "question": "路特斯科技的主营业务是什么？",
+        "rewritten": [
+            "What is the main business of Lotus Technology?"
+        ],
+        "hyde": [
+            [
+                "Lotus Technology primarily focuses on developing advanced electric vehicle (EV) platforms and battery technology. Their innovations aim to enhance vehicle performance, efficiency, and sustainability in the automotive industry.",
+                "[Table Level]\n•\tTable Title: Lotus Technology Business Segments\n•\tTable Summary: This table outlines the main business segments of Lotus Technology, including EV development, battery technology, and software solutions, as of 2023.\n•\tContext: Understanding these segments helps in assessing the company's strategic focus and market positioning.\n•\tSpecial Notes: Data is based on the latest annual report and may be subject to updates.\n•\tRow 1: EV Development - Design and manufacturing of electric vehicles\n•\tRow 2: Battery Technology - Research and production of high-capacity batteries",
+                "Lotus Technology is also known for its collaboration with automotive giants to integrate cutting-edge technology into their vehicles, focusing on areas such as autonomous driving, connectivity, and advanced safety features."
+            ]
+        ],
+        "perplexity": [
+            1.1801603533105158
+        ]
+    },
+    {
+        "question": "路特斯科技与路特斯汽车的关系是什么？",
+        "rewritten": [
+            "What is the relationship between Lotus Technology and Lotus Cars?"
+        ],
+        "hyde": [
+            [
+                "Lotus Technology is a subsidiary of Lotus Cars, focusing on electric vehicle (EV) technology and innovation. It was established to drive the development of high-performance EVs, complementing Lotus Cars' legacy in sports car manufacturing.",
+                "Lotus Technology and Lotus Cars are both part of the Geely Automotive Group. Lotus Technology specializes in advanced EV technology, while Lotus Cars continues to produce traditional sports cars, sharing resources and expertise to enhance performance and innovation.",
+                "[Table Level]\n    •\tTable Title: Lotus Group Structure\n    •\tTable Summary: This table outlines the organizational structure of the Lotus Group, including the roles and focus areas of Lotus Cars and Lotus Technology.\n    •\tContext: Understanding the structure helps in grasping the strategic direction and technological advancements of the Lotus brand.\n    •\tSpecial Notes: The table is updated annually to reflect any changes in the group's structure.\n\n    [Row Level]\n    •\tRow 1: Company - Lotus Cars, Focus - Traditional Sports Cars, Parent - Geely Automotive Group\n    •\tRow 2: Company - Lotus Technology, Focus - Electric Vehicle Technology, Parent - Geely Automotive Group"
+            ]
+        ],
+        "perplexity": [
+            1.1673217395310551
+        ]
+    },
+    {
+        "question": "路特斯科技与吉利汽车的关系是什么？",
+        "rewritten": [
+            "What is the relationship between Lotus Technology and Geely Auto?"
+        ],
+        "hyde": [
+            [
+                "Lotus Technology is a subsidiary of Geely Auto, focusing on high-performance electric vehicles. Geely Auto, a leading Chinese automaker, acquired Lotus in 2017 to expand its global footprint and enhance its electric vehicle capabilities.",
+                "Geely Auto has invested significantly in Lotus Technology to develop advanced EV technologies. This strategic move aims to leverage Lotus's engineering expertise and brand prestige to accelerate Geely's transition to electric mobility.",
+                "[Table Level]\n    •\tTable Title: Geely Auto Subsidiaries\n    •\tTable Summary: A list of key subsidiaries under Geely Auto, including Lotus Technology, with their primary focus and year of acquisition.\n    •\tContext: This table provides an overview of Geely Auto's strategic acquisitions and their roles in the company's expansion.\n    •\tSpecial Notes: The table highlights the importance of Lotus Technology in Geely's electric vehicle strategy.\n    [Row Level]\n    •\tRow 1: Lotus Technology - High-Performance Electric Vehicles - 2017\n    •\tRow 2: Lynk & Co - Premium Urban Vehicles - 2010"
+            ]
+        ],
+        "perplexity": [
+            1.1353936695614346
+        ]
+    },
+    {
+        "question": "路特斯科技的股东结构构成？",
+        "rewritten": [
+            "What is the shareholder structure of Lotus Technology?"
+        ],
+        "hyde": [
+            [
+                "The shareholder structure of Lotus Technology is dominated by Geely Holding Group, which acquired a controlling stake in 2017. This acquisition has significantly influenced the company's strategic direction and global expansion.",
+                "[Table Level]\n•\tTable Title: Shareholder Structure of Lotus Technology\n•\tTable Summary: This table outlines the major shareholders of Lotus Technology as of 2023, including their percentage of ownership and the date of their investment.\n•\tContext: Understanding the shareholder structure is crucial for investors and analysts to gauge the company's governance and potential for future growth.\n•\tSpecial Notes: The data is based on the latest available financial reports and may be subject to change.\n\n    [Row Level]\n    •\tRow 1: Geely Holding Group - 51% - 2017\n    •\tRow 2: Daimler AG - 10% - 2019",
+                "Lotus Technology's shareholder base includes a mix of strategic investors and financial institutions. Daimler AG, a significant investor, holds a 10% stake, reflecting the company's commitment to innovation and technology in the automotive sector."
+            ]
+        ],
+        "perplexity": [
+            1.1443900230173074
+        ]
+    },
+    {
+        "question": "路特斯科技全球的门店数量是多少？生活用车已经进入多少国家、地区？",
+        "rewritten": [
+            "What is the total number of Lotus Technology stores globally?",
+            "How many countries and regions has Lotus Technology entered for daily use vehicles?"
+        ],
+        "hyde": [
+            [
+                "As of 2023, Lotus Technology operates over 150 stores across 20 countries, with the highest concentration in North America and Europe. This expansion reflects the company's strategic focus on global market penetration and customer accessibility.",
+                "[Table Level]\n•\tTable Title: Global Distribution of Lotus Technology Stores\n•\tTable Summary: This table provides a breakdown of the number of Lotus Technology stores by region and country as of 2023.\n•\tContext: The data highlights the company's international presence and growth strategy, which is crucial for investors and market analysts.\n•\tSpecial Notes: Data is updated quarterly to reflect new store openings and closures.\n\n    [Row Level]\n    •\tRow 1: North America - 50 stores\n    •\tRow 2: Europe - 45 stores",
+                "According to the latest company report, Lotus Technology has a total of 145 stores worldwide, with significant growth in Asia and the Middle East. The company plans to open 10 more stores by the end of 2023, further expanding its global footprint."
+            ],
+            [
+                "Lotus Technology has expanded its presence to over 20 countries and regions, including Europe, Asia, and North America, focusing on premium and high-performance daily use vehicles.",
+                "As of the latest data, Lotus Technology has established operations in 15 major regions, with a strong emphasis on markets in the UK, China, and Germany, where it has seen significant growth in daily use vehicle sales.",
+                "[Table Level]\n    •\tTable Title: Lotus Technology Global Market Presence\n    •\tTable Summary: This table lists the countries and regions where Lotus Technology has established operations for daily use vehicles, as of 2023.\n    •\tContext: The data highlights the company's strategic expansion into key automotive markets, reflecting its global reach and market penetration.\n    •\tSpecial Notes: The table includes both direct and indirect sales regions.\n    [Row Level]\n    •\tRow 1: UK, Germany, France, Italy, Spain\n    •\tRow 2: China, Japan, South Korea, Singapore, Australia"
+            ]
+        ],
+        "perplexity": [
+            1.1428188330078202,
+            1.168005073230246
+        ]
+    },
+    {
+        "question": "路特斯科技是否受到欧洲、美国对中国的关税影响？具体适用税率是多少？",
+        "rewritten": [
+            "Is Lotus Technology affected by tariffs imposed by Europe and the United States on China? What are the specific applicable tax rates?"
+        ],
+        "hyde": [
+            [
+                "Lotus Technology, a Chinese company, is indeed affected by tariffs imposed by Europe and the United States. The U.S. imposes a 25% tariff on certain Chinese goods, while the EU has a variable tariff rate ranging from 0% to 15%, depending on the product category.",
+                "The specific tax rates for Lotus Technology vary by product. For example, electronic components face a 25% tariff in the U.S. and a 10% tariff in the EU. Software and services are generally exempt from these tariffs, but physical goods are heavily impacted.",
+                "[Table Level]\n    •\tTable Title: Tariff Rates on Lotus Technology Products\n    •\tTable Summary: This table outlines the tariff rates imposed by the U.S. and EU on specific Lotus Technology products, including electronic components, software, and hardware.\n    •\tContext: Understanding these rates is crucial for assessing the financial impact on Lotus Technology and for strategic planning.\n    •\tSpecial Notes: Rates are subject to change based on trade agreements and political decisions.\n    [Row Level]\n    •\tRow 1: Product: Electronic Components | U.S. Tariff: 25% | EU Tariff: 10%\n    •\tRow 2: Product: Software | U.S. Tariff: 0% | EU Tariff: 0%"
+            ]
+        ],
+        "perplexity": [
+            1.1220798671988936
+        ]
+    },
+    {
+        "question": "路特斯科技在售产品有哪些？价格是多少？",
+        "rewritten": [
+            "What are the products currently offered by Lotus Technology? What are the prices of these products?"
+        ],
+        "hyde": [
+            [
+                "Lotus Technology currently offers a range of products including the Lotus L1000 smartphone, the Lotus X500 laptop, and the Lotus S200 smartwatch. Prices vary: the L1000 is $499, the X500 is $899, and the S200 is $199.",
+                "The product lineup from Lotus Technology includes the Lotus L1000 smartphone, priced at $499, the Lotus X500 laptop at $899, and the Lotus S200 smartwatch for $199. These prices are current as of the latest update.",
+                "[Table Level]\n    •\tTable Title: Lotus Technology Product Prices\n    •\tTable Summary: This table lists the current prices of Lotus Technology's products, including the L1000 smartphone, X500 laptop, and S200 smartwatch, as of the latest update.\n    •\tContext: This data is crucial for consumers and retailers to understand the pricing structure and make informed decisions.\n    •\tSpecial Notes: Prices are subject to change based on market conditions and promotions.\n    [Row Level]\n    •\tRow 1: Product: Lotus L1000 Smartphone, Price: $499\n    •\tRow 2: Product: Lotus X500 Laptop, Price: $899\n    •\tRow 3: Product: Lotus S200 Smartwatch, Price: $199"
+            ]
+        ],
+        "perplexity": [
+            1.1059903411896035
+        ]
+    },
+    {
+        "question": "路特斯科技截止上半年的全球交付数量是多少？",
+        "rewritten": [
+            "What is the global delivery volume of Lotus Technology as of the first half of the year?"
+        ],
+        "hyde": [
+            [
+                "As of the first half of 2023, Lotus Technology reported a global delivery volume of 120,000 units, marking a 15% increase from the same period last year. This growth reflects the company's expanding market presence and successful product launches.",
+                "According to the latest financial report, Lotus Technology delivered 115,000 units globally in the first half of 2023. The company attributes this to strong demand in Asia and Europe, driven by innovative technology and strategic partnerships.",
+                "[Table Level]\n    •\tTable Title: Global Delivery Volume of Lotus Technology (H1 2023)\n    •\tTable Summary: This table provides a breakdown of Lotus Technology's global delivery volume by region for the first half of 2023.\n    •\tContext: The data highlights regional performance and can be used to assess market trends and strategic focus areas.\n    •\tSpecial Notes: Figures are based on company reports and may be subject to revision.\n    [Row Level]\n    •\tRow 1: Region: Asia, Units: 60,000\n    •\tRow 2: Region: Europe, Units: 35,000\n    •\tRow 3: Region: North America, Units: 15,000\n    •\tRow 4: Region: Rest of the World, Units: 10,000"
+            ]
+        ],
+        "perplexity": [
+            1.0984383669050861
+        ]
+    },
+    {
+        "question": "路特斯科技的商品销售毛利率是多少？",
+        "rewritten": [
+            "What is the gross margin of Lotus Technology?"
+        ],
+        "hyde": [
+            [
+                "The gross margin of Lotus Technology for the fiscal year 2022 was 35%. This indicates that for every dollar of revenue, the company retained 35 cents after accounting for the cost of goods sold.",
+                "According to the latest financial report, Lotus Technology's gross margin has consistently ranged between 32% and 38% over the past five years, reflecting stable cost management and pricing strategies.",
+                "[Table Level]\n    •\tTable Title: Lotus Technology Gross Margin (2018-2022)\n    •\tTable Summary: This table provides the gross margin percentages for Lotus Technology from 2018 to 2022, highlighting year-over-year changes.\n    •\tContext: The data is crucial for investors and analysts to assess the company's profitability and operational efficiency over time.\n    •\tSpecial Notes: Figures are based on audited financial statements.\n    [Row Level]\n    •\tRow 1: 2018 - 32%\n    •\tRow 2: 2019 - 34%\n    •\tRow 3: 2020 - 36%\n    •\tRow 4: 2021 - 37%\n    •\tRow 5: 2022 - 35%"
+            ]
+        ],
+        "perplexity": [
+            1.078866482437856
+        ]
+    },
+    {
+        "question": "路特斯科技最新的销售指引？",
+        "rewritten": [
+            "What is the latest sales guidance for Lotus Technology?"
+        ],
+        "hyde": [
+            [
+                "The latest sales guidance for Lotus Technology, as of Q3 2023, projects a 15% increase in revenue compared to the previous year, driven by strong demand in the electric vehicle market and new product launches.",
+                "According to the Q4 2023 earnings call, Lotus Technology expects to achieve sales of $1.2 billion, with a focus on expanding their global distribution network and increasing market share in Asia.",
+                "[Table Level]\n    •\tTable Title: Lotus Technology Sales Guidance 2023\n    •\tTable Summary: This table provides a quarterly breakdown of sales projections for Lotus Technology, including revenue targets and key growth drivers for each quarter.\n    •\tContext: The data highlights the company's strategic initiatives and market expectations, which are crucial for investors and analysts to understand the company's financial trajectory.\n    •\tSpecial Notes: The table includes both actual and projected figures, with a focus on the impact of new product launches and market expansion.\n    [Row Level]\n    •\tRow 1: Q1 2023 - Projected Revenue: $250 million, Key Drivers: New EV Models\n    •\tRow 2: Q2 2023 - Projected Revenue: $300 million, Key Drivers: Market Expansion in Europe"
+            ]
+        ],
+        "perplexity": [
+            1.1410814473958768
+        ]
+    },
+    {
+        "question": "路特斯科技是否盈利？",
+        "rewritten": [
+            "Is Lotus Technology profitable?"
+        ],
+        "hyde": [
+            [
+                "Lotus Technology, a subsidiary of Geely, has shown promising financial growth. Recent reports indicate a steady increase in revenue, driven by strong sales of electric vehicles and strategic partnerships. However, profitability details are not publicly disclosed.",
+                "[Table Level]\n•\tTable Title: Financial Performance of Lotus Technology\n•\tTable Summary: This table outlines the revenue, expenses, and net income of Lotus Technology from 2020 to 2023.\n•\tContext: The data highlights the company's financial trajectory, showing a shift towards profitability in recent years.\n•\tSpecial Notes: Figures are in millions of USD and include both domestic and international sales.\n•\tRow 1: 2020 - Revenue: $500M, Expenses: $550M, Net Income: -$50M\n•\tRow 2: 2023 - Revenue: $800M, Expenses: $700M, Net Income: $100M",
+                "According to industry analysts, Lotus Technology is on the verge of profitability. Despite significant investments in R&D and expansion, the company has managed to reduce losses and is expected to turn a profit by the end of the fiscal year."
+            ]
+        ],
+        "perplexity": [
+            1.146995419927536
+        ]
+    },
+    {
+        "question": "路特斯科技的用户画像？",
+        "rewritten": [
+            "What is the user profile for Lotus Technology?"
+        ],
+        "hyde": [
+            [
+                "Lotus Technology primarily targets tech-savvy professionals and enthusiasts. Their user base is characterized by a high level of interest in cutting-edge technology, sustainability, and performance. The company focuses on electric vehicles and advanced software solutions.",
+                "[Table Level]\n•\tTable Title: Lotus Technology User Demographics\n•\tTable Summary: This table provides a breakdown of Lotus Technology's user base by age, gender, and geographic location as of 2023.\n•\tContext: Understanding the demographics helps tailor marketing strategies and product development.\n•\tSpecial Notes: Data is based on user surveys and sales data.\n•\tRow 1: Age Group: 18-34, 35-54, 55+\n•\tRow 2: Gender: Male, Female, Non-binary\n•\tRow 3: Location: North America, Europe, Asia",
+                "Lotus Technology's user profile includes early adopters and environmentally conscious consumers. The company's focus on electric vehicles and sustainable technology appeals to individuals who prioritize eco-friendliness and innovation in their purchasing decisions."
+            ]
+        ],
+        "perplexity": [
+            1.1488918181449113
+        ]
+    },
+    {
+        "question": "路特斯科技产品的交付周期是多少？",
+        "rewritten": [
+            "What is the delivery cycle for Lotus Technology products?"
+        ],
+        "hyde": [
+            [
+                "The delivery cycle for Lotus Technology products typically ranges from 4 to 6 weeks, depending on the product and current demand. Expedited shipping options are available for an additional fee.",
+                "Lotus Technology's delivery cycle varies by product line. For instance, software solutions are delivered within 1-2 weeks, while hardware products may take 4-8 weeks due to manufacturing and quality assurance processes.",
+                "[Table Level]\n    •\tTable Title: Lotus Technology Product Delivery Cycle\n    •\tTable Summary: This table outlines the average delivery times for various Lotus Technology products, categorized by product type and shipping method.\n    •\tContext: Understanding these delivery times helps customers plan their purchases and manage expectations. It also aids in inventory management and customer service.\n    •\tSpecial Notes: Delivery times may vary during peak demand periods or due to unforeseen circumstances.\n    [Row Level]\n    •\tRow 1: Product Type: Software, Average Delivery Time: 1-2 weeks, Standard Shipping: 1-2 weeks, Expedited Shipping: 1-3 days\n    •\tRow 2: Product Type: Hardware, Average Delivery Time: 4-8 weeks, Standard Shipping: 4-6 weeks, Expedited Shipping: 2-4 weeks"
+            ]
+        ],
+        "perplexity": [
+            1.1242715211584868
+        ]
+    },
+    {
+        "question": "路特斯科技的员工数量？",
+        "rewritten": [
+            "What is the number of employees at Lotus Technology?"
+        ],
+        "hyde": [
+            [
+                "As of 2023, Lotus Technology, a subsidiary of Geely, has approximately 5,000 employees. This number includes staff across engineering, design, and manufacturing departments.",
+                "[Table Level]\n•\tTable Title: Employee Distribution at Lotus Technology\n•\tTable Summary: This table provides a breakdown of the number of employees across different departments at Lotus Technology as of 2023.\n•\tContext: Understanding the distribution helps in assessing the company's focus areas and operational structure.\n•\tSpecial Notes: Data is based on the latest internal reports.\n\n    [Row Level]\n    •\tRow 1: Engineering - 2,500\n    •\tRow 2: Design - 1,000\n    •\tRow 3: Manufacturing - 1,200\n    •\tRow 4: Administration - 300",
+                "According to the latest annual report, Lotus Technology has expanded its workforce to 5,000 employees, reflecting a 20% increase from the previous year. This growth is primarily driven by new projects in electric vehicle development."
+            ]
+        ],
+        "perplexity": [
+            1.144997701089606
+        ]
+    },
+    {
+        "question": "路特斯科技的研发投入？研发人员数量？",
+        "rewritten": [
+            "What is the R&D investment of Lotus Technology?",
+            "How many R&D personnel does Lotus Technology have?"
+        ],
+        "hyde": [
+            [
+                "Lotus Technology has significantly increased its R&D investment over the past three years, focusing on electric vehicle (EV) technology and autonomous driving systems. The company allocated $500 million in 2022, up from $300 million in 2020.",
+                "[Table Level]\n• Table Title: Lotus Technology R&D Investment (2020-2022)\n• Table Summary: This table provides a breakdown of Lotus Technology's R&D investment from 2020 to 2022, categorized by technology focus areas.\n• Context: The data highlights the company's strategic shift towards sustainable and advanced technologies, reflecting its commitment to innovation.\n• Special Notes: Figures are in millions of dollars.\n\n    [Row Level]\n    • Row 1: 2020 - $300 million (EV: $150 million, Autonomous: $100 million, Other: $50 million)\n    • Row 2: 2021 - $400 million (EV: $200 million, Autonomous: $150 million, Other: $50 million)\n    • Row 3: 2022 - $500 million (EV: $250 million, Autonomous: $200 million, Other: $50 million)",
+                "In 2023, Lotus Technology plans to further boost its R&D investment to $600 million, with a primary focus on developing next-generation electric vehicle (EV) batteries and enhancing the efficiency of autonomous driving systems."
+            ],
+            [
+                "As of 2023, Lotus Technology has approximately 500 R&D personnel dedicated to advancing electric vehicle technology and innovation. This number reflects their commitment to cutting-edge research and development.",
+                "Lotus Technology's R&D team has grown significantly over the past five years, from around 300 in 2018 to over 500 in 2023. This expansion underscores their focus on technological leadership in the electric vehicle market.",
+                "[Table Level]\n    •\tTable Title: Lotus Technology R&D Personnel Growth\n    •\tTable Summary: This table shows the number of R&D personnel at Lotus Technology from 2018 to 2023, highlighting the company's investment in research and development.\n    •\tContext: The data reflects the company's strategic focus on innovation and its commitment to staying at the forefront of electric vehicle technology.\n    •\tSpecial Notes: Figures are based on annual reports and may include both full-time and part-time employees.\n    [Row Level]\n    •\tRow 1: 2018 - 300\n    •\tRow 2: 2023 - 500"
+            ]
+        ],
+        "perplexity": [
+            1.0988963746979445,
+            1.1194910979667523
+        ]
+    },
+    {
+        "question": "路特斯科技的主要竞争优势是什么？",
+        "rewritten": [
+            "What are the main competitive advantages of Lotus Technology?"
+        ],
+        "hyde": [
+            [
+                "Lotus Technology excels in lightweight design, leveraging advanced materials like carbon fiber and aluminum to enhance performance and efficiency. This focus on weight reduction is a key competitive advantage, especially in the automotive and racing industries.",
+                "[Table Level]\n•\tTable Title: Competitive Advantages of Lotus Technology\n•\tTable Summary: This table outlines the key competitive advantages of Lotus Technology, including innovation, design, and performance metrics, as of 2023.\n•\tContext: The data highlights why Lotus stands out in the automotive and technology sectors, providing insights for investors and industry analysts.\n•\tSpecial Notes: Data is based on recent company reports and industry benchmarks.\n•\tRow 1: Innovation - Advanced materials and engineering\n•\tRow 2: Design - Lightweight and aerodynamic",
+                "Lotus Technology has a strong focus on aerodynamics, which significantly reduces drag and improves fuel efficiency. This advantage is particularly notable in high-performance vehicles and has been a cornerstone of their success in both racing and consumer markets."
+            ]
+        ],
+        "perplexity": [
+            1.1983515019053206
+        ]
+    },
+    {
+        "question": "路特斯科技的远期目标？",
+        "rewritten": [
+            "What are the long-term goals of Lotus Technology?"
+        ],
+        "hyde": [
+            [
+                "Lotus Technology aims to revolutionize the automotive industry by integrating advanced AI and sustainable materials. Their long-term goals include achieving zero emissions and developing fully autonomous vehicles by 2030.",
+                "[Table Level]\n•\tTable Title: Lotus Technology Long-Term Goals\n•\tTable Summary: This table outlines the key objectives and milestones set by Lotus Technology for the next decade, including emissions reduction, autonomous driving, and material innovation.\n•\tContext: The data highlights the company's commitment to sustainability and technological advancement, providing a roadmap for investors and stakeholders.\n•\tSpecial Notes: Goals are subject to regulatory changes and technological breakthroughs.\n•\tRow 1: 2025 - 50% reduction in emissions\n•\tRow 2: 2030 - Full autonomy in all models",
+                "Lotus Technology is focused on creating a sustainable future. Their long-term goals include developing lightweight, eco-friendly materials and establishing a global network of charging stations to support electric vehicles."
+            ]
+        ],
+        "perplexity": [
+            1.148444304921355
+        ]
+    },
+    {
+        "question": "路特斯科技2024年前9个月的业绩表现如何？",
+        "rewritten": [
+            "What is the performance of Lotus Technology for the first 9 months of 2024?"
+        ],
+        "hyde": [
+            [
+                "Lotus Technology reported a 15% increase in revenue for the first 9 months of 2024, driven by strong sales in their electric vehicle segment. The company also achieved a 10% improvement in operational efficiency.",
+                "[Table Level]\n• Table Title: Lotus Technology Financial Performance (Q1-Q3 2024)\n• Table Summary: This table provides a detailed breakdown of Lotus Technology's financial performance, including revenue, profit margins, and key financial ratios for the first three quarters of 2024.\n• Context: The data highlights the company's growth and financial health, which can be used for investor analysis and strategic planning.\n• Special Notes: Figures are in millions of USD and are audited.\n\n    [Row Level]\n    • Row 1: Q1 2024 - Revenue: $500M, Profit Margin: 12%\n    • Row 2: Q2 2024 - Revenue: $550M, Profit Margin: 13%\n    • Row 3: Q3 2024 - Revenue: $600M, Profit Margin: 14%",
+                "Lotus Technology has seen a significant boost in customer satisfaction and market share in the first 9 months of 2024, with a 20% increase in positive customer reviews and a 15% rise in market share in the electric vehicle segment."
+            ]
+        ],
+        "perplexity": [
+            1.1004914192988715
+        ]
+    },
+    {
+        "question": "路特斯科技截止3季度的全球交付数量是多少？增长如何？",
+        "rewritten": [
+            "What is the global delivery volume of Lotus Technology as of the third quarter? How has the delivery volume grown?"
+        ],
+        "hyde": [
+            [
+                "As of the third quarter, Lotus Technology reported a global delivery volume of 12,500 units, marking a 30% increase from the previous year. This growth reflects the company's expanding market presence and successful product launches.",
+                "The global delivery volume of Lotus Technology in Q3 was 12,500 units, up from 9,600 units in Q3 of the previous year. This 29.2% growth indicates strong consumer demand and effective supply chain management.",
+                "[Table Level]\n    •\tTable Title: Lotus Technology Global Delivery Volume\n    •\tTable Summary: This table shows the quarterly delivery volumes of Lotus Technology from Q1 2022 to Q3 2023, highlighting the growth trend.\n    •\tContext: The data illustrates the company's performance and market expansion, which can be used for strategic planning and investor analysis.\n    •\tSpecial Notes: Figures are based on official company reports and may be subject to revision.\n\n    [Row Level]\n    •\tRow 1: Q1 2022 - 8,000 units\n    •\tRow 2: Q3 2023 - 12,500 units"
+            ]
+        ],
+        "perplexity": [
+            1.1168956345741001
+        ]
+    },
+    {
+        "question": "路特斯科技前三季度生活用车和跑车的交付量分别是多少？",
+        "rewritten": [
+            "What were the delivery volumes of Lotus Technology's lifestyle vehicles and sports cars in the first three quarters?"
+        ],
+        "hyde": [
+            [
+                "In the first three quarters, Lotus Technology delivered 12,500 lifestyle vehicles and 7,800 sports cars. These figures reflect a steady increase in demand, particularly for the lifestyle segment, driven by new model launches and expanded market presence.",
+                "According to the latest sales report, Lotus Technology's delivery volumes for the first three quarters were as follows: 11,000 lifestyle vehicles and 8,200 sports cars. The company attributes the growth to strategic marketing and improved supply chain efficiency.",
+                "[Table Level]\n    •\tTable Title: Lotus Technology Delivery Volumes (Q1-Q3)\n    •\tTable Summary: This table provides a quarterly breakdown of delivery volumes for lifestyle vehicles and sports cars from Q1 to Q3.\n    •\tContext: The data highlights the company's performance and market trends, useful for investors and analysts.\n    •\tSpecial Notes: Figures are based on official company reports and may be subject to revision.\n\n    [Row Level]\n    •\tRow 1: Q1 - Lifestyle: 3,500, Sports: 2,800\n    •\tRow 2: Q2 - Lifestyle: 4,000, Sports: 2,900\n    •\tRow 3: Q3 - Lifestyle: 3,500, Sports: 2,500"
+            ]
+        ],
+        "perplexity": [
+            1.1276152728891358
+        ]
+    },
+    {
+        "question": "路特斯科技第三季度的交付量是多少？",
+        "rewritten": [
+            "What is the delivery volume of Lotus Technology in the third quarter?"
+        ],
+        "hyde": [
+            [
+                "Lotus Technology reported a delivery volume of 12,500 units in the third quarter of 2023, marking a 15% increase from the previous quarter. This growth reflects the company's expanding market presence and improved production efficiency.",
+                "According to the latest financial report, Lotus Technology delivered 11,800 units in Q3 2023. The company attributes this to a successful marketing campaign and the launch of new models, which have been well-received by consumers.",
+                "[Table Level]\n    •\tTable Title: Lotus Technology Delivery Volume by Quarter\n    •\tTable Summary: This table shows the quarterly delivery volumes for Lotus Technology from Q1 2023 to Q3 2023, highlighting the growth trend.\n    •\tContext: The data is crucial for investors and analysts to understand the company's performance and market demand.\n    •\tSpecial Notes: The figures are based on official company reports and are subject to audit.\n    [Row Level]\n    •\tRow 1: Q1 2023 - 10,000 units\n    •\tRow 2: Q2 2023 - 11,000 units\n    •\tRow 3: Q3 2023 - 12,500 units"
+            ]
+        ],
+        "perplexity": [
+            1.1237338544770987
+        ]
+    },
+    {
+        "question": "路特斯科技的毛利率是多少？经营性利润/亏损是多少？",
+        "rewritten": [
+            "What is the gross margin of Lotus Technology?",
+            "What is the operating profit/loss of Lotus Technology?"
+        ],
+        "hyde": [
+            [
+                "The gross margin of Lotus Technology for the fiscal year 2022 was 35%. This indicates that for every dollar of revenue, the company retained 35 cents after accounting for the cost of goods sold.",
+                "According to the latest financial report, Lotus Technology's gross margin has consistently ranged between 32% and 38% over the past five years, reflecting stable cost management and pricing strategies.",
+                "[Table Level]\n    •\tTable Title: Lotus Technology Gross Margin (2018-2022)\n    •\tTable Summary: This table provides the gross margin percentages for Lotus Technology from 2018 to 2022, highlighting year-over-year changes.\n    •\tContext: The data is crucial for investors and analysts to assess the company's profitability and operational efficiency over time.\n    •\tSpecial Notes: Figures are based on audited financial statements.\n    [Row Level]\n    •\tRow 1: 2018 - 32%\n    •\tRow 2: 2019 - 34%\n    •\tRow 3: 2020 - 36%\n    •\tRow 4: 2021 - 37%\n    •\tRow 5: 2022 - 35%"
+            ],
+            [
+                "Lotus Technology reported an operating profit of $150 million in the last fiscal year, reflecting a 10% increase from the previous year. This growth is attributed to cost-cutting measures and increased sales in their electric vehicle segment.",
+                "In the most recent quarter, Lotus Technology experienced an operating loss of $20 million, primarily due to increased R&D investments and supply chain disruptions. The company is focusing on optimizing production to mitigate these losses.",
+                "[Table Level]\n    •\tTable Title: Lotus Technology Operating Profit/Loss\n    •\tTable Summary: This table provides a quarterly breakdown of Lotus Technology's operating profit/loss from 2021 to 2023, highlighting key financial metrics and trends.\n    •\tContext: The data is crucial for investors and analysts to understand the company's financial health and strategic decisions.\n    •\tSpecial Notes: Figures are in millions of dollars and are adjusted for inflation.\n    [Row Level]\n    •\tRow 1: Q1 2021 - Operating Profit: $120 million\n    •\tRow 2: Q4 2023 - Operating Loss: $20 million"
+            ]
+        ],
+        "perplexity": [
+            1.078866482437856,
+            1.1408700299185324
+        ]
+    },
+    {
+        "question": "路特斯科技的全年销售指引是多少？目前看是否能完成？",
+        "rewritten": [
+            "What is the full-year sales guidance for Lotus Technology? Is it currently on track to meet this guidance?"
+        ],
+        "hyde": [
+            [
+                "Lotus Technology's full-year sales guidance is set at $1.5 billion. Recent quarterly reports indicate strong performance, with Q3 sales reaching $400 million, suggesting the company is on track to meet or exceed its guidance.",
+                "According to the latest earnings call, Lotus Technology projects full-year sales of $1.45 billion. Current Q3 results show a 10% increase in sales over the previous year, indicating a positive trajectory toward meeting the guidance.",
+                "[Table Level]\n    •\tTable Title: Lotus Technology Sales Projections and Actuals\n    •\tTable Summary: This table provides a comparison of Lotus Technology's projected and actual sales for each quarter of the fiscal year, with a focus on the full-year guidance.\n    •\tContext: The data highlights the company's performance against its sales targets, which is crucial for investors and stakeholders to assess the company's financial health and growth.\n    •\tSpecial Notes: The table includes a column for the variance between projected and actual sales, which can help identify any discrepancies and areas for improvement.\n    [Row Level]\n    •\tRow 1: Q1 - Projected: $350M, Actual: $360M, Variance: +$10M\n    •\tRow 2: Q2 - Projected: $370M, Actual: $380M, Variance: +$10M"
+            ]
+        ],
+        "perplexity": [
+            1.14582984539564
+        ]
+    },
+    {
+        "question": "路特斯科技的最新员工数量？研发人员数量？",
+        "rewritten": [
+            "What is the latest employee count for Lotus Technology?",
+            "How many R&D personnel does Lotus Technology have?"
+        ],
+        "hyde": [
+            [
+                "As of the third quarter of 2023, Lotus Technology reported an employee count of 1,250, reflecting a 15% increase from the previous year. This growth is attributed to their expansion into new markets and the launch of innovative products.",
+                "According to the latest annual report from Lotus Technology, the company has 1,300 employees as of December 2023. The report highlights significant hiring in the R&D and sales departments to support their strategic initiatives.",
+                "[Table Level]\n    •\tTable Title: Lotus Technology Employee Count\n    •\tTable Summary: This table provides the employee count for Lotus Technology from 2021 to 2023, broken down by department.\n    •\tContext: The data reflects the company's growth and strategic hiring efforts over the past three years.\n    •\tSpecial Notes: The table includes a breakdown by department, which can help identify areas of focus for expansion.\n    [Row Level]\n    •\tRow 1: 2021 - Total: 1,000, R&D: 300, Sales: 200, Operations: 500\n    •\tRow 2: 2022 - Total: 1,100, R&D: 350, Sales: 250, Operations: 500\n    •\tRow 3: 2023 - Total: 1,300, R&D: 400, Sales: 300, Operations: 600"
+            ],
+            [
+                "As of 2023, Lotus Technology has approximately 500 R&D personnel dedicated to advancing electric vehicle technology and innovation. This number reflects their commitment to cutting-edge research and development.",
+                "Lotus Technology's R&D team has grown significantly over the past five years, from around 300 in 2018 to over 500 in 2023. This expansion underscores their focus on technological leadership in the electric vehicle market.",
+                "[Table Level]\n    •\tTable Title: Lotus Technology R&D Personnel Growth\n    •\tTable Summary: This table shows the number of R&D personnel at Lotus Technology from 2018 to 2023, highlighting the company's investment in research and development.\n    •\tContext: The data reflects the company's strategic focus on innovation and its commitment to staying at the forefront of electric vehicle technology.\n    •\tSpecial Notes: Figures are based on annual reports and may include both full-time and part-time employees.\n    [Row Level]\n    •\tRow 1: 2018 - 300\n    •\tRow 2: 2023 - 500"
+            ]
+        ],
+        "perplexity": [
+            1.101642108037855,
+            1.1194910979667523
+        ]
+    },
+    {
+        "question": "路特斯科技的欧洲市场、中国市场、北美市场分别的销售贡献如何？",
+        "rewritten": [
+            "What are the sales contributions of Lotus Technology in the European market, Chinese market, and US market?"
+        ],
+        "hyde": [
+            [
+                "Lotus Technology's sales contributions in 2022 were as follows: European market - 35%, Chinese market - 40%, and US market - 25%. These figures highlight the company's strong presence in China and Europe.",
+                "According to the latest market analysis, Lotus Technology's sales in the European market have grown by 15% year-over-year, while the Chinese market has seen a 20% increase, and the US market has remained stable.",
+                "[Table Level]\n    •\tTable Title: Lotus Technology Sales Contributions by Region (2022)\n    •\tTable Summary: This table provides a breakdown of Lotus Technology's sales contributions in the European, Chinese, and US markets for the year 2022.\n    •\tContext: The data reflects the company's market share and growth in key regions, which is crucial for strategic planning and investment decisions.\n    •\tSpecial Notes: Figures are based on internal sales reports and may be subject to audit.\n\n    [Row Level]\n    •\tRow 1: European Market - 35%\n    •\tRow 2: Chinese Market - 40%\n    •\tRow 3: US Market - 25%"
+            ]
+        ],
+        "perplexity": [
+            1.1116488927731503
+        ]
+    },
+    {
+        "question": "路特斯科技的欧洲、中国、美国分别的门店数量占比如何？",
+        "rewritten": [
+            "What is the distribution of Lotus Technology's store numbers in Europe, China, and the United States?"
+        ],
+        "hyde": [
+            [
+                "As of 2023, Lotus Technology operates 120 stores in Europe, 150 stores in China, and 80 stores in the United States. This distribution reflects the company's strategic focus on the Chinese market and its growing presence in the United States.",
+                "[Table Level]\n• Table Title: Lotus Technology Store Distribution\n• Table Summary: This table provides the number of Lotus Technology stores in Europe, China, and the United States as of 2023.\n• Context: The data highlights the company's market penetration and strategic expansion in key regions.\n• Special Notes: Data is based on the latest company report.\n\n    [Row Level]\n    • Row 1: Europe - 120 stores\n    • Row 2: China - 150 stores\n    • Row 3: United States - 80 stores",
+                "Lotus Technology's store distribution in Europe, China, and the United States is as follows: 120 stores in Europe, 150 stores in China, and 80 stores in the United States. This distribution indicates a strong presence in China and a balanced approach in Europe and the U.S."
+            ]
+        ],
+        "perplexity": [
+            1.0993068344432926
+        ]
+    },
+    {
+        "question": "路特斯生活用车和跑车的销售占比分别怎样？",
+        "rewritten": [
+            "What is the sales ratio of Lotus Technology's lifestyle vehicles and sports cars?"
+        ],
+        "hyde": [
+            [
+                "The sales ratio of Lotus Technology's lifestyle vehicles to sports cars was 3:7 in the last fiscal year, indicating a stronger market presence for sports cars. This ratio reflects consumer preferences and the company's product focus.",
+                "According to the latest sales report, Lotus Technology sold 1,200 lifestyle vehicles and 2,800 sports cars in the first quarter of 2023, resulting in a sales ratio of 1:2.33. This highlights the higher demand for sports cars.",
+                "[Table Level]\n    •\tTable Title: Lotus Technology Sales Ratio\n    •\tTable Summary: This table shows the sales ratio of lifestyle vehicles to sports cars for Lotus Technology from 2021 to 2023, broken down by quarter.\n    •\tContext: The data helps in understanding market trends and the company's sales performance over time.\n    •\tSpecial Notes: The sales ratio is calculated as the number of lifestyle vehicles sold divided by the number of sports cars sold.\n\n    [Row Level]\n    •\tRow 1: Q1 2021 - 1:2.5\n    •\tRow 2: Q1 2023 - 1:2.33"
+            ]
+        ],
+        "perplexity": [
+            1.1267587730391964
+        ]
+    },
+    {
+        "question": "路特斯科技在2024年有哪些关键性成就？",
+        "rewritten": [
+            "What are the key achievements of Lotus Technology in 2024?"
+        ],
+        "hyde": [
+            [
+                "In 2024, Lotus Technology launched the Eletre, an all-electric SUV with advanced AI-driven features, achieving a 300-mile range and 0-60 mph in under 3 seconds. This marked a significant milestone in their transition to electric vehicles.",
+                "Lotus Technology secured a major partnership with a leading tech firm to develop next-generation autonomous driving systems. This collaboration resulted in the integration of Level 4 autonomy in their new models, enhancing safety and efficiency.",
+                "[Table Level]\n    •\tTable Title: Lotus Technology 2024 Achievements\n    •\tTable Summary: A summary of key milestones and innovations achieved by Lotus Technology in 2024, including product launches, partnerships, and technological advancements.\n    •\tContext: This table provides a comprehensive overview of Lotus Technology's progress, highlighting their strategic initiatives and market impact.\n    •\tSpecial Notes: Data is sourced from official company reports and press releases.\n    [Row Level]\n    •\tRow 1: Launch of Eletre SUV - All-electric, 300-mile range, 0-60 mph in under 3 seconds\n    •\tRow 2: Partnership with Tech Firm - Development of Level 4 autonomous driving systems"
+            ]
+        ],
+        "perplexity": [
+            1.1465734771914768
+        ]
+    },
+    {
+        "question": "路特斯科技的平均MSRP在什么水平？",
+        "rewritten": [
+            "What is the average MSRP for Lotus Technology?"
+        ],
+        "hyde": [
+            [
+                "The average Manufacturer's Suggested Retail Price (MSRP) for Lotus Technology vehicles, as of 2023, ranges from $80,000 to $150,000, depending on the model and features.",
+                "According to recent market data, the average MSRP for Lotus Technology's electric vehicles is approximately $110,000, reflecting their premium positioning in the market.",
+                "[Table Level]\n    •\tTable Title: Average MSRP for Lotus Technology Models\n    •\tTable Summary: This table provides the average MSRP for different Lotus Technology models as of 2023, including the Eletre and Emira.\n    •\tContext: The data highlights the pricing strategy of Lotus Technology, showing the range of prices for their electric and hybrid models.\n    •\tSpecial Notes: Prices are subject to change based on market conditions and regional variations.\n    [Row Level]\n    •\tRow 1: Model: Eletre, Average MSRP: $110,000\n    •\tRow 2: Model: Emira, Average MSRP: $80,000"
+            ]
+        ],
+        "perplexity": [
+            1.10568013697674
+        ]
+    },
+    {
+        "question": "路特斯科技在2024年进入了哪些新市场？",
+        "rewritten": [
+            "What new markets did Lotus Technology enter in 2024?"
+        ],
+        "hyde": [
+            [
+                "In 2024, Lotus Technology expanded into the European electric vehicle market, launching its first EV model in Germany, France, and the UK. This move was part of their global strategy to increase their presence in key automotive markets.",
+                "Lotus Technology entered the Southeast Asian market in 2024, specifically targeting countries like Thailand and Malaysia. They introduced a range of hybrid and electric vehicles tailored to the region's climate and driving conditions.",
+                "[Table Level]\n    •\tTable Title: Lotus Technology Market Expansion in 2024\n    •\tTable Summary: This table lists the new markets Lotus Technology entered in 2024, including the countries, product types, and key partnerships.\n    •\tContext: The data highlights Lotus Technology's strategic moves to diversify its market presence and adapt to regional demands.\n    •\tSpecial Notes: The table includes both automotive and technology markets.\n    [Row Level]\n    •\tRow 1: Germany - Electric Vehicles - Partnership with BMW\n    •\tRow 2: Thailand - Hybrid Vehicles - Collaboration with local manufacturers"
+            ]
+        ],
+        "perplexity": [
+            1.185520449083089
+        ]
+    },
+    {
+        "question": "路特斯科技有哪些ESG成就？",
+        "rewritten": [
+            "What are the ESG achievements of Lotus Technology?"
+        ],
+        "hyde": [
+            [
+                "Lotus Technology has achieved significant milestones in environmental sustainability, including a 50% reduction in carbon emissions and the implementation of a zero-waste-to-landfill policy across all manufacturing sites.",
+                "In terms of social impact, Lotus Technology has launched community engagement programs, providing educational resources and job training to local communities, and has achieved a 70% employee satisfaction rate.",
+                "[Table Level]\n    •\tTable Title: Lotus Technology ESG Performance\n    •\tTable Summary: This table outlines key ESG metrics for Lotus Technology, including emissions reduction, waste management, and social initiatives, from 2020 to 2023.\n    •\tContext: The data highlights the company's commitment to sustainable practices and its progress over time, which is crucial for stakeholders and investors.\n    •\tSpecial Notes: Data is audited and verified by independent third parties.\n    [Row Level]\n    •\tRow 1: 2020 - Carbon Emissions: 100,000 tons, Waste to Landfill: 10%, Community Programs: 5\n    •\tRow 2: 2023 - Carbon Emissions: 50,000 tons, Waste to Landfill: 0%, Community Programs: 15"
+            ]
+        ],
+        "perplexity": [
+            1.1260537237584356
+        ]
+    },
+    {
+        "question": "路特斯的智能驾驶有哪些成就？",
+        "rewritten": [
+            "What are the achievements of Lotus Technology in smart driving?"
+        ],
+        "hyde": [
+            [
+                "Lotus Technology has made significant strides in smart driving, including the development of advanced driver assistance systems (ADAS) and autonomous driving technologies. Their innovations focus on enhancing safety, efficiency, and user experience.",
+                "[Table Level]\n•\tTable Title: Lotus Technology Smart Driving Achievements\n•\tTable Summary: This table outlines key achievements in smart driving technology by Lotus Technology from 2015 to 2023, including milestones in ADAS, autonomous driving, and connectivity.\n•\tContext: The data highlights the company's progress in integrating cutting-edge technologies to improve vehicle performance and safety.\n•\tSpecial Notes: The table includes specific project names and the year of achievement.\n\n    [Row Level]\n    •\tRow 1: 2015 - Launch of first ADAS system\n    •\tRow 2: 2018 - Development of Level 2 autonomous driving",
+                "Lotus Technology has partnered with leading tech companies to develop smart driving solutions, such as integrating AI for real-time traffic analysis and predictive maintenance systems. These collaborations have significantly enhanced the reliability and functionality of their smart driving technologies."
+            ]
+        ],
+        "perplexity": [
+            1.1570432768151122
+        ]
+    },
+    {
+        "question": "智能驾驶业务（也就是路特斯机器人）的销售额？",
+        "rewritten": [
+            "What are the sales figures for the intelligent driving business (Lotus Robotics)?"
+        ],
+        "hyde": [
+            [
+                "In 2022, Lotus Robotics reported a significant increase in sales, with total revenue reaching $150 million, up 30% from the previous year. This growth was driven by increased demand for autonomous vehicle solutions.",
+                "According to the latest financial report, Lotus Robotics' sales for the first quarter of 2023 were $45 million, a 25% increase compared to the same period in 2022. The company attributes this to new contracts in the logistics sector.",
+                "[Table Level]\n    •\tTable Title: Lotus Robotics Sales Figures (2021-2023)\n    •\tTable Summary: This table provides a quarterly breakdown of sales figures for Lotus Robotics from 2021 to 2023, highlighting the growth in revenue over the period.\n    •\tContext: The data reflects the company's performance in the intelligent driving market, showing consistent growth and key areas of investment.\n    •\tSpecial Notes: Figures are in millions of dollars and include both domestic and international sales.\n\n    [Row Level]\n    •\tRow 1: Q1 2021 - $30 million\n    •\tRow 2: Q1 2022 - $36 million\n    •\tRow 3: Q1 2023 - $45 million"
+            ]
+        ],
+        "perplexity": [
+            1.1271042142725307
+        ]
+    },
+    {
+        "question": "介绍一下路特斯智能驾驶的NOA服务？",
+        "rewritten": [
+            "Can you provide an introduction to Lotus Technology's NOA (Navigate on Autopilot) service?"
+        ],
+        "hyde": [
+            [
+                "Lotus Technology's NOA (Navigate on Autopilot) is an advanced driver assistance system designed to enhance safety and convenience. It uses a combination of sensors, cameras, and AI to navigate highways and urban environments, providing a semi-autonomous driving experience.",
+                "NOA by Lotus Technology integrates real-time traffic data, GPS, and vehicle sensors to offer precise navigation and lane-keeping assistance. It is designed to reduce driver fatigue and improve road safety, making long-distance travel more comfortable and efficient.",
+                "[Table Level]\n    •\tTable Title: NOA Features and Capabilities\n    •\tTable Summary: This table outlines the key features and capabilities of Lotus Technology's NOA system, including its sensor types, operational environments, and safety protocols.\n    •\tContext: Understanding these features is crucial for assessing the system's reliability and suitability for various driving conditions.\n    •\tSpecial Notes: The table includes data from the latest version of NOA, as of 2023.\n\n    [Row Level]\n    •\tRow 1: Sensor Types: LiDAR, Radar, Cameras\n    •\tRow 2: Operational Environments: Highways, Urban Areas, Parking Lots"
+            ]
+        ],
+        "perplexity": [
+            1.159293132837442
+        ]
+    },
+    {
+        "question": "介绍一下路特斯的Vision80计划和Win26计划",
+        "rewritten": [
+            "Can you introduce Lotus Technology's Vision80 plan and Win26 plan?"
+        ],
+        "hyde": [
+            [
+                "Lotus Technology's Vision80 plan is a strategic initiative aimed at achieving 80% electrification of its global sales by 2028. It focuses on developing high-performance electric vehicles (EVs) and integrating advanced technologies to enhance driving experiences.",
+                "The Win26 plan is designed to secure Lotus Technology's position as a leading luxury EV brand by 2026. It includes aggressive expansion into new markets, the launch of multiple EV models, and significant investments in R&D and manufacturing capabilities.",
+                "[Table Level]\n    •\tTable Title: Lotus Technology Strategic Plans Overview\n    •\tTable Summary: This table provides a comparison of the key objectives and timelines for the Vision80 and Win26 plans, highlighting the company's goals for electrification and market expansion.\n    •\tContext: The data is crucial for understanding Lotus Technology's long-term strategy and how it plans to transition to a fully electric vehicle manufacturer.\n    •\tSpecial Notes: The table includes specific milestones and target dates for each plan.\n\n    [Row Level]\n    •\tRow 1: Vision80 Plan - 80% Electrification by 2028, Focus on High-Performance EVs, Advanced Technology Integration\n    •\tRow 2: Win26 Plan - Secure Luxury EV Brand Position by 2026, Market Expansion, Multiple EV Model Launches, R&D and Manufacturing Investments"
+            ]
+        ],
+        "perplexity": [
+            1.1558242227903406
+        ]
+    },
+    {
+        "question": "路特斯科技2024年1-10月的销量是多少？",
+        "rewritten": [
+            "What are the sales figures for Lotus Technology from January to October 2024?"
+        ],
+        "hyde": [
+            [
+                "Lotus Technology reported a steady increase in sales from January to October 2024, with a total revenue of $120 million. The highest sales were recorded in October, reaching $15 million, driven by the launch of their new product line.",
+                "[Table Level]\n• Table Title: Monthly Sales Figures for Lotus Technology (January-October 2024)\n• Table Summary: This table provides a detailed breakdown of monthly sales figures for Lotus Technology from January to October 2024, showing the revenue generated each month.\n• Context: The data highlights the company's performance over the first ten months of the year, reflecting market trends and the impact of new product launches.\n• Special Notes: Figures are in millions of dollars and are based on internal company reports.\n\n    [Row Level]\n    • Row 1: January - $10 million\n    • Row 2: February - $11 million\n    • Row 3: March - $12 million\n    • Row 4: April - $13 million\n    • Row 5: May - $14 million\n    • Row 6: June - $14 million\n    • Row 7: July - $15 million\n    • Row 8: August - $16 million\n    • Row 9: September - $17 million\n    • Row 10: October - $15 million",
+                "According to the latest financial report, Lotus Technology's sales from January to October 2024 have seen a 10% increase compared to the same period last year. The company attributes this growth to successful marketing campaigns and expanded distribution channels."
+            ]
+        ],
+        "perplexity": [
+            1.11491297616752
+        ]
+    },
+    {
+        "question": "前10个月欧洲市场和中国市场的销量贡献分别是多少？",
+        "rewritten": [
+            "What are the sales contributions of the European and Chinese markets for the first 10 months?"
+        ],
+        "hyde": [
+            [
+                "The European market contributed 35% to the total sales, while the Chinese market contributed 25% for the first 10 months of the year. These figures highlight the significant role both regions play in the company's revenue.",
+                "Sales data from January to October shows that the European market generated $1.75 billion, and the Chinese market generated $1.25 billion. This indicates a steady growth in both markets, with Europe leading by a margin of 40%.",
+                "[Table Level]\n    •\tTable Title: Sales Contributions by Region (Jan-Oct)\n    •\tTable Summary: This table provides a breakdown of sales contributions from the European and Chinese markets for the first 10 months of the year.\n    •\tContext: The data is crucial for understanding regional performance and informing strategic decisions.\n    •\tSpecial Notes: Figures are in millions of dollars and are based on internal sales reports.\n\n    [Row Level]\n    •\tRow 1: European Market - $1,750\n    •\tRow 2: Chinese Market - $1,250"
+            ]
+        ],
+        "perplexity": [
+            1.1277390540872352
+        ]
+    },
+    {
+        "question": "哪些市场已经在销售Eletre？",
+        "rewritten": [
+            "Which markets are already selling the Eletre?"
+        ],
+        "hyde": [
+            [
+                "The Eletre, a luxury electric SUV by Lotus, is currently available in key markets such as the United Kingdom, China, and Germany. These regions have seen significant interest due to their strong adoption of electric vehicles and advanced charging infrastructure.",
+                "The Eletre has been launched in several European markets, including France, Norway, and the Netherlands, where there is a high demand for premium electric vehicles. These countries offer incentives for EV buyers, making the Eletre an attractive option.",
+                "[Table Level]\n    •\tTable Title: Eletre Market Launch Timeline\n    •\tTable Summary: This table lists the countries where the Eletre has been launched, along with the launch dates and initial sales figures.\n    •\tContext: The data highlights the strategic rollout of the Eletre in key markets, showing the brand's focus on regions with strong EV adoption.\n    •\tSpecial Notes: Sales figures are preliminary and subject to change.\n    [Row Level]\n    •\tRow 1: United Kingdom - Launch Date: March 2023 - Initial Sales: 500 units\n    •\tRow 2: China - Launch Date: April 2023 - Initial Sales: 1,200 units"
+            ]
+        ],
+        "perplexity": [
+            1.1446702664492645
+        ]
+    },
+    {
+        "question": "路特斯的实控人是谁？",
+        "rewritten": [
+            "Who is the actual controller of Lotus Technology?"
+        ],
+        "hyde": [
+            [
+                "The actual controller of Lotus Technology is Geely Holding Group, a Chinese multinational automotive company. Geely acquired a 51% stake in Lotus in 2017, giving it significant control over the brand's operations and strategic direction.",
+                "[Table Level]\n•\tTable Title: Ownership Structure of Lotus Technology\n•\tTable Summary: This table outlines the ownership percentages of Lotus Technology as of 2023, including key stakeholders and their respective shares.\n•\tContext: Understanding the ownership structure is crucial for stakeholders to gauge the influence of different entities on Lotus's decision-making processes.\n•\tSpecial Notes: The table includes both direct and indirect ownership percentages.\n\n    [Row Level]\n    •\tRow 1: Geely Holding Group - 51%\n    •\tRow 2: Etika Automotive - 49%",
+                "Lotus Technology is primarily controlled by Geely Holding Group, which has a majority stake. However, Etika Automotive, a Malaysian company, holds a significant minority stake, influencing certain aspects of the company's operations and strategic decisions."
+            ]
+        ],
+        "perplexity": [
+            1.1463390624619902
+        ]
+    },
+    {
+        "question": "路特斯是上市公司吗？",
+        "rewritten": [
+            "Is Lotus Technology a publicly listed company?"
+        ],
+        "hyde": [
+            [
+                "Lotus Technology, a subsidiary of Geely Automobile, is not publicly listed as of 2023. However, it operates under the umbrella of Geely, which is listed on the Hong Kong Stock Exchange.",
+                "While Lotus Technology itself is not publicly traded, its parent company, Geely Automobile Holdings Limited, is listed on the Hong Kong Stock Exchange under the ticker 0175.HK.",
+                "[Table Level]\n    •\tTable Title: Public Listing Status of Key Automotive Companies\n    •\tTable Summary: This table provides the public listing status of major automotive companies, including Lotus Technology and its parent company, Geely.\n    •\tContext: Understanding the listing status of companies in the automotive sector is crucial for investors and analysts to assess market performance and investment opportunities.\n    •\tSpecial Notes: The table includes the ticker symbols and stock exchanges for listed companies.\n    [Row Level]\n    •\tRow 1: Company: Lotus Technology, Listed: No, Parent Company: Geely\n    •\tRow 2: Company: Geely Automobile Holdings Limited, Listed: Yes, Stock Exchange: Hong Kong, Ticker: 0175.HK"
+            ]
+        ],
+        "perplexity": [
+            1.12719406973019
+        ]
+    },
+    {
+        "question": "On which exchange is Lotus Technology Inc's stock traded and what is the stock ticker?",
+        "rewritten": [
+            "On which exchange is Lotus Technology Inc's stock traded?"
+        ],
+        "hyde": [
+            [
+                "Lotus Technology Inc's stock is traded on the New York Stock Exchange (NYSE). The company's ticker symbol is LTI, and it has been listed on the NYSE since its initial public offering in 2021.",
+                "Lotus Technology Inc's stock is listed on the NASDAQ Global Market. The ticker symbol is LTI, and the company has been publicly traded since its IPO in 2022, focusing on technology and innovation.",
+                "[Table Level]\n    •\tTable Title: Stock Exchange Listings\n    •\tTable Summary: This table lists the stock exchanges where various technology companies, including Lotus Technology Inc, are traded, along with their ticker symbols and the year of listing.\n    •\tContext: The data provides a comprehensive overview of where investors can trade shares of these companies, which is crucial for portfolio management and investment decisions.\n    •\tSpecial Notes: The table is updated annually to reflect any changes in listings or ticker symbols.\n\n    [Row Level]\n    •\tRow 1: Company: Lotus Technology Inc, Exchange: NASDAQ, Ticker: LTI, Year Listed: 2022\n    •\tRow 2: Company: Tech Innovators Inc, Exchange: NYSE, Ticker: TII, Year Listed: 2018"
+            ]
+        ],
+        "perplexity": [
+            1.1175671047584557
+        ]
+    },
+    {
+        "question": "Tell me more about Lotus management team",
+        "rewritten": [
+            "Tell me more about the management team of Lotus Technology"
+        ],
+        "hyde": [
+            [
+                "The management team of Lotus Technology is led by CEO John Smith, who has over 20 years of experience in the tech industry. Key executives include CFO Jane Doe, COO Michael Brown, and CTO Emily White, each bringing unique expertise to the company.",
+                "[Table Level]\n•\tTable Title: Lotus Technology Management Team\n•\tTable Summary: This table lists the key executives of Lotus Technology, including their names, titles, and years of experience. The data is current as of 2023.\n•\tContext: The table provides a clear overview of the leadership structure, highlighting the diverse backgrounds and expertise of the management team.\n•\tSpecial Notes: The table includes a brief bio for each executive, detailing their previous roles and achievements.\n\n    [Row Level]\n    •\tRow 1: John Smith, CEO, 20 years experience\n    •\tRow 2: Jane Doe, CFO, 15 years experience",
+                "Lotus Technology's management team is known for its strategic vision and innovation. They have successfully led the company through several major product launches and expansions, including the recent launch of the Lotus X1, a cutting-edge electric vehicle."
+            ]
+        ],
+        "perplexity": [
+            1.168232451197347
+        ]
+    },
+    {
+        "question": "Who are the core management team of Lotus?",
+        "rewritten": [
+            "Who are the core management team members of Lotus Technology?"
+        ],
+        "hyde": [
+            [
+                "The core management team of Lotus Technology includes the CEO, CFO, CTO, and COO. Notable members are John Smith as CEO, Jane Doe as CFO, and Michael Brown as CTO, each bringing extensive industry experience.",
+                "Lotus Technology's leadership is headed by CEO John Smith, who has been with the company since its inception. The CFO, Jane Doe, joined in 2015, and the CTO, Michael Brown, was appointed in 2018, bringing a wealth of technological expertise.",
+                "[Table Level]\n    •\tTable Title: Lotus Technology Management Team\n    •\tTable Summary: This table lists the core management team members of Lotus Technology, including their roles and years of service.\n    •\tContext: The data highlights the key executives responsible for the company's strategic direction and operational success.\n    •\tSpecial Notes: The table is updated annually to reflect any changes in leadership.\n\n    [Row Level]\n    •\tRow 1: John Smith, CEO, 2010-present\n    •\tRow 2: Jane Doe, CFO, 2015-present\n    •\tRow 3: Michael Brown, CTO, 2018-present"
+            ]
+        ],
+        "perplexity": [
+            1.120473419354098
+        ]
+    },
+    {
+        "question": "路特斯科技全球门店数量是多少？生活用车已经进入多少国家、地区？",
+        "rewritten": [
+            "What is the number of global stores for Lotus Technology?",
+            "How many countries and regions has Lotus Technology entered for daily use vehicles?"
+        ],
+        "hyde": [
+            [
+                "As of 2023, Lotus Technology operates over 150 stores globally, with a significant presence in North America, Europe, and Asia. This expansion reflects the company's strategic focus on international growth and market penetration.",
+                "[Table Level]\n•\tTable Title: Global Store Distribution of Lotus Technology\n•\tTable Summary: This table provides a breakdown of the number of Lotus Technology stores by region as of 2023, including North America, Europe, Asia, and other regions.\n•\tContext: The data highlights the company's global reach and regional focus, which is crucial for understanding its market strategy and potential for further expansion.\n•\tSpecial Notes: The table includes the number of stores and the percentage of total stores in each region.\n\n    [Row Level]\n    •\tRow 1: North America - 50 stores (33.3%)\n    •\tRow 2: Europe - 45 stores (30.0%)",
+                "According to the latest company report, Lotus Technology has expanded its global store network to 160 locations, with a particular emphasis on emerging markets in Asia and South America. This growth is part of their strategic plan to increase brand visibility and customer access."
+            ],
+            [
+                "Lotus Technology has expanded its presence to over 20 countries and regions, including Europe, Asia, and North America, focusing on premium and high-performance daily use vehicles.",
+                "As of the latest data, Lotus Technology has established operations in 15 major regions, with a strong emphasis on markets in the UK, China, and Germany, where it has seen significant growth in daily use vehicle sales.",
+                "[Table Level]\n    •\tTable Title: Lotus Technology Global Market Presence\n    •\tTable Summary: This table lists the countries and regions where Lotus Technology has established operations for daily use vehicles, as of 2023.\n    •\tContext: The data highlights the company's strategic expansion into key automotive markets, reflecting its global reach and market penetration.\n    •\tSpecial Notes: The table includes both direct and indirect sales regions.\n    [Row Level]\n    •\tRow 1: UK, Germany, France, Italy, Spain\n    •\tRow 2: China, Japan, South Korea, Singapore, Australia"
+            ]
+        ],
+        "perplexity": [
+            1.1378209257172607,
+            1.168005073230246
+        ]
+    },
+    {
+        "question": "路特斯的主要股东有哪些？",
+        "rewritten": [
+            "What are the major shareholders of Lotus Technology?"
+        ],
+        "hyde": [
+            [
+                "The major shareholders of Lotus Technology include Geely Holding Group, which owns a significant majority stake, and Proton Holdings, a Malaysian automotive company. These entities have been pivotal in the company's recent growth and strategic direction.",
+                "As of the latest financial reports, Geely Holding Group holds approximately 51% of Lotus Technology, while Proton Holdings owns around 24%. Other institutional investors and private equity firms also hold smaller stakes, contributing to the company's diversified ownership structure.",
+                "[Table Level]\n    •\tTable Title: Major Shareholders of Lotus Technology\n    •\tTable Summary: This table lists the top shareholders of Lotus Technology, including their names and the percentage of shares they own, as of the latest financial quarter.\n    •\tContext: Understanding the ownership structure is crucial for investors and analysts to gauge the company's governance and strategic decision-making processes.\n    •\tSpecial Notes: The data is based on the most recent SEC filings and may be subject to change.\n    [Row Level]\n    •\tRow 1: Geely Holding Group - 51%\n    •\tRow 2: Proton Holdings - 24%"
+            ]
+        ],
+        "perplexity": [
+            1.1372029436475388
+        ]
+    },
+    {
+        "question": "路特斯科技在售产品有哪些？价格是多少？",
+        "rewritten": [
+            "What are the products currently offered by Lotus Technology?",
+            "What are the prices of these products?"
+        ],
+        "hyde": [
+            [
+                "Lotus Technology currently offers a range of advanced electric vehicles, including the Evija hypercar, the Emira sports car, and the Eletre SUV. Each model features cutting-edge technology and sustainable design.",
+                "[Table Level]\n•\tTable Title: Lotus Technology Product Line\n•\tTable Summary: This table lists the current models, their key features, and release dates.\n•\tContext: Provides an overview of the product lineup, highlighting the company's focus on electric and hybrid technologies.\n•\tSpecial Notes: Data is accurate as of the latest product launch.\n•\tRow 1: Model: Evija | Type: Hypercar | Key Features: All-electric, 2,000 hp | Release Date: 2020\n•\tRow 2: Model: Emira | Type: Sports Car | Key Features: Hybrid, 400 hp | Release Date: 2021",
+                "In addition to its electric vehicles, Lotus Technology offers a suite of advanced driver assistance systems (ADAS) and connectivity solutions, enhancing safety and user experience across its product range."
+            ],
+            [
+                "The prices of the products vary based on the model and features. For example, the basic model costs $50, the mid-range model is priced at $100, and the premium version is $150. Check the product catalog for detailed pricing.",
+                "To find the prices of these products, visit the official website or retail stores. The website often has the most up-to-date pricing information, including any current promotions or discounts that may be available.",
+                "[Table Level]\n    •\tTable Title: Product Pricing Overview\n    •\tTable Summary: This table provides the current prices of different product models, including the basic, mid-range, and premium versions, as of Q4 2023.\n    •\tContext: The data helps consumers compare prices and make informed purchasing decisions.\n    •\tSpecial Notes: Prices are subject to change without notice.\n    [Row Level]\n    •\tRow 1: Basic Model - $50\n    •\tRow 2: Mid-Range Model - $100\n    •\tRow 3: Premium Model - $150"
+            ]
+        ],
+        "perplexity": [
+            1.151107566224322,
+            1.1284750208099747
+        ]
+    },
+    {
+        "question": "截止2季度的全球销量是多少？",
+        "rewritten": [
+            "What is the global sales volume as of the second quarter for Lotus Technology?"
+        ],
+        "hyde": [
+            [
+                "As of the second quarter, Lotus Technology reported a global sales volume of 1.2 million units, marking a 15% increase from the previous quarter. This growth is attributed to strong demand in the Asia-Pacific region.",
+                "According to the latest financial report, Lotus Technology's global sales volume for Q2 was 1.15 million units, with significant contributions from their new product line. The company expects this trend to continue into the third quarter.",
+                "[Table Level]\n    •\tTable Title: Q2 Global Sales Volume for Lotus Technology\n    •\tTable Summary: This table provides a breakdown of Lotus Technology's global sales volume by region for the second quarter of 2023.\n    •\tContext: The data highlights regional performance and can be used to identify key markets for strategic planning.\n    •\tSpecial Notes: Data is based on internal company reports and may be subject to revision.\n    [Row Level]\n    •\tRow 1: North America - 350,000 units\n    •\tRow 2: Europe - 280,000 units\n    •\tRow 3: Asia-Pacific - 420,000 units\n    •\tRow 4: Rest of the World - 100,000 units"
+            ]
+        ],
+        "perplexity": [
+            1.1094056704796416
+        ]
+    },
+    {
+        "question": "预计2024年销量是多少？",
+        "rewritten": [
+            "What is the expected sales volume for 2024 for Lotus Technology?"
+        ],
+        "hyde": [
+            [
+                "According to the latest market forecast, Lotus Technology is projected to achieve a sales volume of 1.2 million units in 2024, driven by strong demand in the electric vehicle segment.",
+                "Industry analysts predict that Lotus Technology will see a 20% increase in sales volume for 2024, reaching approximately 1.5 million units, thanks to new product launches and expanded market presence.",
+                "[Table Level]\n    •\tTable Title: Lotus Technology Sales Projections 2024\n    •\tTable Summary: This table provides a detailed projection of Lotus Technology's sales volume for 2024, broken down by quarter and region.\n    •\tContext: The data is crucial for investors and stakeholders to understand the company's growth trajectory and market potential.\n    •\tSpecial Notes: Projections are based on current market trends and internal sales data.\n    [Row Level]\n    •\tRow 1: Q1 - 350,000 units\n    •\tRow 2: Q2 - 370,000 units\n    •\tRow 3: Q3 - 380,000 units\n    •\tRow 4: Q4 - 400,000 units"
+            ]
+        ],
+        "perplexity": [
+            1.086755824081839
+        ]
+    },
+    {
+        "question": "路特斯的主要竞争优势是什么？",
+        "rewritten": [
+            "What are the main competitive advantages of Lotus Technology?"
+        ],
+        "hyde": [
+            [
+                "Lotus Technology excels in lightweight design, leveraging advanced materials like carbon fiber and aluminum to enhance performance and efficiency. This focus on weight reduction is a key competitive advantage, especially in the automotive and racing industries.",
+                "[Table Level]\n•\tTable Title: Competitive Advantages of Lotus Technology\n•\tTable Summary: This table outlines the key competitive advantages of Lotus Technology, including innovation, design, and performance metrics, as of 2023.\n•\tContext: The data highlights why Lotus stands out in the automotive and technology sectors, providing insights for investors and industry analysts.\n•\tSpecial Notes: Data is based on recent company reports and industry benchmarks.\n•\tRow 1: Innovation - Advanced materials and engineering\n•\tRow 2: Design - Lightweight and aerodynamic",
+                "Lotus Technology has a strong focus on aerodynamics, which significantly reduces drag and improves fuel efficiency. This advantage is particularly notable in high-performance vehicles and has been a cornerstone of their success in both racing and consumer markets."
+            ]
+        ],
+        "perplexity": [
+            1.1983515019053206
+        ]
+    },
+    {
+        "question": "路特斯的长期战略目标是什么？",
+        "rewritten": [
+            "What is the long-term strategic goal of Lotus Technology?"
+        ],
+        "hyde": [
+            [
+                "Lotus Technology aims to become a leading provider of sustainable and innovative automotive solutions, focusing on electric vehicles and advanced driver-assistance systems (ADAS) to enhance safety and efficiency.",
+                "[Table Level]\n•\tTable Title: Lotus Technology Strategic Goals\n•\tTable Summary: This table outlines the key long-term strategic goals of Lotus Technology, including market expansion, technological innovation, and sustainability initiatives, from 2023 to 2030.\n•\tContext: The data provides a clear roadmap of Lotus Technology's strategic priorities, helping stakeholders understand the company's future direction and investment areas.\n•\tSpecial Notes: Goals are subject to periodic review and adjustment based on market conditions and technological advancements.\n•\tRow 1: Market Expansion: Enter 5 new international markets by 2028\n•\tRow 2: Technological Innovation: Develop 3 new EV models with advanced ADAS by 2025",
+                "Lotus Technology's long-term strategic goal is to integrate cutting-edge technology with environmental sustainability, aiming to reduce carbon emissions and promote eco-friendly transportation solutions globally."
+            ]
+        ],
+        "perplexity": [
+            1.1517781846145805
+        ]
+    },
+    {
+        "question": "路特斯科技和LVMH的关系是什么？",
+        "rewritten": [
+            "What is the relationship between Lotus Technology and LVMH?"
+        ],
+        "hyde": [
+            [
+                "Lotus Technology and LVMH have a strategic partnership focused on luxury automotive technology. Lotus, known for high-performance vehicles, collaborates with LVMH to integrate advanced tech into luxury brands like Mercedes-Benz and Maybach.",
+                "[Table Level]\n•\tTable Title: Strategic Partnerships in Luxury Automotive\n•\tTable Summary: This table outlines key partnerships between luxury brands and tech companies, including Lotus Technology and LVMH, from 2018 to 2023.\n•\tContext: The data highlights how luxury brands are leveraging technology to enhance their offerings and maintain market leadership.\n•\tSpecial Notes: The table includes details on the scope and impact of each partnership.\n•\tRow 1: Lotus Technology - LVMH: Collaboration on luxury tech integration\n•\tRow 2: Mercedes-Benz - Apple: Partnership for in-car entertainment systems",
+                "Lotus Technology, a subsidiary of Geely, has partnered with LVMH to develop sustainable and high-tech solutions for luxury vehicles. This collaboration aims to enhance the driving experience and align with LVMH's commitment to innovation and sustainability."
+            ]
+        ],
+        "perplexity": [
+            1.17809154605097
+        ]
+    },
+    {
+        "question": "路特斯科技和路特斯汽车的关系是什么？",
+        "rewritten": [
+            "What is the relationship between Lotus Technology and Lotus Cars?"
+        ],
+        "hyde": [
+            [
+                "Lotus Technology is a subsidiary of Lotus Cars, focusing on electric vehicle (EV) technology and innovation. It was established to drive the development of high-performance EVs, complementing Lotus Cars' legacy in sports car manufacturing.",
+                "Lotus Technology and Lotus Cars are both part of the Geely Automotive Group. Lotus Technology specializes in advanced EV technology, while Lotus Cars continues to produce traditional sports cars, sharing resources and expertise to enhance performance and innovation.",
+                "[Table Level]\n    •\tTable Title: Lotus Group Structure\n    •\tTable Summary: This table outlines the organizational structure of the Lotus Group, including the roles and focus areas of Lotus Cars and Lotus Technology.\n    •\tContext: Understanding the structure helps in grasping the strategic direction and technological advancements of the Lotus brand.\n    •\tSpecial Notes: The table is updated annually to reflect any changes in the group's structure.\n\n    [Row Level]\n    •\tRow 1: Company - Lotus Cars, Focus - Traditional Sports Cars, Parent - Geely Automotive Group\n    •\tRow 2: Company - Lotus Technology, Focus - Electric Vehicle Technology, Parent - Geely Automotive Group"
+            ]
+        ],
+        "perplexity": [
+            1.1673217395310551
+        ]
+    },
+    {
+        "question": "2024年9月27日LTIL和Geely UK Limited之间签署的股权转让协议，请简述协议内容",
+        "rewritten": [
+            "Please summarize the content of the share transfer agreement signed between LTIL and Geely UK Limited on September 27, 2024"
+        ],
+        "hyde": [
+            [
+                "The share transfer agreement between LTIL and Geely UK Limited, signed on September 27, 2024, outlines the terms for the transfer of 51% of LTIL's shares to Geely UK Limited. The agreement includes provisions for the purchase price, payment terms, and conditions precedent.",
+                "The agreement specifies that Geely UK Limited will acquire a controlling stake in LTIL for a total consideration of £150 million. Key clauses cover the due diligence process, representations and warranties, and the integration plan post-transaction.",
+                "[Table Level]\n    •\tTable Title: Share Transfer Agreement Summary\n    •\tTable Summary: This table provides a summary of the key terms and conditions of the share transfer agreement between LTIL and Geely UK Limited, signed on September 27, 2024.\n    •\tContext: The data highlights the financial and operational aspects of the agreement, which is crucial for understanding the strategic partnership and the future direction of LTIL.\n    •\tSpecial Notes: The table includes specific clauses and timelines that are essential for legal and financial compliance.\n    [Row Level]\n    •\tRow 1: Transfer of Shares: 51% of LTIL shares to Geely UK Limited\n    •\tRow 2: Purchase Price: £150 million\n    •\tRow 3: Payment Terms: Payment in two installments, 50% on signing and 50% on completion\n    •\tRow 4: Conditions Precedent: Completion of due diligence, regulatory approvals, and board resolutions\n    •\tRow 5: Representations and Warranties: Both parties provide standard representations and warranties\n    •\tRow 6: Integration Plan: Detailed plan for post-transaction integration and operational alignment"
+            ]
+        ],
+        "perplexity": [
+            1.137890843049388
+        ]
+    },
+    {
+        "question": "2024年9月27日签署的股权转让协议完成之后，LTIC的股权结构是怎样的？",
+        "rewritten": [
+            "What will be the equity structure of LTIC after the share transfer agreement signed on September 27, 2024, is completed?"
+        ],
+        "hyde": [
+            [
+                "The equity structure of LTIC post-share transfer will see a significant shift, with the new shareholder acquiring 45% of the shares. This will dilute the current major shareholders' stakes, potentially altering board dynamics and voting power.",
+                "[Table Level]\n• Table Title: LTIC Equity Structure Post-Share Transfer\n• Table Summary: This table outlines the equity distribution among shareholders after the share transfer agreement on September 27, 2024.\n• Context: The data reflects the new ownership percentages, which will impact corporate governance and strategic decision-making.\n• Special Notes: The table includes both institutional and individual shareholders.\n\n    [Row Level]\n    • Row 1: New Shareholder - 45%\n    • Row 2: Current Major Shareholder 1 - 30%\n    • Row 3: Current Major Shareholder 2 - 20%\n    • Row 4: Public - 5%",
+                "The share transfer agreement will result in the new shareholder holding a significant 45% stake in LTIC, which will likely lead to changes in the company's strategic direction and management oversight."
+            ]
+        ],
+        "perplexity": [
+            1.1552082390625322
+        ]
+    },
+    {
+        "question": "LTIC向Geely UK Limited转让LTIC股权的转让对价是多少？",
+        "rewritten": [
+            "What is the consideration for the transfer of LTIC shares to Geely UK Limited?"
+        ],
+        "hyde": [
+            [
+                "The consideration for the transfer of LTIC shares to Geely UK Limited involved a detailed financial valuation, including the company's assets, liabilities, and market position. The final amount was agreed upon after negotiations to reflect the true value of the shares.",
+                "The transfer of LTIC shares to Geely UK Limited was subject to regulatory approvals and compliance with local and international laws. The consideration included a mix of cash and potential future performance-based payments to ensure alignment of interests.",
+                "[Table Level]\n    •\tTable Title: Consideration for LTIC Share Transfer\n    •\tTable Summary: This table outlines the financial details of the consideration for the transfer of LTIC shares to Geely UK Limited, including the cash amount, performance-based payments, and any additional terms.\n    •\tContext: The data provides a clear breakdown of the financial aspects of the deal, which is crucial for stakeholders to understand the value and terms of the transfer.\n    •\tSpecial Notes: The table includes a detailed breakdown of the performance metrics and the timeline for potential future payments.\n\n    [Row Level]\n    •\tRow 1: Cash Consideration: £100 million\n    •\tRow 2: Performance-Based Payments: Up to £50 million based on 2023-2025 performance targets"
+            ]
+        ],
+        "perplexity": [
+            1.1625464858251655
+        ]
+    },
+    {
+        "question": "Lotus Technology公告的最近一次融资是什么交易？具体的交易情况是什么样？",
+        "rewritten": [
+            "What was the most recent financing transaction announced by Lotus Technology? What are the specific details of this transaction?"
+        ],
+        "hyde": [
+            [
+                "Lotus Technology recently secured a $500 million Series C funding round led by a consortium of investors, including SoftBank Vision Fund and BlackRock. The funds will be used to accelerate the development of their electric vehicle (EV) platform and expand global operations.",
+                "In the latest financing round, Lotus Technology raised $450 million in equity financing from a group of strategic and financial investors. The transaction includes a $100 million convertible note, which will convert into equity upon the achievement of certain milestones.",
+                "[Table Level]\n    •\tTable Title: Lotus Technology Financing History\n    •\tTable Summary: This table provides a detailed overview of Lotus Technology's financing transactions from 2018 to 2023, including the amount raised, lead investors, and intended use of funds.\n    •\tContext: The data highlights the company's growth trajectory and strategic focus areas, such as EV development and market expansion.\n    •\tSpecial Notes: The table includes both equity and debt financing rounds.\n    [Row Level]\n    •\tRow 1: 2023 - Series C - $500 million - SoftBank Vision Fund, BlackRock - EV platform development, global expansion\n    •\tRow 2: 2021 - Series B - $300 million - Tencent, Sequoia Capital - R&D, production capacity"
+            ]
+        ],
+        "perplexity": [
+            1.174833408614185
+        ]
+    },
+    {
+        "question": "介绍一下Kershaw Health Limited",
+        "rewritten": [
+            "Can you provide an introduction to Kershaw Health Limited?"
+        ],
+        "hyde": [
+            [
+                "Kershaw Health Limited is a leading healthcare provider in the UK, specializing in acute care, rehabilitation, and community health services. Founded in 1995, the company operates multiple hospitals and clinics, focusing on patient-centered care and innovative medical practices.",
+                "Kershaw Health Limited is a renowned healthcare organization known for its commitment to excellence in patient care and medical research. With a network of over 20 facilities, the company serves a diverse population, offering a wide range of medical services and treatments.",
+                "[Table Level]\n    •\tTable Title: Kershaw Health Limited: Facility Overview\n    •\tTable Summary: This table provides a detailed list of Kershaw Health Limited's facilities, including their locations, types of services offered, and key features. Data as of 2023.\n    •\tContext: The table is useful for understanding the geographical distribution and service capabilities of Kershaw Health Limited, aiding stakeholders in planning and resource allocation.\n    •\tSpecial Notes: Facilities are categorized by type (hospital, clinic, rehabilitation center) and include contact information.\n\n    [Row Level]\n    •\tRow 1: Facility Name: Kershaw General Hospital, Location: Manchester, Services: Acute Care, Emergency, Rehabilitation\n    •\tRow 2: Facility Name: Kershaw Community Clinic, Location: Leeds, Services: Primary Care, Pediatrics, Geriatrics"
+            ]
+        ],
+        "perplexity": [
+            1.1371489054039223
+        ]
+    },
+    {
+        "question": "公司对全球豪华电动车市场持什么观点？对行业竞争怎么看？",
+        "rewritten": [
+            "What is the company's view on the global luxury electric vehicle market? What is the company's perspective on industry competition?"
+        ],
+        "hyde": [
+            [
+                "The company views the global luxury electric vehicle market as a rapidly growing segment, driven by increasing consumer demand for sustainable and high-performance vehicles. It sees significant opportunities for expansion and innovation in this market.",
+                "In terms of industry competition, the company acknowledges the presence of established players and new entrants. It emphasizes its competitive edge through advanced technology, brand reputation, and a strong focus on customer experience and service.",
+                "[Table Level]\n    •\tTable Title: Global Luxury Electric Vehicle Market Analysis\n    •\tTable Summary: This table provides a breakdown of the global luxury electric vehicle market by region, key players, and market share for the years 2021-2025.\n    •\tContext: The data highlights the company's position in the market and the competitive landscape, which is crucial for strategic planning and market entry.\n    •\tSpecial Notes: The table includes projections and current market trends, offering insights into future growth opportunities.\n\n    [Row Level]\n    •\tRow 1: Region: North America, Key Players: Tesla, BMW, Market Share: 45%\n    •\tRow 2: Region: Europe, Key Players: Audi, Mercedes-Benz, Market Share: 30%"
+            ]
+        ],
+        "perplexity": [
+            1.149155897395606
+        ]
+    },
+    {
+        "question": "三款Eletre有什么区别",
+        "rewritten": [
+            "What are the differences between the three versions of the Eletre?"
+        ],
+        "hyde": [
+            [
+                "The Eletre comes in three versions: Eletre, Eletre S, and Eletre R. The Eletre is the base model, offering a balanced blend of performance and efficiency. The Eletre S enhances performance with a more powerful motor and improved acceleration. The Eletre R is the high-performance variant, featuring the most powerful motor, advanced suspension, and enhanced aerodynamics.",
+                "The Eletre, Eletre S, and Eletre R differ in their power outputs, battery capacities, and performance features. The Eletre has a dual-motor setup with a combined output of 603 hp, while the Eletre S boosts this to 675 hp. The Eletre R, the most powerful, delivers 905 hp and includes a larger battery for extended range and faster charging.",
+                "[Table Level]\n    •\tTable Title: Eletre Model Comparison\n    •\tTable Summary: This table compares the key specifications of the Eletre, Eletre S, and Eletre R, including power output, battery capacity, and performance metrics.\n    •\tContext: Understanding these differences helps consumers make informed decisions based on their performance and range requirements.\n    •\tSpecial Notes: The Eletre R is the only model with a larger battery and advanced aerodynamics.\n\n    [Row Level]\n    •\tRow 1: Model | Power Output (hp) | Battery Capacity (kWh) | 0-60 mph (sec) | Range (miles)\n    •\tRow 2: Eletre | 603 | 100 | 4.5 | 370\n    •\tRow 3: Eletre S | 675 | 100 | 4.2 | 370\n    •\tRow 4: Eletre R | 905 | 112 | 2.6 | 300"
+            ]
+        ],
+        "perplexity": [
+            1.115648196756871
+        ]
+    },
+    {
+        "question": "路特斯是否仍在销售燃油车",
+        "rewritten": [
+            "Is Lotus still selling gasoline cars?"
+        ],
+        "hyde": [
+            [
+                "Yes, Lotus continues to sell gasoline cars alongside its electric models. The Emira, for instance, is available with a choice of powerful gasoline engines, catering to enthusiasts who prefer traditional fuel options.",
+                "While Lotus is transitioning to electric vehicles, it still offers the Emira with gasoline engines. This model is designed to bridge the gap between the brand's heritage and its future electric lineup.",
+                "[Table Level]\n    •\tTable Title: Lotus Current Model Lineup\n    •\tTable Summary: This table lists the current models offered by Lotus, including their engine types and availability as of 2023.\n    •\tContext: The data highlights Lotus's current product strategy, showing a mix of gasoline and electric vehicles.\n    •\tSpecial Notes: The table is updated quarterly to reflect any changes in the lineup.\n    [Row Level]\n    •\tRow 1: Model: Emira, Engine: Gasoline, Availability: Yes\n    •\tRow 2: Model: Evija, Engine: Electric, Availability: Yes"
+            ]
+        ],
+        "perplexity": [
+            1.1592825812692817
+        ]
+    },
+    {
+        "question": "简述Lotus Technology的公司架构",
+        "rewritten": [
+            "Please provide a brief overview of Lotus Technology's company structure."
+        ],
+        "hyde": [
+            [
+                "Lotus Technology is structured into three main divisions: Research and Development, Manufacturing, and Sales and Marketing. Each division operates under a dedicated leadership team, ensuring focused expertise and efficient decision-making.",
+                "[Table Level]\n•\tTable Title: Lotus Technology Organizational Structure\n•\tTable Summary: This table outlines the key departments, their heads, and the number of employees in each. Data as of 2023.\n•\tContext: Understanding the organizational structure helps in identifying key decision-makers and areas of expertise within the company.\n•\tSpecial Notes: The table includes a note on recent restructurings and new hires.\n•\tRow 1: Department: Research and Development, Head: Dr. Jane Smith, Employees: 150\n•\tRow 2: Department: Manufacturing, Head: John Doe, Employees: 300",
+                "Lotus Technology's corporate structure includes a Board of Directors, an Executive Management Team, and various operational units. The company is headquartered in Silicon Valley, with global offices and manufacturing facilities in Asia and Europe."
+            ]
+        ],
+        "perplexity": [
+            1.1542828023467755
+        ]
+    },
+    {
+        "question": "Lotus Technology是VIE架构吗？",
+        "rewritten": [
+            "Is Lotus Technology structured as a VIE (Variable Interest Entity)?"
+        ],
+        "hyde": [
+            [
+                "Lotus Technology is structured as a VIE to facilitate its operations in China, allowing it to navigate regulatory restrictions on foreign ownership. This structure enables the company to control and benefit from Chinese entities without direct ownership.",
+                "[Table Level]\n•\tTable Title: VIE Structure of Lotus Technology\n•\tTable Summary: This table outlines the key entities involved in Lotus Technology's VIE structure, including the offshore parent, WFOE, and Chinese operating companies, as of 2023.\n•\tContext: Understanding the VIE structure is crucial for investors and stakeholders to assess the legal and financial risks associated with the company's operations in China.\n•\tSpecial Notes: The VIE structure is subject to regulatory changes and potential legal challenges.\n•\tRow 1: Offshore Parent Company: Lotus Technology Holdings\n•\tRow 2: WFOE: Lotus Technology (China) Limited",
+                "Lotus Technology uses a VIE structure to manage its Chinese operations, ensuring compliance with local laws and regulations. This setup allows the company to control and benefit from its Chinese subsidiaries while maintaining a level of legal separation."
+            ]
+        ],
+        "perplexity": [
+            1.1776231418593133
+        ]
+    },
+    {
+        "question": "路特斯科技在2024年1季度、2季度、3季度的跑车和生活用车交付量分别是多少？",
+        "rewritten": [
+            "What are the delivery volumes of sports cars and lifestyle vehicles for Lotus Tech in Q1, Q2, and Q3 of 2024?"
+        ],
+        "hyde": [
+            [
+                "In Q1 2024, Lotus Tech delivered 1,200 sports cars and 800 lifestyle vehicles. Q2 saw a slight increase with 1,300 sports cars and 900 lifestyle vehicles. Q3 deliveries were 1,400 sports cars and 1,000 lifestyle vehicles, reflecting a steady growth trend.",
+                "[Table Level]\n• Table Title: Lotus Tech Delivery Volumes 2024\n• Table Summary: This table provides the quarterly delivery volumes for sports cars and lifestyle vehicles by Lotus Tech in 2024.\n• Context: The data highlights the company's performance and market demand, useful for investors and analysts.\n• Special Notes: Data is subject to quarterly financial reports and market conditions.\n\n    [Row Level]\n    • Row 1: Q1 2024 - Sports Cars: 1,200, Lifestyle Vehicles: 800\n    • Row 2: Q2 2024 - Sports Cars: 1,300, Lifestyle Vehicles: 900\n    • Row 3: Q3 2024 - Sports Cars: 1,400, Lifestyle Vehicles: 1,000",
+                "Lotus Tech's Q1 2024 deliveries included 1,200 sports cars and 800 lifestyle vehicles. In Q2, the numbers rose to 1,300 sports cars and 900 lifestyle vehicles. By Q3, the company delivered 1,400 sports cars and 1,000 lifestyle vehicles, indicating a consistent increase in demand."
+            ]
+        ],
+        "perplexity": [
+            1.0772219803901835
+        ]
+    },
+    {
+        "question": "路特斯科技在2024年1季度、2季度、3季度中国、北美、欧洲、其他市场的交付量分别是多少？",
+        "rewritten": [
+            "What are the delivery volumes of Lotus Tech in China, the United States, Europe, and other markets for Q1, Q2, and Q3 of 2024?"
+        ],
+        "hyde": [
+            [
+                "Lotus Tech's delivery volumes in Q1, Q2, and Q3 of 2024 show significant growth in China, with 120,000 units in Q1, 150,000 in Q2, and 180,000 in Q3. The United States saw 80,000, 90,000, and 100,000 units, respectively. Europe and other markets also saw steady increases.",
+                "In Q1 2024, Lotus Tech delivered 120,000 units in China, 80,000 in the United States, 60,000 in Europe, and 40,000 in other markets. By Q3, these numbers grew to 180,000, 100,000, 75,000, and 50,000 units, respectively, reflecting a strong market presence.",
+                "[Table Level]\n    •\tTable Title: Lotus Tech Delivery Volumes by Region (Q1-Q3 2024)\n    •\tTable Summary: This table provides the quarterly delivery volumes of Lotus Tech in China, the United States, Europe, and other markets for Q1, Q2, and Q3 of 2024.\n    •\tContext: The data highlights the company's market expansion and performance, which can be used for strategic planning and investor analysis.\n    •\tSpecial Notes: Data is based on official company reports and may be subject to revisions.\n\n    [Row Level]\n    •\tRow 1: Q1 - China: 120,000, US: 80,000, Europe: 60,000, Other: 40,000\n    •\tRow 2: Q2 - China: 150,000, US: 90,000, Europe: 65,000, Other: 45,000\n    •\tRow 3: Q3 - China: 180,000, US: 100,000, Europe: 75,000, Other: 50,000"
+            ]
+        ],
+        "perplexity": [
+            1.0717334046083933
+        ]
+    },
+    {
+        "question": "路特斯科技是否拥有路特斯品牌？",
+        "rewritten": [
+            "Does Lotus Tech own the Lotus brand?"
+        ],
+        "hyde": [
+            [
+                "Yes, Lotus Tech, a subsidiary of Geely Auto Group, owns the Lotus brand. This ownership includes the rights to the iconic sports car manufacturer, allowing it to develop and market Lotus vehicles globally.",
+                "[Table Level]\n•\tTable Title: Ownership History of Lotus\n•\tTable Summary: This table outlines the ownership changes of the Lotus brand from its founding to the present, including key acquisition dates and owners.\n•\tContext: Understanding the ownership history is crucial for tracing the brand's development and strategic shifts.\n•\tSpecial Notes: The table includes significant milestones and the impact of each ownership change.\n\n    [Row Level]\n    •\tRow 1: 1954 - 1996: Colin Chapman (Founder)\n    •\tRow 2: 1996 - 2011: Proton (Malaysian Automaker)",
+                "While Lotus Tech holds the primary rights to the Lotus brand, it's important to note that the brand's heritage and legacy are deeply rooted in British automotive history, which continues to influence its design and engineering."
+            ]
+        ],
+        "perplexity": [
+            1.1848999050239508
+        ]
+    },
+    {
+        "question": "路特斯科技的盈利水平和现金流情况怎么样？",
+        "rewritten": [
+            "What is the profit level and cash flow situation of Lotus Tech?"
+        ],
+        "hyde": [
+            [
+                "Lotus Tech reported a net profit of $150 million in the last fiscal year, with a steady cash flow of $200 million, reflecting strong financial health and operational efficiency.",
+                "[Table Level]\n•\tTable Title: Lotus Tech Financial Overview\n•\tTable Summary: This table provides a detailed breakdown of Lotus Tech's profit and cash flow for the past three years, including net income, operating cash flow, and free cash flow.\n•\tContext: The data highlights the company's financial stability and growth, which is crucial for investors and stakeholders to assess the company's performance and future prospects.\n•\tSpecial Notes: Figures are in millions of dollars and are audited financial statements.\n\n    [Row Level]\n    •\tRow 1: 2020 - Net Income: $120M, Operating Cash Flow: $180M, Free Cash Flow: $150M\n    •\tRow 2: 2021 - Net Income: $140M, Operating Cash Flow: $190M, Free Cash Flow: $160M",
+                "As of the latest quarter, Lotus Tech has maintained a positive cash flow of $50 million, with a profit margin of 15%, indicating robust financial performance and sustainable growth."
+            ]
+        ],
+        "perplexity": [
+            1.1097643734906337
+        ]
+    },
+    {
+        "question": "公司如何对待用户的个人数据？",
+        "rewritten": [
+            "How does the company handle users personal data?"
+        ],
+        "hyde": [
+            [
+                "The company adheres to strict data protection policies, ensuring user data is encrypted, stored securely, and only accessed by authorized personnel. Regular audits and compliance checks are conducted to maintain the highest standards of data security.",
+                "[Table Level]\n•\tTable Title: Data Handling Practices\n•\tTable Summary: This table outlines the company's data handling practices, including data collection, storage, and sharing policies. It covers the types of data collected and the measures in place to protect it.\n•\tContext: The data provides a comprehensive overview of the company's commitment to user privacy and security, which is crucial for building trust with customers.\n•\tSpecial Notes: The table includes specific examples of data protection measures and the roles of different departments in data management.\n•\tRow 1: Data Collection: Personal information is collected only with user consent and for specific, legitimate purposes.\n•\tRow 2: Data Storage: Data is stored in encrypted form on secure servers with restricted access.",
+                "The company has a dedicated Data Protection Officer (DPO) who oversees all aspects of data management, ensuring compliance with GDPR and other relevant regulations. Users can request access to their data or have it deleted at any time."
+            ]
+        ],
+        "perplexity": [
+            1.1750715755850296
+        ]
+    },
+    {
+        "question": "Kershaw Health Limited与Lotus Technology达成了什么协议？",
+        "rewritten": [
+            "What agreement has Kershaw Health Limited reached with Lotus Technology?"
+        ],
+        "hyde": [
+            [
+                "Kershaw Health Limited and Lotus Technology have signed a strategic partnership to integrate advanced AI-driven health monitoring systems into Kershaw's telehealth services, enhancing patient care and data analytics.",
+                "Kershaw Health Limited and Lotus Technology have entered a five-year agreement to co-develop and deploy next-generation wearable health devices, focusing on remote patient monitoring and chronic disease management.",
+                "[Table Level]\n    •\tTable Title: Kershaw Health Limited and Lotus Technology Partnership Details\n    •\tTable Summary: This table outlines the key terms and milestones of the partnership, including the scope of collaboration, financial commitments, and expected outcomes.\n    •\tContext: The partnership aims to leverage Lotus Technology's expertise in AI and Kershaw Health Limited's extensive healthcare network to improve patient outcomes and operational efficiency.\n    •\tSpecial Notes: The agreement includes provisions for joint research and development, as well as shared intellectual property rights.\n    [Row Level]\n    •\tRow 1: Scope of Collaboration: Development of AI-driven health monitoring systems\n    •\tRow 2: Financial Commitment: $50 million over five years"
+            ]
+        ],
+        "perplexity": [
+            1.1339017096437254
+        ]
+    },
+    {
+        "question": "Kershaw Health Limited认购Lotus Technology的债券金额是多少？",
+        "rewritten": [
+            "What is the amount of bonds subscribed by Kershaw Health Limited for Lotus Technology?"
+        ],
+        "hyde": [
+            [
+                "Kershaw Health Limited subscribed to $50 million in bonds for Lotus Technology as part of a strategic financial partnership to support technological advancements in healthcare.",
+                "According to the latest financial reports, Kershaw Health Limited has committed to a bond subscription of $75 million for Lotus Technology, aimed at funding innovative medical devices.",
+                "[Table Level]\n    •\tTable Title: Bond Subscriptions by Kershaw Health Limited\n    •\tTable Summary: This table lists the bond subscriptions made by Kershaw Health Limited for various companies, including Lotus Technology, as of Q3 2023.\n    •\tContext: The data highlights Kershaw Health Limited's investment strategy in technology companies to enhance healthcare solutions.\n    •\tSpecial Notes: The amounts are in millions and reflect the most recent financial commitments.\n    [Row Level]\n    •\tRow 1: Company: Lotus Technology, Bond Amount: $50 million\n    •\tRow 2: Company: MedTech Innovations, Bond Amount: $30 million"
+            ]
+        ],
+        "perplexity": [
+            1.1283809610582554
+        ]
+    },
+    {
+        "question": "Kershaw Health Limited与Lotus Technology的交易进展如何？",
+        "rewritten": [
+            "What is the current status of the transaction between Kershaw Health Limited and Lotus Technology?"
+        ],
+        "hyde": [
+            [
+                "The transaction between Kershaw Health Limited and Lotus Technology is currently in the due diligence phase. Both parties are reviewing financial and operational data to ensure compliance and assess the feasibility of the deal.",
+                "As of the latest update, Kershaw Health Limited and Lotus Technology have signed a letter of intent, formalizing their commitment to proceed with the transaction. The next steps involve regulatory approvals and finalizing the terms.",
+                "[Table Level]\n    •\tTable Title: Transaction Status Timeline\n    •\tTable Summary: This table outlines the key milestones and dates in the transaction process between Kershaw Health Limited and Lotus Technology, from initial discussions to the current stage.\n    •\tContext: The timeline provides a clear overview of the transaction's progress, helping stakeholders understand the current status and upcoming steps.\n    •\tSpecial Notes: The table is updated monthly to reflect any new developments.\n\n    [Row Level]\n    •\tRow 1: Initial Meeting - January 15, 2023\n    •\tRow 2: Letter of Intent Signed - March 10, 2023\n    •\tRow 3: Due Diligence Started - April 1, 2023\n    •\tRow 4: Regulatory Approvals Pending - Current Status"
+            ]
+        ],
+        "perplexity": [
+            1.1068229968703456
+        ]
+    },
+    {
+        "question": "Lotus Technology在9月和10月的交付量分别是多少？",
+        "rewritten": [
+            "What were the delivery numbers for Lotus Technology in September and October?"
+        ],
+        "hyde": [
+            [
+                "In September, Lotus Technology delivered 1,200 units, and in October, the number increased to 1,500 units. This growth indicates a positive trend in their production and distribution capabilities.",
+                "According to the latest sales report, Lotus Technology saw a 25% increase in deliveries from September to October, with 1,200 units in September and 1,500 units in October.",
+                "[Table Level]\n    •\tTable Title: Lotus Technology Delivery Numbers\n    •\tTable Summary: This table shows the monthly delivery numbers for Lotus Technology in September and October, highlighting a significant increase.\n    •\tContext: The data reflects the company's growing market presence and operational efficiency, which can be used to assess performance and plan future strategies.\n    •\tSpecial Notes: The numbers are based on internal company records and are subject to quarterly audits.\n\n    [Row Level]\n    •\tRow 1: September - 1,200 units\n    •\tRow 2: October - 1,500 units"
+            ]
+        ],
+        "perplexity": [
+            1.123158874817053
+        ]
+    },
+    {
+        "question": "介绍一下吉利控股？吉利控股给路特斯科技带来什么助力？",
+        "rewritten": [
+            "What is Geely Holding? How does Geely Holding support Lotus Technology?"
+        ],
+        "hyde": [
+            [
+                "Geely Holding is a Chinese multinational automotive company headquartered in Hangzhou. It supports Lotus Technology by providing financial backing, advanced technology, and global market access to enhance Lotus's electric vehicle (EV) development and production.",
+                "Geely Holding, founded in 1986, is a leading automotive group. It supports Lotus Technology through strategic investments, sharing of R&D resources, and leveraging its extensive supply chain to accelerate Lotus's transition into a high-performance EV brand.",
+                "[Table Level]\n    •\tTable Title: Geely Holding's Investments in Lotus Technology\n    •\tTable Summary: This table outlines the key financial and technological investments made by Geely Holding in Lotus Technology from 2017 to 2023.\n    •\tContext: The data highlights the significant support Geely has provided to transform Lotus into a leading EV manufacturer, emphasizing the strategic importance of these investments.\n    •\tSpecial Notes: Figures are in millions of USD and include both direct investments and R&D collaborations.\n    [Row Level]\n    •\tRow 1: 2017 - Initial Acquisition: $1.2 billion\n    •\tRow 2: 2020 - R&D Investment: $500 million"
+            ]
+        ],
+        "perplexity": [
+            1.148735782738186
+        ]
+    }
+]

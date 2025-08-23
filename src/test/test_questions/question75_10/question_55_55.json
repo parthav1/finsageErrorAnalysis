@@ -1,0 +1,431 @@
+{
+  "metadata": {
+    "generated_date": "2025-08-18 01:13:58",
+    "database": "/root/autodl-tmp/RAG_Agent_production/tmp/database_202506",
+    "batch_index": "55_55"
+  },
+  "questions": [
+    {
+      "question_index": 0,
+      "original_question": "2024年9月27日LTIL和Geely UK Limited之间签署的股权转让协议，请简述协议内容",
+      "answer": "2024年9月27日，路特斯科技创新有限公司（LTIL）与吉利英国有限公司（Geely UK Limited）签署了一份股权转让协议。根据该协议，LTIL同意出售其持有的Lotus Tech Innovation Center GmbH（LTIC）80%的股权，交易金额为1088万欧元。交易完成后，吉利英国有限公司将持有LTIC 80%的股权。该协议于签署当日同时完成交割。\n\n以上信息基于2025年4月30日之前的可用知识。",
+      "duration": 6.9310431480407715,
+      "rewritten_question": [
+        "What is the content of the equity transfer agreement signed between LTIL and Geely UK Limited on September 27, 2024?"
+      ],
+      "need_rag": true,
+      "rag_info": [
+        {
+          "timeinfo": "2024-05-03",
+          "chunk_id": "775be02b83c858ae70f12bb398f6333e108bd5421419da6fd90e44be6ee6c666",
+          "chunk_content": "Under the terms of the agreement, Lotus Technology received a non-exclusive, perpetual, irrevocable, and non-sublicensable license for the electric automotive chassis and autonomous driving technology platform, referred to as the “Geely License,” with a consideration of US$288.9 million. The Geely License is contractually restricted to be used in certain of Lotus Technology's R&D projects. Lotus Technology concludes that the Geely License has no alternative future use; therefore, the cost of the license has been expensed as research and development expenses in the consolidated and combined statement of comprehensive loss for the year ended December 31, 2021. In November 2021, Lotus Technology obtained the trademark licenses from Group Lotus Limited, a related party controlled by Geely Holding, by issuing 47,995,443 ordinary shares to LGIL, a related party controlled by Geely Holding. On December 2, 2021, Lotus Technology Innovative Limited, a subsidiary of Lotus Technology, entered into an equity transfer agreement, pursuant to which Lotus Technology Innovative Limited agreed to acquire 100% equity interest in Lotus Tech Innovation Centre GmbH from a related party, Geely UK Limited, at a consideration of US$15.5 million, which was settled in June 2022.",
+          "chunk_bundle_id": 9.0,
+          "sub_query": "What is the content of the equity transfer agreement signed between LTIL and Geely UK Limited on September 27, 2024?"
+        },
+        {
+          "timeinfo": "2024-09-19",
+          "chunk_id": "ffce90d3069511ea5d4eb949bb2e67cf63772b2b5d27abfe9d250fcc59e975c7",
+          "chunk_content": "Concurrent with the execution of the Original Merger Agreement, on January 31, 2023, Lotus Technology Corporation (LTC) entered into a put option agreement with each of Geely and Etika, pursuant to which each of Geely and Etika is granted the right to require LTC to purchase all of the equity interests held by each of Geely and Etika in Lotus Advance Technologies Sdn Bhd, the parent company of Lotus UK, at a pre-agreed price which will be calculated based on the total revenue of Lotus Global Investment Limited (LGIL) for the year of 2024 adjusted to exclude net debt, at a future date during the period from April 1, 2025, to June 30, 2025, and contingent upon satisfaction of certain pre-agreed conditions.",
+          "chunk_bundle_id": 3.0,
+          "sub_query": "What is the content of the equity transfer agreement signed between LTIL and Geely UK Limited on September 27, 2024?"
+        },
+        {
+          "timeinfo": "2024-10-01",
+          "chunk_id": "8cf8b6ece36c634ccf4f9308e4380e9f4d4d4aff8a2313a84ce56f5abc2c4208",
+          "chunk_content": "Lotus Technology Innovative Limited (the “LTIL”), a wholly-owned subsidiary of Lotus Technology Inc., recently entered into a share sale and transfer agreement (the “Share Transfer Agreement”) with Geely UK Limited (“Geely”), pursuant to which LTIL agrees to sell, and Geely agrees to purchase, 800,000 shares in Lotus Tech Innovation Center GmbH (“LTIC”), a company incorporated in Germany and a wholly-owned subsidiary of LTIL, for an aggregate principal amount of EUR 10,880,000 (the “Transaction”). The Transaction closed simultaneously with the signing of the Share Transfer Agreement. Upon completion of the Transaction, Geely beneficially owns 80% of LTIC’s share capital. A copy of the Share Transfer Agreement is included in this current report on Form 6-K as Exhibit 10.1, and the foregoing description of the Share Transfer Agreement is qualified in its entirety by reference thereto. Share Sale and Transfer Agreement, dated September 27, 2024, by and between Lotus Technology Innovative Limited and Geely UK Limited.",
+          "chunk_bundle_id": 0.0,
+          "sub_query": "What is the content of the equity transfer agreement signed between LTIL and Geely UK Limited on September 27, 2024?"
+        },
+        {
+          "timeinfo": "2024-10-01",
+          "chunk_id": "8f27bf91d9841e9c45e1b1b7ab5d95c7697facccbc7d422209d54886b44d7d21",
+          "chunk_content": "By: /s/ Alexious Kuen Long Lee  \nName: Alexious Kuen Long Lee  \nTitle: Director and Chief Financial Officer THE SYMBOL “[REDACTED]” DENOTES PLACES WHERE CERTAIN IDENTIFIED INFORMATION HAS BEEN EXCLUDED FROM THE EXHIBIT BECAUSE IT IS BOTH (I) NOT MATERIAL, AND (II) IS THE TYPE THAT LOTUS COMPANY TREATS AS PRIVATE OR CONFIDENTIAL. Geely UK Limited Lotus Technology Innovative Limited SHARE SALE AND TRANSFER AGREEMENT relating to the sale and transfer of shares in Lotus Tech Innovation Center GmbH THIS SHARE SALE AND TRANSFER AGREEMENT (the “Agreement”) is made on September 27, 2024 (the “Signing Date”)",
+          "chunk_bundle_id": 10.0,
+          "sub_query": "What is the content of the equity transfer agreement signed between LTIL and Geely UK Limited on September 27, 2024?"
+        },
+        {
+          "timeinfo": "2024-01-12",
+          "chunk_id": "8ea980e9125f72db956d775594832606a4f45b7dc0f5cd379566676b7e22ba30",
+          "chunk_content": "On January 31, 2023, Lotus Technology issued put options to each of Geely International (Hong Kong) Limited (“Geely HK”) and Etika Automotive Sdn Bhd (“Etika”) at nil consideration. Pursuant to the put option agreements, each of Geely HK and Etika will have an option to require Lotus Technology to purchase the equity interests held by Geely HK and Etika in Lotus Advance Technologies Sdn Bhd, the immediate parent of LGIL, during the period from April 1, 2025 to June 30, 2025, at a pre-agreed price, i.e. 1.15 multiplied by the revenue of LGIL for the year ending December 31, 2024 plus the cash and cash equivalents of LGIL as of December 31, 2024, and minus the outstanding amount of indebtedness of LGIL as of December 31, 2024 (the “exercise price”), if the total number of vehicles sold by LGIL in 2024 exceeds 5,000 (the “exercise condition”). Geely HK and Etika are entitled to exercise the put option on an individual standalone basis. If",
+          "chunk_bundle_id": 8.0,
+          "sub_query": "What is the content of the equity transfer agreement signed between LTIL and Geely UK Limited on September 27, 2024?"
+        },
+        {
+          "timeinfo": "2025-04-30",
+          "chunk_id": "ff677f752f3ab233e6dc632d54ff1a416c1115a64d77ddbe8e90ca296b6fb549",
+          "chunk_content": "In connection with the transaction, 50% equity interests of one of Lotus Technology's subsidiaries will be pledged to Geely HK. On November 7, 2024, Lotus Technology entered into the Bond Subscription Agreement with Kershaw Health Limited, the Subscriber, pursuant to which the Subscriber agrees to subscribe for and purchase, and Lotus Technology agrees to issue and sell to the Subscriber, a senior bond due 2029, or the 2029 Bond, with the principal amount of US$500,000,000, at a subscription price of 100% of the principal amount of the Bond. As of the date of this annual report, the transaction has not been closed yet. In September 2024, Lotus Technology Investment Limited (LTIL) entered into a share sale and transfer agreement with Geely UK Limited, pursuant to which LTIL sold 80% equity in Lotus Technology International Company (LTIC) for an aggregate principal amount of EUR 10,880,000. Immediately upon completion of the transaction, Geely UK Limited beneficially owned 80% of LTIC’s share capital. On September 29, 2024, Lotus Technology's subsidiary, Hangzhou Kingway Technology Co., Ltd., or Kingway, entered into an exchangeable note agreement with an investor. Pursuant to the agreement, Kingway is entitled to issue exchangeable notes, or the Kingway Exchangeable Notes, of RMB600,000,000 to obtain financing from the investor. The repayments of the Kingway Exchangeable Notes were guaranteed by the ultimate shareholders of Kingway in mainland China, i.e., Wuhan Lotus Technology Co., Ltd., a wholly-owned subsidiary of Lotus Technology.",
+          "chunk_bundle_id": 1.0,
+          "sub_query": "What is the content of the equity transfer agreement signed between LTIL and Geely UK Limited on September 27, 2024?"
+        },
+        {
+          "timeinfo": "2025-04-30",
+          "chunk_id": "1d1f141f1011624e76253f7b5c62a0bc3d594047712798ffc5ce21bde10c784d",
+          "chunk_content": "On December 2, 2021, Lotus Technology Innovative Limited, a subsidiary of Lotus Technology, entered into an equity transfer agreement, pursuant to which Lotus Technology Innovative Limited agreed to acquire 100% equity interest in Lotus Tech Innovation Centre GmbH from a related party, Geely UK Limited, at a consideration of US\\$15.5 million, which was settled in June 2022. The transaction was accounted for as a common control transaction and completed in June 2022. On September 27, 2024, Lotus Technology disposed of 80% equity interest of Lotus Tech Innovation Centre GmbH to Geely UK Limited, for cash consideration of US\\$12.2 million. On May 13, 2022, Lotus Technology purchased a one-year convertible note with a principal amount of US\\$10.0 million issued by ECARX Holding Inc. Upon the listing of ECARX Holding Inc. on December 21, 2022, the note was automatically converted into Class A ordinary shares of ECARX Holding Inc. at a conversion price of US\\$9.50 per share. As of December 31, 2024 and 2023, the fair value of such shares was US\\$2.2 million and US\\$3.3 million, respectively. During the year ended December 31, 2024, Lotus Technology borrowed loans due within one year or less with principal amounts of US\\$140.1 million from Zhejiang Geely Automobile Co., Ltd., and US\\$58.4 million from Geely Technology Group Co., Ltd., respectively, bearing an interest rate of 6%. The loans are secured by Lotus Technology's intellectual property with a carrying amount of nil, as the research and development costs were expensed historically.",
+          "chunk_bundle_id": 16.0,
+          "sub_query": "What is the content of the equity transfer agreement signed between LTIL and Geely UK Limited on September 27, 2024?"
+        },
+        {
+          "timeinfo": "2025-04-30",
+          "chunk_id": "4ac67f701c066e5382afa83ac58f6e7d2bb3649230452a09eaa74abd18330a0e",
+          "chunk_content": "333-275001) filed with the SEC on December 5, 2023)   \nAmendment Agreement dated as of February 17, 2024 between Lotus Technology Inc. and Meritz Securities Co., Ltd.   \nSupplemental Agreement dated as of September 30, 2024 between Lotus Technology Inc. and Meritz Securities Co., Ltd.   \nShare Buyback Agreement, dated November 29, 2024 by and between Lotus Technology Inc. and Meritz Securities Co., Ltd. (incorporated by reference to Exhibit 10.1 to the Current Report on Form 6 - K filed with the SEC on December 2, 2024)   \nAmended and Restated Share Buyback Agreement, dated March 28, 2025 by and between Lotus Technology Inc., Lotus EV Limited and Meritz Securities Co., Ltd. (incorporated by reference to Exhibit 10.1 to the Current Report on Form 6 - K filed with the SEC on March 28, 2025)   \nConvertible Note Purchase Agreement, dated June 24, 2024, by and between Lotus Technology Inc. and Geely International (Hong Kong) Limited (incorporated by reference to Exhibit 10.1 to the Current Report on Form 6 - K filed with the SEC on June 24, 2024)   \nForm of Senior Convertible Note (incorporated by reference to Exhibit 10.2 to the Current Report on Form 6 - K filed with the SEC on June 24, 2024)   \nSecurities Purchase Agreement dated as of September 16, 2024 between Lotus Technology Inc. and Westwood Capital Group LLC (incorporated by reference to Exhibit 99.1 to the Current Report on Form 6 - K filed with the SEC on September 16, 2024)   \nRegistration Rights Agreement dated as of September 16, 2024 between Lotus Technology Inc. and Westwood Capital Group LLC (incorporated by reference to Exhibit 99.2 to the Current Report on Form 6 - K filed with the SEC on September 16, 2024)   \nShare Sale and Transfer Agreement, dated September 27, 2024 by and between Lotus Technology Innovative Limited and Geely UK Limited (incorporated by reference to Exhibit 10.1 to the Current Report on Form 6 - K filed with the SEC on October 1, 2024)   \nBond Subscription Agreement, dated November 7, 2024 by and between Lotus Technology Inc. and Kershaw Health Limited (incorporated by reference to Exhibit 10.1 to the Current Report on Form 6 - K filed with the SEC on November 8, 2024)   \nForm of Global Certificate (incorporated by reference to Exhibit 10.2 to the Current Report on Form 6 - K filed with the SEC on November 8, 2024)",
+          "chunk_bundle_id": 14.0,
+          "sub_query": "What is the content of the equity transfer agreement signed between LTIL and Geely UK Limited on September 27, 2024?"
+        },
+        {
+          "timeinfo": "2025-04-30",
+          "chunk_id": "26653009f9053d1091611f7197c9f9b7a74bf3a3774cf2ed00af8c4557773657",
+          "chunk_content": "On September 27, 2024, Lotus Technology disposed of an 80% equity interest in a subsidiary in Germany to Geely UK Limited, a subsidiary of Geely Holding, for cash consideration of US$12,157. The carrying amount of the net assets of the subsidiary on the disposal date was as follows: US$12,157",
+          "chunk_bundle_id": 15.0,
+          "sub_query": "What is the content of the equity transfer agreement signed between LTIL and Geely UK Limited on September 27, 2024?"
+        },
+        {
+          "timeinfo": "2024-06-24",
+          "chunk_id": "89afb14efb5f0c66dc2bcb81e7b6068abd3fc91ab62129ff3b7d5497b928b8f4",
+          "chunk_content": "Convertible Note Purchase Agreement, dated June 24, 2024, by and between Lotus Technology Inc. and Geely International (Hong Kong) Limited  \nForm of Senior Convertible Note  \nPress release – Lotus Technology Secures Investment from Strategic Investor 10.2   \n99.1",
+          "chunk_bundle_id": 13.0,
+          "sub_query": "What is the content of the equity transfer agreement signed between LTIL and Geely UK Limited on September 27, 2024?"
+        }
+      ],
+      "all_retrieved_content": [
+        [
+          {
+            "retriever": "FAISS",
+            "score": 0.7046269178390503,
+            "page_content": "Lotus Technology Innovative Limited (the “LTIL”), a wholly-owned subsidiary of Lotus Technology Inc., recently entered into a share sale and transfer agreement (the “Share Transfer Agreement”) with Geely UK Limited (“Geely”), pursuant to which LTIL agrees to sell, and Geely agrees to purchase, 800,000 shares in Lotus Tech Innovation Center GmbH (“LTIC”), a company incorporated in Germany and a wholly-owned subsidiary of LTIL, for an aggregate principal amount of EUR 10,880,000 (the “Transaction”). The Transaction closed simultaneously with the signing of the Share Transfer Agreement. Upon completion of the Transaction, Geely beneficially owns 80% of LTIC’s share capital. A copy of the Share Transfer Agreement is included in this current report on Form 6-K as Exhibit 10.1, and the foregoing description of the Share Transfer Agreement is qualified in its entirety by reference thereto. Share Sale and Transfer Agreement, dated September 27, 2024, by and between Lotus Technology Innovative Limited and Geely UK Limited.",
+            "metadata": {
+              "date_published": "2024-10-01",
+              "doc_id": "8cf8b6ece36c634ccf4f9308e4380e9f4d4d4aff8a2313a84ce56f5abc2c4208",
+              "filename": "1001.json",
+              "global_id": 3401,
+              "next_chunk_id": "",
+              "page_number": 2,
+              "prev_chunk_id": "",
+              "title_summary": "title: LTIC Share Transfer Agreement \nsummary: **Comprehensive Summary of the LTIC Share Transfer Agreement**\n\nLotus Technology Innovative Limited (LTIL), a wholly-owned subsidiary of Lotus Technology Inc., has executed a Share Transfer Agreement with Geely UK Limited (Geely) for the sale of 800,000 shares in Lotus Tech Innovation Center GmbH (LTIC), a German company that is also a wholly-owned subsidiary of LTIL. The total transaction amount for this share transfer is EUR 10,880,000. \n\nThe transaction was finalized on September 27, 2024, coinciding with the signing of the Share Transfer Agreement. As a result of this transaction, Geely now possesses 80% of LTIC's share capital. The details of the Share Transfer Agreement are documented in this report on Form 6-K as Exhibit 10.1, and the description provided here is subject to the complete terms outlined in that exhibit.\n\nThis agreement marks a significant strategic move for both LTIL and Geely, reflecting Geely's increased stake in LTIC and reinforcing its position in the market."
+            },
+            "bundle_id": 0
+          },
+          {
+            "retriever": "FAISS",
+            "score": 0.6609840393066406,
+            "page_content": "In connection with the transaction, 50% equity interests of one of Lotus Technology's subsidiaries will be pledged to Geely HK. On November 7, 2024, Lotus Technology entered into the Bond Subscription Agreement with Kershaw Health Limited, the Subscriber, pursuant to which the Subscriber agrees to subscribe for and purchase, and Lotus Technology agrees to issue and sell to the Subscriber, a senior bond due 2029, or the 2029 Bond, with the principal amount of US$500,000,000, at a subscription price of 100% of the principal amount of the Bond. As of the date of this annual report, the transaction has not been closed yet. In September 2024, Lotus Technology Investment Limited (LTIL) entered into a share sale and transfer agreement with Geely UK Limited, pursuant to which LTIL sold 80% equity in Lotus Technology International Company (LTIC) for an aggregate principal amount of EUR 10,880,000. Immediately upon completion of the transaction, Geely UK Limited beneficially owned 80% of LTIC’s share capital. On September 29, 2024, Lotus Technology's subsidiary, Hangzhou Kingway Technology Co., Ltd., or Kingway, entered into an exchangeable note agreement with an investor. Pursuant to the agreement, Kingway is entitled to issue exchangeable notes, or the Kingway Exchangeable Notes, of RMB600,000,000 to obtain financing from the investor. The repayments of the Kingway Exchangeable Notes were guaranteed by the ultimate shareholders of Kingway in mainland China, i.e., Wuhan Lotus Technology Co., Ltd., a wholly-owned subsidiary of Lotus Technology.",
+            "metadata": {
+              "date_published": "2025-04-30",
+              "doc_id": "ff677f752f3ab233e6dc632d54ff1a416c1115a64d77ddbe8e90ca296b6fb549",
+              "filename": "20250430.json",
+              "global_id": 11905,
+              "next_chunk_id": "bedadbe140f72211a361834e6a58772591f0e8dec907a0323fab78b7fa256715",
+              "page_number": 136,
+              "prev_chunk_id": "6dd33e32bde5644864348e3c688201c616dbb582ce582d9b7ded92053d04a7d9",
+              "title_summary": "title: Cash flows and working capital \nsummary: The cash flow summary for the years 2022 to 2024 provides a detailed analysis of the organization's financial movements, emphasizing operating, investing, and financing activities. In 2024, the organization reported a net cash outflow of $848,520 from operating activities, an increase from previous years, while investing activities also saw significant outflows totaling $579,440. However, financing activities generated a substantial net inflow of $1,459,527, reflecting the organization's reliance on various financing mechanisms, including bank loans and shareholder contributions.\n\nThe cash positions at the beginning of 2024 were $427,135, a decrease from prior years, but by the end of 2024, cash and restricted cash rose to $484,937. Exchange rate fluctuations positively impacted cash balances in 2024, contrasting with negative effects in the previous two years. Overall, the net cash increase for 2024 was $57,802, a turnaround from the decrease experienced in 2023.\n\nSeveral significant financing agreements were established in 2024, including a $70 million convertible bond sale to Geely HK, a $500 million senior bond subscription with Kershaw Health Limited, and an exchangeable note agreement totaling RMB 600 million by Hangzhou Kingway Technology. The organization also engaged in a share sale agreement with Geely UK Limited and secured short-term loans backed by intellectual property.\n\nDespite these financing efforts, the organization faces challenges related to profitability and cash flow management, raising concerns about its ability to sustain operations without effective strategies for securing additional funding. The company is exploring various options, including cutting expenses and pursuing new loans or equity financing, amidst uncertainties in global financial markets.\n\nAdditionally, the organization’s revenue is primarily denominated in RMB, which may complicate capital expenses and foreign currency conversions due to regulatory requirements in mainland China. The summary underscores the importance of effective cash management and strategic planning to navigate financial challenges and ensure continued operational viability."
+            },
+            "bundle_id": 1
+          },
+          {
+            "retriever": "FAISS",
+            "score": 0.6576905250549316,
+            "page_content": "Concurrently with the execution of the Original Merger Agreement, on January 31, 2023, Lotus Technology Corporation (LTC) entered into a put option agreement with each of Geely and Etika, pursuant to which each of Geely and Etika is granted the right to require LTC to purchase all of the equity interests held by each of Geely and Etika in Lotus Advance Technologies Sdn Bhd, the parent company of Lotus UK, at a pre-agreed price which will be calculated based on the total revenue of Lotus Global Investment Limited (LGIL) for the year of 2024 adjusted to exclude net debt, at a future date during the period from April 1, 2025 to June 30, 2025 and contingent upon satisfaction of certain pre-agreed conditions.",
+            "metadata": {
+              "date_published": "2024-05-24",
+              "doc_id": "42f54e092847e5f05e9599cc2dca6aa1e32254d42441c3c2520ac3bdbc41c047",
+              "filename": "20240524_final.json",
+              "global_id": 10763,
+              "next_chunk_id": "525784802112ceadb21c283372a8eac1e7052f62d519388605a46969bfb81b6a",
+              "page_number": 211,
+              "prev_chunk_id": "4a3dc2d5f5d0ee12d54b95c2f76c09d953ce4ffa99c7b6b86bdade5a5e3bbc12",
+              "title_summary": "title: Put Option Agreements \nsummary: On January 31, 2023, LTC finalized a put option agreement with Geely and Etika, complementing the Original Merger Agreement. This arrangement allows Geely and Etika to compel LTC to buy their equity stakes in Lotus Advance Technologies Sdn Bhd, the parent company of Lotus UK. The purchase price will be based on LGIL's total revenue for 2024, adjusted for net debt, and the transaction can take place between April 1, 2025, and June 30, 2025, provided specific pre-agreed conditions are met."
+            },
+            "bundle_id": 2
+          },
+          {
+            "retriever": "FAISS",
+            "score": 0.6552606225013733,
+            "page_content": "Concurrent with the execution of the Original Merger Agreement, on January 31, 2023, Lotus Technology Corporation (LTC) entered into a put option agreement with each of Geely and Etika, pursuant to which each of Geely and Etika is granted the right to require LTC to purchase all of the equity interests held by each of Geely and Etika in Lotus Advance Technologies Sdn Bhd, the parent company of Lotus UK, at a pre-agreed price which will be calculated based on the total revenue of Lotus Global Investment Limited (LGIL) for the year of 2024 adjusted to exclude net debt, at a future date during the period from April 1, 2025, to June 30, 2025, and contingent upon satisfaction of certain pre-agreed conditions.",
+            "metadata": {
+              "date_published": "2024-09-19",
+              "doc_id": "ffce90d3069511ea5d4eb949bb2e67cf63772b2b5d27abfe9d250fcc59e975c7",
+              "filename": "0919_final.json",
+              "global_id": 2766,
+              "next_chunk_id": "",
+              "page_number": 193,
+              "prev_chunk_id": "",
+              "title_summary": "title: Put Option Agreements \nsummary: On January 31, 2023, LTC entered into put option agreements with Geely and Etika as part of the Original Merger Agreement. These agreements provide Geely and Etika with the right to compel LTC to purchase their equity interests in Lotus Advance Technologies Sdn Bhd, which is the parent company of Lotus UK. The purchase price for these equity interests will be determined based on the total revenue of LGIL for the fiscal year 2024, with adjustments made to exclude net debt. The options can be exercised within a specified timeframe, from April 1, 2025, to June 30, 2025, and their execution is contingent upon the fulfillment of certain pre-agreed conditions. This arrangement is designed to ensure that both Geely and Etika have a clear exit strategy while aligning their interests with LTC's performance in the upcoming fiscal year."
+            },
+            "bundle_id": 3
+          },
+          {
+            "retriever": "FAISS",
+            "score": 0.6456167697906494,
+            "page_content": "Concurrent with the execution of the Original Merger Agreement, on January 31, 2023, Lotus Technology Corporation (LTC) entered into a put option agreement with each of Geely HK and Etika, pursuant to which each of Geely HK and Etika is granted the right to require LTC to purchase all of the equity interests held by each of Geely HK and Etika in Lotus Advance Technologies Sdn Bhd, the parent company of Lotus UK, at a pre-agreed price which will be calculated based on the total revenue of Lotus Global Investment Limited (LGIL) for the year of 2024 adjusted to exclude net debt, at a future date during the period from April 1, 2025 to June 30, 2025 and contingent upon satisfaction of the LAT Put Option Exercise Condition. As of December 31, 2024, the Put Option Exercise Condition had been satisfied. On April 14, 2025, Geely HK exercised its put option, requiring LTC to purchase 51% of the equity interests in Lotus Advance Technologies Sdn Bhd. Closing of the Geely HK put option could be subject to approvals of governmental authorities in various jurisdictions and is currently expected to take place around the end of 2025.",
+            "metadata": {
+              "date_published": "2025-04-30",
+              "doc_id": "5f94a15021e05fcd8d6c1a0951a26b7b70d58f07a25df17d009a18b54e0a62ea",
+              "filename": "20250430.json",
+              "global_id": 11972,
+              "next_chunk_id": "6f49169f40f1183d96b467c463fe31c5526f890efa41353e34df65b4343c8053",
+              "page_number": 153,
+              "prev_chunk_id": "28cf01d0bc73ba7283e436431132b0e41c8abfcf16ef205a67187855e49f791a",
+              "title_summary": "title: Put Option Agreements \nsummary: On January 31, 2023, LTC entered into put option agreements with Geely HK and Etika, enabling them to require LTC to purchase their equity interests in Lotus Advance Technologies Sdn Bhd, the parent company of Lotus UK. The purchase price will be determined based on LGIL's total revenue for 2024, adjusted for net debt, and the options can be exercised between April 1 and June 30, 2025, provided certain conditions are met. By December 31, 2024, these conditions were fulfilled. Subsequently, on April 14, 2025, Geely HK exercised its option to sell 51% of its equity interests in Lotus Advance Technologies Sdn Bhd. The completion of this transaction is expected to require governmental approvals and is projected to occur by the end of 2025."
+            },
+            "bundle_id": 4
+          },
+          {
+            "retriever": "FAISS",
+            "score": 0.6450520753860474,
+            "page_content": "dated as of June 24, 2024 between  \nLotus Technology Inc. and Geely International (Hong Kong) Limited This CONVERTIBLE NOTE PURCHASE AGREEMENT (this “Agreement”), dated as of June 24, 2024, is entered into by and between (i) Lotus Technology Inc., an exempted company with limited liability organized and existing under the laws of the Cayman Islands (the “Company”), and (ii) Geely International (Hong Kong) Limited, a company limited by shares incorporated under the laws of Hong Kong (the “Purchaser”).",
+            "metadata": {
+              "date_published": "2024-06-24",
+              "doc_id": "d8f570f0a3e3e310ddd193cc37bde176265815564fadd50e5091d5f246911d26",
+              "filename": "Lotus_6-K_20240624_final.json",
+              "global_id": 13219,
+              "next_chunk_id": "71f6db1edc46762fd27f5ce70c4c74aa48482ad1bd9477b102309f9d4720a97b",
+              "page_number": 4,
+              "prev_chunk_id": "57b8cd3eee4544e4116e7cf8d2dbbc878a52f55958c32565e683ae665663b499",
+              "title_summary": "title: CONVERTIBLE NOTE PURCHASE AGREEMENT \nsummary: Geely International (Hong Kong) Limited, a subsidiary of Geely Automobile Holdings, is dedicated to expanding the company's global footprint in the automotive sector. It manages international investments, partnerships, and promotes Geely's vehicles and technologies worldwide, emphasizing innovation, sustainability, and customer experience. Additionally, a Convertible Note Purchase Agreement dated June 24, 2024, has been established between Lotus Technology Inc. and Geely International, detailing the investment terms for convertible notes issued by Lotus."
+            },
+            "bundle_id": 5
+          },
+          {
+            "retriever": "FAISS",
+            "score": 0.643028736114502,
+            "page_content": "Concurrently with the execution of the Original Merger Agreement, on January 31, 2023, Lotus Technology Corporation (LTC) entered into a put option agreement with each of Geely HK and Etika, pursuant to which each of Geely HK and Etika is granted the right to require LTC to purchase all of the equity interests held by each of Geely HK and Etika in Lotus Advance Technologies Sdn Bhd, the parent company of Lotus UK, at a pre-agreed price which will be calculated based on the total revenue of Lotus Global Investment Limited (LGIL) for the year of 2024 adjusted to exclude net debt, at a future date during the period from April 1, 2025 to June 30, 2025 and contingent upon satisfaction of certain pre-agreed conditions.",
+            "metadata": {
+              "date_published": "2024-04-22",
+              "doc_id": "bd3c77db499b6f679bf36649f93d8da34f8cbee7519ff9697a2977d5e2c4d273",
+              "filename": "20240422_final.json",
+              "global_id": 9069,
+              "next_chunk_id": "63d5bf8b8c4d6971ea6332964abad65a17a64781013dd9f60a6ff7f9c7997f18",
+              "page_number": 154,
+              "prev_chunk_id": "715ad18a6cb89b4b22731902a09a6bd7d5ad50e124186ac02c06a480a3b76ab4",
+              "title_summary": "title: Put Option Agreements \nsummary: On January 31, 2023, LTC established a put option agreement with Geely HK and Etika in conjunction with the Original Merger Agreement. This arrangement allows Geely HK and Etika to require LTC to repurchase their equity stakes in Lotus Advance Technologies Sdn Bhd, the parent company of Lotus UK. The buyback price will be based on LGIL's total revenue for 2024, adjusted for net debt, and the transaction is set to take place between April 1 and June 30, 2025, contingent upon meeting specific pre-agreed conditions."
+            },
+            "bundle_id": 6
+          },
+          {
+            "retriever": "FAISS",
+            "score": 0.6399818062782288,
+            "page_content": "On January 31, 2023, Lotus Technology entered into put option agreements with each of Geely HK and Etika, pursuant to which each of Geely HK and Etika will have an option to require Lotus Technology to purchase the equity interests held by Geely HK and Etika in Lotus Advance Technologies Sdn Bhd, the immediate parent of LGIL, during the period from April 1, 2025 to June 30, 2025, at a pre-agreed price, i.e. 1.15 multiplied by the revenue of LGIL for the year ending December 31, 2024 plus the cash and cash equivalents of LGIL as of December 31, 2024, and minus the outstanding amount of indebtedness of LGIL as of December 31, 2024, at a future date and upon satisfaction of certain pre-agreed conditions, i.e. total number of vehicles sold by LGIL in 2024 exceeds 5,000. Upon exercise by each of Geely HK and Etika of the put option, LGIL agrees to take any and all actions to distribute Lotus Technology’s shares held by LGIL on the date of the put exercise note to each of Geely HK and Etika such that Geely HK and Etika each shall receive the pro rata number of Lotus Technology’s shares held by LGIL concurrently with the completion of the exercise of the put option.",
+            "metadata": {
+              "date_published": "2024-01-12",
+              "doc_id": "aa0f2fec39fd105213c4e6453bca0f1fea6bad5c7f7cc6cdf233f7bcd8b5c769",
+              "filename": "20240112_final.json",
+              "global_id": 7983,
+              "next_chunk_id": "cfa1c8ecc23407ce0b1984aa1bcd8295af4affba4a8d3f04d9b04c085cf1a620",
+              "page_number": 527,
+              "prev_chunk_id": "7952fddf44b09bc9ec88ec306433c268354f714c9b540982f066fe45aa96503f",
+              "title_summary": "title: (iii)  Put Option Agreements \nsummary: On January 31, 2023, the Company established put option agreements with Geely HK and Etika, allowing them to compel the Company to buy their equity stakes in Lotus Advance Technologies Sdn Bhd, the parent company of LGIL. This option can be exercised between April 1 and June 30, 2025, at a price determined by 1.15 times LGIL's revenue for the year ending December 31, 2024, plus its cash and cash equivalents, minus any outstanding debt. The option is contingent upon LGIL selling over 5,000 vehicles in 2024. If exercised, LGIL will distribute the Company's shares it holds to Geely HK and Etika in proportion to their respective interests at the time of the option's execution."
+            },
+            "bundle_id": 7
+          },
+          {
+            "retriever": "FAISS",
+            "score": 0.639063835144043,
+            "page_content": "On January 31, 2023, Lotus Technology issued put options to each of Geely International (Hong Kong) Limited (“Geely HK”) and Etika Automotive Sdn Bhd (“Etika”) at nil consideration. Pursuant to the put option agreements, each of Geely HK and Etika will have an option to require Lotus Technology to purchase the equity interests held by Geely HK and Etika in Lotus Advance Technologies Sdn Bhd, the immediate parent of LGIL, during the period from April 1, 2025 to June 30, 2025, at a pre-agreed price, i.e. 1.15 multiplied by the revenue of LGIL for the year ending December 31, 2024 plus the cash and cash equivalents of LGIL as of December 31, 2024, and minus the outstanding amount of indebtedness of LGIL as of December 31, 2024 (the “exercise price”), if the total number of vehicles sold by LGIL in 2024 exceeds 5,000 (the “exercise condition”). Geely HK and Etika are entitled to exercise the put option on an individual standalone basis. If",
+            "metadata": {
+              "date_published": "2024-01-12",
+              "doc_id": "8ea980e9125f72db956d775594832606a4f45b7dc0f5cd379566676b7e22ba30",
+              "filename": "20240112_final.json",
+              "global_id": 8095,
+              "next_chunk_id": "021fd1be46bafdb54e09236383e0b642bcb81c1a4bcad5f053702e4ff639f690",
+              "page_number": 557,
+              "prev_chunk_id": "",
+              "title_summary": "title: 13.   PUT OPTION LIABILITIES \nsummary: The \"Put Option Liabilities Reconciliation\" provides an overview of the changes in put option liabilities from December 31, 2022, to June 30, 2023. It highlights the issuance of put options, their fair value fluctuations, and the final balance as of June 30, 2023, all in US dollars. \n\nThe reconciliation is based on put option agreements established on January 31, 2023, with Geely HK and Etika, which grant these entities the right to sell their equity interests in Lotus Advance Technologies Sdn Bhd back to the Company, contingent on LGIL's sales performance in 2024. \n\nKey details include an initial balance of zero for put option liabilities at the end of 2022, the issuance of options valued at US$9,376 on January 31, 2023, and a subsequent decrease in fair values amounting to US$(3,307) by June 30, 2023. This resulted in a final balance of US$6,069 in put option liabilities. \n\nThe options, granted at no cost, can be exercised between April 1, 2025, and June 30, 2025, provided LGIL sells over 5,000 vehicles in 2024. The exercise price is determined by a formula based on LGIL's revenue, cash reserves, and outstanding debts as of December 31, 2024. Both Geely HK and Etika have the ability to exercise their options independently."
+            },
+            "bundle_id": 8
+          },
+          {
+            "retriever": "FAISS",
+            "score": 0.6361947059631348,
+            "page_content": "Under the terms of the agreement, Lotus Technology received a non-exclusive, perpetual, irrevocable, and non-sublicensable license for the electric automotive chassis and autonomous driving technology platform, referred to as the “Geely License,” with a consideration of US$288.9 million. The Geely License is contractually restricted to be used in certain of Lotus Technology's R&D projects. Lotus Technology concludes that the Geely License has no alternative future use; therefore, the cost of the license has been expensed as research and development expenses in the consolidated and combined statement of comprehensive loss for the year ended December 31, 2021. In November 2021, Lotus Technology obtained the trademark licenses from Group Lotus Limited, a related party controlled by Geely Holding, by issuing 47,995,443 ordinary shares to LGIL, a related party controlled by Geely Holding. On December 2, 2021, Lotus Technology Innovative Limited, a subsidiary of Lotus Technology, entered into an equity transfer agreement, pursuant to which Lotus Technology Innovative Limited agreed to acquire 100% equity interest in Lotus Tech Innovation Centre GmbH from a related party, Geely UK Limited, at a consideration of US$15.5 million, which was settled in June 2022.",
+            "metadata": {
+              "date_published": "2024-05-03",
+              "doc_id": "775be02b83c858ae70f12bb398f6333e108bd5421419da6fd90e44be6ee6c666",
+              "filename": "0503_final.json",
+              "global_id": 897,
+              "next_chunk_id": "d58289847b135216b9c1ed5ec3ec1cc51b98bed69104632bed3d73a094a1545c",
+              "page_number": 202,
+              "prev_chunk_id": "84511f8b85144f3250c10815f2f36b7f2b1730fa7763dada1e523fe9c04cb652",
+              "title_summary": "title: Related Party Transactions \nsummary: ### Comprehensive Summary of Related Party Transactions\n\nThe \"Related Party Transactions\" chapter outlines the company's extensive financial interactions with related parties over the years, particularly focusing on the sale of sports cars, BEV lifestyle models, auto parts, and consulting services. \n\n#### Revenue from Related Party Transactions\n- **Service Revenue**: The company generated revenue from services provided to related parties amounting to:\n  - **2023**: US$12.6 million\n  - **2022**: US$8.3 million\n  - **2021**: US$3.3 million\n- **Product Sales**: Sales of products to related parties were:\n  - **2023**: US$3.4 million\n  - **2022**: US$23 thousand\n  - **2021**: None\n\n#### Accounts Receivable and Payments\n- As of December 31, 2023, accounts receivable from related parties totaled **US$22.4 million**, up from **US$8.5 million** in 2022.\n- The company made payments on behalf of related parties totaling:\n  - **2023**: US$4.0 million\n  - **2022**: US$244 thousand\n  - **2021**: None\n- Related parties collected **US$3.7 million** in 2023.\n\n#### Loans and Prepayments\n- Unsecured short-term loans to related parties were:\n  - **2023**: US$1.2 million\n  - **2022**: US$2.3 million\n- Interest income from these loans was recognized at:\n  - **2023**: US$122 thousand\n  - **2022**: US$24 thousand\n- Prepayments for vehicle purchases to related parties amounted to:\n  - **2023**: US$21.4 million\n  - **2022**: US$6.1 million\n- An expected credit loss provision for these prepayments increased from **US$12 thousand** on January 1, 2023, to **US$23 thousand** by December 31, 2023.\n\n#### Purchases from Related Parties\n- Total purchases from related parties were significant, amounting to:\n  - **2023**: US$852.6 million (with **US$549.9 million** recognized as cost of goods sold)\n  - **2022**: US$44.3 million\n  - **2021**: US$14.3 million\n- Research and development expenses related to these purchases were:\n  - **2023**: US$134.7 million\n  - **2022**: US$167.0 million\n  - **2021**: US$47.4 million\n- Equipment and software purchases from related parties totaled **US$11.2 million** in 2023 and **US$42.8 million** in 2022.\n- The company incurred short-term lease costs of **US$765 thousand** in 2023.\n\n#### Agreements and Investments\n- In 2023, the company established a distribution agreement with Lotus Cars Limited, recording a payable of **US$23.0 million** for distribution rights.\n- The company had previously entered into a license agreement for the Geely License, expensing **US$288.9 million** as R&D costs in 2021.\n- Additionally, equity interests were acquired in related entities, including a **US$15.5 million** transaction with Geely UK Limited completed in June 2022.\n- The fair value of a convertible note purchased from ECARX Holding Inc. was **US$3.3 million** as of December 31, 2023.\n\nOverall, the transactions with related parties reflect significant financial interactions that have notably impacted both revenues and expenses across multiple years, underscoring the importance of these relationships in the company's financial landscape."
+            },
+            "bundle_id": 9
+          },
+          {
+            "retriever": "Title Summary",
+            "score": 0.6564164161682129,
+            "page_content": "By: /s/ Alexious Kuen Long Lee  \nName: Alexious Kuen Long Lee  \nTitle: Director and Chief Financial Officer THE SYMBOL “[REDACTED]” DENOTES PLACES WHERE CERTAIN IDENTIFIED INFORMATION HAS BEEN EXCLUDED FROM THE EXHIBIT BECAUSE IT IS BOTH (I) NOT MATERIAL, AND (II) IS THE TYPE THAT LOTUS COMPANY TREATS AS PRIVATE OR CONFIDENTIAL. Geely UK Limited Lotus Technology Innovative Limited SHARE SALE AND TRANSFER AGREEMENT relating to the sale and transfer of shares in Lotus Tech Innovation Center GmbH THIS SHARE SALE AND TRANSFER AGREEMENT (the “Agreement”) is made on September 27, 2024 (the “Signing Date”)",
+            "metadata": {
+              "date_published": "2024-10-01",
+              "doc_id": "8f27bf91d9841e9c45e1b1b7ab5d95c7697facccbc7d422209d54886b44d7d21",
+              "filename": "1001.json",
+              "global_id": 3403,
+              "next_chunk_id": "ae3168f2220a13c2839a9f6d5f17dcdc0cceb11b833a64811f3ecb582fc0ceb5",
+              "page_number": 4,
+              "prev_chunk_id": "",
+              "title_summary": "title: Lotus Technology Inc. \nsummary: On September 27, 2024, Lotus Technology Inc. executed a Share Sale and Transfer Agreement concerning the sale and transfer of shares in Lotus Tech Innovation Center GmbH. This agreement involves Geely UK Limited and Lotus Technology Innovative Limited. The document was signed by Alexious Kuen Long Lee, who serves as the Director and Chief Financial Officer of Lotus Technology Inc. Certain details within the agreement have been redacted, as they are considered non-material and treated as private or confidential by the company, indicated by the symbol “[REDACTED].” This transaction reflects Lotus Technology Inc.'s strategic initiatives and partnerships aimed at enhancing its operational capabilities and market presence."
+            },
+            "bundle_id": 10
+          },
+          {
+            "retriever": "Title Summary",
+            "score": 0.6511844992637634,
+            "page_content": "Concurrently with the execution of the Original Merger Agreement, on January 31, 2023, Lotus Technology Corporation (LTC) entered into a Put Option Agreement with each of Geely and Etika, pursuant to which each of Geely and Etika is granted the right to require LTC to purchase all of the equity interests held by each of Geely and Etika in Lotus Advance Technologies Sdn Bhd, the parent company of Lotus UK, at a pre-agreed price which will be calculated based on the total revenue of Lotus Group International Limited for the year of 2024 adjusted to exclude net debt, at a future date during the period from April 1, 2025 to June 30, 2025 and contingent upon satisfaction of certain pre-agreed conditions. See “Agreements Entered Into in Connection with the Business Combination    —     Put Option Agreements.” Concurrently with the execution of the Original Merger Agreement, on January 31, 2023, Lotus Technology Corporation (LTC) entered into the Put Option Agreement with each of Geely and Etika, pursuant to which each of Geely and Etika is granted the right, but not the obligation, to require LTC to purchase all of the equity interests held by each of Geely and Etika in Lotus Advance Technologies Sdn Bhd, the parent company of Lotus UK, at a pre-agreed price which will be calculated based on Lotus Group International Limited’s total revenue for the year of 2024 adjusted to exclude net debt.",
+            "metadata": {
+              "date_published": "2024-01-12",
+              "doc_id": "73dd7d47f62ca5b3b2f9bffc53dedb874067e8f45b72c938a2d4016a1d66d004",
+              "filename": "20240112_final.json",
+              "global_id": 6299,
+              "next_chunk_id": "ab07af43ea1bf7e67a028177caf50340cb64b400a1c2bc6ccbac6223fc29ad5c",
+              "page_number": 62,
+              "prev_chunk_id": "",
+              "title_summary": "title: Put Option Agreements \nsummary: On January 31, 2023, LTC entered into a Put Option Agreement with Geely and Etika in conjunction with the Original Merger Agreement. This agreement allows Geely and Etika to require LTC to repurchase their equity interests in Lotus Advance Technologies Sdn Bhd, the parent company of Lotus UK. The repurchase price will be determined based on the total revenue of Lotus Group International Limited for the year 2024, adjusted for net debt. The put options can be exercised between April 1 and June 30, 2025, contingent upon Lotus Advance Technologies Sdn Bhd and its subsidiaries selling over 5,000 vehicles in 2024."
+            },
+            "bundle_id": 11
+          },
+          {
+            "retriever": "Title Summary",
+            "score": 0.6511844992637634,
+            "page_content": "Each of the put options granted to Geely and Etika may only be exercised during the period from April 1 to June 30, 2025, and is contingent upon satisfaction of the condition that the total number of vehicles sold by Lotus Advance Technologies Sdn Bhd and its subsidiaries exceeds 5,000 in 2024. The put options granted to Geely and Etika can be exercised independently from each other, and the exercise of each put option is not conditioned upon the exercise of the other.",
+            "metadata": {
+              "date_published": "2024-01-12",
+              "doc_id": "ab07af43ea1bf7e67a028177caf50340cb64b400a1c2bc6ccbac6223fc29ad5c",
+              "filename": "20240112_final.json",
+              "global_id": 6300,
+              "next_chunk_id": "",
+              "page_number": 62,
+              "prev_chunk_id": "73dd7d47f62ca5b3b2f9bffc53dedb874067e8f45b72c938a2d4016a1d66d004",
+              "title_summary": "title: Put Option Agreements \nsummary: On January 31, 2023, LTC entered into a Put Option Agreement with Geely and Etika in conjunction with the Original Merger Agreement. This agreement allows Geely and Etika to require LTC to repurchase their equity interests in Lotus Advance Technologies Sdn Bhd, the parent company of Lotus UK. The repurchase price will be determined based on the total revenue of Lotus Group International Limited for the year 2024, adjusted for net debt. The put options can be exercised between April 1 and June 30, 2025, contingent upon Lotus Advance Technologies Sdn Bhd and its subsidiaries selling over 5,000 vehicles in 2024."
+            },
+            "bundle_id": 12
+          },
+          {
+            "retriever": "Title Summary",
+            "score": 0.6432518362998962,
+            "page_content": "Convertible Note Purchase Agreement, dated June 24, 2024, by and between Lotus Technology Inc. and Geely International (Hong Kong) Limited  \nForm of Senior Convertible Note  \nPress release – Lotus Technology Secures Investment from Strategic Investor 10.2   \n99.1",
+            "metadata": {
+              "date_published": "2024-06-24",
+              "doc_id": "89afb14efb5f0c66dc2bcb81e7b6068abd3fc91ab62129ff3b7d5497b928b8f4",
+              "filename": "Lotus_424B3_20240624_final.json",
+              "global_id": 12556,
+              "next_chunk_id": "5bb25da637753c28d2d2bf55456fbbe520b8a60bba1904486ccc4e7edf185a5e",
+              "page_number": 3,
+              "prev_chunk_id": "825e150b6f548f6e5ba320dce3c6a6be61bb21bcb439a7cbf3c8f3f2ad214f5b",
+              "title_summary": "title: EXHIBIT INDEX \nsummary: On June 24, 2024, Lotus Technology Inc. finalized a Convertible Note Purchase Agreement with Geely International (Hong Kong) Limited, allowing Geely to invest in Lotus through senior convertible notes. This arrangement grants Geely the option to convert the debt into equity in the future, creating opportunities for mutual growth. In a press release, Lotus Technology emphasized the importance of this investment as a strategic partnership that is poised to bolster its capabilities and enhance its market position in the industry."
+            },
+            "bundle_id": 13
+          },
+          {
+            "retriever": "BM25",
+            "score": 12.492223739624023,
+            "page_content": "333-275001) filed with the SEC on December 5, 2023)   \nAmendment Agreement dated as of February 17, 2024 between Lotus Technology Inc. and Meritz Securities Co., Ltd.   \nSupplemental Agreement dated as of September 30, 2024 between Lotus Technology Inc. and Meritz Securities Co., Ltd.   \nShare Buyback Agreement, dated November 29, 2024 by and between Lotus Technology Inc. and Meritz Securities Co., Ltd. (incorporated by reference to Exhibit 10.1 to the Current Report on Form 6 - K filed with the SEC on December 2, 2024)   \nAmended and Restated Share Buyback Agreement, dated March 28, 2025 by and between Lotus Technology Inc., Lotus EV Limited and Meritz Securities Co., Ltd. (incorporated by reference to Exhibit 10.1 to the Current Report on Form 6 - K filed with the SEC on March 28, 2025)   \nConvertible Note Purchase Agreement, dated June 24, 2024, by and between Lotus Technology Inc. and Geely International (Hong Kong) Limited (incorporated by reference to Exhibit 10.1 to the Current Report on Form 6 - K filed with the SEC on June 24, 2024)   \nForm of Senior Convertible Note (incorporated by reference to Exhibit 10.2 to the Current Report on Form 6 - K filed with the SEC on June 24, 2024)   \nSecurities Purchase Agreement dated as of September 16, 2024 between Lotus Technology Inc. and Westwood Capital Group LLC (incorporated by reference to Exhibit 99.1 to the Current Report on Form 6 - K filed with the SEC on September 16, 2024)   \nRegistration Rights Agreement dated as of September 16, 2024 between Lotus Technology Inc. and Westwood Capital Group LLC (incorporated by reference to Exhibit 99.2 to the Current Report on Form 6 - K filed with the SEC on September 16, 2024)   \nShare Sale and Transfer Agreement, dated September 27, 2024 by and between Lotus Technology Innovative Limited and Geely UK Limited (incorporated by reference to Exhibit 10.1 to the Current Report on Form 6 - K filed with the SEC on October 1, 2024)   \nBond Subscription Agreement, dated November 7, 2024 by and between Lotus Technology Inc. and Kershaw Health Limited (incorporated by reference to Exhibit 10.1 to the Current Report on Form 6 - K filed with the SEC on November 8, 2024)   \nForm of Global Certificate (incorporated by reference to Exhibit 10.2 to the Current Report on Form 6 - K filed with the SEC on November 8, 2024)",
+            "metadata": {
+              "date_published": "2025-04-30",
+              "doc_id": "4ac67f701c066e5382afa83ac58f6e7d2bb3649230452a09eaa74abd18330a0e",
+              "filename": "20250430.json",
+              "global_id": 12132,
+              "next_chunk_id": "32d46043716132e899aeb9e47a193f375890983b9582a54b1e63a1f3dbbc25af",
+              "page_number": 191,
+              "prev_chunk_id": "cee677d00edb0c511429d95bc7ad543ced6247d1312fb1e1e0bf1d772a4cef91",
+              "title_summary": "title: Item 18.Financial Statements \nsummary: The annual report of Lotus Technology Inc. presents a detailed account of the company's financial performance through consolidated financial statements, which encompass the company, its subsidiaries, and a variable interest entity. Alongside this, a summary of legal documents related to the company is provided, highlighting various agreements, certificates, and other pertinent documents, each identified by exhibit numbers. \n\nKey documents include the Sixth Amended and Restated Memorandum and Articles of Association, a specimen American Depositary Receipt agreement, and multiple significant agreements such as the Assignment and Assumption Agreement and the Registration Rights Agreement. The report also details various agreements dated January 31, 2023, including a Shareholder Support Agreement, Distribution Agreement, and Put Option Agreements, as well as a Stock Incentive Plan and Indemnification Agreement for executive officers.\n\nAdditionally, the report outlines several agreements related to technology development, manufacturing cooperation, and investment partnerships, along with a restructuring agreement for Wuhan Lotus Technology Limited Company. It references the Registration Statement on Form F-4 filed with the SEC, which includes termination agreements, convertible note purchase agreements, subscription agreements, and various other financial instruments that reflect the ongoing corporate activities and strategic initiatives of Lotus Technology Inc. Overall, these documents provide a comprehensive legal and financial framework for understanding the company's operations and commitments."
+            },
+            "bundle_id": 14
+          },
+          {
+            "retriever": "BM25",
+            "score": 12.470477104187012,
+            "page_content": "On September 27, 2024, Lotus Technology disposed of an 80% equity interest in a subsidiary in Germany to Geely UK Limited, a subsidiary of Geely Holding, for cash consideration of US$12,157. The carrying amount of the net assets of the subsidiary on the disposal date was as follows: US$12,157",
+            "metadata": {
+              "date_published": "2025-04-30",
+              "doc_id": "26653009f9053d1091611f7197c9f9b7a74bf3a3774cf2ed00af8c4557773657",
+              "filename": "20250430.json",
+              "global_id": 12237,
+              "next_chunk_id": "7bbe6b8c4cbaca25854b5602ca730c202d988a64836f1388cb1c2e64a374dc08",
+              "page_number": 212,
+              "prev_chunk_id": "0baf89b5410533f41269de733d7c9783d6c367a0b09fa0bf4f8643bba9ebee41",
+              "title_summary": "title: (f) Disposal of a subsidiary \nsummary: On September 27, 2024, Lotus Technology Inc. sold an 80% equity interest in its German subsidiary to Geely UK Limited for $12,157. The net assets of the subsidiary at the time of sale amounted to $13,959, which included a cash balance of $5,276, accounts receivable of $865, and property, equipment, and software valued at $8,494, offset by liabilities such as accounts payable of $(1,062) and accrued expenses of $(6,290). The transaction resulted in an excess cash consideration of $990 over the net assets, which has been recorded as additional paid-in capital on the consolidated balance sheet. The company has assessed that this disposal will not lead to a significant change in its operations or financial results. As of December 31, 2024, the remaining 20% equity interest in the subsidiary is classified as an equity method investee in the consolidated balance sheet."
+            },
+            "bundle_id": 15
+          },
+          {
+            "retriever": "BM25",
+            "score": 11.551336288452148,
+            "page_content": "On December 2, 2021, Lotus Technology Innovative Limited, a subsidiary of Lotus Technology, entered into an equity transfer agreement, pursuant to which Lotus Technology Innovative Limited agreed to acquire 100% equity interest in Lotus Tech Innovation Centre GmbH from a related party, Geely UK Limited, at a consideration of US\\$15.5 million, which was settled in June 2022. The transaction was accounted for as a common control transaction and completed in June 2022. On September 27, 2024, Lotus Technology disposed of 80% equity interest of Lotus Tech Innovation Centre GmbH to Geely UK Limited, for cash consideration of US\\$12.2 million. On May 13, 2022, Lotus Technology purchased a one-year convertible note with a principal amount of US\\$10.0 million issued by ECARX Holding Inc. Upon the listing of ECARX Holding Inc. on December 21, 2022, the note was automatically converted into Class A ordinary shares of ECARX Holding Inc. at a conversion price of US\\$9.50 per share. As of December 31, 2024 and 2023, the fair value of such shares was US\\$2.2 million and US\\$3.3 million, respectively. During the year ended December 31, 2024, Lotus Technology borrowed loans due within one year or less with principal amounts of US\\$140.1 million from Zhejiang Geely Automobile Co., Ltd., and US\\$58.4 million from Geely Technology Group Co., Ltd., respectively, bearing an interest rate of 6%. The loans are secured by Lotus Technology's intellectual property with a carrying amount of nil, as the research and development costs were expensed historically.",
+            "metadata": {
+              "date_published": "2025-04-30",
+              "doc_id": "1d1f141f1011624e76253f7b5c62a0bc3d594047712798ffc5ce21bde10c784d",
+              "filename": "20250430.json",
+              "global_id": 12002,
+              "next_chunk_id": "bceb3d8a6ebc85d1a286395c4233bd149d54f29e2226aef2fae3c208b7395a12",
+              "page_number": 158,
+              "prev_chunk_id": "fdf1265ec3cbefcaabf9232ab6570f9c8a13a5d0e7a30bf6f9e7ad7eba0d6095",
+              "title_summary": "title: Related Party Transactions \nsummary: The company operates in the sale of sports cars, BEV lifestyle models, auto parts, and related products, while also offering R&D and consulting services. Revenue from these services increased from US$8.3 million in 2022 to US$24.4 million in 2024. Sales to related parties showed a significant rise, reaching US$18.2 million in 2024 from just US$23 thousand in 2022. Accounts receivable from related parties surged to US$107.8 million by the end of 2024, up from US$22.4 million in 2023, alongside contract liabilities of US$150 thousand for the same year.\n\nThe company also provided unsecured short-term loans to related parties, totaling US$0.6 million to US$2.3 million over the years from 2022 to 2024, with interest income recognized each year. A substantial loan agreement was made in March 2024, amounting to $354 million at a 6.95% interest rate, with $261.6 million disbursed by year-end 2024. Prepayments to related parties for vehicle purchases increased to $33.2 million in 2024, while R&D expenses totaled $107.5 million.\n\nThe company incurred significant liabilities, with total purchases from related parties reaching $759.7 million in 2024. Outstanding amounts owed for these purchases were $410.4 million, reflecting a notable increase from the previous year. Interest expenses related to delayed payments amounted to $17.5 million in 2024. The company also engaged in lease agreements, with current operating lease liabilities of $1.0 million as of December 31, 2024.\n\nIn terms of investments, the company completed an equity transfer agreement for $15.5 million in 2021 and later sold a portion of its interest back to Geely UK Limited for $12.2 million. Additionally, it purchased a convertible note from ECARX Holding Inc. in 2022, which converted into shares valued at $2.2 million by the end of 2024.\n\nOverall, the company demonstrated robust growth in revenue and significant financial transactions with related parties, alongside increasing liabilities and strategic investments, reflecting its active engagement in the automotive sector and related services."
+            },
+            "bundle_id": 16
+          },
+          {
+            "retriever": "BM25",
+            "score": 10.664472579956055,
+            "page_content": "Pursuant to the Distribution Agreement entered into by and between Lotus Cars Limited, the entity carrying out Lotus UK’s sportscar manufacturing operations, and LTIL, Lotus Technology is the exclusive global distributor (excluding the U.S., where LTIL will act as the head distributor with the existing regional distributor continuing its functions) for Lotus Cars Limited to distribute vehicles, parts, and certain tools, and to provide aftersales services, branding, marketing, and public relations for such vehicles, parts, and tools distributed by Lotus Cars Limited. The Distribution Agreement also provides that each year Lotus Technology and Lotus UK will prepare business plans and annual targets taking into account historical sales figures, forecast demand, national, regional, and local trends, and Lotus UK’s production capacity for the vehicles. Additionally, pursuant to the Distribution Agreement, existing stores and dealers of Lotus UK are transferred to Lotus Technology. As of December 31, 2024, Lotus Technology had over 200 stores in its global distribution network. In addition to Eletre, Emeya, and future lifestyle models, major vehicle models under the Distribution Agreement include Evija (BEV sports car) and Emira (ICE sports car), both developed and manufactured by Lotus UK, and another BEV sports car to be launched by Lotus UK in the near future.",
+            "metadata": {
+              "date_published": "2025-04-30",
+              "doc_id": "5a62a8480c2a785e36eae5daa3ac234ad59a7c98e302e96bbe0d9c2d158e3766",
+              "filename": "20250430.json",
+              "global_id": 11676,
+              "next_chunk_id": "d497d2b2280f0df9f232f15f9cfaab3b7a17276654efcb6e76d3b57a1600eacd",
+              "page_number": 80,
+              "prev_chunk_id": "4bf852388034c75f80d7b654e36b3ef82d9eff6d427f28ff3ae5816e2b7b4119",
+              "title_summary": "title: Master Distribution Agreement with Lotus UK \nsummary: The Distribution Agreement between Lotus Cars Limited and LTIL establishes LTIL as the exclusive global distributor for Lotus vehicles, parts, and tools, with the exception of the U.S., where LTIL will act as the head distributor. The agreement details LTIL's roles in aftersales services, branding, marketing, and public relations. Annually, LTIL and Lotus UK will work together to create business plans and set targets based on past sales, projected demand, and production capabilities. By the end of 2024, LTIL is expected to operate over 200 stores globally. The agreement covers key vehicle models such as the Eletre, Emeya, Evija (a battery electric vehicle sports car), and Emira (an internal combustion engine sports car), with plans for another BEV sports car launch. Additionally, existing Lotus UK stores and dealers have been transitioned to LTIL."
+            },
+            "bundle_id": 17
+          },
+          {
+            "retriever": "BM25",
+            "score": 10.664278984069824,
+            "page_content": "Master Distribution Agreement with Lotus UK Pursuant to the Distribution Agreement entered into by and between Lotus Cars Limited, the entity carrying out Lotus UK’s sportscar manufacturing operations, and LTIL, Lotus Technology is the exclusive global distributor (excluding the U.S., where LTIL will act as the head distributor with the existing regional distributor continuing its functions) for Lotus Cars Limited to distribute vehicles, parts, and certain tools, and to provide aftersales services, branding, marketing, and public relations for such vehicles, parts, and tools distributed by Lotus Cars Limited. The Distribution Agreement also provides that each year Lotus Technology and Lotus UK will prepare business plans and annual targets taking into account historical sales figures, forecast demand, national, regional, and local trends, and Lotus UK’s production capacity for the vehicles. Additionally, pursuant to the Distribution Agreement, existing stores and dealers of Lotus UK are transferred to Lotus Technology.",
+            "metadata": {
+              "date_published": "2024-05-03",
+              "doc_id": "ea7e31596d7e625c36dbead056a011c8d5132a79bbbc1816f97647a59b581247",
+              "filename": "0503_final.json",
+              "global_id": 480,
+              "next_chunk_id": "7326d801b284fc556568e0b37af7c7d8b038928bf0a0b32ea7bd119f52009378",
+              "page_number": 120,
+              "prev_chunk_id": "ac4ceb1766dc7d3f97fca480abe96c1d4186d75f7f5bf273077496f90b366d52",
+              "title_summary": "title: Our Global Commercial Platform \nsummary: The Global Commercial Platform for Lotus UK vehicles is designed to enhance the sales and distribution experience, featuring a network of 215 stores as of December 31, 2023. This platform emphasizes a luxurious and future-proof customer experience through a digital-first, omni-channel sales model, catering to models such as the Eletre, Emeya, and upcoming Battery Electric Vehicles (BEVs). Key components of the platform include a virtual showroom, an inquiry and customization platform, a reservation system for test drives, and comprehensive aftersales services. Customers are offered extensive vehicle personalization options and digital payment methods to streamline their purchasing experience.\n\nUnder a Master Distribution Agreement with Lotus Cars Limited, Lotus Technology International Limited (LTIL) operates as the exclusive global distributor for Lotus vehicles, parts, and tools, excluding the U.S. market. This agreement encompasses branding, marketing, and aftersales services, with LTIL required to develop annual business plans and targets based on historical sales data, demand forecasts, and production capacity. The transition of existing Lotus UK stores and dealers to Lotus Tech is part of this strategic initiative. The major vehicle models included under this agreement are the Eletre, Emeya, future BEVs, as well as sports cars like the Evija and Emira.\n\nOverall, the Global Commercial Platform aims to position Lotus as a leader in the luxury automotive market by leveraging innovative technology and a robust distribution framework to meet evolving customer demands."
+            },
+            "bundle_id": 18
+          },
+          {
+            "retriever": "BM25",
+            "score": 10.606425285339355,
+            "page_content": "Pursuant to the Distribution Agreement entered into by and between Lotus Cars Limited, the entity carrying out Lotus UK’s sportscar manufacturing operations, and Lotus Technology Innovative Limited (LTIL), Lotus Technology Innovative Limited is the exclusive global distributor (excluding the United States, where LTIL will act as the head distributor with the existing regional distributor continuing its functions) for Lotus Cars Limited to distribute vehicles, parts, and certain tools, and to provide aftersales services, branding, marketing, and public relations for such vehicles, parts, and tools distributed by Lotus Cars Limited. The Distribution Agreement also provides that each year Lotus Technology Innovative Limited and Lotus UK will prepare business plans and annual targets taking into account historical sales figures, forecast demand, national, regional, and local trends, and Lotus UK’s production capacity for the vehicles. Additionally, pursuant to the Distribution Agreement, existing stores and dealers of Lotus UK are transferred to Lotus Technology Innovative Limited. As of September 30, 2023, Lotus Technology Innovative Limited had 206 stores in its global distribution network. In addition to the Eletre and future BEV models, major vehicle models under the Distribution Agreement include the Evija (BEV sports car) and the Emira (ICE sports car), both developed and manufactured by Lotus UK, and another BEV sports car expected to be launched by Lotus UK in 2025. Emira (ICE sports car) Launched in 2021 with delivery in 2022, the Emira is built on a new Lotus sports car architecture. The Emira uses the pioneering Lotus bonded extruded aluminum chassis technology.",
+            "metadata": {
+              "date_published": "2024-01-12",
+              "doc_id": "f73f60b7ea7463328516dacdb01ac684e4072d4ffac0007f67e0f500a31c492b",
+              "filename": "20240112_final.json",
+              "global_id": 7110,
+              "next_chunk_id": "2e86a7f9fcccda1c5a2012d9bc27fdb9f6c177fd1646dcdd0adde479d30924bb",
+              "page_number": 279,
+              "prev_chunk_id": "c20d867aa1af2010adc90d5e6373280af2501214a0303b8a5e8c8039ae80cd6a",
+              "title_summary": "title: Master Distribution Agreement with Lotus UK \nsummary: The Distribution Agreement between Lotus Cars Limited and Lotus Technology Innovative Limited (LTIL) establishes LTIL as the exclusive global distributor of Lotus vehicles, parts, and tools, with specific responsibilities for aftersales services, branding, marketing, and public relations. Excluding the United States, where LTIL acts as the head distributor, the agreement emphasizes collaboration on annual business plans based on sales data and production capacity. As of September 30, 2023, LTIL operates 206 stores worldwide, including existing Lotus UK dealers, and covers major models such as the Eletre, Evija, and Emira, with plans for additional electric vehicle (BEV) models.\n\nThe Emira, launched in 2021, features a lightweight aluminum chassis and impressive performance metrics, including a top speed of 290 km/h and a projected annual sales target of 5,000 to 6,000 units starting in 2024. The Evija, unveiled in 2019, is an all-electric hypercar known for its extraordinary power output of around 2,000 horsepower, lightweight construction, and rapid charging capabilities, emphasizing Lotus's commitment to high-performance electric vehicles.\n\nThe distribution process for these vehicles involves comprehensive logistics and supply chain management, ensuring efficient delivery and customer satisfaction through effective inventory management and route optimization. LTIL is responsible for creating a distribution network and ensuring compliance with the Distribution Agreement, while also providing aftersales services that enhance customer loyalty and satisfaction. These services include maintenance, repair, and customer support, all aimed at delivering a positive ownership experience for Lotus customers."
+            },
+            "bundle_id": 19
+          },
+          {
+            "retriever": "BM25",
+            "score": 10.567509651184082,
+            "page_content": "Pursuant to the Distribution Agreement entered into by and between Lotus Cars Limited, the entity carrying out Lotus UK’s sportscar manufacturing operations, and Lotus Technology Innovative Limited (LTIL), our subsidiary, Lotus Technology Innovative Limited is the exclusive global distributor (excluding the United States, where LTIL will act as the head distributor with the existing regional distributor continuing its functions) for Lotus Cars Limited to distribute vehicles, parts, and certain tools, and to provide aftersales services, branding, marketing, and public relations for such vehicles, parts, and tools distributed by Lotus Cars Limited. The Distribution Agreement also provides that each year Lotus Technology Innovative Limited and Lotus UK will prepare business plans and annual targets taking into account historical sales figures, forecast demand, national, regional, and local trends, and Lotus UK’s production capacity for the vehicles. Additionally, pursuant to the Distribution Agreement, existing stores and dealers of Lotus UK are transferred to Lotus Technology Innovative Limited. As of September 30, 2023, Lotus Technology Innovative Limited had 206 stores in its global distribution network. In addition to the Eletre and future BEV models, major vehicle models under the Distribution Agreement include the Evija (BEV sports car) and the Emira (ICE sports car), both developed and manufactured by Lotus UK, and another BEV sports car expected to be launched by Lotus UK in 2025. Emira (ICE sports car) Launched in 2021 with delivery in 2022, the Emira is built on a new Lotus sports car architecture. The Emira uses the pioneering Lotus bonded extruded aluminum chassis technology.",
+            "metadata": {
+              "date_published": "2024-01-11",
+              "doc_id": "d56d64a56be504f7d84786b46501bfa0c9da21033d62860f87804dbe72147a79",
+              "filename": "20240111_final.json",
+              "global_id": 4677,
+              "next_chunk_id": "83cec30c76e1848b0fd08f52d60354d51ba710d0cb2a9b36ba4b9194c5067a5d",
+              "page_number": 280,
+              "prev_chunk_id": "82e17f010e86aeab195139cee889ebee53a9841b643735b6d45f803d281454d6",
+              "title_summary": "title: Master Distribution Agreement with Lotus UK \nsummary: The Distribution Agreement between Lotus Cars Limited and its subsidiary, Lotus Technology Innovative Limited (LTIL), establishes LTIL as the exclusive global distributor for Lotus vehicles, parts, and tools, with specific provisions for the U.S. market. This agreement outlines LTIL's responsibilities in aftersales services, branding, marketing, and public relations, and mandates annual collaboration with Lotus UK to develop business plans and set sales targets based on historical data and forecasts. The transition of existing Lotus UK stores and dealers to Lotus Tech is part of this strategy, which currently includes 206 stores worldwide.\n\nKey vehicle models under this agreement include the Emira, Evija, and upcoming battery electric vehicles (BEVs). The Emira, launched in 2021, features a bonded aluminum chassis, a power output of 298 kW, and an MSRP exceeding $85,000, with projected annual sales of 5,000 to 6,000 units starting in 2024. The Evija, an all-electric hypercar launched in 2020, boasts a remarkable 2,000 horsepower and a top speed of 320 km/h, with an average MSRP of over $2.2 million. It is recognized for its lightweight carbon fiber structure and advanced technology.\n\nThe distribution process encompasses logistics from manufacturers to consumers, involving transportation, warehousing, and inventory management, all aimed at enhancing customer satisfaction and market reach. LTIL is responsible for establishing a distribution and aftersales service network, ensuring compliance with standards, and managing sub-distributors. This includes obtaining necessary licenses for vehicle imports while Lotus UK handles vehicle homologation.\n\nAftersales services play a crucial role in customer satisfaction and brand loyalty, encompassing warranty support, repairs, and maintenance. LTIL is committed to providing a seamless aftersales experience, focusing on customer needs and ensuring vehicle performance through thorough inspections and testing."
+            },
+            "bundle_id": 20
+          }
+        ]
+      ]
+    }
+  ]
+}

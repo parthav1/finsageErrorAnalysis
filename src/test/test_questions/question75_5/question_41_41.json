@@ -1,0 +1,460 @@
+{
+  "metadata": {
+    "generated_date": "2025-08-17 07:05:55",
+    "database": "/root/autodl-tmp/RAG_Agent_production/tmp/database_202506",
+    "batch_index": "41_41"
+  },
+  "questions": [
+    {
+      "question_index": 0,
+      "original_question": "路特斯的实控人是谁？",
+      "answer": "路特斯科技的实际控制人是**Shufu Li**。根据2024年5月24日的信息，Shufu Li拥有路特斯科技超过50%的投票权，因此路特斯科技被定义为纳斯达克公司治理规则下的“受控公司”。这一控制权使得路特斯科技能够依赖某些纳斯达克公司治理规则的豁免条款。\n\n以上信息基于2025年6月20日之前的知识。",
+      "duration": 5.260812997817993,
+      "rewritten_question": [
+        "Who is the actual controller of Lotus Technology?"
+      ],
+      "need_rag": true,
+      "rag_info": [
+        {
+          "timeinfo": "2024-05-24",
+          "chunk_id": "42958d11329ba9a3eae99861a9a4a9ac9431984930427ea5e12feba53bbf5f77",
+          "chunk_content": "Lotus Technology is a “controlled company” as defined under the Nasdaq corporate governance rules because Mr. Shufu Li owns more than 50% of Lotus Technology's total voting power as of the date of this prospectus. For so long as Lotus Technology remains a controlled company under that definition, Lotus Technology is permitted to elect to rely, and may rely, on certain exemptions from Nasdaq corporate governance rules, including (i) an exemption from the rule that a majority of Lotus Technology's board of directors must be independent directors; (ii) an exemption from the rule that director nominees must be selected or recommended solely by independent directors; and (iii) an exemption from the rule that the compensation committee must be comprised solely of independent directors. Currently, Lotus Technology relies on all of the foregoing exemptions available to a controlled company. As a result, shareholders may not be provided with the benefits of certain corporate governance requirements of Nasdaq applicable to companies that are subject to these corporate governance requirements.",
+          "chunk_bundle_id": 0.0,
+          "sub_query": "Who is the actual controller of Lotus Technology?"
+        },
+        {
+          "timeinfo": "2025-03-31",
+          "chunk_id": "20ff617268c098293ce2c15085b3ad524ef7636e1fe720fc0c51b770656664a0",
+          "chunk_content": "Pursuant to the requirements of the Securities Exchange Act of 1934, Lotus Technology has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized. Lotus Technology Inc. By /s/ Alexious Kuen Long Lee  \nName: Alexious Kuen Long Lee  \nTitle: Director and Chief Financial Officer",
+          "chunk_bundle_id": 5.0,
+          "sub_query": "Who is the actual controller of Lotus Technology?"
+        },
+        {
+          "timeinfo": "2025-04-08",
+          "chunk_id": "4df016449716bca3c36ee75f9bb83f08369a6f9867858914283aef15ccfb4bfc",
+          "chunk_content": "NEW YORK, April 08, 2025 (GLOBE NEWSWIRE) -- Lotus Technology Inc. (“Lotus” or the “Company”) (Nasdaq: LOT), a leading global intelligent and luxury mobility provider, today announced changes to Lotus Technology's management team and board of directors. The board of directors of Lotus Technology Inc. (the “Board”) has approved the appointment of Mr. Daxue Wang as the Chief Financial Officer (“CFO”) of Lotus Technology Inc. effective April 8, 2025. Mr. Wang is a seasoned executive across corporate and prominent financial institutions, most recently serving as CFO of Radar Auto. Prior to that, Mr. Wang held several executive positions in Zhejiang Kangsheng, Huzhou Moshan Asset Management, Morgan Stanley Securities, ICBC Credit Suisse Asset Management, and Citi Group. The Board believes that Mr. Wang is highly qualified and a suitable candidate. The appointment came after Mr. Alexious Lee tendered his resignation as CFO of Lotus Technology Inc. for personal reasons on April 3, 2025. Mr. Lee will remain as a member of the board of directors. As previously announced on its filing with the U.S. Securities and Exchange Commission, Lotus Technology Inc. has also appointed Ms. Catherine Cai as an independent director as well as a member of the audit committee, the compensation committee, and the nominating and corporate governance committee of Lotus Technology's board of directors, with effect from March 31, 2025. Ms. Catherine Cai has more than three decades of experience in China's investment banking industry and has held senior positions at international investment banks.",
+          "chunk_bundle_id": 4.0,
+          "sub_query": "Who is the actual controller of Lotus Technology?"
+        },
+        {
+          "timeinfo": "2025-04-08",
+          "chunk_id": "ebeb1ac95433a51bc9e832e9001159181f4d088977cfefa6e984391e7b1d8aa2",
+          "chunk_content": "She was Group Managing Director, Global Executive Vice Chairman, and Chairman of Greater China at UBS. She also held multiple senior positions at Citigroup and Bank of America Merrill Lynch. Mr. Qingfeng Feng, Chief Executive Officer of Lotus Technology Inc., said: “Lotus Technology is delighted to welcome Mr. Daxue Wang as the new Chief Financial Officer. Mr. Wang brings years of financial and operational experience with a proven track record for driving financial excellence. I would also like to thank Mr. Alexious Lee for his contributions as Chief Financial Officer and look forward to his continued support as a board member.” Mr. Donghui Li, Chairman of Lotus Technology Inc.'s board of directors, commented: “Lotus Technology is honored to welcome Ms. Catherine Cai to its board. Her deep expertise in investment banking will bring significant value to the shareholders as Lotus Technology continues to execute its long-term vision.”",
+          "chunk_bundle_id": 10.0,
+          "sub_query": "Who is the actual controller of Lotus Technology?"
+        },
+        {
+          "timeinfo": "2025-06-20",
+          "chunk_id": "e4ba7ed40743c8f99580f6972595b1bb647a7976a09eb825181963ffa8f714e8",
+          "chunk_content": "As a result, Lotus Technology qualifies as a “controlled company” within the meaning of Nasdaq’s corporate governance standards and has the option not to comply with certain requirements to which companies that are not controlled companies are subject, including the requirement that a majority of Lotus Technology's board of directors shall consist of independent directors and the requirement that Lotus Technology's nominating and corporate governance committee and compensation committee shall be composed entirely of independent directors. Lotus Technology Inc., or LTC, is not an operating company but a Cayman Islands holding company. Lotus Technology Inc. conducts its operations through its subsidiaries in China and Europe and its operations in mainland. China are currently conducted by Lotus Technology's mainland China subsidiaries. The securities registered herein are securities of Lotus Technology Inc., not those of its operating subsidiaries. Therefore, investors in Lotus Technology Inc. are not acquiring equity interest in any operating company but instead are acquiring interest in a Cayman Islands holding company. Prior to 2023, Lotus Technology Inc. relied on contractual arrangements among Wuhan Lotus Technology Limited Company Ltd., or the WFOE, Wuhan Lotus E-commerce Co., Ltd., the former variable interest entity which is referred to as the “former VIE,” and its nominee shareholders to direct the business operations of the former VIE and its subsidiaries.",
+          "chunk_bundle_id": 8.0,
+          "sub_query": "Who is the actual controller of Lotus Technology?"
+        }
+      ],
+      "all_retrieved_content": [
+        [
+          {
+            "retriever": "FAISS",
+            "score": 0.6749563217163086,
+            "page_content": "Lotus Technology is a “controlled company” as defined under the Nasdaq corporate governance rules because Mr. Shufu Li owns more than 50% of Lotus Technology's total voting power as of the date of this prospectus. For so long as Lotus Technology remains a controlled company under that definition, Lotus Technology is permitted to elect to rely, and may rely, on certain exemptions from Nasdaq corporate governance rules, including (i) an exemption from the rule that a majority of Lotus Technology's board of directors must be independent directors; (ii) an exemption from the rule that director nominees must be selected or recommended solely by independent directors; and (iii) an exemption from the rule that the compensation committee must be comprised solely of independent directors. Currently, Lotus Technology relies on all of the foregoing exemptions available to a controlled company. As a result, shareholders may not be provided with the benefits of certain corporate governance requirements of Nasdaq applicable to companies that are subject to these corporate governance requirements.",
+            "metadata": {
+              "date_published": "2024-05-24",
+              "doc_id": "42958d11329ba9a3eae99861a9a4a9ac9431984930427ea5e12feba53bbf5f77",
+              "filename": "20240524_final.json",
+              "global_id": 10347,
+              "next_chunk_id": "c54d0f450a4f5e8419f7a035a0c639387029fb51bd9873157b3114568dbe9f85",
+              "page_number": 83,
+              "prev_chunk_id": "5fb4e86afd4e391b35c9e00dc9a9db49b32d52917c266f6668a9f0bd6d620bdf",
+              "title_summary": "title: We qualify as a foreign private issuer within the meaning of the rules under the Exchange Act, and as such we are exempt from certain provisions applicable to U.S. domestic public companies. \nsummary: As a foreign private issuer under the Exchange Act, the company enjoys exemptions from certain U.S. securities regulations that apply to domestic issuers, such as the requirement to file quarterly reports on Form 10-Q or current reports on Form 8-K with the SEC. Instead, it is obligated to file an annual report on Form 20-F and plans to disclose quarterly results through press releases in line with Nasdaq regulations, while reporting significant events via Form 6-K. However, the information provided to the SEC will be less comprehensive and timely than that required of U.S. domestic issuers, potentially leaving shareholders with less information.\n\nThe company risks losing its foreign private issuer status if over 50% of its voting securities are held by U.S. holders and certain conditions are met, such as having a majority of U.S. directors or executive officers. Losing this status would subject the company to U.S. regulatory requirements, leading to increased costs and management resource diversion.\n\nIncorporated in the Cayman Islands and classified as a \"controlled company\" under Nasdaq rules, the company can follow home country corporate governance practices that may differ significantly from U.S. standards. This classification allows it to utilize exemptions, such as not requiring a majority of independent directors on its board and permitting non-independent directors to participate in director nominations and compensation committee decisions. Consequently, shareholders may not benefit from the protections associated with Nasdaq's governance standards."
+            },
+            "bundle_id": 0
+          },
+          {
+            "retriever": "FAISS",
+            "score": 0.6741882562637329,
+            "page_content": "Pursuant to the requirements of the Securities Exchange Act of 1934, Lotus Technology has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized. Lotus Technology Inc. By: /s/ Alexious Kuen Long Lee  \nName: Alexious Kuen Long Lee  \nTitle: Director and Chief Financial Officer Date: January 23, 2025",
+            "metadata": {
+              "date_published": "2025-01-23",
+              "doc_id": "11f45dab9c3804ec6deb916ca9360e5766dcb9325a83d04aca221198a82e50b9",
+              "filename": "Lotus_6-K_20250123.json",
+              "global_id": 13699,
+              "next_chunk_id": "",
+              "page_number": 4,
+              "prev_chunk_id": "587c822d4471970621f61646f5dd22f534546dddc9d5810482e7543e86049970",
+              "title_summary": "title: SIGNATURES \nsummary: Lotus Technology Inc. is a forward-looking company dedicated to developing innovative solutions in the automotive and mobility sectors, with a strong focus on electric vehicles (EVs), smart mobility, and advanced technologies. Committed to sustainability and cutting-edge design, the company aims to enhance the driving experience through high-performance vehicles and integrated digital solutions. As part of the esteemed Lotus brand, known for its engineering excellence, Lotus Technology is well-positioned to influence the automotive industry's transition towards electrification and smart technologies. The report has been officially signed in compliance with the Securities Exchange Act of 1934, with Alexious Kuen Long Lee serving as the Director and Chief Financial Officer."
+            },
+            "bundle_id": 1
+          },
+          {
+            "retriever": "FAISS",
+            "score": 0.6723157167434692,
+            "page_content": "Pursuant to the requirements of the Securities Exchange Act of 1934, Lotus Technology has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized. Lotus Technology Inc. By: /s/ Alexious Kuen Long Lee  \nName: Alexious Kuen Long Lee  \nTitle: Director and Chief Financial Officer Date: February 28, 2025",
+            "metadata": {
+              "date_published": "2025-02-28",
+              "doc_id": "5fb88caa512c8fba693a36e67fcae1b8d805c7beaa0db678c3cdbfcac39c2c68",
+              "filename": "Lotus_6-K_20250228_final.json",
+              "global_id": 13711,
+              "next_chunk_id": "4ae091ecb20e07bb516516d9d37994daa23fdd4ebe4c4f5d156cac8c80d38eb7",
+              "page_number": 5,
+              "prev_chunk_id": "cab0a912c65807df89853470fbd76ae51166373bb12fbf797762ec3538ded2d5",
+              "title_summary": "title: SIGNATURES \nsummary: Lotus Technology Inc. has submitted a report in accordance with the Securities Exchange Act of 1934, officially signed by an authorized representative. The company specializes in developing advanced technology solutions in the automotive and mobility sectors, focusing on innovation, sustainability, and cutting-edge design. Its product offerings may include electric vehicles and smart mobility solutions, enhanced through the integration of software, hardware, data analytics, and artificial intelligence. Committed to environmental responsibility, Lotus Technology aims to promote eco-friendly practices in transportation. Alexious Kuen Long Lee serves as the Director and Chief Financial Officer, responsible for overseeing the company's financial operations and strategic planning."
+            },
+            "bundle_id": 2
+          },
+          {
+            "retriever": "FAISS",
+            "score": 0.6722428202629089,
+            "page_content": "Pursuant to the requirements of the Securities Exchange Act of 1934, Lotus Technology has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized. Lotus Technology Inc. By      : /s/ Alexious Kuen Long Lee  \nName : Alexious Kuen Long Lee  \nTitle : Director and Chief Financial Officer Date: March 28, 2025",
+            "metadata": {
+              "date_published": "2025-03-28",
+              "doc_id": "d684feac0cd0d027e16b9f8ca8a9e4ce258b5f3ee96f559f657bee70c0ebe813",
+              "filename": "Lotus_6-K_20250328_final.json",
+              "global_id": 13860,
+              "next_chunk_id": "6ef5a35d3be83579778176e4d9a89b79394942149244b6f301f4ccbfc2d11c94",
+              "page_number": 3,
+              "prev_chunk_id": "5711af425b62864c75b3a7dd9c664ba6ad332a8a95c1b9e898f11d5a14dc63d2",
+              "title_summary": "title: SIGNATURES \nsummary: Lotus Technology Inc. is dedicated to creating innovative technology solutions in the automotive and mobility sectors, focusing on enhancing user experiences through advanced software and hardware integration, particularly in electric vehicles and smart mobility. The company prioritizes sustainability and aims to lead the transition towards greener transportation. With a strong commitment to research and development, Lotus Technology seeks to advance automotive technology by delivering products that excel in performance, efficiency, and design. The report has been officially signed in accordance with the Securities Exchange Act of 1934, with Alexious Kuen Long Lee serving as the Director and Chief Financial Officer."
+            },
+            "bundle_id": 3
+          },
+          {
+            "retriever": "FAISS",
+            "score": 0.6680422425270081,
+            "page_content": "NEW YORK, April 08, 2025 (GLOBE NEWSWIRE) -- Lotus Technology Inc. (“Lotus” or the “Company”) (Nasdaq: LOT), a leading global intelligent and luxury mobility provider, today announced changes to Lotus Technology's management team and board of directors. The board of directors of Lotus Technology Inc. (the “Board”) has approved the appointment of Mr. Daxue Wang as the Chief Financial Officer (“CFO”) of Lotus Technology Inc. effective April 8, 2025. Mr. Wang is a seasoned executive across corporate and prominent financial institutions, most recently serving as CFO of Radar Auto. Prior to that, Mr. Wang held several executive positions in Zhejiang Kangsheng, Huzhou Moshan Asset Management, Morgan Stanley Securities, ICBC Credit Suisse Asset Management, and Citi Group. The Board believes that Mr. Wang is highly qualified and a suitable candidate. The appointment came after Mr. Alexious Lee tendered his resignation as CFO of Lotus Technology Inc. for personal reasons on April 3, 2025. Mr. Lee will remain as a member of the board of directors. As previously announced on its filing with the U.S. Securities and Exchange Commission, Lotus Technology Inc. has also appointed Ms. Catherine Cai as an independent director as well as a member of the audit committee, the compensation committee, and the nominating and corporate governance committee of Lotus Technology's board of directors, with effect from March 31, 2025. Ms. Catherine Cai has more than three decades of experience in China's investment banking industry and has held senior positions at international investment banks.",
+            "metadata": {
+              "date_published": "2025-04-08",
+              "doc_id": "4df016449716bca3c36ee75f9bb83f08369a6f9867858914283aef15ccfb4bfc",
+              "filename": "Lotus_6-K_20250408_final.json",
+              "global_id": 14038,
+              "next_chunk_id": "ebeb1ac95433a51bc9e832e9001159181f4d088977cfefa6e984391e7b1d8aa2",
+              "page_number": 3,
+              "prev_chunk_id": "3a8e02d23f267d784a09cdb8e775dfbd8ce37fc421b532f86941fcbe64d8faae",
+              "title_summary": "title: Lotus Technology Announces Management and Board Changes \nsummary: Lotus Technology Inc. (Nasdaq: LOT), a leader in intelligent and luxury mobility solutions, announced significant changes to its management team and board of directors on April 8, 2025. Mr. Daxue Wang has been appointed as the new Chief Financial Officer (CFO), effective immediately, following the resignation of Mr. Alexious Lee, who will remain on the board. Mr. Wang, who previously served as CFO at Radar Auto and held executive positions at various financial institutions, is seen as a highly qualified candidate to drive financial excellence. Additionally, Ms. Catherine Cai has joined the board as an independent director, effective March 31, 2025, bringing over 30 years of experience in investment banking from her roles at UBS, Citigroup, and Bank of America Merrill Lynch. Both appointments were praised by Mr. Qingfeng Feng, CEO of Lotus, and Mr. Donghui Li, Chairman of the board, who expressed confidence that their expertise will significantly benefit the company and its shareholders as it pursues its long-term goals."
+            },
+            "bundle_id": 4
+          },
+          {
+            "retriever": "FAISS",
+            "score": 0.6661927103996277,
+            "page_content": "Pursuant to the requirements of the Securities Exchange Act of 1934, Lotus Technology has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized. Lotus Technology Inc. By /s/ Alexious Kuen Long Lee  \nName: Alexious Kuen Long Lee  \nTitle: Director and Chief Financial Officer",
+            "metadata": {
+              "date_published": "2025-03-31",
+              "doc_id": "20ff617268c098293ce2c15085b3ad524ef7636e1fe720fc0c51b770656664a0",
+              "filename": "Lotus_6-K_20250331_final.json",
+              "global_id": 14034,
+              "next_chunk_id": "",
+              "page_number": 2,
+              "prev_chunk_id": "b7119a7d0899c4fa54bee8c55013c99366db879abd6579250e326ac79f34bf36",
+              "title_summary": "title: SIGNATURES \nsummary: Lotus Technology Inc. has officially submitted its report in accordance with the Securities Exchange Act of 1934, with an authorized representative signing on its behalf. The company is dedicated to developing innovative technology solutions in the automotive and mobility sectors, focusing on enhancing the driving experience through advanced software and hardware integration. With a strong emphasis on electric vehicles and smart mobility, Lotus Technology is committed to sustainability and cutting-edge design, utilizing artificial intelligence and connectivity to deliver user-friendly and efficient products. Positioned at the forefront of transportation innovation, the company aims to address the evolving needs of consumers and the industry. Alexious Kuen Long Lee holds the role of Director and Chief Financial Officer."
+            },
+            "bundle_id": 5
+          },
+          {
+            "retriever": "FAISS",
+            "score": 0.6561088562011719,
+            "page_content": "The Group’s chief operating decision maker has been identified as the chief executive officer, who reviews consolidated results when making decisions about allocating resources and assessing performance of the Group. For the purpose of internal reporting and management’s operation review, Lotus Technology’s chief executive officer and management personnel do not segregate the Group’s business by product or service. Management has determined that the Group has one operating segment. As of December 31, 2022 and 2021, the long-lived assets amounted to US\\$4,180 and US\\$6,444, which were located in the United Kingdom, US\\$14,771 and US\\$14,286, which were located in Germany, US\\$11,773 and US\\$50, which were located in the Netherlands, respectively, and the remaining long-lived assets were primarily in the People's Republic of China.",
+            "metadata": {
+              "date_published": "2024-01-12",
+              "doc_id": "3577944ea460217fc2d3e6f935a4e520afb763efa01b2f1d1e19eb0787eeea54",
+              "filename": "20240112_final.json",
+              "global_id": 7890,
+              "next_chunk_id": "eeb95ecddba03ab6c3d60d13dd57c7fe0a7302b7b0013f646b31a50afe306d48",
+              "page_number": 492,
+              "prev_chunk_id": "54076f8f163c860c948ce458894930db6a120b8f3f0a10fda981a58c29542f44",
+              "title_summary": "title: (ff)   Segment Reporting \nsummary: The CEO of the Group acts as the chief operating decision maker, evaluating consolidated results to guide resource allocation and performance assessments. Management treats the Group as a single operating segment, without distinguishing between different products or services for internal reporting. As of December 31, 2022, the Group's long-lived assets were valued at US$4,180 in the UK, US$14,771 in Germany, and US$11,773 in the Netherlands, showing a decrease in the UK from US$6,444 in 2021, while Germany's assets increased slightly from US$14,286, and the Netherlands saw a significant rise from US$50. The majority of the remaining long-lived assets are situated in the People's Republic of China (PRC)."
+            },
+            "bundle_id": 6
+          },
+          {
+            "retriever": "FAISS",
+            "score": 0.6539000272750854,
+            "page_content": "The Group’s chief operating decision maker has been identified as the chief executive officer, who reviews consolidated results when making decisions about allocating resources and assessing performance of the Group. For the purpose of internal reporting and management’s operation review, Lotus Technology’s chief executive officer and management personnel do not segregate the Group’s business by product or service. Management has determined that the Group has one operating segment. As of December 31, 2023 and 2022, the long-lived assets amounted to US$46,827 and US$4,180, which were located in the United Kingdom, US$54,470 and US$26,544 were located in European Union countries, respectively, and the remaining long-lived assets were primarily in the People's Republic of China.",
+            "metadata": {
+              "date_published": "2024-05-24",
+              "doc_id": "15cbc91ace8a7bb004b799fc4ca2e360b816738858b2d15d60f762657b8ea605",
+              "filename": "20240524_final.json",
+              "global_id": 11177,
+              "next_chunk_id": "",
+              "page_number": 316,
+              "prev_chunk_id": "",
+              "title_summary": "title: (gg) Segment Reporting \nsummary: The chief executive officer serves as the chief operating decision maker for the Group, assessing consolidated results to guide resource allocation and performance evaluations. Management treats the Group as a single operating segment, without distinguishing between products or services for internal reporting and operational reviews. As of December 31, 2023, the Group's long-lived assets reached $46,827, with significant portions located in the European Union ($54,470) and the UK ($46,827). This marks a substantial increase from December 31, 2022, when long-lived assets were valued at $4,180 in the UK and $26,544 in the European Union, with additional assets primarily in the People's Republic of China."
+            },
+            "bundle_id": 7
+          },
+          {
+            "retriever": "FAISS",
+            "score": 0.6535671949386597,
+            "page_content": "As a result, Lotus Technology qualifies as a “controlled company” within the meaning of Nasdaq’s corporate governance standards and has the option not to comply with certain requirements to which companies that are not controlled companies are subject, including the requirement that a majority of Lotus Technology's board of directors shall consist of independent directors and the requirement that Lotus Technology's nominating and corporate governance committee and compensation committee shall be composed entirely of independent directors. Lotus Technology Inc., or LTC, is not an operating company but a Cayman Islands holding company. Lotus Technology Inc. conducts its operations through its subsidiaries in China and Europe and its operations in mainland. China are currently conducted by Lotus Technology's mainland China subsidiaries. The securities registered herein are securities of Lotus Technology Inc., not those of its operating subsidiaries. Therefore, investors in Lotus Technology Inc. are not acquiring equity interest in any operating company but instead are acquiring interest in a Cayman Islands holding company. Prior to 2023, Lotus Technology Inc. relied on contractual arrangements among Wuhan Lotus Technology Limited Company Ltd., or the WFOE, Wuhan Lotus E-commerce Co., Ltd., the former variable interest entity which is referred to as the “former VIE,” and its nominee shareholders to direct the business operations of the former VIE and its subsidiaries.",
+            "metadata": {
+              "date_published": "2025-06-20",
+              "doc_id": "e4ba7ed40743c8f99580f6972595b1bb647a7976a09eb825181963ffa8f714e8",
+              "filename": "20250620_final.json",
+              "global_id": 16304,
+              "next_chunk_id": "b8424d300937bb5a643a46415d4a187f7dde2f7bf29403f72521ae6caf3bf542",
+              "page_number": 0,
+              "prev_chunk_id": "5530a5fdbe1f931d4aefdf99cb61d7bc0e18023bf8717ac0765cd43382ff24fa",
+              "title_summary": "title: 15,037,030 AMERICAN DEPOSITARY SHARES UNDERLYING WARRANTS, 680,957,495 AMERICAN DEPOSITARY SHARES AND 5,486,784 WARRANTS TO PURCHASE ORDINARY SHARES \nsummary: The prospectus details the issuance of up to 15,037,030 American depositary shares (ADSs) of Lotus Technology Inc. (LTC), each representing one ordinary share with a par value of US$0.00001. This issuance includes 9,550,246 ADSs from public warrants and 5,486,784 ADSs from sponsor warrants, both exercisable at US$11.50 per share. Additionally, it outlines the potential sale of up to 680,957,495 ADSs by various Selling Securityholders, encompassing different categories of ordinary shares, including Legacy Shares, Sponsor Shares, PIPE Shares, PIPE Investors Shares, and CB Shares.\n\nThe prospectus emphasizes the risks associated with LTC's holding company structure, particularly its reliance on dividends from subsidiaries, which may be constrained by legal and regulatory factors in China. It also highlights the company's status as an \"emerging growth company\" and a \"foreign private issuer,\" which allows it to benefit from reduced reporting requirements and certain exemptions from U.S. regulations.\n\nLTC's operations have transitioned from a variable interest entity (VIE) structure to direct management through its subsidiaries in mainland China, raising concerns about regulatory challenges and the potential impact on its ability to conduct business and attract foreign investments. The prospectus warns of significant risks related to compliance with Chinese laws and regulations, including the Holding Foreign Companies Accountable Act (HFCAA), which could affect the trading of its securities in the U.S.\n\nInvestors are advised to thoroughly review the risk factors and other critical sections of the prospectus before making investment decisions. The document serves as a comprehensive guide to the offering, including details on the company's operations, financial structure, and the implications of its corporate governance status."
+            },
+            "bundle_id": 8
+          },
+          {
+            "retriever": "FAISS",
+            "score": 0.6505107283592224,
+            "page_content": "As of the date of this prospectus, Mr. Shufu Li indirectly owns more than 50% of the aggregate voting power of Lotus Technology's total issued and outstanding share capital. As a result, Lotus Technology qualifies as a “controlled company” within the meaning of Nasdaq’s corporate governance standards and has the option not to comply with certain requirements to which companies that are not controlled companies are subject, including the requirement that a majority of Lotus Technology's board of directors shall consist of independent directors and the requirement that Lotus Technology's nominating and corporate governance committee and compensation committee shall be composed entirely of independent directors. See “Item 3. Key Information — D. Risk Factors — Risks Relating to Our Securities — As a company incorporated in the Cayman Islands and a “controlled company” within the meaning of the Nasdaq corporate governance rules, Lotus Technology is permitted to adopt certain home country practices in relation to corporate governance matters that differ significantly from Nasdaq corporate governance listing standards applicable to domestic U.S. companies or rely on exemptions that are available to a “controlled company.” “company”; these practices may afford less protection to shareholders than they would enjoy if Lotus Technology complied fully with Nasdaq corporate governance listing standards” in Lotus Technology's 2024 Form 20-F.",
+            "metadata": {
+              "date_published": "2025-05-30",
+              "doc_id": "8d7046ec1b6cb4a768c8aab52380c7213c9b260da48556936fb12ffe6a742a76",
+              "filename": "Lotus_F-3:A_20250530_final.json",
+              "global_id": 15454,
+              "next_chunk_id": "257b1164af4ee0d83714b2ebd762b6b4cd69ea7307240149af3cc6302f7bcdb9",
+              "page_number": 18,
+              "prev_chunk_id": "",
+              "title_summary": "title: Implications of Being a Controlled Company \nsummary: As of the date of this prospectus, Mr. Shufu Li indirectly owns over 50% of our total voting power, designating us as a \"controlled company\" under Nasdaq's corporate governance standards. This classification permits us to forgo certain requirements applicable to non-controlled companies, such as maintaining a majority of independent directors on our board and ensuring that our nominating and corporate governance committee, as well as our compensation committee, consist entirely of independent directors. Consequently, our corporate governance practices may diverge from Nasdaq's standards for domestic U.S. companies, and we may take advantage of exemptions available to controlled companies. In the 2024 Form 20-F, the company acknowledges that its governance practices may not fully comply with Nasdaq's listing standards, which could result in shareholders having less protection than they would under full adherence to these standards."
+            },
+            "bundle_id": 9
+          },
+          {
+            "retriever": "Title Summary",
+            "score": 0.6637187004089355,
+            "page_content": "She was Group Managing Director, Global Executive Vice Chairman, and Chairman of Greater China at UBS. She also held multiple senior positions at Citigroup and Bank of America Merrill Lynch. Mr. Qingfeng Feng, Chief Executive Officer of Lotus Technology Inc., said: “Lotus Technology is delighted to welcome Mr. Daxue Wang as the new Chief Financial Officer. Mr. Wang brings years of financial and operational experience with a proven track record for driving financial excellence. I would also like to thank Mr. Alexious Lee for his contributions as Chief Financial Officer and look forward to his continued support as a board member.” Mr. Donghui Li, Chairman of Lotus Technology Inc.'s board of directors, commented: “Lotus Technology is honored to welcome Ms. Catherine Cai to its board. Her deep expertise in investment banking will bring significant value to the shareholders as Lotus Technology continues to execute its long-term vision.”",
+            "metadata": {
+              "date_published": "2025-04-08",
+              "doc_id": "ebeb1ac95433a51bc9e832e9001159181f4d088977cfefa6e984391e7b1d8aa2",
+              "filename": "Lotus_6-K_20250408_final.json",
+              "global_id": 14039,
+              "next_chunk_id": "",
+              "page_number": 3,
+              "prev_chunk_id": "4df016449716bca3c36ee75f9bb83f08369a6f9867858914283aef15ccfb4bfc",
+              "title_summary": "title: Lotus Technology Announces Management and Board Changes \nsummary: Lotus Technology Inc. (Nasdaq: LOT), a leader in intelligent and luxury mobility solutions, announced significant changes to its management team and board of directors on April 8, 2025. Mr. Daxue Wang has been appointed as the new Chief Financial Officer (CFO), effective immediately, following the resignation of Mr. Alexious Lee, who will remain on the board. Mr. Wang, who previously served as CFO at Radar Auto and held executive positions at various financial institutions, is seen as a highly qualified candidate to drive financial excellence. Additionally, Ms. Catherine Cai has joined the board as an independent director, effective March 31, 2025, bringing over 30 years of experience in investment banking from her roles at UBS, Citigroup, and Bank of America Merrill Lynch. Both appointments were praised by Mr. Qingfeng Feng, CEO of Lotus, and Mr. Donghui Li, Chairman of the board, who expressed confidence that their expertise will significantly benefit the company and its shareholders as it pursues its long-term goals."
+            },
+            "bundle_id": 10
+          },
+          {
+            "retriever": "Title Summary",
+            "score": 0.6631815433502197,
+            "page_content": "By:/s/ Qingfeng Feng  \nName: Qingfeng Feng  \nTitle: Director and Chief Executive Officer",
+            "metadata": {
+              "date_published": "2024-05-03",
+              "doc_id": "55efd0b93432d2568bf9e720837297bed60741b4cc936955c8d72a8e1944d9da",
+              "filename": "0503_final.json",
+              "global_id": 1768,
+              "next_chunk_id": "a784a7b61569e72645ba5d8933f8cfe363a8b5c249b6690c3c3c811d20087d43",
+              "page_number": 419,
+              "prev_chunk_id": "1ade1d937c664497430d2af7a4b00fa9c7a07877d899cb95d5053cccebf14e1a",
+              "title_summary": "title: LOTUS TECHNOLOGY INC. \nsummary: **Comprehensive Summary of LOTUS TECHNOLOGY INC.**\n\nLotus Technology Inc. is led by Qingfeng Feng, who serves as both the Director and Chief Executive Officer. In this capacity, he is responsible for overseeing the company's strategic direction and operational management. While the excerpt does not provide specific financial metrics, regulatory compliance details, or significant operational dates, it is essential to recognize that these elements are critical for evaluating the company's performance and adherence to industry standards.\n\nTo gain a complete understanding of Lotus Technology Inc., additional information regarding its financial health, including revenue figures, profit margins, and growth projections, would be necessary. Furthermore, details concerning regulatory compliance, such as adherence to industry regulations and any legal considerations, are vital for assessing the company's risk profile and operational integrity.\n\nIn summary, while Qingfeng Feng plays a crucial role in steering Lotus Technology Inc., a more comprehensive analysis would require quantitative data and insights into the company's regulatory standing and significant operational milestones. This information is essential for stakeholders looking to evaluate the overall performance and strategic positioning of Lotus Technology Inc."
+            },
+            "bundle_id": 11
+          },
+          {
+            "retriever": "Title Summary",
+            "score": 0.6590960025787354,
+            "page_content": "By: /s/ Alexious Kuen Long Lee  \nName: Alexious Kuen Long Lee  \nTitle: Director and Chief Financial Officer",
+            "metadata": {
+              "date_published": "2025-01-23",
+              "doc_id": "9b5502c07206d5fdbab07d05415a8abab188d2c5c2f90cfe156c261515cc9ab8",
+              "filename": "Lotus_424B3_20250123_final.json",
+              "global_id": 13054,
+              "next_chunk_id": "",
+              "page_number": 3,
+              "prev_chunk_id": "",
+              "title_summary": "title: Lotus Technology Inc. \nsummary: Alexious Kuen Long Lee holds the position of Director and Chief Financial Officer, where he is responsible for managing financial strategies and operations."
+            },
+            "bundle_id": 12
+          },
+          {
+            "retriever": "Title Summary",
+            "score": 0.657351016998291,
+            "page_content": "By : /s/  \nAlexious Kuen Long Lee  \nName : Alexious Kuen Long Lee  \nTitle : Director and Chief Financial Officer",
+            "metadata": {
+              "date_published": "2024-02-23",
+              "doc_id": "4cd125957edcafc26ffdf9ad4af7ec730d7853ccc28456a7b177c243808ef4d6",
+              "filename": "Lotus_6-K_20240223_final.json",
+              "global_id": 13115,
+              "next_chunk_id": "227dd13da99f2f69538207068496f6c7105e4ebc4f56e81eb16c9b4dd4a280fc",
+              "page_number": 2,
+              "prev_chunk_id": "609ca06f8b7c5fe2a5677891df8903815732f7301acc0041fde163e9336499d8",
+              "title_summary": "title: Lotus Technology Inc. \nsummary: Alexious Kuen Long Lee holds the positions of Director and Chief Financial Officer, overseeing financial operations and strategic direction."
+            },
+            "bundle_id": 13
+          },
+          {
+            "retriever": "Title Summary",
+            "score": 0.6560193300247192,
+            "page_content": "By: /s/ Qingfeng Feng  \nName: Qingfeng Feng  \nTitle: Director and Chief Executive Officer",
+            "metadata": {
+              "date_published": "2024-05-03",
+              "doc_id": "30fe0dd8aeaa7449e38a91c870a36009218ab34b124e894417a2fa0730267f3a",
+              "filename": "0503_final.json",
+              "global_id": 1484,
+              "next_chunk_id": "72b180655a2624ae0d5b3e4bc975188bddbf03c10d19677a7c4cf5bd407c9b24",
+              "page_number": 343,
+              "prev_chunk_id": "0c76aab6e37bff2fcfab0cafc5bf063cd7d8b1cb4599edde4202c1d650168342",
+              "title_summary": "title: Lotus Technology Inc. \nsummary: **Comprehensive Summary of Lotus Technology Inc.**\n\nLotus Technology Inc. is led by Qingfeng Feng, who holds the position of Director and Chief Executive Officer. Under his leadership, the company has undertaken various initiatives aimed at enhancing its operational efficiency and market presence. While specific financial metrics, dates, and regulatory details are not provided in the current documentation, the emphasis on Feng's role highlights the importance of strong leadership in driving the company's strategic direction.\n\nTo gain a more comprehensive understanding of Lotus Technology Inc., additional context regarding its financial performance, regulatory compliance, and any significant events impacting the organization would be beneficial. This includes insights into revenue figures, profit margins, market share, and any pertinent legal or regulatory challenges the company may face.\n\nIn summary, while the current information underscores the leadership of Qingfeng Feng, further details are necessary to fully assess the financial health and operational status of Lotus Technology Inc. A complete analysis would ideally include key performance indicators, compliance records, and any notable developments that could influence the company's future trajectory."
+            },
+            "bundle_id": 14
+          },
+          {
+            "retriever": "BM25",
+            "score": 4.7037763595581055,
+            "page_content": "the act complained of, although not beyond the scope of the authority, could be effected if duly authorized by more than the number of votes which have actually been obtained; or 3. those who control the company are perpetrating a “fraud on the minority.” In addition to the foregoing exceptions, a shareholder may have a direct right of action against LCAA where the individual rights of that shareholder have been infringed or are about to be infringed by LCAA.",
+            "metadata": {
+              "date_published": "2024-01-12",
+              "doc_id": "53e90b1c1395d2936e6bb55a586d4bb1c07e569871a393dcd7ebd3531bcd782f",
+              "filename": "20240112_final.json",
+              "global_id": 6684,
+              "next_chunk_id": "042590fd01d918cdb8f6d29300901004a8dfc6ca9f2a327faa1a7cbefe48eda0",
+              "page_number": 160,
+              "prev_chunk_id": "58440ed3711af0d6cacbef4b409026119c4608bd0be0c8ec3dccb42fdf272da5",
+              "title_summary": "title: LCAA shareholders may have limited remedies if their shares suffer a reduction in value following the Business Combination, and because LCAA is incorporated under the laws of the Cayman Islands, shareholders may face difficulties in protecting their interests, and a shareholder’s ability to protect its rights through the U.S. federal courts may be limited \nsummary: Shareholders who choose to retain their shares following the Business Combination may face a decline in their share value, with limited options for recourse unless they can demonstrate a breach of duty by LCAA's officers or directors or successfully file a private securities claim regarding significant misstatements or omissions in the proxy/registration statement. LCAA, incorporated in the Cayman Islands, is shielded from certain legal actions, and while derivative actions are permitted, class actions are not reported in local courts. Typically, LCAA would be the appropriate plaintiff for claims of breaches of duty, limiting shareholders' ability to sue its officers or directors, although exceptions exist under Cayman Islands and English law. \n\nKey concerns regarding the company's governance include potential illegal activities, insufficient voting for authorization of actions within its authority, and the risk of \"fraud on the minority,\" which could jeopardize the interests of minority shareholders. However, shareholders retain the right to pursue direct legal action against LCAA if their individual rights are violated or threatened, in addition to the aforementioned exceptions. This summary underscores the importance of legal compliance, proper governance, and the equitable treatment of all shareholders."
+            },
+            "bundle_id": 15
+          },
+          {
+            "retriever": "BM25",
+            "score": 3.871133327484131,
+            "page_content": "In general, the Financial Projections reflect numerous assumptions, including assumptions with respect to the general business, economic, market, and regulatory environment in which Lotus Technology operates and various other factors, all of which are difficult to predict and many of which are beyond Lotus Technology's control. Lotus Technology’s control as discussed in “Risk Factors,” “Lotus Technology’s Management’s Discussion and Analysis of Financial Condition and Results of Operations” and “— Cautionary Note Regarding Forward-Looking Statements.” See “Risk Factors   —   Risks Relating to Our Business and Industry   —   Lotus Technology has a limited operating history and its ability to develop, manufacture, and deliver automobiles of high quality and appeal to customers, on schedule, and on a large scale is unproven and still evolving,” and “— Forecasts and projections of Lotus Technology’s operating and financial results rely in large part upon assumptions and analyses developed by Lotus Technology’s management. If these assumptions or analyses prove to be incorrect, Lotus Technology’s actual operating results may be materially different from those forecasted or projected.” Stakeholders are cautioned that the Financial Projections may be materially different than actual results. There will be differences between actual and projected results should certain of the assumptions mentioned below prove to be wrong, particularly if there are delays in the launch schedule of Lotus Technology’s vehicle models, if Lotus Technology sells fewer vehicles than expected, if Lotus Technology could not continuously develop and promote its Electric Performance Architecture and other advanced technologies, if benefits linked to economies of scale are less than expected.",
+            "metadata": {
+              "date_published": "2024-01-12",
+              "doc_id": "e3707da59b5036248f7b4d7288b0ec3a9f12f229d45d6f473abfc02f45a66c89",
+              "filename": "20240112_final.json",
+              "global_id": 6937,
+              "next_chunk_id": "7fd7b83df6be65681d40291faeaa486cd7fc8fa732ec4a2037c4a019f597632b",
+              "page_number": 234,
+              "prev_chunk_id": "6cb8420743b9148b4f52e74c1bb5eb36c7d046267c03ccf001d069092ea5b1d2",
+              "title_summary": "title: Certain Prospective Operational and Financial Information \nsummary: On November 28, 2022, Lotus Tech provided LCAA with initial financial forecasts covering revenue, gross profit, and EBITDA margin estimates for 2023 to 2025, which were prepared without adherence to SEC guidelines or U.S. GAAP. These projections were intended for internal use to assist LCAA's due diligence prior to the Business Combination approval. Subsequent updates were shared in June and October 2023, collectively referred to as the \"Financial Projections.\" \n\nLotus Tech emphasizes that these projections are subjective and based on various assumptions, many of which are uncertain and may change over time, potentially leading to significant discrepancies between projected and actual results. The company does not publicly disclose such forecasts and does not intend to do so in the future, highlighting that the projections should not be relied upon as guarantees of future performance.\n\nThe Financial Projections indicate a growth trajectory, with revenues expected to rise from approximately $2.2 billion to $2.5 billion in 2023, reaching between $6.2 billion and $6.6 billion in 2024, and further increasing to between $8.5 billion and $8.9 billion in 2025. Gross profit is projected to grow from $0.3 billion to $0.4 billion in 2023 to between $1.8 billion and $2.0 billion by 2025, with gross margins improving from 14%–16% to 21%–23% over the same period.\n\nLotus Tech anticipates vehicle sales will exceed 76,000 units by 2025, driven by models such as the Eletre and Type 133, with significant contributions from both vehicle-related and technology-related revenues. The company also projects growth in ecosystem-related revenue through charging services and peripheral product sales. However, stakeholders are cautioned about the inherent risks and uncertainties that could impact these forecasts, including market conditions, competitive pressures, and operational challenges.\n\nOverall, while Lotus Tech's management has outlined optimistic projections based on reasonable assumptions, the company acknowledges the potential for actual results to vary significantly from these estimates, underscoring the need for caution among investors and stakeholders."
+            },
+            "bundle_id": 16
+          },
+          {
+            "retriever": "BM25",
+            "score": 3.8342254161834717,
+            "page_content": "There will be a complete termination of such U.S. Holder’s interest if either (i) all LCAA Class A Ordinary Shares actually or constructively owned by such U.S. Holder are redeemed or (ii) all LCAA Class A Ordinary Shares actually owned by such U.S. Holder are redeemed and such U.S. Holder is eligible to waive, and effectively waives in accordance with specific rules, the attribution of LCAA Class A Ordinary Shares owned by certain family members and such U.S. Holder does not constructively own any other LCAA Class A Ordinary Shares. The redemption of LCAA Class A Ordinary Shares will not be essentially equivalent to a dividend if it results in a “meaningful reduction” of such U.S. Holder’s proportionate interest in LCAA. Whether the redemption will result in a meaningful reduction in such U.S. Holder’s proportionate interest will depend on the U.S. Holder’s particular facts and circumstances. The IRS has indicated in a published ruling that even a small reduction in the proportionate interest of a small minority shareholder in LCAA who exercises no control over corporate affairs may constitute such a meaningful reduction. If the redemption qualifies as a sale of LCAA Class A Ordinary Shares by the redeeming U.S. Holder under Section 302 of the Code, the redeeming U.S. Holder will generally be required to recognize gain or loss in an amount equal to the difference, if any, between the amount of cash received and the tax basis of the LCAA Class A Ordinary Shares redeemed.",
+            "metadata": {
+              "date_published": "2024-01-12",
+              "doc_id": "8a26e3084b27850ec418f07ee58a423dd662adc224a523fa6c9ecda85d2424a0",
+              "filename": "20240112_final.json",
+              "global_id": 7468,
+              "next_chunk_id": "c129b92b1961045046fa17d1c74f487d82f90e088479f3b4e4491bf3e93c1962",
+              "page_number": 380,
+              "prev_chunk_id": "",
+              "title_summary": "title: Effects to U.S. Holders of Exercising Redemption Rights \nsummary: The tax implications for U.S. Holders redeeming LCAA Class A Ordinary Shares for cash from the Trust Account depend on whether the redemption is classified as a sale under Section 302 or a distribution under Section 301 of the Internal Revenue Code. The classification is influenced by whether the holder has made a Qualified Electing Fund (QEF) Election or a Mark-to-Market Election. A redemption may qualify as a sale if it meets specific criteria, such as being \"substantially disproportionate,\" leading to a \"complete termination\" of the holder's interest, or being \"not essentially equivalent to a dividend.\" U.S. Holders must consider both directly owned and constructively owned shares when assessing these criteria.\n\nA redemption is typically considered \"substantially disproportionate\" if it significantly alters the holder's ownership stake in LCAA. If a holder's ownership after redemption falls below 80% of their pre-redemption stake or below 50% of the total voting power, their interest may be completely terminated. Additionally, a redemption may not be treated as essentially equivalent to a dividend if it results in a \"meaningful reduction\" in the holder's interest, which can apply even to minor reductions for minority shareholders.\n\nIf the redemption qualifies as a sale under Section 302, the holder recognizes a gain or loss based on the cash received compared to the tax basis of the redeemed shares, typically classified as capital gain or loss. Conversely, if the redemption does not meet the necessary criteria, it will be treated as a distribution under Section 301, generally considered a dividend if it comes from LCAA's earnings. Any excess over earnings reduces the holder's tax basis in their shares, with further excess treated as capital gain.\n\nThe Passive Foreign Investment Company (PFIC) rules also apply to these redemptions, and U.S. Holders may have specific reporting requirements. Those with multiple share blocks are encouraged to consult tax advisors to navigate the relevant tax implications effectively."
+            },
+            "bundle_id": 17
+          },
+          {
+            "retriever": "BM25",
+            "score": 3.8064663410186768,
+            "page_content": "Meanwhile, registered mortgage of property rights exists over certain leased properties before such properties are leased to some of Lotus Technology's PRC subsidiaries. In addition, some registered addresses of Lotus Technology's PRC subsidiaries are inconsistent with the actual operating addresses, and since the ownership certificates of certain leased properties have not been provided to Lotus Technology by the lessors, Lotus Technology cannot ensure whether the actual uses of such lands leased to some of its PRC subsidiaries are inconsistent with the planned use indicated on the ownership certificates of such lands. If Lotus Technology's lease agreements are claimed as null and void by third parties who are the real owners of such leased real properties, Lotus Technology could be required to vacate the properties, in the event of which Lotus Technology could only initiate the claim against the lessors under lease agreements for indemnities for their breach of the leasing agreements. In addition, Lotus Technology may not be able to renew its existing lease agreements before their expiration dates, in which case Lotus Technology may be required to vacate the properties.",
+            "metadata": {
+              "date_published": "2024-05-03",
+              "doc_id": "09cccd249d2c36200d4fa1c407be95abaf6be0efc97f340c25bdc64d2f8d7a26",
+              "filename": "0503_final.json",
+              "global_id": 306,
+              "next_chunk_id": "af309960c23af54cc4819d8926b642c1e822e2ac9922141b5b1509378b8d1c44",
+              "page_number": 68,
+              "prev_chunk_id": "d2b20d28d9dcf8aed3da5bef23262af6074393f8635a86f944bfe30ac17692c8",
+              "title_summary": "title: Our leased property interest or entitlement to other facilities or assets may be defective or subject to lien and our right to lease, own or use the properties affected by such defects or lien challenged, which could cause significant disruption to our business. \nsummary: Our business operations face substantial risks stemming from various factors related to leased properties, regulatory compliance, and employee benefit obligations in mainland China. \n\nFirstly, several of our lease agreements are not registered with local housing authorities, a requirement that could expose us and our landlords to monetary fines and necessitate the relocation of our offices, leading to potential financial losses. Additionally, the absence of ownership certificates from some lessors raises concerns regarding their entitlement to lease these properties. If the actual property owners refuse to ratify our lease agreements, we risk losing our rights to these properties, which may compel us to vacate without assurance of securing suitable alternative locations.\n\nMoreover, our operations are increasingly scrutinized by regulatory authorities concerning cybersecurity, privacy, data protection, and information security. Recent investigations into data security practices highlight the importance of compliance with stringent regulations, including the Cybersecurity Law, Data Security Law, and Personal Information Protection Law. Non-compliance could result in severe repercussions, including reputational damage, legal actions, increased operational costs, and sanctions such as fines and business suspensions. We are actively monitoring the evolving regulatory landscape to mitigate these risks.\n\nIn addition, compliance with PRC labor laws is critical, as we are required to pay various statutory employee benefits, including pensions and medical insurance. Failure to adhere to these laws may lead to administrative fines and rectification orders from labor authorities. If we are found liable for inadequate contributions to social insurance and housing provident funds, it could adversely affect our financial condition and operational capabilities.\n\nIn summary, our business is confronted with significant risks related to lease registration, regulatory compliance, and employee benefit obligations, all of which could disrupt operations and negatively impact our financial performance. It is imperative that we address these challenges proactively to safeguard our interests and ensure the continuity of our operations."
+            },
+            "bundle_id": 18
+          },
+          {
+            "retriever": "BM25",
+            "score": 3.7953336238861084,
+            "page_content": "● It is not possible to predict the actual number of American Depositary Shares (ADSs) that Lotus Technology will sell under the Purchase Agreement to Westwood, or the actual gross proceeds resulting from those sales. ● The issuance of ADSs to Westwood will cause dilution to existing holders of Lotus Technology's securities, and the sale of the ADSs acquired by Westwood, or the perception that such sales may occur, could cause the price of Lotus Technology's securities to fall. ● Investors who purchase ADSs at different times will likely pay different prices. ● Lotus Technology may not have access to the full amount available under the Purchase Agreement. ● Lotus Technology's management team will have broad discretion over the use of the net proceeds from the sale of ADSs to Westwood, if any, and investors may not agree with how Lotus Technology uses the proceeds, and the proceeds may not be invested successfully. ● If securities or industry analysts do not publish research, publish inaccurate or unfavorable research, or cease publishing research about Lotus Technology, the price for Lotus Technology's ADSs and the trading volume could decline significantly.",
+            "metadata": {
+              "date_published": "2024-09-19",
+              "doc_id": "8a48c578c4b60dfb0c9e81acdaaaafba53110aba49a858edf69e484391476574",
+              "filename": "0919_final.json",
+              "global_id": 2064,
+              "next_chunk_id": "d09a87883886d3ea8fcfe85a7d1ff14c89f8e76faaa390a24bbeb98466eb77a6",
+              "page_number": 25,
+              "prev_chunk_id": "eb1ce4ceb5e5b43bca16a5728f9286b04d7b3272df82162f1be71c91b1353184",
+              "title_summary": "title: Risks Relating to This Offering and Our Securities \nsummary: The offering of American Depositary Shares (ADSs) under the Purchase Agreement with Westwood entails several significant risks that potential investors should consider. Firstly, the actual number of ADSs sold and the resulting gross proceeds from the offering are unpredictable, which introduces uncertainty into the investment. The issuance of ADSs to Westwood will lead to dilution of existing shareholders' equity, and the subsequent sale or potential sale of these ADSs may negatively impact the market price of the company's securities. This could result in investors purchasing ADSs at varying prices, depending on the timing of their transactions.\n\nMoreover, access to the full amount under the Purchase Agreement is not guaranteed. Management will retain substantial discretion over the use of any net proceeds from the offering, which may not align with investor preferences and could lead to unsuccessful investments. \n\nThe lack of research coverage or the presence of unfavorable reports from analysts may contribute to a significant decline in the price and trading volume of the ADSs. Additionally, resales by existing securityholders could further depress market prices, irrespective of the underlying business performance. \n\nInvestors should also be aware that the trading prices of ADSs and Warrants may exhibit volatility, and a stable market for these securities may not develop, adversely affecting liquidity and pricing. For further details, investors are encouraged to refer to the \"Risk Factors\" section on page 17 of the prospectus, which provides a comprehensive overview of the associated risks."
+            },
+            "bundle_id": 19
+          },
+          {
+            "retriever": "BM25",
+            "score": 3.7937259674072266,
+            "page_content": "Meanwhile, registered mortgage of property rights exists over certain leased properties before such properties are leased to some of Lotus Technology's PRC subsidiaries. In addition, some registered addresses of Lotus Technology's PRC subsidiaries are inconsistent with the actual operating addresses, and since the ownership certificates of certain leased properties have not been provided to Lotus Technology by the lessors, the company cannot ensure whether the actual uses of such lands leased to some of its PRC subsidiaries are inconsistent with the planned use indicated on the ownership certificates of such lands. If Lotus Technology's lease agreements are claimed as null and void by third parties who are the real owners of such leased real properties, the company could be required to vacate the properties, in which event Lotus Technology could only initiate the claim against the lessors under lease agreements for indemnities for their breach of the leasing agreements. In addition, Lotus Technology may not be able to renew its existing lease agreements before their expiration dates, in which case the company may be required to vacate the properties.",
+            "metadata": {
+              "date_published": "2024-09-19",
+              "doc_id": "c3e4b82c25656eaaa2e64505a20eee2abf0772841dc68707a316cedb6e0188b2",
+              "filename": "0919_final.json",
+              "global_id": 2269,
+              "next_chunk_id": "fc4dc9fdf50c8dea39b7f77c78dd90a4604762c066ddb074bb41927862fdfc82",
+              "page_number": 70,
+              "prev_chunk_id": "d7b382cbe2f3e98a9998d2d81afe25409b75a800026a56f510e1267e511e1707",
+              "title_summary": "title: Our leased property interest or entitlement to other facilities or assets may be defective or subject to lien and our right to lease, own or use the properties affected by such defects or lien challenged, which could cause significant disruption to our business. \nsummary: The chapter discusses significant risks associated with our leased properties in mainland China, particularly concerning compliance with local laws and regulations. Under Chinese law, all lease agreements are required to be registered with local housing authorities. Currently, some of the properties we lease have not completed this registration process, which poses risks of monetary fines for both us and our landlords. Delays or failures in obtaining these registrations could compel us to relocate, leading to potential financial losses.\n\nMoreover, there are concerns regarding the ownership of certain leased properties, as some lessors have not provided the necessary ownership certificates. If the actual property owners refuse to ratify our lease agreements, we could lose our rights to these properties and would only have the option to seek indemnities from the lessors for breach of contract.\n\nAdditionally, several of our leased properties have registered mortgages predating our leases, and there are discrepancies between the registered addresses of our PRC subsidiaries and their actual operating addresses. Should third parties contest the validity of our lease agreements, we may be forced to vacate the premises, and finding suitable alternative locations could prove challenging, adversely impacting our operations.\n\nWe are also navigating stringent regulations in China concerning cybersecurity, privacy, data protection, and information security. Recent regulatory scrutiny has intensified, leading to potential compliance costs and risks associated with new laws, including the Cybersecurity Law, Civil Code, Data Security Law, and Personal Information Protection Law. While we have not been classified as a critical information infrastructure operator or data handler, there remains uncertainty regarding future regulatory categorizations and the possibility of investigations.\n\nFurthermore, compliance with social insurance and housing provident fund laws is obligatory. We must register and contribute to various employee benefits, including pensions and medical insurance, within 30 days of establishment. Non-compliance with these requirements could result in administrative fines, late payment fees, or other penalties, which may adversely affect our financial condition and operations.\n\nIn summary, the combination of unregistered leases, potential ownership disputes, regulatory compliance challenges, and mandatory employee benefit contributions presents significant risks that could disrupt our business operations and financial stability in mainland China."
+            },
+            "bundle_id": 20
+          },
+          {
+            "retriever": "BM25",
+            "score": 3.7304465770721436,
+            "page_content": "In addition, some registered addresses of Lotus Technology's PRC subsidiaries are inconsistent with the actual operating addresses, and since the ownership certificates of certain leased properties have not been provided to Lotus Technology by the lessors, Lotus Technology cannot ensure whether the actual uses of such lands leased to some of Lotus Technology's PRC subsidiaries are inconsistent with the planned use indicated on the ownership certificates of such lands. If Lotus Technology's lease agreements are claimed as null and void by third parties who are the real owners of such leased real properties, Lotus Technology could be required to vacate the properties, in the event of which Lotus Technology could only initiate the claim against the lessors under lease agreements for indemnities for their breach of the leasing agreements. In addition, Lotus Technology may not be able to renew its existing lease agreements before their expiration dates, in which case Lotus Technology may be required to vacate the properties. Lotus Technology cannot assure you that suitable alternative locations are readily available on commercially reasonable terms, or at all, and if Lotus Technology is unable to relocate its operations in a timely manner, its operations may be adversely affected.",
+            "metadata": {
+              "date_published": "2024-05-24",
+              "doc_id": "c35765c8980479fa12143a021e6fea9f7b697fe0884c9018ccedc462fee6866e",
+              "filename": "20240524_final.json",
+              "global_id": 10293,
+              "next_chunk_id": "d57ebf3bc2c8fc5184b5415500e5aa2c295bd2e200e7b47104d616fa69fc7d38",
+              "page_number": 70,
+              "prev_chunk_id": "ce4160062cff6f62cdd22917f7e9d3bad80932ed3058cfa890c53ae3a17214da",
+              "title_summary": "title: Our leased property interest or entitlement to other facilities or assets may be defective or subject to lien and our right to lease, own or use the properties affected by such defects or lien challenged, which could cause significant disruption to our business. \nsummary: In mainland China, registering lease agreements with local housing authorities is a legal requirement, yet several of our leased properties have not completed this process. This oversight poses significant compliance risks, as unregistered leases could lead to monetary fines for landlords, lessors, and our company. Delays in registration may also necessitate office relocations, resulting in financial losses. Additionally, the absence of ownership certificates from lessors raises concerns about their authority to lease the properties, complicating our ability to enforce rights if actual owners dispute the leases. Some properties have registered mortgages predating our leases, and discrepancies exist between registered and actual operating addresses, further complicating matters. Without ownership certificates, we cannot verify if the leased lands are being used as intended, and any claims from third parties regarding the validity of our lease agreements could force us to vacate the premises, limiting our recourse to seeking indemnities from lessors. Moreover, challenges in renewing leases may disrupt operations if suitable alternative locations are unavailable."
+            },
+            "bundle_id": 21
+          },
+          {
+            "retriever": "BM25",
+            "score": 3.7043609619140625,
+            "page_content": "In addition, some registered addresses of Lotus Technology's PRC subsidiaries are inconsistent with the actual operating addresses, and since the ownership certificates of certain leased properties have not been provided to Lotus Technology by the relevant lessors, Lotus Technology cannot ensure whether the actual uses of such lands leased to some of its PRC subsidiaries are inconsistent with the planned use indicated on the ownership certificates of such lands. If Lotus Technology's lease agreements are claimed as null and void by third parties who are the real owners of such leased real properties, Lotus Technology could be required to vacate the properties, in the event of which Lotus Technology could only initiate the claim against the lessors under relevant lease agreements for indemnities for their breach of the relevant leasing agreements. In addition, Lotus Technology may not be able to renew its existing lease agreements before their expiration dates, in which case Lotus Technology may be required to vacate the properties. Lotus Technology cannot assure you that suitable alternative locations are readily available on commercially reasonable terms, or at all, and if Lotus Technology is unable to relocate its operations in a timely manner, its operations may be adversely affected.",
+            "metadata": {
+              "date_published": "2024-01-11",
+              "doc_id": "16b6aa09a942d76b6fb2cbcc167885bf665f35ff42707d4c6dd7b935e123fcc9",
+              "filename": "20240111_final.json",
+              "global_id": 4191,
+              "next_chunk_id": "c38c6f5014c7cbb591037c8089da459aaa45cd26c1c750630d114bc377d7d624",
+              "page_number": 144,
+              "prev_chunk_id": "",
+              "title_summary": "title: Our leased property interest or entitlement to other facilities or assets may be defective or subject to lien and our right to lease, own or use the properties affected by such defects or lien challenged, which could cause significant disruption to our business. \nsummary: In mainland China, all lease agreements must be registered with local housing authorities, yet some of our leased premises lack the necessary registration of ownership rights and leases. This oversight raises concerns about potential fines for us, our landlords, and lessors, and could necessitate relocating our offices, leading to financial losses. Additionally, the absence of ownership certificates from lessors casts doubt on their authority to lease the properties, and if actual owners do not ratify the leases, our subsidiaries may struggle to enforce their rights. Compounding these issues, some properties have existing registered mortgages, and discrepancies exist between registered and actual operating addresses, which could result in third-party claims of nullity against the lease agreements. This situation not only jeopardizes our ability to renew leases but also creates uncertainties regarding the availability of alternative locations, ultimately posing significant risks to the operational stability of our subsidiaries."
+            },
+            "bundle_id": 22
+          },
+          {
+            "retriever": "BM25",
+            "score": 3.7035744190216064,
+            "page_content": "In addition, some registered addresses of Lotus Technology's PRC subsidiaries are inconsistent with the actual operating addresses, and since the ownership certificates of certain leased properties have not been provided to Lotus Technology by the relevant lessors, Lotus Technology cannot ensure whether the actual uses of such lands leased to some of Lotus Technology's PRC subsidiaries are inconsistent with the planned use indicated on the ownership certificates of such lands. If Lotus Technology's lease agreements are claimed as null and void by third parties who are the real owners of such leased real properties, Lotus Technology could be required to vacate the properties, in the event of which Lotus Technology could only initiate the claim against the lessors under relevant lease agreements for indemnities for their breach of the relevant leasing agreements. In addition, Lotus Technology may not be able to renew its existing lease agreements before their expiration dates, in which case Lotus Technology may be required to vacate the properties. Lotus Technology cannot assure you that suitable alternative locations are readily available on commercially reasonable terms, or at all, and if Lotus Technology is unable to relocate its operations in a timely manner, its operations may be adversely affected.",
+            "metadata": {
+              "date_published": "2024-01-12",
+              "doc_id": "0a26a1cbf96ae580681a2a0ad92d8d7be61699a6af84d0dc3961d20640a5a461",
+              "filename": "20240112_final.json",
+              "global_id": 6618,
+              "next_chunk_id": "94e08dc7cda5a8eda6aa6480bcf2632be1821746175449abfe0e31038f63a0f2",
+              "page_number": 143,
+              "prev_chunk_id": "73fb797bb245c9270a6c70583cae92cf289bbc3adc4b40e172adc32805c47b34",
+              "title_summary": "title: Our leased property interest or entitlement to other facilities or assets may be defective or subject to lien and our right to lease, own or use the properties affected by such defects or lien challenged, which could cause significant disruption to our business. \nsummary: In mainland China, it is mandatory for all lease agreements to be registered with local housing authorities. Currently, some of our leased properties lack the necessary registration of ownership rights and lease agreements, which poses significant risks. This oversight could lead to monetary fines for us, our landlords, and lessors, and if not addressed promptly, may force us to relocate our offices, resulting in financial losses. The absence of ownership certificates raises concerns about the lessors' authority to lease these properties, and if actual owners refuse to ratify the agreements, we may struggle to enforce our rights. Additionally, some properties have registered mortgages, and there are discrepancies between registered and actual addresses of certain subsidiaries, complicating land use verification. If third parties challenge the validity of our lease agreements, we could be compelled to vacate the premises, limiting our ability to seek indemnities from lessors. Furthermore, difficulties in renewing leases could disrupt operations, as finding suitable alternative locations may be challenging, potentially impacting the company's overall functionality."
+            },
+            "bundle_id": 23
+          },
+          {
+            "retriever": "BM25",
+            "score": 3.6584510803222656,
+            "page_content": "or (iv) instigating, inducing, or assisting others to violate a confidentiality obligation or to violate a rights holder’s requirements on keeping the confidentiality of trade secrets, disclosing, using, or permitting others to use the trade secrets of the rights holder. If a third party knows or should have known the abovementioned illegal conduct but nevertheless obtains, uses, or discloses trade secrets of others, the third party may be deemed to have misappropriated the trade secrets of others. Business operators who violate the provisions of the Anti-Unfair Competition Law and cause others to suffer damages shall bear civil liability. Where the legitimate rights and interests of a business operator are harmed by unfair competition, the business operator may file a lawsuit with a People’s Court. The amount of compensation for a business operator who suffers damages due to unfair competition shall be determined on the basis of the actual losses suffered as a result of the infringement; where it is difficult to ascertain the actual losses, the amount of compensation shall be determined in accordance with the benefits gained by the infringing party from the infringement.",
+            "metadata": {
+              "date_published": "2024-09-19",
+              "doc_id": "3bcf1c8326ea215bc6249a66207c93867149b8172098ab2ac5a87b45ad73f555",
+              "filename": "0919_final.json",
+              "global_id": 2540,
+              "next_chunk_id": "e9b4254ff015476fac6e289a970036c5dc08072f17147560277846b8d8c86721",
+              "page_number": 139,
+              "prev_chunk_id": "9cc048cea7dd81f826063549d79cb8d2497de8c812a32e5f47a836f179a81182",
+              "title_summary": "title: Trademarks \nsummary: Trademarks in China are regulated under the PRC Trademark Law, which was last amended on April 23, 2019, alongside the Implementation Regulations, last amended on April 29, 2014. The law stipulates that registered trademarks are protected for an initial term of ten years, with the possibility of renewal for an additional ten years upon request. A six-month grace period is available for renewal; however, failure to renew within this timeframe results in the cancellation of the trademark.\n\nThe registration process adheres to a first-to-file principle, meaning that applications may be rejected if they conflict with existing trademarks associated with similar products or services. Applicants are prohibited from infringing on prior trademark rights or attempting to register trademarks that are already in use and have established a sufficient reputation.\n\nTrademark owners have the option to license their trademarks through agreements, which must be filed with the Trademark Office to be valid. Furthermore, market regulatory departments are empowered to investigate cases of trademark infringement. If any cases are suspected of involving criminal offenses, they are referred to judicial authorities for legal resolution. This comprehensive framework ensures the protection and enforcement of trademark rights in China."
+            },
+            "bundle_id": 24
+          }
+        ]
+      ]
+    }
+  ]
+}

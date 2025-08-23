@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "generated_date": "2025-06-06 11:36:46",
+    "database": "/root/autodl-tmp/RAG_Agent_production/tmp/database_202506_zeekr",
+    "batch_index": "1_1"
+  },
+  "questions": [
+    {
+      "question_index": 0,
+      "original_question": "What is Zeekr's plan of development in the future?",
+      "answer": "Zeekr, as a brand under the Geely umbrella, has been focusing on expanding its electric vehicle lineup and enhancing its global presence. While specific details about Zeekr's future development plans are not directly related to Lotus, it’s clear that Zeekr is committed to innovation in the EV space, with a strong emphasis on technology and sustainability. If you need more detailed information, our human assistant can provide it.",
+      "duration": 5.890194654464722,
+      "rewritten_question": [
+        "What is Zeekr's plan of development in the future?"
+      ],
+      "need_rag": false,
+      "rag_info": [],
+      "all_retrieved_content": []
+    }
+  ]
+}

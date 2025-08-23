@@ -1,0 +1,463 @@
+{
+  "metadata": {
+    "generated_date": "2025-08-18 12:52:28",
+    "database": "/root/autodl-tmp/RAG_Agent_production/tmp/database_20250220_opus_2_0_0",
+    "batch_index": "49_49"
+  },
+  "questions": [
+    {
+      "question_index": 0,
+      "original_question": "截止2季度的全球销量是多少？",
+      "answer": "截至2024年第二季度，路特斯科技的全球交付量达到4,873辆，同比增长239%。这一强劲表现主要得益于其在美国市场的重新布局以及全球市场的均衡分配。以上信息基于2024年11月12日之前的知识。",
+      "duration": 5.611645460128784,
+      "rewritten_question": [
+        "What is Lotus Tech's global sales volume up to the second quarter in 2024?"
+      ],
+      "need_rag": true,
+      "rag_info": [
+        {
+          "timeinfo": "2024-11-12",
+          "chunk_id": "bf09594c9548e4e439206b943e642c13ae537cfb313142ea490e8f4b822f4303",
+          "chunk_content": "New York – November 12, 2024 – Lotus Technology Inc. (“Lotus” or the “Company”), a leading global intelligent and luxury mobility provider, today announced its vehicle delivery results for the first ten months of 2024. Lotus Technology Inc. continues to achieve top-rate growth among traditional luxury car brands, delivering 8,631 vehicles in the first ten months of 2024. Europe and China continued to be the major markets for Lotus Technology, with each region contributing about 35% and 25% of the total deliveries, respectively. In October, Lotus Technology Inc. started an open beta test for its urban NOA (Navigate on Autopilot) in key cities. Certain over-the-air updates of intelligent driving, including highway assistant driving functions, were launched in Europe. As previously announced, Lotus Robotics, Lotus Technology's intelligent driving arm, provides intelligent driving solutions with global coverage to both Lotus-brand intelligent vehicles and other global leading auto conglomerates such as Lynk&Co, Farizon Auto, and a top Japanese Tier-one supplier. In October, Lotus Technology Inc. was awarded the Highly Commends honor at the Reuters Sustainability Awards 2024 in the Business Transformation category as the only awardee from the automotive industry. Note 1: Invoiced deliveries, including commissioned deliveries in the US market.",
+          "chunk_bundle_id": 5.0,
+          "sub_query": "What is Lotus Tech's global sales volume up to the second quarter in 2024?"
+        },
+        {
+          "timeinfo": "2024-05-29",
+          "chunk_id": "f315574d0ddc46bc1379e0a37625df2733bb6dbd4c23b7287d2a4654be75584d",
+          "chunk_content": "Lotus Technology recorded revenue of \\$173 million and a gross profit margin of 18%. The company delivered approximately 2,194 vehicles, with global markets outside China contributing over 75% of total deliveries. Lotus Technology revealed luxury customized editions of classic sports cars and battery electric vehicle lifestyle models. New York  \n– May 29, 2024 – Lotus Technology Inc. (\"Lotus Technology\" or the \"Company\") (Nasdaq: LOT), a leading global luxury electric vehicle maker, today announced its unaudited financial results for the first quarter ended March 31, 2024. Lotus Technology achieved total revenue of \\$173 million in the quarter, a year-on-year growth of 811% and a gross profit margin of 18%, powered by an asset-light model and high-margin businesses including research and development services and accessories. Lotus Technology successfully launched its Chapman Bespoke service in the first quarter of 2024, providing premium customization to Lotus vehicles. Lotus Technology delivered a total of 2,194 vehicles in the first quarter. The Company began deliveries of the Emeya in China, its first electric hyper-grand tourer, and further expanded its product portfolio to four models. In the China market where the Company operates a direct-to-customer sales model, the deliveries in the first quarter had a year-on-year growth of over 100%. Customer deliveries of the Emira, the brand’s internal combustion engine sports car manufactured in the UK, also commenced in the US at the beginning of this year. Global markets outside China contributed over 75% of Lotus Technology's deliveries in the first quarter.",
+          "chunk_bundle_id": 8.0,
+          "sub_query": "What is Lotus Tech's global sales volume up to the second quarter in 2024?"
+        },
+        {
+          "timeinfo": "2024-08-28",
+          "chunk_id": "a828bbf8a3e0fc602860fe1642f92fb079e2f27e5007562ede2705d3b5a81e62",
+          "chunk_content": "Robust start in 2024, marking the strongest first half-year performance in Lotus Technology's history.  \nBalanced global allocation, with strong US deliveries contributing after the brand’s re-entry into the market.  \nLaunched bespoke services and continued growing technology-related income, which are expected to be potential contributors to profit margin in the future.  \nAdjusted the annual delivery target due to near-term disruptions from trade uncertainties and tariff hikes.  \nInitiated the “Win26” Plan aiming to achieve positive operating cash flow and EBITDA in 2026. New York – August 28, 2024 – Lotus Technology Inc. (“Lotus Tech” or “the Company”), a leading global intelligent and luxury mobility provider, today announced its unaudited financial results for the second quarter and half year ended June 30, 2024.",
+          "chunk_bundle_id": 1.0,
+          "sub_query": "What is Lotus Tech's global sales volume up to the second quarter in 2024?"
+        },
+        {
+          "timeinfo": "2024-08-28",
+          "chunk_id": "603fc016cab8668453f19f1d4b27556496821a54aef784d998976cf699a563a3",
+          "chunk_content": "In the first half of 2024, Lotus Technology achieved total deliveries of 4,873 units, representing a 239% year-on-year (YoY) increase. Lotus Technology also achieved a balanced global allocation with each region contributing 20-30% of the total deliveries in the first half of 2024, powered by over 200 stores in prime locations worldwide. The US market recorded exceptional growth and contributed 26% of the total deliveries after Lotus Technology's re-entry into the market. The achievements reflect Lotus Technology’s steady transition from a traditional sportscar maker to an intelligent luxury mobility provider. Deliveries by Model Type",
+          "chunk_bundle_id": 1.0,
+          "sub_query": "What is Lotus Tech's global sales volume up to the second quarter in 2024?"
+        },
+        {
+          "timeinfo": "2024-08-28",
+          "chunk_id": "bc2e5258b3dac1cc4273bb43c27c539563ac80b986696c3a481294f19126b196",
+          "chunk_content": "● Total deliveries for the second quarter of 2024 were 2,679 units, a 128% YoY increase.  \n● Total revenues for the second quarter of 2024 were \\$225 million, a 103% YoY increase.  \n● Gross margin for the second quarter of 2024 was 9%, versus 5% for the same period of 2023.  \n● Net loss for the second quarter of 2024 was \\$202 million, a 4% YoY increase. Excluding share-based compensation expenses, adjusted net loss (non-GAAP) was \\$201 million for the second quarter of 2024.  \n● Adjusted EBITDA (non-GAAP) was a loss of \\$177 million for the second quarter of 2024, a 1% YoY decrease. Deliveries by Model Type (in millions of U.S. dollars, unaudited)",
+          "chunk_bundle_id": 19.0,
+          "sub_query": "What is Lotus Tech's global sales volume up to the second quarter in 2024?"
+        },
+        {
+          "timeinfo": "2024-05-29",
+          "chunk_id": "893f73b57277005bf3e5a25d7b2c7df82240bc70430a6209d53cf369b84517c4",
+          "chunk_content": "Lotus Technology recorded revenue of \\$173 million and a gross profit margin of 18%. The company delivered approximately 2,194 vehicles, with global markets outside China contributing over 75% of total deliveries. Lotus Technology revealed luxury customized editions of classic sports cars and battery electric vehicle lifestyle models. New York  \n– May 29, 2024 – Lotus Technology Inc. (\"Lotus Tech\" or the \"Company\") (Nasdaq: LOT), a leading global luxury electric vehicle maker, today announced its unaudited financial results for the first quarter ended March 31, 2024. Lotus Technology Inc. achieved total revenue of \\$173 million in the quarter, a year-on-year growth of 811% and a gross profit margin of 18%, powered by an asset-light model and high-margin businesses including research and development services and accessories. Lotus Technology successfully launched its Chapman Bespoke service in the first quarter of 2024, providing premium customization to Lotus vehicles. Lotus Technology delivered a total of 2,194 vehicles in the first quarter. The Company began deliveries of the Emeya in China, its first electric hyper-grand tourer, and further expanded its product portfolio to four models. In the China market where Lotus Technology operates a direct-to-customer sales model, the deliveries in the first quarter had a year-on-year growth of over 100%. Customer deliveries of the Emira, the brand’s internal combustion engine sports car manufactured in the UK, also commenced in the US at the beginning of this year. Global markets outside China contributed over 75% of Lotus Technology's deliveries in the first quarter.",
+          "chunk_bundle_id": 7.0,
+          "sub_query": "What is Lotus Tech's global sales volume up to the second quarter in 2024?"
+        },
+        {
+          "timeinfo": "2024-04-08",
+          "chunk_id": "01299f882348cf8b8a806b615a64c72e57e6772605392e173ea1a356bb9ca43a",
+          "chunk_content": "The increase in deliveries was driven primarily by the Eletre, Lotus Technology's first lifestyle BEV, which ramped up production and sales in the second half of the year. Lotus Technology also continued to expand its global presence, laying the foundation for the ongoing global roll-out of the brand's vehicles with an increase of 46 stores year-on-year to a total of 215 locations as of December 31, 2023. Over the past year, Lotus Technology notably opened new flagship stores in prime locations, including in the Golden Triangle area of Paris, Mayfair in London, Gangnam-gu in Seoul, and other strategically important global cities. 2024 will be a pivotal year for Lotus Technology Inc.'s execution of its Vision80 Strategy, as the company further ramps up global deliveries of its leading product portfolio in new markets. In March 2024, the company began deliveries of the Emeya, its first electric hyper-grand tourer. Emeya deliveries are now underway in China and are expected to begin in Europe in the third quarter of 2024. Lotus Technology's Eletre hyper-SUV is also set to enter more markets, including the U.S., over the course of 2024. In 2024, the company expects to increase its total deliveries about threefold to 26,000 and further grow its healthy gross margin to 17-19%. \"Lotus Technology is pleased with the early progress and promising results achieved in 2023, with increasing deliveries reflecting the strength of the brand and ramping production,\" said Lotus Tech CEO Qingfeng Feng.",
+          "chunk_bundle_id": 12.0,
+          "sub_query": "What is Lotus Tech's global sales volume up to the second quarter in 2024?"
+        },
+        {
+          "timeinfo": "2024-08-28",
+          "chunk_id": "374cff7b346ea2ba8801935cd4c4c4b2ed79b4fa245cdff63bf3c9c0e9e9309d",
+          "chunk_content": "Robust start in 2024, marking the strongest first half-year performance in Lotus Technology's history.  \nBalanced global allocation, with strong US deliveries contributing after the brand’s re-entry into the market.  \nLaunched bespoke services and continued growing technology-related income, which are expected to be potential contributors to profit margin in the future.  \nAdjusted the annual delivery target due to near-term disruptions from trade uncertainties and tariff hikes.  \nInitiated the “Win26” Plan aiming to achieve positive operating cash flow and EBITDA in 2026. New York – August 28, 2024 – Lotus Technology Inc. (“Lotus Tech” or the “Company”), a leading global intelligent and luxury mobility provider, today announced its unaudited financial results for the second quarter and half year ended June 30, 2024.",
+          "chunk_bundle_id": 2.0,
+          "sub_query": "What is Lotus Tech's global sales volume up to the second quarter in 2024?"
+        },
+        {
+          "timeinfo": "2024-08-28",
+          "chunk_id": "083a23c7d066997023a9f77a7fc83d3269b7e788431c8f41692784f0de60d583",
+          "chunk_content": "● Total deliveries for the second quarter of 2024 were 2,679 units, a 128% year-over-year increase.  \n● Total revenues for the second quarter of 2024 were \\$225 million, a 103% year-over-year increase.  \n● Gross margin for the second quarter of 2024 was 9%, versus 5% for the same period of 2023.  \n● Net loss for the second quarter of 2024 was \\$202 million, a 4% year-over-year increase. Excluding share-based compensation expenses, adjusted net loss (non-GAAP) was \\$201 million for the second quarter of 2024.  \n● Adjusted EBITDA (non-GAAP) was a loss of \\$177 million for the second quarter of 2024, a 1% year-over-year decrease. Deliveries by Model Type (in millions of U.S. dollars, unaudited)",
+          "chunk_bundle_id": 20.0,
+          "sub_query": "What is Lotus Tech's global sales volume up to the second quarter in 2024?"
+        },
+        {
+          "timeinfo": "2024-10-16",
+          "chunk_id": "86a606768adb16c3d42b3f10044be26efbbeb5484605011d2fb18ee25c3ff786",
+          "chunk_content": "How was Lotus Technology's performance in the first half of the year? Total revenue for the first half of 2024 was $398 million, representing a year-on-year increase of 206%. Lotus Technology's Average Selling Price (ASP) remained above $100,000, achieving growth far exceeding the industry and luxury car segment. Lotus Technology's gross margin for the first half of this year was 13%, compared to 5% in the same period of 2023.\n\nIn the first half of 2024, Lotus Technology achieved total product deliveries of 4,873 units, a 239% year-on-year increase, making it the fastest-growing brand among traditional luxury car brands. Global deliveries were balanced, with the four major markets (Europe, China, North America, and Rest of World) each contributing 20-30% of deliveries.\n\nIn the first half of 2024, as Lotus Technology began collaborating with several leading automotive brands by providing intelligent driving solutions and technology development services, technology-related revenue started to expand. With the continued increase in cumulative deliveries of lifestyle vehicles equipped with advanced hardware, the potential for generating paid software subscription revenue continues to grow.\n\nLotus Technology launched the Colin Chapman Bespoke Service, offering personalized options, designer customization, limited editions, and exclusive customization to meet the growing demands of its customers. The delivery of customized models is expected to further enhance the brand's luxury positioning and benefit Lotus Technology's long-term profit margins.",
+          "chunk_bundle_id": 3.0,
+          "sub_query": "What is Lotus Tech's global sales volume up to the second quarter in 2024?"
+        }
+      ],
+      "all_retrieved_content": [
+        [
+          {
+            "retriever": "FAISS",
+            "score": 0.7748223543167114,
+            "page_content": "Lotus Technology Announces Preliminary Delivery Results of 2024",
+            "metadata": {
+              "date_published": "2025-01-14",
+              "doc_id": "ae63c43b607baaf5106ad8abbaad79b1e1bf29d62981cc40eec385af998fd969",
+              "filename": "Lotus_6-K_20250114_final.json",
+              "global_id": 12188,
+              "next_chunk_id": "59ecd0d4590a397510f7e1b1a44dce3dac148882e28e08ec4aebde4e8cf17596",
+              "page_number": 1,
+              "prev_chunk_id": "ded4950ab305eb5935245f84a74e331ae5857e936606a59b1f6e2cd363393074",
+              "title_summary": "title: Exhibit No.   Description \nsummary: Lotus Technology has revealed promising preliminary delivery results for 2024, showcasing a notable rise in vehicle deliveries driven by robust demand for its electric vehicles. This increase is linked to improved production capabilities and effective marketing strategies. The company is focused on maintaining this growth trajectory and enhancing its market presence in the near future. Additionally, they provided insights into specific models and future projections, underscoring their dedication to innovation and customer satisfaction."
+            },
+            "bundle_id": 0
+          },
+          {
+            "retriever": "FAISS",
+            "score": 0.7748223543167114,
+            "page_content": "Pursuant to the requirements of the Securities Exchange Act of 1934, Lotus Technology has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized. NEW YORK, Jan. 14, 2025 (GLOBE NEWSWIRE) -- Lotus Technology Inc. (“Lotus” or the “Company”), a leading global intelligent and luxury mobility provider, today announced its preliminary vehicle delivery results for the full year of 2024. Lotus Technology delivered 12,065 vehicles in 2024, representing a year-on-year increase of over 70% and boasting the top growth rate among leading luxury brands. China contributed approximately 25% of the total global deliveries in 2024. In 2025, Lotus Technology aims to increase global deliveries by 20% with a 25-28% contribution from China. Lotus Technology also successfully reclaimed the proprietary rights of the LOTUS roundel, LOTUS word mark, and the Chinese character of Lotus (\"莲花\") in China, achieving consistency in terms of its trademark across the world. Note 1: Invoiced deliveries, including commissioned deliveries in the US market. The vehicle delivery numbers presented above are derived from reports submitted by Lotus Technology's business units. These numbers may differ slightly from the vehicle delivery numbers recorded in the financial accounting and reporting systems announced or to be announced by Lotus Technology. Note 2: Including Ferrari, Porsche, Aston Martin, Bentley, Rolls Royce, and McLaren.",
+            "metadata": {
+              "date_published": "2025-01-14",
+              "doc_id": "59ecd0d4590a397510f7e1b1a44dce3dac148882e28e08ec4aebde4e8cf17596",
+              "filename": "Lotus_6-K_20250114_final.json",
+              "global_id": 12189,
+              "next_chunk_id": "902dfcd507ab3e01a727a62deff0394ea7e10a25ddaf9421d384fab39a1cbe76",
+              "page_number": 2,
+              "prev_chunk_id": "ae63c43b607baaf5106ad8abbaad79b1e1bf29d62981cc40eec385af998fd969",
+              "title_summary": "title: SIGNATURES \nsummary: Lotus Technology Inc. has filed a report in accordance with the Securities Exchange Act of 1934, officially signed by an authorized representative. On January 14, 2025, the company announced its preliminary vehicle delivery results for 2024, achieving a significant milestone with 12,065 vehicles delivered, reflecting over 70% year-on-year growth. This performance established Lotus as the fastest-growing luxury brand, with approximately 25% of deliveries originating from China. Looking ahead, Lotus aims to increase global deliveries by 20% in 2025, with China's contribution expected to rise to 25-28%. The company has also regained proprietary rights to its trademarks, including the iconic LOTUS roundel and the Chinese character for Lotus (\"莲花\"), reinforcing its global branding consistency. The reported delivery figures encompass invoiced and commissioned deliveries in the US, based on submissions from various business units, and may differ slightly from the company's financial records. Additionally, the summary highlights the competitive landscape, referencing prestigious luxury automotive brands such as Ferrari, Porsche, Aston Martin, Bentley, Rolls Royce, and McLaren, known for their exceptional craftsmanship and appeal to elite car enthusiasts."
+            },
+            "bundle_id": 0
+          },
+          {
+            "retriever": "FAISS",
+            "score": 0.7352415323257446,
+            "page_content": "Robust start in 2024, marking the strongest first half-year performance in Lotus Technology's history.  \nBalanced global allocation, with strong US deliveries contributing after the brand’s re-entry into the market.  \nLaunched bespoke services and continued growing technology-related income, which are expected to be potential contributors to profit margin in the future.  \nAdjusted the annual delivery target due to near-term disruptions from trade uncertainties and tariff hikes.  \nInitiated the “Win26” Plan aiming to achieve positive operating cash flow and EBITDA in 2026. New York – August 28, 2024 – Lotus Technology Inc. (“Lotus Tech” or “the Company”), a leading global intelligent and luxury mobility provider, today announced its unaudited financial results for the second quarter and half year ended June 30, 2024.",
+            "metadata": {
+              "date_published": "2024-08-28",
+              "doc_id": "a828bbf8a3e0fc602860fe1642f92fb079e2f27e5007562ede2705d3b5a81e62",
+              "filename": "Lotus_424B3_20240828_final.json",
+              "global_id": 9830,
+              "next_chunk_id": "603fc016cab8668453f19f1d4b27556496821a54aef784d998976cf699a563a3",
+              "page_number": 4,
+              "prev_chunk_id": "f8230be0b9c26a6fe84ef2de9916bf4869cb0330dc2bd3ac4ef0a3753f0f82e5",
+              "title_summary": "title: Lotus Technology Reports Unaudited\nSecond Quarter and First Half 2024 Financial Results \nsummary: In the first half of 2024, the brand experienced its best performance to date, driven by a well-balanced global strategy and significant deliveries in the US after its market re-entry. The introduction of tailored services and growth in technology-related revenue are expected to improve profit margins in the future. However, the annual delivery target has been revised due to short-term challenges from trade uncertainties and tariff hikes. Additionally, the brand has launched the \"Win26\" Plan, which aims for positive operating cash flow and EBITDA by 2026. Lotus Technology Inc. also reported its unaudited financial results for the second quarter and the first half of 2024, highlighting its position in the global intelligent and luxury mobility sector, although specific financial details were not disclosed."
+            },
+            "bundle_id": 1
+          },
+          {
+            "retriever": "FAISS",
+            "score": 0.7352415323257446,
+            "page_content": "In the first half of 2024, Lotus Technology achieved total deliveries of 4,873 units, representing a 239% year-on-year (YoY) increase. Lotus Technology also achieved a balanced global allocation with each region contributing 20-30% of the total deliveries in the first half of 2024, powered by over 200 stores in prime locations worldwide. The US market recorded exceptional growth and contributed 26% of the total deliveries after Lotus Technology's re-entry into the market. The achievements reflect Lotus Technology’s steady transition from a traditional sportscar maker to an intelligent luxury mobility provider. Deliveries by Model Type",
+            "metadata": {
+              "date_published": "2024-08-28",
+              "doc_id": "603fc016cab8668453f19f1d4b27556496821a54aef784d998976cf699a563a3",
+              "filename": "Lotus_424B3_20240828_final.json",
+              "global_id": 9831,
+              "next_chunk_id": "e8edd3a7a2bdec8256ba756f8d2697c986d89f7e02e58707cc709a0de2d65a24",
+              "page_number": 4,
+              "prev_chunk_id": "a828bbf8a3e0fc602860fe1642f92fb079e2f27e5007562ede2705d3b5a81e62",
+              "title_summary": "title: Operating Highlights for the First Half of\n2024 \nsummary: In the first half of 2024, the Company achieved a remarkable 239% year-on-year increase in total deliveries, reaching 4,873 units, with significant contributions from various global regions, each accounting for 20-30% of the total. The US market notably represented 26% of these deliveries, reflecting the Company's successful re-entry into the market. \n\nDeliveries were categorized by model type, with Lifestyle SUVs and Sedans totaling 2,389 units (up 174% from 2023) and Sportscars reaching 2,484 units (a 337% increase). Regionally, Europe led with 1,459 deliveries (30% of total), followed by North America with 1,278 (26%), China with 1,208 (25%), and the Rest of the World with 928 (19%).\n\nThe Company is evolving from a traditional sports car manufacturer to an intelligent luxury mobility provider, focusing on technology-related revenue through intelligent driving solutions and R&D services. The introduction of the Chapman Bespoke service caters to growing customer demand for personalized designs, enhancing the brand's luxury appeal and potentially improving long-term gross margins.\n\nIn light of changing market conditions and uncertainties related to new tariff policies, the Company has revised its 2024 delivery target to 12,000 units. Additionally, the \"Win26\" plan has been launched to achieve positive EBITDA by 2026, emphasizing process optimization, cost-saving measures, and product strategy recalibration to better meet the needs of diverse global markets."
+            },
+            "bundle_id": 1
+          },
+          {
+            "retriever": "FAISS",
+            "score": 0.7324939966201782,
+            "page_content": "Robust start in 2024, marking the strongest first half-year performance in Lotus Technology's history.  \nBalanced global allocation, with strong US deliveries contributing after the brand’s re-entry into the market.  \nLaunched bespoke services and continued growing technology-related income, which are expected to be potential contributors to profit margin in the future.  \nAdjusted the annual delivery target due to near-term disruptions from trade uncertainties and tariff hikes.  \nInitiated the “Win26” Plan aiming to achieve positive operating cash flow and EBITDA in 2026. New York – August 28, 2024 – Lotus Technology Inc. (“Lotus Tech” or the “Company”), a leading global intelligent and luxury mobility provider, today announced its unaudited financial results for the second quarter and half year ended June 30, 2024.",
+            "metadata": {
+              "date_published": "2024-08-28",
+              "doc_id": "374cff7b346ea2ba8801935cd4c4c4b2ed79b4fa245cdff63bf3c9c0e9e9309d",
+              "filename": "Lotus_6-K_20240828_final.json",
+              "global_id": 12145,
+              "next_chunk_id": "5bc5cc69ba499113aef09913e540143c17943f7a1bcf89155b5bda51dbdf5931",
+              "page_number": 3,
+              "prev_chunk_id": "67e700101cbee54c78264e4168ec62c1179366408d8640c10a8757596d952320",
+              "title_summary": "title: Lotus Technology Reports Unaudited\nSecond Quarter and First Half 2024 Financial Results \nsummary: In the first half of 2024, Lotus Technology Inc. reported its strongest performance to date, bolstered by a well-balanced global allocation and significant deliveries in the US following its market re-entry. The company anticipates that the introduction of bespoke services and growth in technology-related income will further enhance profit margins. However, it has adjusted its annual delivery target due to short-term challenges related to trade uncertainties and tariff increases. Additionally, the brand has initiated the \"Win26\" Plan, which aims to achieve positive operating cash flow and EBITDA by 2026. The unaudited financial results for the second quarter and the first half of 2024, ending June 30, were disclosed in a report released on August 28, 2024, highlighting Lotus's position as a leading global provider of intelligent and luxury mobility solutions."
+            },
+            "bundle_id": 2
+          },
+          {
+            "retriever": "FAISS",
+            "score": 0.7069830894470215,
+            "page_content": "How was Lotus Technology's performance in the first half of the year? Total revenue for the first half of 2024 was $398 million, representing a year-on-year increase of 206%. Lotus Technology's Average Selling Price (ASP) remained above $100,000, achieving growth far exceeding the industry and luxury car segment. Lotus Technology's gross margin for the first half of this year was 13%, compared to 5% in the same period of 2023.\n\nIn the first half of 2024, Lotus Technology achieved total product deliveries of 4,873 units, a 239% year-on-year increase, making it the fastest-growing brand among traditional luxury car brands. Global deliveries were balanced, with the four major markets (Europe, China, North America, and Rest of World) each contributing 20-30% of deliveries.\n\nIn the first half of 2024, as Lotus Technology began collaborating with several leading automotive brands by providing intelligent driving solutions and technology development services, technology-related revenue started to expand. With the continued increase in cumulative deliveries of lifestyle vehicles equipped with advanced hardware, the potential for generating paid software subscription revenue continues to grow.\n\nLotus Technology launched the Colin Chapman Bespoke Service, offering personalized options, designer customization, limited editions, and exclusive customization to meet the growing demands of its customers. The delivery of customized models is expected to further enhance the brand's luxury positioning and benefit Lotus Technology's long-term profit margins.",
+            "metadata": {
+              "date_published": "2024-10-16",
+              "doc_id": "86a606768adb16c3d42b3f10044be26efbbeb5484605011d2fb18ee25c3ff786",
+              "filename": "first_half_final.json",
+              "global_id": 13709,
+              "next_chunk_id": "3195d6c089d3ed0ea05c2e36c3b93dd2eef6e90b73bf66d7a8c850245849300b",
+              "page_number": 0,
+              "prev_chunk_id": "",
+              "title_summary": "title: 1. How was Lotus Technology's performance in the first half of the year?\nsummary: In the first half of 2024, Lotus Technology demonstrated exceptional growth, reporting total revenue of $398 million, which reflects a remarkable year-on-year increase of 206%. The company's Average Selling Price (ASP) remained robust, exceeding $100,000, and significantly outpacing growth in both the automotive industry and the luxury car segment. This surge in revenue was accompanied by an improvement in gross margin, which rose to 13%, up from 5% during the same period in 2023.\n\nLotus achieved total product deliveries of 4,873 units, marking a staggering 239% increase year-on-year, thereby establishing itself as the fastest-growing brand among traditional luxury car manufacturers. Deliveries were well-distributed across major markets, with Europe, China, North America, and the Rest of World each contributing between 20-30% to the total.\n\nThe company has also embarked on strategic collaborations with leading automotive brands, which are expected to enhance technology-related revenue through intelligent driving solutions and technology development services. The growth in cumulative deliveries of lifestyle vehicles equipped with advanced hardware is anticipated to create additional opportunities for paid software subscription revenue.\n\nFurthermore, the introduction of the Colin Chapman Bespoke Service has allowed Lotus to offer personalized options and designer customizations, catering to evolving customer demands. This initiative is expected to strengthen the brand's luxury positioning and positively influence long-term profit margins.\n\nOverall, Lotus Technology's performance in the first half of 2024 reflects strong financial growth, strategic market positioning, and a commitment to enhancing customer experience, setting a solid foundation for continued success in the luxury automotive sector."
+            },
+            "bundle_id": 3
+          },
+          {
+            "retriever": "FAISS",
+            "score": 0.6952040791511536,
+            "page_content": "New York – January 14, 2025 – Lotus Technology Inc. (“Lotus” or the “Company”), a leading global intelligent and luxury mobility provider, today announced its preliminary vehicle delivery results for the full year of 2024. Lotus Technology Inc. delivered 12,065 vehicles in 2024, representing a year-on-year increase of over 70% and boasting the top growth rate among leading luxury brands. China contributed approximately 25% of the total global deliveries in 2024. In 2025, Lotus Technology Inc. aims to increase global deliveries by 20% with a 25-28% contribution from China. Lotus Technology Inc. also successfully reclaimed the proprietary rights of the LOTUS roundel, LOTUS word mark, and the Chinese character of Lotus (\"莲花\") in China, achieving consistency in terms of its trademark across the world. Note 1: Invoiced deliveries, including commissioned deliveries in the US market. The vehicle delivery numbers presented above are derived from reports submitted by Lotus Technology Inc.'s business units. These numbers may differ slightly from the vehicle delivery numbers recorded in the financial accounting and reporting systems announced or to be announced by Lotus Technology Inc. Note 2: Including Ferrari, Porsche, Aston Martin, Bentley, Rolls Royce, and McLaren.",
+            "metadata": {
+              "date_published": "2025-01-15",
+              "doc_id": "94963ebe8616944440e29e912ed773a5a89cc68400982dcb425798e762d64580",
+              "filename": "Lotus_424B3_20250115_final.json",
+              "global_id": 12183,
+              "next_chunk_id": "3d81dc5c1a888fc8d3a1fda25ed93fd26189e954f02c8e3b1c299644908bb200",
+              "page_number": 4,
+              "prev_chunk_id": "60fcf5ca11838f8aab4f2460e7934380fe1f979b20a11b4c3e5544276912776b",
+              "title_summary": "title: Lotus Technology Announces Preliminary Delivery\nResults of 2024 \nsummary: On January 14, 2025, Lotus Technology Inc. announced its preliminary vehicle delivery results for 2024, achieving an impressive total of 12,065 vehicles delivered, reflecting a year-on-year growth of over 70%, the highest among luxury brands. Notably, around 25% of these deliveries were made in China. Looking ahead to 2025, Lotus aims to increase global deliveries by 20%, with China expected to contribute 25-28% to this growth. The company has also regained proprietary rights to its trademarks, including its iconic LOTUS branding, ensuring consistent global representation. Additionally, the delivery figures reported for the US market are based on company business unit reports and may differ slightly from financial accounting records. Lotus is positioned alongside other prestigious luxury brands such as Ferrari, Porsche, and Rolls Royce, known for their exceptional craftsmanship and performance in the automotive industry."
+            },
+            "bundle_id": 4
+          },
+          {
+            "retriever": "FAISS",
+            "score": 0.6950118541717529,
+            "page_content": "New York – November 12, 2024 – Lotus Technology Inc. (“Lotus” or the “Company”), a leading global intelligent and luxury mobility provider, today announced its vehicle delivery results for the first ten months of 2024. Lotus Technology Inc. continues to achieve top-rate growth among traditional luxury car brands, delivering 8,631 vehicles in the first ten months of 2024. Europe and China continued to be the major markets for Lotus Technology, with each region contributing about 35% and 25% of the total deliveries, respectively. In October, Lotus Technology Inc. started an open beta test for its urban NOA (Navigate on Autopilot) in key cities. Certain over-the-air updates of intelligent driving, including highway assistant driving functions, were launched in Europe. As previously announced, Lotus Robotics, Lotus Technology's intelligent driving arm, provides intelligent driving solutions with global coverage to both Lotus-brand intelligent vehicles and other global leading auto conglomerates such as Lynk&Co, Farizon Auto, and a top Japanese Tier-one supplier. In October, Lotus Technology Inc. was awarded the Highly Commends honor at the Reuters Sustainability Awards 2024 in the Business Transformation category as the only awardee from the automotive industry. Note 1: Invoiced deliveries, including commissioned deliveries in the US market.",
+            "metadata": {
+              "date_published": "2024-11-12",
+              "doc_id": "bf09594c9548e4e439206b943e642c13ae537cfb313142ea490e8f4b822f4303",
+              "filename": "1112.json",
+              "global_id": 3553,
+              "next_chunk_id": "119d6506ad3f018902e575b5a7095b842beb9756d23c52ffeeb050594bcaa783",
+              "page_number": 4,
+              "prev_chunk_id": "08aed48177e27ad1dd5fd9a78e053242c7b30fb8649e22097e8cfd21f38c331d",
+              "title_summary": "title: Lotus Technology Announces Delivery Updates\nof First Ten Months of 2024 \nsummary: Lotus Technology Inc. has reported its vehicle delivery results for the first ten months of 2024, achieving a total of 8,631 vehicles delivered. The primary markets driving these deliveries were Europe and China, which accounted for approximately 35% and 25% of total deliveries, respectively. In October, the company launched an open beta test for its urban Navigate on Autopilot (NOA) feature in key cities and introduced several over-the-air (OTA) intelligent driving functions in Europe. \n\nAdditionally, Lotus Robotics, the company's division focused on intelligent driving solutions, is providing services not only for Lotus vehicles but also for other major automotive manufacturers, including Lynk&Co and Farizon Auto. The company has also been recognized for its commitment to sustainability, receiving the Highly Commends honor at the Reuters Sustainability Awards 2024 in the Business Transformation category, making it the only automotive industry recipient of this accolade.\n\nIt is important to note that the delivery figures are based on invoiced deliveries, including commissioned deliveries in the U.S. market, and may differ slightly from the company's financial accounting records. Overall, Lotus Technology continues to make significant strides in vehicle delivery, technological advancements, and sustainability initiatives."
+            },
+            "bundle_id": 5
+          },
+          {
+            "retriever": "FAISS",
+            "score": 0.6919063329696655,
+            "page_content": "Over 7,600 vehicles were delivered in the first nine months of 2024, a year-on-year increase of 136%. Total revenue reached $653 million, more than doubling year-on-year. Revenue from the intelligent driving business generated from customers other than Lotus surged to $11 million, with a year-on-year growth of 450%. Lotus Technology launched Hyper Hybrid EV technology that provides high performance with a combined range of over 1,100 kilometers. New York – Nov 21, 2024 – Lotus Technology Inc. (“Lotus Tech” or the “Company”), a leading global intelligent and luxury mobility provider, today announced its unaudited financial results for the third quarter and first nine months ended September 30, 2024.",
+            "metadata": {
+              "date_published": "2024-11-21",
+              "doc_id": "81fe43ca23bbb572aedf048684c0639d39417088bbfa33fc406fdfdb98b5ebf6",
+              "filename": "1121.json",
+              "global_id": 6007,
+              "next_chunk_id": "f310996246eea68a1465b4f26306ce9d58feaca0deb4e7ff874ebbaefb0f985e",
+              "page_number": 4,
+              "prev_chunk_id": "eb2dca2f3cbdc28a514260e2cd40a89dd436b4f03f0a019a0402930af47022cb",
+              "title_summary": "title: Lotus Technology Reports Unaudited Third\nQuarter and First Nine Months 2024 Financial Results \nsummary: Lotus Technology Inc. has released its unaudited financial results for the third quarter and the first nine months of 2024, concluding on September 30, 2024. During this period, the company achieved a remarkable milestone by delivering over 7,600 vehicles, which represents a substantial year-on-year increase of 136%. Total revenue for the company reached $653 million, more than doubling compared to the same period last year. \n\nA significant highlight of the financial results was the performance of the intelligent driving business, which generated $11 million in revenue from customers other than Lotus, showcasing an impressive year-on-year growth of 450%. \n\nIn addition to these financial achievements, Lotus Technology announced the launch of its Hyper Hybrid EV technology on November 21, 2024. This innovative technology promises high performance with a combined driving range exceeding 1,100 kilometers, further solidifying the company's commitment to advancing electric vehicle technology.\n\nOverall, Lotus Technology's third-quarter and nine-month results reflect strong growth and innovation within the company, positioning it favorably in the competitive automotive market."
+            },
+            "bundle_id": 6
+          },
+          {
+            "retriever": "FAISS",
+            "score": 0.6908446550369263,
+            "page_content": "Lotus Technology recorded revenue of \\$173 million and a gross profit margin of 18%. The company delivered approximately 2,194 vehicles, with global markets outside China contributing over 75% of total deliveries. Lotus Technology revealed luxury customized editions of classic sports cars and battery electric vehicle lifestyle models. New York  \n– May 29, 2024 – Lotus Technology Inc. (\"Lotus Tech\" or the \"Company\") (Nasdaq: LOT), a leading global luxury electric vehicle maker, today announced its unaudited financial results for the first quarter ended March 31, 2024. Lotus Technology Inc. achieved total revenue of \\$173 million in the quarter, a year-on-year growth of 811% and a gross profit margin of 18%, powered by an asset-light model and high-margin businesses including research and development services and accessories. Lotus Technology successfully launched its Chapman Bespoke service in the first quarter of 2024, providing premium customization to Lotus vehicles. Lotus Technology delivered a total of 2,194 vehicles in the first quarter. The Company began deliveries of the Emeya in China, its first electric hyper-grand tourer, and further expanded its product portfolio to four models. In the China market where Lotus Technology operates a direct-to-customer sales model, the deliveries in the first quarter had a year-on-year growth of over 100%. Customer deliveries of the Emira, the brand’s internal combustion engine sports car manufactured in the UK, also commenced in the US at the beginning of this year. Global markets outside China contributed over 75% of Lotus Technology's deliveries in the first quarter.",
+            "metadata": {
+              "date_published": "2024-05-29",
+              "doc_id": "893f73b57277005bf3e5a25d7b2c7df82240bc70430a6209d53cf369b84517c4",
+              "filename": "Lotus_6-K_20240529_final.json",
+              "global_id": 11890,
+              "next_chunk_id": "ead8ebe654499928e87e22a7f8e332cf8fc94f282396ad7d756b8d24b52d20ca",
+              "page_number": 3,
+              "prev_chunk_id": "51de6d8dace9898a018dd42df7c2037b3eb93d8a5f8731dcf8e031246fb2d298",
+              "title_summary": "title: Lotus Technology\nReports Unaudited First Quarter 2024 Financial Result \nsummary: Lotus Tech, a luxury electric vehicle manufacturer, reported impressive financial results for the first quarter of 2024, with revenues reaching $173 million—a remarkable 811% increase year-on-year. The company achieved a gross profit margin of 18%, supported by its asset-light model and high-margin sectors like R&D services and accessories. During this period, Lotus delivered 2,194 vehicles, with over 75% of these sales occurring in global markets outside of China. The company launched its first electric hyper-grand tourer, the Emeya, and expanded its product lineup to four models, while also beginning customer deliveries of the Emira sports car in the U.S. \n\nLotus Tech's direct-to-customer sales model in China saw over 100% growth in deliveries compared to the previous year. The company is leveraging its extensive global sales network, which includes over 200 stores, to facilitate international growth and has begun taking orders for the Eletre model in more than 10 new markets across the Middle East, Asia, and the Americas. CEO Qingfeng Feng emphasized the company's commitment to its Vision80 plan, highlighting the effectiveness of its global strategy and expressing optimism about the positive reception in new markets and the launch of additional models throughout the year. Additionally, Lotus introduced its Chapman Bespoke service, offering premium customization options for its vehicles, further enhancing its luxury appeal."
+            },
+            "bundle_id": 7
+          },
+          {
+            "retriever": "Title Summary",
+            "score": 0.7064192295074463,
+            "page_content": "Lotus Technology recorded revenue of \\$173 million and a gross profit margin of 18%. The company delivered approximately 2,194 vehicles, with global markets outside China contributing over 75% of total deliveries. Lotus Technology revealed luxury customized editions of classic sports cars and battery electric vehicle lifestyle models. New York  \n– May 29, 2024 – Lotus Technology Inc. (\"Lotus Technology\" or the \"Company\") (Nasdaq: LOT), a leading global luxury electric vehicle maker, today announced its unaudited financial results for the first quarter ended March 31, 2024. Lotus Technology achieved total revenue of \\$173 million in the quarter, a year-on-year growth of 811% and a gross profit margin of 18%, powered by an asset-light model and high-margin businesses including research and development services and accessories. Lotus Technology successfully launched its Chapman Bespoke service in the first quarter of 2024, providing premium customization to Lotus vehicles. Lotus Technology delivered a total of 2,194 vehicles in the first quarter. The Company began deliveries of the Emeya in China, its first electric hyper-grand tourer, and further expanded its product portfolio to four models. In the China market where the Company operates a direct-to-customer sales model, the deliveries in the first quarter had a year-on-year growth of over 100%. Customer deliveries of the Emira, the brand’s internal combustion engine sports car manufactured in the UK, also commenced in the US at the beginning of this year. Global markets outside China contributed over 75% of Lotus Technology's deliveries in the first quarter.",
+            "metadata": {
+              "date_published": "2024-05-29",
+              "doc_id": "f315574d0ddc46bc1379e0a37625df2733bb6dbd4c23b7287d2a4654be75584d",
+              "filename": "Lotus_424B3_20240529_final.json",
+              "global_id": 9795,
+              "next_chunk_id": "8679fc9ea14c0552d322336a0621519c230b28b7cb8812e3090d4df8aa678e91",
+              "page_number": 4,
+              "prev_chunk_id": "b5bbc628289851213bf897becdeebe1f4748f954d8d4dbd436dce527558508fb",
+              "title_summary": "title: Lotus Technology\nReports Unaudited First Quarter 2024 Financial Result \nsummary: Lotus Tech, a leading luxury electric vehicle manufacturer, reported impressive financial results for the first quarter of 2024, with revenues reaching $173 million, reflecting an 811% year-on-year growth and a gross profit margin of 18%. The company delivered 2,194 vehicles, with over 75% of these sales occurring in global markets outside of China. This quarter marked the launch of the Emeya, Lotus's first electric hyper-grand tourer, and the introduction of the Chapman Bespoke service, which offers premium customization options for its vehicles. The company's direct-to-customer sales model in China led to over 100% growth in deliveries, while the Emira, a traditional sports car, began deliveries in the US. With a robust global sales network of over 200 stores, Lotus Tech is expanding its reach into new markets across the Middle East, Asia, and the Americas, and plans to introduce additional models throughout the year. CEO Qingfeng Feng emphasized the company's commitment to innovation and its Vision80 plan, highlighting the effectiveness of its global strategy in driving growth in key luxury markets."
+            },
+            "bundle_id": 8
+          },
+          {
+            "retriever": "Title Summary",
+            "score": 0.7064192295074463,
+            "page_content": "With a global sales network of over 200 stores in prime locations around the world, Lotus Technology continues to leverage its global distribution footprint for international expansion. After China and Europe, Lotus Technology began taking orders for the Eletre in more than 10 new markets across the Middle East, Asia, and the Americas in the first quarter. Lotus Technology also expects to begin expanding Emeya sales to new markets in the third quarter of the year. \"Through Lotus Technology's unwavering commitment to innovation and excellence, Lotus Technology is making steady progress on delivering Lotus Tech’s Vision80 plan,\" said Lotus Technology CEO Qingfeng Feng. \"Lotus Technology's global strategy continues to drive growth and success as the company expands its presence and sales across key luxury markets worldwide. Lotus Technology is encouraged by the positive feedback received in these new markets and looks forward to rolling out new models to new geographies throughout the year.\"",
+            "metadata": {
+              "date_published": "2024-05-29",
+              "doc_id": "8679fc9ea14c0552d322336a0621519c230b28b7cb8812e3090d4df8aa678e91",
+              "filename": "Lotus_424B3_20240529_final.json",
+              "global_id": 9796,
+              "next_chunk_id": "59607f7eda8f85154f49a8d267024ea2a753e8888240dbf2e1f1c62afdc35d59",
+              "page_number": 4,
+              "prev_chunk_id": "f315574d0ddc46bc1379e0a37625df2733bb6dbd4c23b7287d2a4654be75584d",
+              "title_summary": "title: Lotus Technology\nReports Unaudited First Quarter 2024 Financial Result \nsummary: Lotus Tech, a leading luxury electric vehicle manufacturer, reported impressive financial results for the first quarter of 2024, with revenues reaching $173 million, reflecting an 811% year-on-year growth and a gross profit margin of 18%. The company delivered 2,194 vehicles, with over 75% of these sales occurring in global markets outside of China. This quarter marked the launch of the Emeya, Lotus's first electric hyper-grand tourer, and the introduction of the Chapman Bespoke service, which offers premium customization options for its vehicles. The company's direct-to-customer sales model in China led to over 100% growth in deliveries, while the Emira, a traditional sports car, began deliveries in the US. With a robust global sales network of over 200 stores, Lotus Tech is expanding its reach into new markets across the Middle East, Asia, and the Americas, and plans to introduce additional models throughout the year. CEO Qingfeng Feng emphasized the company's commitment to innovation and its Vision80 plan, highlighting the effectiveness of its global strategy in driving growth in key luxury markets."
+            },
+            "bundle_id": 9
+          },
+          {
+            "retriever": "Title Summary",
+            "score": 0.6931915283203125,
+            "page_content": "With a global sales network of over 200 stores in prime locations around the world, Lotus Technology continues to leverage its global distribution footprint for international expansion. After China and Europe, Lotus Technology began taking orders for the Eletre in more than 10 new markets across the Middle East, Asia, and the Americas in the first quarter. Lotus Technology also expects to begin expanding Emeya sales to new markets in the third quarter of the year. \"Through Lotus Technology's unwavering commitment to innovation and excellence, Lotus Technology is making steady progress on delivering Lotus Tech’s Vision80 plan,\" said Lotus Tech CEO Qingfeng Feng. \"Lotus Technology's global strategy continues to drive growth and success as Lotus Technology expands its presence and sales across key luxury markets worldwide. Lotus Technology is encouraged by the positive feedback received in these new markets and looks forward to rolling out new models to new geographies throughout the year.\"",
+            "metadata": {
+              "date_published": "2024-05-29",
+              "doc_id": "ead8ebe654499928e87e22a7f8e332cf8fc94f282396ad7d756b8d24b52d20ca",
+              "filename": "Lotus_6-K_20240529_final.json",
+              "global_id": 11891,
+              "next_chunk_id": "4a1e0c06eb66d326082139bee21b37b61a1e08f5fe13e502e66f50aa1d96cd9f",
+              "page_number": 3,
+              "prev_chunk_id": "893f73b57277005bf3e5a25d7b2c7df82240bc70430a6209d53cf369b84517c4",
+              "title_summary": "title: Lotus Technology\nReports Unaudited First Quarter 2024 Financial Result \nsummary: Lotus Tech, a luxury electric vehicle manufacturer, reported impressive financial results for the first quarter of 2024, with revenues reaching $173 million—a remarkable 811% increase year-on-year. The company achieved a gross profit margin of 18%, supported by its asset-light model and high-margin sectors like R&D services and accessories. During this period, Lotus delivered 2,194 vehicles, with over 75% of these sales occurring in global markets outside of China. The company launched its first electric hyper-grand tourer, the Emeya, and expanded its product lineup to four models, while also beginning customer deliveries of the Emira sports car in the U.S. \n\nLotus Tech's direct-to-customer sales model in China saw over 100% growth in deliveries compared to the previous year. The company is leveraging its extensive global sales network, which includes over 200 stores, to facilitate international growth and has begun taking orders for the Eletre model in more than 10 new markets across the Middle East, Asia, and the Americas. CEO Qingfeng Feng emphasized the company's commitment to its Vision80 plan, highlighting the effectiveness of its global strategy and expressing optimism about the positive reception in new markets and the launch of additional models throughout the year. Additionally, Lotus introduced its Chapman Bespoke service, offering premium customization options for its vehicles, further enhancing its luxury appeal."
+            },
+            "bundle_id": 10
+          },
+          {
+            "retriever": "Title Summary",
+            "score": 0.674362301826477,
+            "page_content": "Lotus Technology recorded revenue of \\$679 million in 2023, driven by growing sales of lifestyle battery electric vehicles (BEVs) and sports cars. The company achieved a gross profit margin of 15% in the first year of BEV deliveries, with the scaling of asset-light production. Lotus Technology expanded its global footprint to 215 stores, with new flagship locations in Paris, London, and Seoul. The company expects to achieve about a threefold increase in deliveries in 2024 amid steady market expansion. New York - April 8, 2024 - Lotus Technology Inc. (\"Lotus Tech\" or \"the Company\"), a leading global luxury electric vehicle maker, today announced its unaudited financial results for the fourth quarter and the year ended December 31, 2023. The results reflect steady progress in Lotus Technology's execution of its Vision80 strategy to become an all-electric, intelligent, and luxury mobility provider before Lotus Technology's 80th anniversary in 2028. In its first year of battery electric vehicle (BEV) delivery, Lotus Technology achieved revenue of \\$679 million and a gross profit margin of 15% in 2023. Revenue in the fourth quarter of 2023 was \\$361 million, representing a 92% quarter-on-quarter increase. This strong performance was enabled by Lotus Technology's asset-light business model, as the company ramped up production and sales of BEV models. Lotus Technology delivered 6,970 vehicles in 2023, an annual record in the 76-year history of the Lotus brand, with battery electric vehicle (BEV) models representing 63% of total deliveries. Vehicle deliveries in the fourth quarter of 2023 increased nearly 110% quarter-over-quarter to 3,749.",
+            "metadata": {
+              "date_published": "2024-04-08",
+              "doc_id": "0547eeee16675caf5c50940a0ff9850db3a031bd7381b8517e58732761d57788",
+              "filename": "Lotus_6-K_20240408_final.json",
+              "global_id": 11928,
+              "next_chunk_id": "01299f882348cf8b8a806b615a64c72e57e6772605392e173ea1a356bb9ca43a",
+              "page_number": 3,
+              "prev_chunk_id": "6fbf40d80309f270a7efeb6d9065b0b7f72a8a41e43ce3364bb19b10add269b4",
+              "title_summary": "title: Lotus Technology Reports Unaudited Fourth Quarter and Full Year 2023 Financial Results \nsummary: In 2023, Lotus Tech achieved significant milestones, reporting a revenue of $679 million, driven by strong sales of lifestyle battery electric vehicles (BEVs) and sports cars. The company recorded a gross profit margin of 15% in its inaugural year of BEV deliveries, benefiting from an asset-light production model. Lotus Tech expanded its global footprint to 215 stores, including new flagship locations in major cities like Paris, London, and Seoul, and delivered a record 6,970 vehicles, with BEVs making up 63% of total deliveries. The fourth quarter alone saw a remarkable 92% increase in revenue, reaching $361 million, and nearly 110% growth in vehicle deliveries compared to the previous quarter, largely due to the success of the Eletre lifestyle BEV.\n\nLooking forward, Lotus Tech anticipates a nearly threefold increase in deliveries in 2024, targeting a total of 26,000 units while aiming to enhance its gross margin to between 17-19%. The company is set to expand its Vision80 strategy, which seeks to transform Lotus into a fully electric and luxury mobility provider by 2028. Deliveries of the Emeya, its first electric hyper-grand tourer, have begun in China, with European deliveries expected in the third quarter. CEO Qingfeng Feng expressed optimism about the company's progress, emphasizing a commitment to long-term growth and value creation for customers and investors as they leverage their luxury brand and advanced technology."
+            },
+            "bundle_id": 11
+          },
+          {
+            "retriever": "Title Summary",
+            "score": 0.674362301826477,
+            "page_content": "The increase in deliveries was driven primarily by the Eletre, Lotus Technology's first lifestyle BEV, which ramped up production and sales in the second half of the year. Lotus Technology also continued to expand its global presence, laying the foundation for the ongoing global roll-out of the brand's vehicles with an increase of 46 stores year-on-year to a total of 215 locations as of December 31, 2023. Over the past year, Lotus Technology notably opened new flagship stores in prime locations, including in the Golden Triangle area of Paris, Mayfair in London, Gangnam-gu in Seoul, and other strategically important global cities. 2024 will be a pivotal year for Lotus Technology Inc.'s execution of its Vision80 Strategy, as the company further ramps up global deliveries of its leading product portfolio in new markets. In March 2024, the company began deliveries of the Emeya, its first electric hyper-grand tourer. Emeya deliveries are now underway in China and are expected to begin in Europe in the third quarter of 2024. Lotus Technology's Eletre hyper-SUV is also set to enter more markets, including the U.S., over the course of 2024. In 2024, the company expects to increase its total deliveries about threefold to 26,000 and further grow its healthy gross margin to 17-19%. \"Lotus Technology is pleased with the early progress and promising results achieved in 2023, with increasing deliveries reflecting the strength of the brand and ramping production,\" said Lotus Tech CEO Qingfeng Feng.",
+            "metadata": {
+              "date_published": "2024-04-08",
+              "doc_id": "01299f882348cf8b8a806b615a64c72e57e6772605392e173ea1a356bb9ca43a",
+              "filename": "Lotus_6-K_20240408_final.json",
+              "global_id": 11929,
+              "next_chunk_id": "3d55b2acf6665f9d546096ca2bb93a0ead69dc40376e06eb2ca9411c1370e76e",
+              "page_number": 3,
+              "prev_chunk_id": "0547eeee16675caf5c50940a0ff9850db3a031bd7381b8517e58732761d57788",
+              "title_summary": "title: Lotus Technology Reports Unaudited Fourth Quarter and Full Year 2023 Financial Results \nsummary: In 2023, Lotus Tech achieved significant milestones, reporting a revenue of $679 million, driven by strong sales of lifestyle battery electric vehicles (BEVs) and sports cars. The company recorded a gross profit margin of 15% in its inaugural year of BEV deliveries, benefiting from an asset-light production model. Lotus Tech expanded its global footprint to 215 stores, including new flagship locations in major cities like Paris, London, and Seoul, and delivered a record 6,970 vehicles, with BEVs making up 63% of total deliveries. The fourth quarter alone saw a remarkable 92% increase in revenue, reaching $361 million, and nearly 110% growth in vehicle deliveries compared to the previous quarter, largely due to the success of the Eletre lifestyle BEV.\n\nLooking forward, Lotus Tech anticipates a nearly threefold increase in deliveries in 2024, targeting a total of 26,000 units while aiming to enhance its gross margin to between 17-19%. The company is set to expand its Vision80 strategy, which seeks to transform Lotus into a fully electric and luxury mobility provider by 2028. Deliveries of the Emeya, its first electric hyper-grand tourer, have begun in China, with European deliveries expected in the third quarter. CEO Qingfeng Feng expressed optimism about the company's progress, emphasizing a commitment to long-term growth and value creation for customers and investors as they leverage their luxury brand and advanced technology."
+            },
+            "bundle_id": 12
+          },
+          {
+            "retriever": "Title Summary",
+            "score": 0.674362301826477,
+            "page_content": "\"Lotus Technology looks forward to further accelerating its growth in the year ahead and remains dedicated to creating long-term value for its customers and investors as the company continues to execute its Vision80 strategy, building on its luxury brand equity and advanced technology advantages.\"",
+            "metadata": {
+              "date_published": "2024-04-08",
+              "doc_id": "3d55b2acf6665f9d546096ca2bb93a0ead69dc40376e06eb2ca9411c1370e76e",
+              "filename": "Lotus_6-K_20240408_final.json",
+              "global_id": 11930,
+              "next_chunk_id": "2815e14d07b89f37addcaa1c27ce96e4cdd968f10194372d53f2c35184902c51",
+              "page_number": 3,
+              "prev_chunk_id": "01299f882348cf8b8a806b615a64c72e57e6772605392e173ea1a356bb9ca43a",
+              "title_summary": "title: Lotus Technology Reports Unaudited Fourth Quarter and Full Year 2023 Financial Results \nsummary: In 2023, Lotus Tech achieved significant milestones, reporting a revenue of $679 million, driven by strong sales of lifestyle battery electric vehicles (BEVs) and sports cars. The company recorded a gross profit margin of 15% in its inaugural year of BEV deliveries, benefiting from an asset-light production model. Lotus Tech expanded its global footprint to 215 stores, including new flagship locations in major cities like Paris, London, and Seoul, and delivered a record 6,970 vehicles, with BEVs making up 63% of total deliveries. The fourth quarter alone saw a remarkable 92% increase in revenue, reaching $361 million, and nearly 110% growth in vehicle deliveries compared to the previous quarter, largely due to the success of the Eletre lifestyle BEV.\n\nLooking forward, Lotus Tech anticipates a nearly threefold increase in deliveries in 2024, targeting a total of 26,000 units while aiming to enhance its gross margin to between 17-19%. The company is set to expand its Vision80 strategy, which seeks to transform Lotus into a fully electric and luxury mobility provider by 2028. Deliveries of the Emeya, its first electric hyper-grand tourer, have begun in China, with European deliveries expected in the third quarter. CEO Qingfeng Feng expressed optimism about the company's progress, emphasizing a commitment to long-term growth and value creation for customers and investors as they leverage their luxury brand and advanced technology."
+            },
+            "bundle_id": 13
+          },
+          {
+            "retriever": "Title Summary",
+            "score": 0.6727414131164551,
+            "page_content": "Lotus Technology’s American Depositary Shares will begin trading on the Nasdaq on February 23, 2024, under the ticker symbol “LOT.” New York and Singapore - February 20, 2024 – Lotus Technology Inc. (“Lotus Tech” or the “Company”), a leading global luxury electric vehicle maker, and L Catterton Asia Acquisition Corp (“L CAA”) (NASDAQ: LCAA), a special purpose acquisition company formed by affiliates of L Catterton, a leading global consumer-focused investment firm, announced today that their previously proposed business combination is expected to be completed on February 22, 2024. The combined company will retain Lotus Technology Inc.'s name as “Lotus Technology Inc.” and its American Depositary Shares (ADS) will commence trading on the Nasdaq under the ticker symbol “LOT” on February 23, 2024. The business combination was approved by L CAA shareholders at an extraordinary general meeting held on February 2, 2024. Integrating Lotus Technology’s sports car DNA with a new generation of premium lifestyle vehicles, Lotus Technology Inc. is committed to transforming the brand into an advanced, fully electric, intelligent, and sustainable luxury mobility provider before its 80th anniversary in 2028. Lotus Technology Inc. has already set this ambitious plan in motion by launching a leading product portfolio of high-performing battery electric vehicles (“BEVs”) ahead of other global luxury automakers. These BEVs include Eletre, a new breed of all-electric hyper-SUV powered by Lotus Technology’s proprietary 800-volt EPA, and Emeya, an all-electric hyper-GT among the most advanced vehicles of its kind in the world.",
+            "metadata": {
+              "date_published": "2024-02-20",
+              "doc_id": "d44720d76bdcb6737ed25ce545c9bd173978eb648fbd814f668840309b30bf89",
+              "filename": "Lotus_425_20240220_final.json",
+              "global_id": 11869,
+              "next_chunk_id": "c32681e135c1bba9b4176bb0c63b51bdcb172f9278fb9553355f9aede568f625",
+              "page_number": 6,
+              "prev_chunk_id": "f1f16c17d7b84913985ab16fe220f3c922480f9623169a7150ed86c4dd1a1b80",
+              "title_summary": "title: Lotus Tech and  L  Catterton Asia Acquisition\nCorp Announce Closing of Business Combination \nsummary: Lotus Technology Inc., a luxury electric vehicle manufacturer, is poised to make its debut on the Nasdaq stock exchange on February 23, 2024, trading under the ticker symbol \"LOT.\" This significant milestone follows the completion of its merger with L Catterton Asia Acquisition Corp (LCAA), which is set to finalize on February 22, 2024, after receiving shareholder approval on February 2, 2024. Lotus Tech aims to transform into a fully electric and sustainable luxury mobility provider by 2028, coinciding with its 80th anniversary, and plans to achieve a 100% electric product portfolio by 2027. The company has already introduced high-performing battery electric vehicles, such as the Eletre hyper-SUV and the Emeya hyper-GT, with plans for two additional models in the next two years. Since announcing the merger, Lotus Tech has secured over $880 million in financing commitments, marking one of the largest de-SPAC transactions since 2023. CEO Qingfeng Feng expressed enthusiasm for the company's growth as a public entity, while L CAA Co-CEO Chinta Bhagat highlighted their shared vision for establishing a leading luxury electric vehicle brand. To commemorate its public listing, Lotus Tech will ring the Nasdaq opening bell on February 23, an event that will be live-streamed for viewers."
+            },
+            "bundle_id": 14
+          },
+          {
+            "retriever": "Title Summary",
+            "score": 0.6727414131164551,
+            "page_content": "With both BEVs already on the roads and two more fully electric models planned for launch over the next two years, Lotus Technology Inc. is on track to become the first traditional luxury automotive brand to achieve a 100% electric product portfolio by 2027. Since the transaction was announced, Lotus Technology Inc. has raised more than US$880 million in pre-closing and private investment in public equity (“PIPE”) financing commitments from global investors, existing shareholders, and strategic partners, representing one of the largest amounts of additional financings raised in connection with a de-SPAC transaction since 2023. “Lotus Technology Inc. is thrilled to announce its upcoming debut on the Nasdaq as it completes its business combination with L Catterton Asia Acquisition Corp,” said Mr. Qingfeng Feng, Chief Executive Officer of Lotus Technology Inc. “This is a pivotal moment in our journey. Lotus Technology Inc. looks forward to accelerating its growth as a listed company, leading the electric transformation of the global luxury battery electric vehicle market together with L Catterton.” “L Catterton Asia Acquisition Corp's partnership with Lotus Technology Inc. has gotten stronger over time and our respect for the mission Lotus Technology Inc. is on has only increased,” said Chinta Bhagat, Co-Chief Executive Officer of L CAA. “We are excited about the road ahead as we continue building the definitive luxury electric vehicle brand together, leveraging our global consumer insights and our strategic relationship with LVMH.",
+            "metadata": {
+              "date_published": "2024-02-20",
+              "doc_id": "c32681e135c1bba9b4176bb0c63b51bdcb172f9278fb9553355f9aede568f625",
+              "filename": "Lotus_425_20240220_final.json",
+              "global_id": 11870,
+              "next_chunk_id": "b81b37da9c64eea5a54527c7ca7a9fcca8c7b8bfc92dd26a55e2e1c7357bcd37",
+              "page_number": 6,
+              "prev_chunk_id": "d44720d76bdcb6737ed25ce545c9bd173978eb648fbd814f668840309b30bf89",
+              "title_summary": "title: Lotus Tech and  L  Catterton Asia Acquisition\nCorp Announce Closing of Business Combination \nsummary: Lotus Technology Inc., a luxury electric vehicle manufacturer, is poised to make its debut on the Nasdaq stock exchange on February 23, 2024, trading under the ticker symbol \"LOT.\" This significant milestone follows the completion of its merger with L Catterton Asia Acquisition Corp (LCAA), which is set to finalize on February 22, 2024, after receiving shareholder approval on February 2, 2024. Lotus Tech aims to transform into a fully electric and sustainable luxury mobility provider by 2028, coinciding with its 80th anniversary, and plans to achieve a 100% electric product portfolio by 2027. The company has already introduced high-performing battery electric vehicles, such as the Eletre hyper-SUV and the Emeya hyper-GT, with plans for two additional models in the next two years. Since announcing the merger, Lotus Tech has secured over $880 million in financing commitments, marking one of the largest de-SPAC transactions since 2023. CEO Qingfeng Feng expressed enthusiasm for the company's growth as a public entity, while L CAA Co-CEO Chinta Bhagat highlighted their shared vision for establishing a leading luxury electric vehicle brand. To commemorate its public listing, Lotus Tech will ring the Nasdaq opening bell on February 23, an event that will be live-streamed for viewers."
+            },
+            "bundle_id": 15
+          },
+          {
+            "retriever": "Title Summary",
+            "score": 0.6727414131164551,
+            "page_content": "Lotus Technology Inc.'s upcoming debut on the Nasdaq will be a key milestone in its journey and we believe that Lotus Technology Inc. will have many more achievements to celebrate over the coming years.” Lotus Technology Inc. will ring the Nasdaq opening bell in New York City on February 23, 2024, to commemorate the company's public listing. A live stream of the event can be viewed at https://www.nasdaq.com/marketsite/bell-ringing-ceremony.",
+            "metadata": {
+              "date_published": "2024-02-20",
+              "doc_id": "b81b37da9c64eea5a54527c7ca7a9fcca8c7b8bfc92dd26a55e2e1c7357bcd37",
+              "filename": "Lotus_425_20240220_final.json",
+              "global_id": 11871,
+              "next_chunk_id": "dbe0b0518b8808ccab07ff0e46ea00404f8fb1c90bf4f43686ee75239c703faa",
+              "page_number": 6,
+              "prev_chunk_id": "c32681e135c1bba9b4176bb0c63b51bdcb172f9278fb9553355f9aede568f625",
+              "title_summary": "title: Lotus Tech and  L  Catterton Asia Acquisition\nCorp Announce Closing of Business Combination \nsummary: Lotus Technology Inc., a luxury electric vehicle manufacturer, is poised to make its debut on the Nasdaq stock exchange on February 23, 2024, trading under the ticker symbol \"LOT.\" This significant milestone follows the completion of its merger with L Catterton Asia Acquisition Corp (LCAA), which is set to finalize on February 22, 2024, after receiving shareholder approval on February 2, 2024. Lotus Tech aims to transform into a fully electric and sustainable luxury mobility provider by 2028, coinciding with its 80th anniversary, and plans to achieve a 100% electric product portfolio by 2027. The company has already introduced high-performing battery electric vehicles, such as the Eletre hyper-SUV and the Emeya hyper-GT, with plans for two additional models in the next two years. Since announcing the merger, Lotus Tech has secured over $880 million in financing commitments, marking one of the largest de-SPAC transactions since 2023. CEO Qingfeng Feng expressed enthusiasm for the company's growth as a public entity, while L CAA Co-CEO Chinta Bhagat highlighted their shared vision for establishing a leading luxury electric vehicle brand. To commemorate its public listing, Lotus Tech will ring the Nasdaq opening bell on February 23, an event that will be live-streamed for viewers."
+            },
+            "bundle_id": 16
+          },
+          {
+            "retriever": "Title Summary",
+            "score": 0.6674096584320068,
+            "page_content": "The vehicle delivery numbers presented above are derived from reports submitted by Lotus Technology Inc.'s business units. These numbers may differ slightly from the vehicle delivery numbers recorded in the financial accounting and reporting systems announced or to be announced by the company.",
+            "metadata": {
+              "date_published": "2024-11-12",
+              "doc_id": "119d6506ad3f018902e575b5a7095b842beb9756d23c52ffeeb050594bcaa783",
+              "filename": "1112.json",
+              "global_id": 3554,
+              "next_chunk_id": "",
+              "page_number": 4,
+              "prev_chunk_id": "bf09594c9548e4e439206b943e642c13ae537cfb313142ea490e8f4b822f4303",
+              "title_summary": "title: Lotus Technology Announces Delivery Updates\nof First Ten Months of 2024 \nsummary: Lotus Technology Inc. has reported its vehicle delivery results for the first ten months of 2024, achieving a total of 8,631 vehicles delivered. The primary markets driving these deliveries were Europe and China, which accounted for approximately 35% and 25% of total deliveries, respectively. In October, the company launched an open beta test for its urban Navigate on Autopilot (NOA) feature in key cities and introduced several over-the-air (OTA) intelligent driving functions in Europe. \n\nAdditionally, Lotus Robotics, the company's division focused on intelligent driving solutions, is providing services not only for Lotus vehicles but also for other major automotive manufacturers, including Lynk&Co and Farizon Auto. The company has also been recognized for its commitment to sustainability, receiving the Highly Commends honor at the Reuters Sustainability Awards 2024 in the Business Transformation category, making it the only automotive industry recipient of this accolade.\n\nIt is important to note that the delivery figures are based on invoiced deliveries, including commissioned deliveries in the U.S. market, and may differ slightly from the company's financial accounting records. Overall, Lotus Technology continues to make significant strides in vehicle delivery, technological advancements, and sustainability initiatives."
+            },
+            "bundle_id": 17
+          },
+          {
+            "retriever": "BM25",
+            "score": 8.461554527282715,
+            "page_content": "[Table Level]  \n- Table Title: Financial Performance for the Second Quarter of 2024  \n- Table Summary: This table presents key financial metrics for the second quarter of 2024 compared to the same period in 2023, highlighting percentage changes year-over-year (YoY). The focus metrics include revenues, costs, profits, and losses, providing insight into Lotus Technology's financial growth and challenges over the year.  \n- Context: Prior context indicates significant growth in deliveries and revenue with improved gross margins for the second quarter of 2024, alongside ongoing net losses. Following the table, information about an upcoming earnings conference call for further discussion of financial results is provided.  \n- Special Notes: The table includes a footnote indicator \"(A)\" linked to Adjusted net loss and Adjusted EBITDA, likely referring to non-GAAP adjustments.  \n\n[Row Level]  \nRow 1: In the second quarter of 2024, Lotus Technology reported revenues of $225 million, a 103% increase from $111 million in the second quarter of 2023.  \nRow 2: The cost of revenues for the second quarter of 2024 was $204 million, rising by 95% from $105 million in the second quarter of 2023.  \nRow 3: Gross profit reached $21 million in the second quarter of 2024, a substantial increase of 246% compared to $6 million in the same quarter of the previous year.  \nRow 4: The gross margin improved from 5% in the second quarter of 2023 to 9% in the second quarter of 2024, reflecting cost management efficiency.  \nRow 5: Lotus Technology experienced an operating loss of $204 million in the second quarter of 2024, a 12% increase from $183 million in the second quarter of 2023.  \nRow 6: Net loss for the second quarter of 2024 was $202 million, showing a 4% increase from $193 million in 2023.  \nRow 7: The adjusted net loss (non-GAAP) for the second quarter of 2024 was $201 million, compared to $193 million in the same period of the previous year, marking a 4% rise.  \nRow 8: Adjusted EBITDA (non-GAAP) recorded a loss of $177 million for the second quarter of 2024, which is a 1% decrease from the $178 million loss seen in the second quarter of 2023.",
+            "metadata": {
+              "date_published": "2024-08-28",
+              "doc_id": "7cc3c6f314af9ee4544bbc25fb1b09359c0e00329fb4543eca3c0fe86f38a631",
+              "filename": "Lotus_6-K_20240828_final.json",
+              "global_id": 12155,
+              "next_chunk_id": "bb39d4342ed019ca1e46793e5879ba1fa887a46a9a6ad1e7821151aec1698256",
+              "page_number": 5,
+              "prev_chunk_id": "4a90af2c42080dd5fbdcb7c987f37cb3207c9c162d6a0fb46c8b7332002ee797",
+              "title_summary": "title: Operating and Financial Results for the Second\nQuarter of 2024 \nsummary: In the second quarter of 2024, the company reported impressive growth in both deliveries and revenues, achieving total deliveries of 2,679 units, which represents a substantial 128% increase year-over-year. Revenues reached $225 million, reflecting a 103% rise from the previous year. The gross margin improved to 9%, up from 5% in Q2 2023, while gross profit surged to $21 million, a 246% increase compared to $6 million in the same period last year. \n\nDespite these positive trends, the company faced challenges with a net loss of $202 million, a 4% increase from $193 million in Q2 2023. When excluding share-based compensation, the adjusted net loss was $201 million, and adjusted EBITDA showed a loss of $177 million, a slight 1% decrease from the prior year. \n\nThe breakdown of deliveries by model type revealed strong performance across segments, with \"Lifestyle SUV and Sedan\" models delivering 1,342 units (up 111%) and \"Sportscars\" reaching 1,337 units (up 149%). Overall, while the company demonstrated robust revenue growth and improved margins, it continues to grapple with significant net losses, which will be further discussed in an upcoming earnings call."
+            },
+            "bundle_id": 18
+          },
+          {
+            "retriever": "BM25",
+            "score": 8.262903213500977,
+            "page_content": "● Total deliveries for the second quarter of 2024 were 2,679 units, a 128% YoY increase.  \n● Total revenues for the second quarter of 2024 were \\$225 million, a 103% YoY increase.  \n● Gross margin for the second quarter of 2024 was 9%, versus 5% for the same period of 2023.  \n● Net loss for the second quarter of 2024 was \\$202 million, a 4% YoY increase. Excluding share-based compensation expenses, adjusted net loss (non-GAAP) was \\$201 million for the second quarter of 2024.  \n● Adjusted EBITDA (non-GAAP) was a loss of \\$177 million for the second quarter of 2024, a 1% YoY decrease. Deliveries by Model Type (in millions of U.S. dollars, unaudited)",
+            "metadata": {
+              "date_published": "2024-08-28",
+              "doc_id": "bc2e5258b3dac1cc4273bb43c27c539563ac80b986696c3a481294f19126b196",
+              "filename": "Lotus_424B3_20240828_final.json",
+              "global_id": 9838,
+              "next_chunk_id": "a9a7aabc1df9870e8f79f286a973c49e1770e9c4565946af43ca508f0efd5468",
+              "page_number": 6,
+              "prev_chunk_id": "8fef79c067fddd4b6f54a0f64a7182c54bfccda0d982504e3f3c53a1d7ead7a1",
+              "title_summary": "title: Operating and Financial Results for the Second\nQuarter of 2024 \nsummary: In the second quarter of 2024, the company achieved notable growth, delivering a total of 2,679 units, which represents a remarkable 128% increase compared to the same period in 2023. This growth was reflected in total revenues of $225 million, up 103% from $111 million a year earlier, alongside an improved gross margin of 9%, compared to 5% in Q2 2023. Despite these positive trends, the company reported a net loss of $202 million, a 4% increase from the previous year's loss, and an operating loss of $204 million, which also rose by 12%.\n\nBreaking down the deliveries by model type, the \"Lifestyle SUV and Sedan\" category saw significant growth, with 1,342 units delivered, up from 637 units in Q2 2023, marking an increase of 111%. Similarly, \"Sportscars\" deliveries reached 1,337 units, a substantial rise from 538 units, reflecting a 149% year-over-year increase. \n\nAdjusted figures showed an adjusted net loss of $201 million and an adjusted EBITDA loss of $177 million, indicating a slight improvement from the previous year. The cost of revenues increased significantly to $204 million, highlighting the challenges the company continues to face despite overall growth. An earnings conference call is scheduled for August 28, 2024, to discuss these results in detail. All financial figures are rounded and unaudited."
+            },
+            "bundle_id": 19
+          },
+          {
+            "retriever": "BM25",
+            "score": 8.183244705200195,
+            "page_content": "● Total deliveries for the second quarter of 2024 were 2,679 units, a 128% year-over-year increase.  \n● Total revenues for the second quarter of 2024 were \\$225 million, a 103% year-over-year increase.  \n● Gross margin for the second quarter of 2024 was 9%, versus 5% for the same period of 2023.  \n● Net loss for the second quarter of 2024 was \\$202 million, a 4% year-over-year increase. Excluding share-based compensation expenses, adjusted net loss (non-GAAP) was \\$201 million for the second quarter of 2024.  \n● Adjusted EBITDA (non-GAAP) was a loss of \\$177 million for the second quarter of 2024, a 1% year-over-year decrease. Deliveries by Model Type (in millions of U.S. dollars, unaudited)",
+            "metadata": {
+              "date_published": "2024-08-28",
+              "doc_id": "083a23c7d066997023a9f77a7fc83d3269b7e788431c8f41692784f0de60d583",
+              "filename": "Lotus_6-K_20240828_final.json",
+              "global_id": 12153,
+              "next_chunk_id": "4a90af2c42080dd5fbdcb7c987f37cb3207c9c162d6a0fb46c8b7332002ee797",
+              "page_number": 5,
+              "prev_chunk_id": "60df41c4959a765e4b9d7e6d81b22c3c5851b9dce22759ff4d8f37aab190efde",
+              "title_summary": "title: Operating and Financial Results for the Second\nQuarter of 2024 \nsummary: In the second quarter of 2024, the company reported impressive growth in both deliveries and revenues, achieving total deliveries of 2,679 units, which represents a substantial 128% increase year-over-year. Revenues reached $225 million, reflecting a 103% rise from the previous year. The gross margin improved to 9%, up from 5% in Q2 2023, while gross profit surged to $21 million, a 246% increase compared to $6 million in the same period last year. \n\nDespite these positive trends, the company faced challenges with a net loss of $202 million, a 4% increase from $193 million in Q2 2023. When excluding share-based compensation, the adjusted net loss was $201 million, and adjusted EBITDA showed a loss of $177 million, a slight 1% decrease from the prior year. \n\nThe breakdown of deliveries by model type revealed strong performance across segments, with \"Lifestyle SUV and Sedan\" models delivering 1,342 units (up 111%) and \"Sportscars\" reaching 1,337 units (up 149%). Overall, while the company demonstrated robust revenue growth and improved margins, it continues to grapple with significant net losses, which will be further discussed in an upcoming earnings call."
+            },
+            "bundle_id": 20
+          }
+        ]
+      ]
+    }
+  ]
+}

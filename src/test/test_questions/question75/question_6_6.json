@@ -1,0 +1,639 @@
+{
+  "metadata": {
+    "generated_date": "2025-08-18 12:44:01",
+    "database": "/root/autodl-tmp/RAG_Agent_production/tmp/database_20250220_opus_2_0_0",
+    "batch_index": "6_6"
+  },
+  "questions": [
+    {
+      "question_index": 0,
+      "original_question": "路特斯科技的股东结构构成？",
+      "answer": "截至2024年，路特斯科技的股东结构主要包括通过业务合并成为其全资子公司的L Catterton Asia Acquisition Corp（LCAA），以及通过纳斯达克上市发行的美国存托股票（ADS）的公众股东。此外，路特斯科技还通过发行普通股和优先股进行资本重组，进一步优化了其股权结构。具体股东比例和详细结构信息未在公开资料中明确披露。\n\n以上信息基于2025年1月15日之前的知识。",
+      "duration": 9.566073894500732,
+      "rewritten_question": [
+        "What is the shareholder structure of Lotus Technology in 2024?"
+      ],
+      "need_rag": true,
+      "rag_info": [
+        {
+          "timeinfo": "2024-02-22",
+          "chunk_id": "8640f1b14228b9b3397676082b2f0459ed5a938a3872f1b756bc813025742dac",
+          "chunk_content": "New York and Singapore  \n- February 22, 2024 – Lotus Technology Inc. (“Lotus Tech” or the “Company”), a leading global luxury electric vehicle maker, and L Catterton Asia Acquisition Corp (“LCAA”) (NASDAQ: LCAA), a special purpose acquisition company formed by affiliates of L Catterton, a leading global consumer-focused investment firm, today announced the completion of their previously announced business combination (“Business Combination”). The listed company following the Business Combination is “Lotus Technology Inc.” and its American depositary shares (“ADSs”) are expected to commence trading on the Nasdaq Stock Market LLC (“Nasdaq”) under the ticker symbol “LOT” on February 23, 2024. The announcement of the completion of the Business Combination comes after L Catterton Asia Acquisition Corp shareholders voted to approve the transaction on February 2, 2024. As a result of the Business Combination, L Catterton Asia Acquisition Corp became a wholly owned subsidiary of Lotus Technology Inc. and is expected to be delisted from the Nasdaq. Mr. Qingfeng Feng, Chief Executive Officer of Lotus Technology Inc., said: \"Becoming a U.S.-listed company marks a significant milestone in Lotus Technology Inc.'s advancement into a global sustainable luxury mobility provider under the brand's Vision80 strategy.",
+          "chunk_bundle_id": 13.0,
+          "sub_query": "What is the shareholder structure of Lotus Technology in 2024?"
+        },
+        {
+          "timeinfo": "2024-05-24",
+          "chunk_id": "6861e037f8e64d011ac8fa79d823f51c8f65e014f13ee4d25be082e0bbf2296d",
+          "chunk_content": "Lotus Technology issued 216,700,000 ordinary shares as consideration for such trademark. The above reorganization was completed on June 24, 2022. On November 12, 2021, the former Variable Interest Entity (VIE) and a third party established Ningbo Robotics Co., Ltd., or Ningbo Robotics, in which the former VIE held a 60% equity interest. In March 2022, the former VIE transferred its 60% legal equity interest in Ningbo Robotics to its then wholly-owned subsidiary, Sanya Lotus Venture Capital Co., Ltd. On March 15, 2022, Lotus Technology Corporation declared a 10-for-1 stock split in the form of a stock dividend, and such stock dividend was distributed to all the shareholders of Lotus Technology Corporation in proportion to their respective shareholdings in Lotus Technology Corporation. Before the stock dividend, Lotus Technology Corporation had 216,700,000 ordinary shares and 2,407,778 Series Pre-A Preferred Shares issued and outstanding with a par value of US$0.00001 per share. After the stock dividend, Lotus Technology Corporation had 2,167,000,000 ordinary shares and 24,077,780 Series Pre-A Preferred Shares issued and outstanding. Since early 2023, Lotus Technology Corporation has been implementing the Restructuring. As of the date of this prospectus, Lotus Technology Corporation’s operations in mainland China are conducted by its mainland China subsidiaries, and Lotus Technology Corporation does not have any Variable Interest Entity (VIE) structure. The following diagram illustrates Lotus Technology Corporation's corporate structure, including its principal and other subsidiaries as of the date of this prospectus:",
+          "chunk_bundle_id": 8.0,
+          "sub_query": "What is the shareholder structure of Lotus Technology in 2024?"
+        },
+        {
+          "timeinfo": "2024-12-02",
+          "chunk_id": "a89fa238c18b347e40f8c696402e19491d3e0f3b8d4583c7e9b5e248c7ef7f33",
+          "chunk_content": "This prospectus supplement is being filed to update and supplement the information contained in the prospectus dated September 30, 2024 (as supplemented or amended from time to time, the “Prospectus”), which forms a part of Lotus Technology's Registration Statement on Form F-1 (Registration No. 333-282217), as amended and supplemented, with the information contained in Lotus Technology's Current Reports on Form 6-K, furnished with the Securities and Exchange Commission on December 2, 2024. The Prospectus relates to the potential offer and sale from time to time by Westwood Capital Group LLC (“Westwood”), of up to 44,450,000 ADSs including (i) up to 43,750,000 ADSs that Lotus Technology may, at its discretion, elect to issue to Westwood from time to time pursuant to the securities purchase agreement dated September 16, 2024 that Lotus Technology entered into with Westwood (the “Purchase Agreement”), and (ii) 700,000 ADSs, representing 700,000 Ordinary Shares that Lotus Technology issued to Westwood as consideration for Westwood's irrevocable commitment to subscribe for ADSs at Lotus Technology's direction, from time to time, upon the terms and subject to the conditions set forth in the Purchase Agreement. This prospectus supplement updates and supplements the information in the Prospectus and is not complete without, and may not be delivered or utilized except in combination with, the Prospectus. This prospectus supplement should be read in conjunction with the Prospectus, and if there is any inconsistency between the information in the Prospectus and this prospectus supplement, you should rely on the information in this prospectus supplement.",
+          "chunk_bundle_id": 15.0,
+          "sub_query": "What is the shareholder structure of Lotus Technology in 2024?"
+        },
+        {
+          "timeinfo": "2024-04-22",
+          "chunk_id": "3c66f68b77f08e41ef7228e0c2f8c3e0cb779a7e110a76d2c81fecb3a073b27e",
+          "chunk_content": "(adopted by Lotus Technology's Board of Directors through a Special Resolution dated 16 January 2024 and effective on 22 February 2024) The name of the company is Lotus Technology Inc. 2. The Registered Office of Lotus Technology Inc. will be situated at the offices of Maples Corporate Services Limited, PO Box 309, Ugland House, Grand Cayman, KY1-1104, Cayman Islands, or at such other location within the Cayman Islands as the Directors may from time to time determine. 3. The objects for which Lotus Technology Inc. is established are unrestricted and Lotus Technology Inc. shall have full power and authority to carry out any object not prohibited by the Companies Act or any other law of the Cayman Islands. 4. Lotus Technology Inc. shall have and be capable of exercising all the functions of a natural person of full capacity irrespective of any question of corporate benefit as provided by the Companies Act. 5. Lotus Technology Inc. will not trade in the Cayman Islands with any person, firm or corporation except in furtherance of the business of Lotus Technology Inc. carried on outside the Cayman Islands; provided that nothing in this section shall be construed as to prevent Lotus Technology Inc. from effecting and concluding contracts in the Cayman Islands, and exercising in the Cayman Islands all of its powers necessary for the carrying on of its business outside the Cayman Islands. 6. The liability of each Shareholder is limited to the amount, if any, unpaid on the Shares held by such Shareholder. 7.",
+          "chunk_bundle_id": 17.0,
+          "sub_query": "What is the shareholder structure of Lotus Technology in 2024?"
+        },
+        {
+          "timeinfo": "2024-12-09",
+          "chunk_id": "af35a5445a9fbeb3f00469135c985cab1ebc977daddfc78dbe1ed16279132d2b",
+          "chunk_content": "This prospectus supplement is being filed to update and supplement the information contained in the prospectus dated September 30, 2024 (as supplemented or amended from time to time, the “Prospectus”), which forms a part of Lotus Technology's Registration Statement on Form F-1 (Registration No. 333-282217), as amended and supplemented, with the information contained in Lotus Technology's Current Report on Form 6-K, furnished with the Securities and Exchange Commission on December 9, 2024. The Prospectus relates to the potential offer and sale from time to time by Westwood Capital Group LLC (“Westwood”), of up to 44,450,000 ADSs including (i) up to 43,750,000 ADSs that Lotus Technology may, at its discretion, elect to issue to Westwood from time to time pursuant to the securities purchase agreement dated September 16, 2024 that Lotus Technology entered into with Westwood (the “Purchase Agreement”), and (ii) 700,000 ADSs, representing 700,000 Ordinary Shares that Lotus Technology issued to Westwood as consideration for its irrevocable commitment to subscribe for ADSs at Lotus Technology's direction, from time to time, upon the terms and subject to the conditions set forth in the Purchase Agreement. This prospectus supplement updates and supplements the information in the Prospectus and is not complete without, and may not be delivered or utilized except in combination with, the Prospectus. This prospectus supplement should be read in conjunction with the Prospectus, and if there is any inconsistency between the information in the Prospectus and this prospectus supplement, you should rely on the information in this prospectus supplement.",
+          "chunk_bundle_id": 20.0,
+          "sub_query": "What is the shareholder structure of Lotus Technology in 2024?"
+        },
+        {
+          "timeinfo": "2024-01-19",
+          "chunk_id": "05d7e1ff4496118df59cf307fc416c564a54dc91be1fd8f3e23502616ffe7844",
+          "chunk_content": "The transactions contemplated by the Merger Agreement are expected to be completed in the first quarter of 2024, and would result in Lotus Technology Inc. becoming a public company. Upon completion of the business combination, the combined company is expected to retain Lotus Technology Inc.’s name as “Lotus Technology Inc.” and its American Depositary Shares (ADS) are expected to be listed on the Nasdaq under the ticker symbol “LOT.”",
+          "chunk_bundle_id": 4.0,
+          "sub_query": "What is the shareholder structure of Lotus Technology in 2024?"
+        },
+        {
+          "timeinfo": "2024-02-20",
+          "chunk_id": "d44720d76bdcb6737ed25ce545c9bd173978eb648fbd814f668840309b30bf89",
+          "chunk_content": "Lotus Technology’s American Depositary Shares will begin trading on the Nasdaq on February 23, 2024, under the ticker symbol “LOT.” New York and Singapore - February 20, 2024 – Lotus Technology Inc. (“Lotus Tech” or the “Company”), a leading global luxury electric vehicle maker, and L Catterton Asia Acquisition Corp (“L CAA”) (NASDAQ: LCAA), a special purpose acquisition company formed by affiliates of L Catterton, a leading global consumer-focused investment firm, announced today that their previously proposed business combination is expected to be completed on February 22, 2024. The combined company will retain Lotus Technology Inc.'s name as “Lotus Technology Inc.” and its American Depositary Shares (ADS) will commence trading on the Nasdaq under the ticker symbol “LOT” on February 23, 2024. The business combination was approved by L CAA shareholders at an extraordinary general meeting held on February 2, 2024. Integrating Lotus Technology’s sports car DNA with a new generation of premium lifestyle vehicles, Lotus Technology Inc. is committed to transforming the brand into an advanced, fully electric, intelligent, and sustainable luxury mobility provider before its 80th anniversary in 2028. Lotus Technology Inc. has already set this ambitious plan in motion by launching a leading product portfolio of high-performing battery electric vehicles (“BEVs”) ahead of other global luxury automakers. These BEVs include Eletre, a new breed of all-electric hyper-SUV powered by Lotus Technology’s proprietary 800-volt EPA, and Emeya, an all-electric hyper-GT among the most advanced vehicles of its kind in the world.",
+          "chunk_bundle_id": 7.0,
+          "sub_query": "What is the shareholder structure of Lotus Technology in 2024?"
+        },
+        {
+          "timeinfo": "2024-02-23",
+          "chunk_id": "227dd13da99f2f69538207068496f6c7105e4ebc4f56e81eb16c9b4dd4a280fc",
+          "chunk_content": "New York and Singapore - February 23, 2024 – Lotus Technology Inc. (“Lotus Tech” or the “Company”), a leading global luxury electric vehicle maker, rang today’s opening bell at the Nasdaq stock exchange in New York City in celebration of its public listing. The Company’s American depositary shares (“ADSs”) commenced trading today on the Nasdaq Stock Market LLC (“Nasdaq”) under the ticker symbol “LOT” following the completion of its business combination on February 22, 2024, with L Catterton Asia Acquisition Corp (“L CAA”), a special purpose acquisition company (“SPAC”) formed by affiliates of L Catterton, a leading global consumer-focused investment firm. Lotus Technology Inc. CEO Feng Qingfeng was joined by members of the Lotus Technology Inc. and L Catterton teams in New York City to witness this important milestone, which will help Lotus Technology Inc. to further its mission of becoming an advanced, fully electric, intelligent, and sustainable luxury mobility provider under the brand’s Vision80 strategy. “This is an exciting moment for all of us at Lotus Technology Inc.,” said Mr. Feng. “I would like to extend my appreciation to our shareholders, partners, suppliers, our outstanding employees, and most importantly, our customers, for their support.",
+          "chunk_bundle_id": 11.0,
+          "sub_query": "What is the shareholder structure of Lotus Technology in 2024?"
+        },
+        {
+          "timeinfo": "2024-08-28",
+          "chunk_id": "374cff7b346ea2ba8801935cd4c4c4b2ed79b4fa245cdff63bf3c9c0e9e9309d",
+          "chunk_content": "Robust start in 2024, marking the strongest first half-year performance in Lotus Technology's history.  \nBalanced global allocation, with strong US deliveries contributing after the brand’s re-entry into the market.  \nLaunched bespoke services and continued growing technology-related income, which are expected to be potential contributors to profit margin in the future.  \nAdjusted the annual delivery target due to near-term disruptions from trade uncertainties and tariff hikes.  \nInitiated the “Win26” Plan aiming to achieve positive operating cash flow and EBITDA in 2026. New York – August 28, 2024 – Lotus Technology Inc. (“Lotus Tech” or the “Company”), a leading global intelligent and luxury mobility provider, today announced its unaudited financial results for the second quarter and half year ended June 30, 2024.",
+          "chunk_bundle_id": 3.0,
+          "sub_query": "What is the shareholder structure of Lotus Technology in 2024?"
+        },
+        {
+          "timeinfo": "2025-01-15",
+          "chunk_id": "94963ebe8616944440e29e912ed773a5a89cc68400982dcb425798e762d64580",
+          "chunk_content": "New York – January 14, 2025 – Lotus Technology Inc. (“Lotus” or the “Company”), a leading global intelligent and luxury mobility provider, today announced its preliminary vehicle delivery results for the full year of 2024. Lotus Technology Inc. delivered 12,065 vehicles in 2024, representing a year-on-year increase of over 70% and boasting the top growth rate among leading luxury brands. China contributed approximately 25% of the total global deliveries in 2024. In 2025, Lotus Technology Inc. aims to increase global deliveries by 20% with a 25-28% contribution from China. Lotus Technology Inc. also successfully reclaimed the proprietary rights of the LOTUS roundel, LOTUS word mark, and the Chinese character of Lotus (\"莲花\") in China, achieving consistency in terms of its trademark across the world. Note 1: Invoiced deliveries, including commissioned deliveries in the US market. The vehicle delivery numbers presented above are derived from reports submitted by Lotus Technology Inc.'s business units. These numbers may differ slightly from the vehicle delivery numbers recorded in the financial accounting and reporting systems announced or to be announced by Lotus Technology Inc. Note 2: Including Ferrari, Porsche, Aston Martin, Bentley, Rolls Royce, and McLaren.",
+          "chunk_bundle_id": 1.0,
+          "sub_query": "What is the shareholder structure of Lotus Technology in 2024?"
+        }
+      ],
+      "all_retrieved_content": [
+        [
+          {
+            "retriever": "FAISS",
+            "score": 0.7699227929115295,
+            "page_content": "Lotus Technology Announces Preliminary Delivery Results of 2024",
+            "metadata": {
+              "date_published": "2025-01-14",
+              "doc_id": "ae63c43b607baaf5106ad8abbaad79b1e1bf29d62981cc40eec385af998fd969",
+              "filename": "Lotus_6-K_20250114_final.json",
+              "global_id": 12188,
+              "next_chunk_id": "59ecd0d4590a397510f7e1b1a44dce3dac148882e28e08ec4aebde4e8cf17596",
+              "page_number": 1,
+              "prev_chunk_id": "ded4950ab305eb5935245f84a74e331ae5857e936606a59b1f6e2cd363393074",
+              "title_summary": "title: Exhibit No.   Description \nsummary: Lotus Technology has revealed promising preliminary delivery results for 2024, showcasing a notable rise in vehicle deliveries driven by robust demand for its electric vehicles. This increase is linked to improved production capabilities and effective marketing strategies. The company is focused on maintaining this growth trajectory and enhancing its market presence in the near future. Additionally, they provided insights into specific models and future projections, underscoring their dedication to innovation and customer satisfaction."
+            },
+            "bundle_id": 0
+          },
+          {
+            "retriever": "FAISS",
+            "score": 0.7699227929115295,
+            "page_content": "Pursuant to the requirements of the Securities Exchange Act of 1934, Lotus Technology has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized. NEW YORK, Jan. 14, 2025 (GLOBE NEWSWIRE) -- Lotus Technology Inc. (“Lotus” or the “Company”), a leading global intelligent and luxury mobility provider, today announced its preliminary vehicle delivery results for the full year of 2024. Lotus Technology delivered 12,065 vehicles in 2024, representing a year-on-year increase of over 70% and boasting the top growth rate among leading luxury brands. China contributed approximately 25% of the total global deliveries in 2024. In 2025, Lotus Technology aims to increase global deliveries by 20% with a 25-28% contribution from China. Lotus Technology also successfully reclaimed the proprietary rights of the LOTUS roundel, LOTUS word mark, and the Chinese character of Lotus (\"莲花\") in China, achieving consistency in terms of its trademark across the world. Note 1: Invoiced deliveries, including commissioned deliveries in the US market. The vehicle delivery numbers presented above are derived from reports submitted by Lotus Technology's business units. These numbers may differ slightly from the vehicle delivery numbers recorded in the financial accounting and reporting systems announced or to be announced by Lotus Technology. Note 2: Including Ferrari, Porsche, Aston Martin, Bentley, Rolls Royce, and McLaren.",
+            "metadata": {
+              "date_published": "2025-01-14",
+              "doc_id": "59ecd0d4590a397510f7e1b1a44dce3dac148882e28e08ec4aebde4e8cf17596",
+              "filename": "Lotus_6-K_20250114_final.json",
+              "global_id": 12189,
+              "next_chunk_id": "902dfcd507ab3e01a727a62deff0394ea7e10a25ddaf9421d384fab39a1cbe76",
+              "page_number": 2,
+              "prev_chunk_id": "ae63c43b607baaf5106ad8abbaad79b1e1bf29d62981cc40eec385af998fd969",
+              "title_summary": "title: SIGNATURES \nsummary: Lotus Technology Inc. has filed a report in accordance with the Securities Exchange Act of 1934, officially signed by an authorized representative. On January 14, 2025, the company announced its preliminary vehicle delivery results for 2024, achieving a significant milestone with 12,065 vehicles delivered, reflecting over 70% year-on-year growth. This performance established Lotus as the fastest-growing luxury brand, with approximately 25% of deliveries originating from China. Looking ahead, Lotus aims to increase global deliveries by 20% in 2025, with China's contribution expected to rise to 25-28%. The company has also regained proprietary rights to its trademarks, including the iconic LOTUS roundel and the Chinese character for Lotus (\"莲花\"), reinforcing its global branding consistency. The reported delivery figures encompass invoiced and commissioned deliveries in the US, based on submissions from various business units, and may differ slightly from the company's financial records. Additionally, the summary highlights the competitive landscape, referencing prestigious luxury automotive brands such as Ferrari, Porsche, Aston Martin, Bentley, Rolls Royce, and McLaren, known for their exceptional craftsmanship and appeal to elite car enthusiasts."
+            },
+            "bundle_id": 0
+          },
+          {
+            "retriever": "FAISS",
+            "score": 0.6892869472503662,
+            "page_content": "New York – January 14, 2025 – Lotus Technology Inc. (“Lotus” or the “Company”), a leading global intelligent and luxury mobility provider, today announced its preliminary vehicle delivery results for the full year of 2024. Lotus Technology Inc. delivered 12,065 vehicles in 2024, representing a year-on-year increase of over 70% and boasting the top growth rate among leading luxury brands. China contributed approximately 25% of the total global deliveries in 2024. In 2025, Lotus Technology Inc. aims to increase global deliveries by 20% with a 25-28% contribution from China. Lotus Technology Inc. also successfully reclaimed the proprietary rights of the LOTUS roundel, LOTUS word mark, and the Chinese character of Lotus (\"莲花\") in China, achieving consistency in terms of its trademark across the world. Note 1: Invoiced deliveries, including commissioned deliveries in the US market. The vehicle delivery numbers presented above are derived from reports submitted by Lotus Technology Inc.'s business units. These numbers may differ slightly from the vehicle delivery numbers recorded in the financial accounting and reporting systems announced or to be announced by Lotus Technology Inc. Note 2: Including Ferrari, Porsche, Aston Martin, Bentley, Rolls Royce, and McLaren.",
+            "metadata": {
+              "date_published": "2025-01-15",
+              "doc_id": "94963ebe8616944440e29e912ed773a5a89cc68400982dcb425798e762d64580",
+              "filename": "Lotus_424B3_20250115_final.json",
+              "global_id": 12183,
+              "next_chunk_id": "3d81dc5c1a888fc8d3a1fda25ed93fd26189e954f02c8e3b1c299644908bb200",
+              "page_number": 4,
+              "prev_chunk_id": "60fcf5ca11838f8aab4f2460e7934380fe1f979b20a11b4c3e5544276912776b",
+              "title_summary": "title: Lotus Technology Announces Preliminary Delivery\nResults of 2024 \nsummary: On January 14, 2025, Lotus Technology Inc. announced its preliminary vehicle delivery results for 2024, achieving an impressive total of 12,065 vehicles delivered, reflecting a year-on-year growth of over 70%, the highest among luxury brands. Notably, around 25% of these deliveries were made in China. Looking ahead to 2025, Lotus aims to increase global deliveries by 20%, with China expected to contribute 25-28% to this growth. The company has also regained proprietary rights to its trademarks, including its iconic LOTUS branding, ensuring consistent global representation. Additionally, the delivery figures reported for the US market are based on company business unit reports and may differ slightly from financial accounting records. Lotus is positioned alongside other prestigious luxury brands such as Ferrari, Porsche, and Rolls Royce, known for their exceptional craftsmanship and performance in the automotive industry."
+            },
+            "bundle_id": 1
+          },
+          {
+            "retriever": "FAISS",
+            "score": 0.6828417181968689,
+            "page_content": "Robust start in 2024, marking the strongest first half-year performance in Lotus Technology's history.  \nBalanced global allocation, with strong US deliveries contributing after the brand’s re-entry into the market.  \nLaunched bespoke services and continued growing technology-related income, which are expected to be potential contributors to profit margin in the future.  \nAdjusted the annual delivery target due to near-term disruptions from trade uncertainties and tariff hikes.  \nInitiated the “Win26” Plan aiming to achieve positive operating cash flow and EBITDA in 2026. New York – August 28, 2024 – Lotus Technology Inc. (“Lotus Tech” or “the Company”), a leading global intelligent and luxury mobility provider, today announced its unaudited financial results for the second quarter and half year ended June 30, 2024.",
+            "metadata": {
+              "date_published": "2024-08-28",
+              "doc_id": "a828bbf8a3e0fc602860fe1642f92fb079e2f27e5007562ede2705d3b5a81e62",
+              "filename": "Lotus_424B3_20240828_final.json",
+              "global_id": 9830,
+              "next_chunk_id": "603fc016cab8668453f19f1d4b27556496821a54aef784d998976cf699a563a3",
+              "page_number": 4,
+              "prev_chunk_id": "f8230be0b9c26a6fe84ef2de9916bf4869cb0330dc2bd3ac4ef0a3753f0f82e5",
+              "title_summary": "title: Lotus Technology Reports Unaudited\nSecond Quarter and First Half 2024 Financial Results \nsummary: In the first half of 2024, the brand experienced its best performance to date, driven by a well-balanced global strategy and significant deliveries in the US after its market re-entry. The introduction of tailored services and growth in technology-related revenue are expected to improve profit margins in the future. However, the annual delivery target has been revised due to short-term challenges from trade uncertainties and tariff hikes. Additionally, the brand has launched the \"Win26\" Plan, which aims for positive operating cash flow and EBITDA by 2026. Lotus Technology Inc. also reported its unaudited financial results for the second quarter and the first half of 2024, highlighting its position in the global intelligent and luxury mobility sector, although specific financial details were not disclosed."
+            },
+            "bundle_id": 2
+          },
+          {
+            "retriever": "FAISS",
+            "score": 0.6807327270507812,
+            "page_content": "Robust start in 2024, marking the strongest first half-year performance in Lotus Technology's history.  \nBalanced global allocation, with strong US deliveries contributing after the brand’s re-entry into the market.  \nLaunched bespoke services and continued growing technology-related income, which are expected to be potential contributors to profit margin in the future.  \nAdjusted the annual delivery target due to near-term disruptions from trade uncertainties and tariff hikes.  \nInitiated the “Win26” Plan aiming to achieve positive operating cash flow and EBITDA in 2026. New York – August 28, 2024 – Lotus Technology Inc. (“Lotus Tech” or the “Company”), a leading global intelligent and luxury mobility provider, today announced its unaudited financial results for the second quarter and half year ended June 30, 2024.",
+            "metadata": {
+              "date_published": "2024-08-28",
+              "doc_id": "374cff7b346ea2ba8801935cd4c4c4b2ed79b4fa245cdff63bf3c9c0e9e9309d",
+              "filename": "Lotus_6-K_20240828_final.json",
+              "global_id": 12145,
+              "next_chunk_id": "5bc5cc69ba499113aef09913e540143c17943f7a1bcf89155b5bda51dbdf5931",
+              "page_number": 3,
+              "prev_chunk_id": "67e700101cbee54c78264e4168ec62c1179366408d8640c10a8757596d952320",
+              "title_summary": "title: Lotus Technology Reports Unaudited\nSecond Quarter and First Half 2024 Financial Results \nsummary: In the first half of 2024, Lotus Technology Inc. reported its strongest performance to date, bolstered by a well-balanced global allocation and significant deliveries in the US following its market re-entry. The company anticipates that the introduction of bespoke services and growth in technology-related income will further enhance profit margins. However, it has adjusted its annual delivery target due to short-term challenges related to trade uncertainties and tariff increases. Additionally, the brand has initiated the \"Win26\" Plan, which aims to achieve positive operating cash flow and EBITDA by 2026. The unaudited financial results for the second quarter and the first half of 2024, ending June 30, were disclosed in a report released on August 28, 2024, highlighting Lotus's position as a leading global provider of intelligent and luxury mobility solutions."
+            },
+            "bundle_id": 3
+          },
+          {
+            "retriever": "FAISS",
+            "score": 0.6800785064697266,
+            "page_content": "The transactions contemplated by the Merger Agreement are expected to be completed in the first quarter of 2024, and would result in Lotus Technology Inc. becoming a public company. Upon completion of the business combination, the combined company is expected to retain Lotus Technology Inc.’s name as “Lotus Technology Inc.” and its American Depositary Shares (ADS) are expected to be listed on the Nasdaq under the ticker symbol “LOT.”",
+            "metadata": {
+              "date_published": "2024-01-19",
+              "doc_id": "05d7e1ff4496118df59cf307fc416c564a54dc91be1fd8f3e23502616ffe7844",
+              "filename": "Lotus_425_20240119_final.json",
+              "global_id": 11658,
+              "next_chunk_id": "2448ef41509a97310cbd16b335b35675a0fffe24c884091842c66cc8082436eb",
+              "page_number": 0,
+              "prev_chunk_id": "f5272e0f0f100179bed611aa3234a64837acd50429043c94e7d1ed1bccb46f83",
+              "title_summary": "title: Lotus Technology Showcases\nAutonomous Driving Progress at CES 2024 \nsummary: Lotus Technology Inc., a leading luxury electric vehicle manufacturer, is set to showcase its advanced autonomous driving solutions at the 2024 Consumer Electronics Show (CES) in Las Vegas, highlighting its commitment to innovation and safety. The company's intelligent driving division, Lotus Robotics, will present proprietary software and hardware, including the ROBO Soul, ROBO Matrix, and ROBO Galaxy, which enhance driver assistance, enable remote operations, and manage cloud data. These technologies are integral to Lotus Tech's vehicles, such as the hyper SUV Eletre and hyper GT Emeya, which feature cutting-edge hardware like dual NVIDIA DRIVE Orin chips and a unique cognition module for risk management.\n\nRecently, Lotus Tech received approval to test Level 3 automated driving on highways in Wuxi, China, a pilot zone for vehicle connectivity. This allows Eletre drivers to utilize its L3 capabilities on designated highways, supported by the vehicle's advanced Level 4-ready hardware, including a deployable LIDAR system and multiple sensors for enhanced perception. Lotus Robotics is also promoting self-driving technology through its ROBOCube intelligent street cleaner.\n\nAs part of its Vision80 business transformation strategy, Lotus Tech is enhancing its global R&D capabilities, with CEO Mr. Qingfeng Feng expressing optimism about the future of intelligent driving. The company is also nearing the completion of a merger with L Catterton Asia Acquisition Corp, expected to finalize in early 2024, which will transition Lotus Tech to a public entity listed on Nasdaq under the ticker \"LOT.\" Visitors can explore Lotus Robotics' innovations at booth 9217 in the Tech East AI pavilion from January 9-12."
+            },
+            "bundle_id": 4
+          },
+          {
+            "retriever": "FAISS",
+            "score": 0.6767722964286804,
+            "page_content": "30. SUBSEQUENT EVENTS (i) Merger Transaction On February 22, 2024, the Merger Transaction was completed as disclosed in note 1(b). (ii) Private Investment in Public Equity (PIPE) Investments On February 15, 2024, Lotus Group entered into a new Private Investment in Public Equity (PIPE) investment agreement with an investor, as disclosed in note 13. (iii) New grants of share options From January 1, 2024, to March 31, 2024, Lotus Technology granted an aggregated number of 5,972,760 share options to employees pursuant to the 2022 Share Incentive Plan, at a weighted average exercise price of US$2.89 per share option. (iv) Loans to a related party On March 11, 2024, Lotus Technology's subsidiary and a related party, ultimately controlled by the Controlling Shareholder, entered into a loan agreement, agreeing that Lotus Technology's subsidiary will provide unsecured loans with a total principal amount of GBP 275,000 (equivalent to US$354,000) with a term of 5 years and an annual interest rate of 6.95%.",
+            "metadata": {
+              "date_published": "2024-09-19",
+              "doc_id": "81e22e359d7e925f35dcd23fcf083ffa1c6b8e89254fe3ff241e0cae4c395507",
+              "filename": "0919_final.json",
+              "global_id": 3216,
+              "next_chunk_id": "ca0385d35e6e30228b7d8e41dd1eab3063b00f20f385288ad6038cf00044ff89",
+              "page_number": 306,
+              "prev_chunk_id": "f2740351e801fe6a6cdcdc1401a97bd15777811884522f46312223074cdb823e",
+              "title_summary": "title: NOTES TO THE CONSOLIDATED AND COMBINED FINANCIAL STATEMENTS (All amounts in thousands, except for share and per share data) \nsummary: **Comprehensive Summary of Subsequent Events from the Notes to the Consolidated and Combined Financial Statements**\n\nThis summary encapsulates the key developments and transactions that occurred subsequent to the reporting period, reflecting significant events impacting the financial position and operations of the Company.\n\n1. **Merger Transaction**: The Company successfully completed a Merger Transaction on February 22, 2024, as outlined in note 1(b). This strategic move is expected to enhance operational synergies and market positioning.\n\n2. **PIPE Investments**: On February 15, 2024, the Group entered into a new Private Investment in Public Equity (PIPE) investment agreement with an investor, as referenced in note 13. This investment is anticipated to bolster the Company’s capital structure and provide additional resources for growth initiatives.\n\n3. **Share Options Granted**: Between January 1, 2024, and March 31, 2024, the Company granted a total of 5,972,760 share options to employees under the 2022 Share Incentive Plan. The options have a weighted average exercise price of US$2.89 per option, aligning employee incentives with the Company’s performance.\n\n4. **Loans to Related Party**: On March 11, 2024, a subsidiary of the Company agreed to provide unsecured loans totaling GBP 275,000 (approximately US$354,000) to a related party controlled by the Controlling Shareholder. The loans have a term of 5 years and an annual interest rate of 6.95%, reflecting the Company’s ongoing financial relationships with its stakeholders.\n\n5. **Termination of Pledge**: In April 2024, the Company terminated the pledge associated with the land use right valued at US$32,653 and the corporate buildings under construction valued at US$37,287, both of which were recorded as of December 31, 2023. This termination may indicate a shift in the Company’s asset management strategy.\n\nThis summary provides a comprehensive overview of the significant events that have transpired post-reporting period, highlighting the Company’s strategic decisions and financial maneuvers that could influence future performance and shareholder value."
+            },
+            "bundle_id": 5
+          },
+          {
+            "retriever": "FAISS",
+            "score": 0.6750962734222412,
+            "page_content": "(i) Merger Transaction On February 22, 2024, the Merger Transaction was completed as disclosed in note 1(b). (ii) Private Investment in Public Equity (PIPE) Investments On February 15, 2024, Lotus Group entered into a new Private Investment in Public Equity (PIPE) investment agreement with an investor, as disclosed in note 13. (iii) New grants of share options From January 1, 2024, to March 31, 2024, Lotus Technology granted an aggregated number of 5,972,760 share options to employees pursuant to the 2022 Share Incentive Plan, at a weighted average exercise price of US$2.89 per share option. (iv) Loans to a related party On March 11, 2024, Lotus Technology's subsidiary and a related party, ultimately controlled by the Controlling Shareholder, entered into a loan agreement, agreeing that Lotus Technology's subsidiary will provide unsecured loans with a total principal amount of GBP 275,000 (equivalent to US$354,000) with a term of 5 years and an annual interest rate of 6.95%.",
+            "metadata": {
+              "date_published": "2024-05-03",
+              "doc_id": "c1f03f8dfd96f605b2df93d56b1a80288e8dfb7a2cdc8e63aac899224c2da0c0",
+              "filename": "0503_final.json",
+              "global_id": 1455,
+              "next_chunk_id": "a9e097772071c5c6abd65ad9673333ad6b6fa5c522302b23cd4bcabb6aaa6b42",
+              "page_number": 333,
+              "prev_chunk_id": "09b83ba6eb81528aebd35d00870de0efd84fb22d82f6e200b20db5375aaccbcc",
+              "title_summary": "title: 30. SUBSEQUENT EVENTS \nsummary: **Comprehensive Summary of Subsequent Events**\n\nThe chapter on Subsequent Events outlines several significant developments impacting the Company following the reporting period ending December 31, 2023. \n\n1. **Merger Transaction:** A key event was the completion of a merger transaction on February 22, 2024, as detailed in note 1(b). This strategic move is expected to enhance the Company's market position and operational capabilities.\n\n2. **PIPE Investments:** On February 15, 2024, the Group entered into a new PIPE (Private Investment in Public Equity) investment agreement with an investor, as noted in note 13. This investment is anticipated to provide additional capital to support the Company's growth initiatives.\n\n3. **Share Options Granted:** Between January 1, 2024, and March 31, 2024, the Company granted a total of 5,972,760 share options to employees under the 2022 Share Incentive Plan. The options have a weighted average exercise price of US$2.89 per option, aligning employee interests with the Company's performance.\n\n4. **Loans to Related Party:** On March 11, 2024, the Company’s subsidiary entered into a loan agreement with a related party controlled by the Controlling Shareholder. This agreement involves providing unsecured loans totaling GBP 275,000 (approximately US$354,000) for a term of 5 years at an annual interest rate of 6.95%. This transaction raises considerations regarding related party transactions and potential conflicts of interest.\n\n5. **Termination of Pledge:** In April 2024, the Company terminated the pledge related to the land use right valued at US$32,653 and corporate buildings under construction valued at US$37,287. These assets were previously included in the operating lease right-of-use assets and property, equipment, and software as of December 31, 2023. The termination of this pledge may affect the Company’s asset management and financial leverage.\n\nThis summary encapsulates the critical subsequent events that may influence the Company's financial position and operational strategy moving forward."
+            },
+            "bundle_id": 6
+          },
+          {
+            "retriever": "FAISS",
+            "score": 0.6728594303131104,
+            "page_content": "Lotus Technology’s American Depositary Shares will begin trading on the Nasdaq on February 23, 2024, under the ticker symbol “LOT.” New York and Singapore - February 20, 2024 – Lotus Technology Inc. (“Lotus Tech” or the “Company”), a leading global luxury electric vehicle maker, and L Catterton Asia Acquisition Corp (“L CAA”) (NASDAQ: LCAA), a special purpose acquisition company formed by affiliates of L Catterton, a leading global consumer-focused investment firm, announced today that their previously proposed business combination is expected to be completed on February 22, 2024. The combined company will retain Lotus Technology Inc.'s name as “Lotus Technology Inc.” and its American Depositary Shares (ADS) will commence trading on the Nasdaq under the ticker symbol “LOT” on February 23, 2024. The business combination was approved by L CAA shareholders at an extraordinary general meeting held on February 2, 2024. Integrating Lotus Technology’s sports car DNA with a new generation of premium lifestyle vehicles, Lotus Technology Inc. is committed to transforming the brand into an advanced, fully electric, intelligent, and sustainable luxury mobility provider before its 80th anniversary in 2028. Lotus Technology Inc. has already set this ambitious plan in motion by launching a leading product portfolio of high-performing battery electric vehicles (“BEVs”) ahead of other global luxury automakers. These BEVs include Eletre, a new breed of all-electric hyper-SUV powered by Lotus Technology’s proprietary 800-volt EPA, and Emeya, an all-electric hyper-GT among the most advanced vehicles of its kind in the world.",
+            "metadata": {
+              "date_published": "2024-02-20",
+              "doc_id": "d44720d76bdcb6737ed25ce545c9bd173978eb648fbd814f668840309b30bf89",
+              "filename": "Lotus_425_20240220_final.json",
+              "global_id": 11869,
+              "next_chunk_id": "c32681e135c1bba9b4176bb0c63b51bdcb172f9278fb9553355f9aede568f625",
+              "page_number": 6,
+              "prev_chunk_id": "f1f16c17d7b84913985ab16fe220f3c922480f9623169a7150ed86c4dd1a1b80",
+              "title_summary": "title: Lotus Tech and  L  Catterton Asia Acquisition\nCorp Announce Closing of Business Combination \nsummary: Lotus Technology Inc., a luxury electric vehicle manufacturer, is poised to make its debut on the Nasdaq stock exchange on February 23, 2024, trading under the ticker symbol \"LOT.\" This significant milestone follows the completion of its merger with L Catterton Asia Acquisition Corp (LCAA), which is set to finalize on February 22, 2024, after receiving shareholder approval on February 2, 2024. Lotus Tech aims to transform into a fully electric and sustainable luxury mobility provider by 2028, coinciding with its 80th anniversary, and plans to achieve a 100% electric product portfolio by 2027. The company has already introduced high-performing battery electric vehicles, such as the Eletre hyper-SUV and the Emeya hyper-GT, with plans for two additional models in the next two years. Since announcing the merger, Lotus Tech has secured over $880 million in financing commitments, marking one of the largest de-SPAC transactions since 2023. CEO Qingfeng Feng expressed enthusiasm for the company's growth as a public entity, while L CAA Co-CEO Chinta Bhagat highlighted their shared vision for establishing a leading luxury electric vehicle brand. To commemorate its public listing, Lotus Tech will ring the Nasdaq opening bell on February 23, an event that will be live-streamed for viewers."
+            },
+            "bundle_id": 7
+          },
+          {
+            "retriever": "FAISS",
+            "score": 0.672783374786377,
+            "page_content": "Lotus Technology issued 216,700,000 ordinary shares as consideration for such trademark. The above reorganization was completed on June 24, 2022. On November 12, 2021, the former Variable Interest Entity (VIE) and a third party established Ningbo Robotics Co., Ltd., or Ningbo Robotics, in which the former VIE held a 60% equity interest. In March 2022, the former VIE transferred its 60% legal equity interest in Ningbo Robotics to its then wholly-owned subsidiary, Sanya Lotus Venture Capital Co., Ltd. On March 15, 2022, Lotus Technology Corporation declared a 10-for-1 stock split in the form of a stock dividend, and such stock dividend was distributed to all the shareholders of Lotus Technology Corporation in proportion to their respective shareholdings in Lotus Technology Corporation. Before the stock dividend, Lotus Technology Corporation had 216,700,000 ordinary shares and 2,407,778 Series Pre-A Preferred Shares issued and outstanding with a par value of US$0.00001 per share. After the stock dividend, Lotus Technology Corporation had 2,167,000,000 ordinary shares and 24,077,780 Series Pre-A Preferred Shares issued and outstanding. Since early 2023, Lotus Technology Corporation has been implementing the Restructuring. As of the date of this prospectus, Lotus Technology Corporation’s operations in mainland China are conducted by its mainland China subsidiaries, and Lotus Technology Corporation does not have any Variable Interest Entity (VIE) structure. The following diagram illustrates Lotus Technology Corporation's corporate structure, including its principal and other subsidiaries as of the date of this prospectus:",
+            "metadata": {
+              "date_published": "2024-05-24",
+              "doc_id": "6861e037f8e64d011ac8fa79d823f51c8f65e014f13ee4d25be082e0bbf2296d",
+              "filename": "20240524_final.json",
+              "global_id": 8592,
+              "next_chunk_id": "53bba8cd0b17b843b6dd1ef29530dbe497ceeb595960f68ecd10e6a33e7a0e73",
+              "page_number": 15,
+              "prev_chunk_id": "3b2c14ea6b9cffcd3b23b246a1ac52e6786bd5b4cd0a280a31bd986b0f6096c8",
+              "title_summary": "title: Our Corporate History and Structure \nsummary: The Lotus BEV business, founded in 2018, operates through various entities including Wuhan Lotus Cars, Ningbo Geely R&D in China, Lotus Tech UK, and Lotus Tech Innovation Centre GmbH in Germany. Following a significant restructuring in early 2023, the company has eliminated its previous Variable Interest Entity (VIE) structure, which had been used to manage operations in mainland China. The restructuring involved the establishment of LTC as a limited liability company in the Cayman Islands on August 9, 2021, and a series of asset and employee transfers that culminated in full control over its wholly foreign-owned enterprise (WFOE) by December 2021. \n\nIn November 2021, LTC entered into a trademark license agreement with Group Lotus Limited, allowing it to use the \"Lotus\" trademark for lifestyle vehicles, excluding sports cars, in exchange for issuing 216,700,000 ordinary shares. A stock split on March 15, 2022, increased the number of ordinary shares to 2,167,000,000. The restructuring process in 2023 further streamlined operations, ensuring that all activities in mainland China are now managed solely through its subsidiaries, without reliance on the VIE structure. Consequently, LTC's financial results are now consolidated solely from its subsidiaries, with the company asserting that these changes will not materially impact its operations or financial performance."
+            },
+            "bundle_id": 8
+          },
+          {
+            "retriever": "Title Summary",
+            "score": 0.6931653618812561,
+            "page_content": "With both BEVs already on the roads and two more fully electric models planned for launch over the next two years, Lotus Technology Inc. is on track to become the first traditional luxury automotive brand to achieve a 100% electric product portfolio by 2027. Since the transaction was announced, Lotus Technology Inc. has raised more than US$880 million in pre-closing and private investment in public equity (“PIPE”) financing commitments from global investors, existing shareholders, and strategic partners, representing one of the largest amounts of additional financings raised in connection with a de-SPAC transaction since 2023. “Lotus Technology Inc. is thrilled to announce its upcoming debut on the Nasdaq as it completes its business combination with L Catterton Asia Acquisition Corp,” said Mr. Qingfeng Feng, Chief Executive Officer of Lotus Technology Inc. “This is a pivotal moment in our journey. Lotus Technology Inc. looks forward to accelerating its growth as a listed company, leading the electric transformation of the global luxury battery electric vehicle market together with L Catterton.” “L Catterton Asia Acquisition Corp's partnership with Lotus Technology Inc. has gotten stronger over time and our respect for the mission Lotus Technology Inc. is on has only increased,” said Chinta Bhagat, Co-Chief Executive Officer of L CAA. “We are excited about the road ahead as we continue building the definitive luxury electric vehicle brand together, leveraging our global consumer insights and our strategic relationship with LVMH.",
+            "metadata": {
+              "date_published": "2024-02-20",
+              "doc_id": "c32681e135c1bba9b4176bb0c63b51bdcb172f9278fb9553355f9aede568f625",
+              "filename": "Lotus_425_20240220_final.json",
+              "global_id": 11870,
+              "next_chunk_id": "b81b37da9c64eea5a54527c7ca7a9fcca8c7b8bfc92dd26a55e2e1c7357bcd37",
+              "page_number": 6,
+              "prev_chunk_id": "d44720d76bdcb6737ed25ce545c9bd173978eb648fbd814f668840309b30bf89",
+              "title_summary": "title: Lotus Tech and  L  Catterton Asia Acquisition\nCorp Announce Closing of Business Combination \nsummary: Lotus Technology Inc., a luxury electric vehicle manufacturer, is poised to make its debut on the Nasdaq stock exchange on February 23, 2024, trading under the ticker symbol \"LOT.\" This significant milestone follows the completion of its merger with L Catterton Asia Acquisition Corp (LCAA), which is set to finalize on February 22, 2024, after receiving shareholder approval on February 2, 2024. Lotus Tech aims to transform into a fully electric and sustainable luxury mobility provider by 2028, coinciding with its 80th anniversary, and plans to achieve a 100% electric product portfolio by 2027. The company has already introduced high-performing battery electric vehicles, such as the Eletre hyper-SUV and the Emeya hyper-GT, with plans for two additional models in the next two years. Since announcing the merger, Lotus Tech has secured over $880 million in financing commitments, marking one of the largest de-SPAC transactions since 2023. CEO Qingfeng Feng expressed enthusiasm for the company's growth as a public entity, while L CAA Co-CEO Chinta Bhagat highlighted their shared vision for establishing a leading luxury electric vehicle brand. To commemorate its public listing, Lotus Tech will ring the Nasdaq opening bell on February 23, an event that will be live-streamed for viewers."
+            },
+            "bundle_id": 9
+          },
+          {
+            "retriever": "Title Summary",
+            "score": 0.6931653618812561,
+            "page_content": "Lotus Technology Inc.'s upcoming debut on the Nasdaq will be a key milestone in its journey and we believe that Lotus Technology Inc. will have many more achievements to celebrate over the coming years.” Lotus Technology Inc. will ring the Nasdaq opening bell in New York City on February 23, 2024, to commemorate the company's public listing. A live stream of the event can be viewed at https://www.nasdaq.com/marketsite/bell-ringing-ceremony.",
+            "metadata": {
+              "date_published": "2024-02-20",
+              "doc_id": "b81b37da9c64eea5a54527c7ca7a9fcca8c7b8bfc92dd26a55e2e1c7357bcd37",
+              "filename": "Lotus_425_20240220_final.json",
+              "global_id": 11871,
+              "next_chunk_id": "dbe0b0518b8808ccab07ff0e46ea00404f8fb1c90bf4f43686ee75239c703faa",
+              "page_number": 6,
+              "prev_chunk_id": "c32681e135c1bba9b4176bb0c63b51bdcb172f9278fb9553355f9aede568f625",
+              "title_summary": "title: Lotus Tech and  L  Catterton Asia Acquisition\nCorp Announce Closing of Business Combination \nsummary: Lotus Technology Inc., a luxury electric vehicle manufacturer, is poised to make its debut on the Nasdaq stock exchange on February 23, 2024, trading under the ticker symbol \"LOT.\" This significant milestone follows the completion of its merger with L Catterton Asia Acquisition Corp (LCAA), which is set to finalize on February 22, 2024, after receiving shareholder approval on February 2, 2024. Lotus Tech aims to transform into a fully electric and sustainable luxury mobility provider by 2028, coinciding with its 80th anniversary, and plans to achieve a 100% electric product portfolio by 2027. The company has already introduced high-performing battery electric vehicles, such as the Eletre hyper-SUV and the Emeya hyper-GT, with plans for two additional models in the next two years. Since announcing the merger, Lotus Tech has secured over $880 million in financing commitments, marking one of the largest de-SPAC transactions since 2023. CEO Qingfeng Feng expressed enthusiasm for the company's growth as a public entity, while L CAA Co-CEO Chinta Bhagat highlighted their shared vision for establishing a leading luxury electric vehicle brand. To commemorate its public listing, Lotus Tech will ring the Nasdaq opening bell on February 23, an event that will be live-streamed for viewers."
+            },
+            "bundle_id": 10
+          },
+          {
+            "retriever": "Title Summary",
+            "score": 0.6818586587905884,
+            "page_content": "New York and Singapore - February 23, 2024 – Lotus Technology Inc. (“Lotus Tech” or the “Company”), a leading global luxury electric vehicle maker, rang today’s opening bell at the Nasdaq stock exchange in New York City in celebration of its public listing. The Company’s American depositary shares (“ADSs”) commenced trading today on the Nasdaq Stock Market LLC (“Nasdaq”) under the ticker symbol “LOT” following the completion of its business combination on February 22, 2024, with L Catterton Asia Acquisition Corp (“L CAA”), a special purpose acquisition company (“SPAC”) formed by affiliates of L Catterton, a leading global consumer-focused investment firm. Lotus Technology Inc. CEO Feng Qingfeng was joined by members of the Lotus Technology Inc. and L Catterton teams in New York City to witness this important milestone, which will help Lotus Technology Inc. to further its mission of becoming an advanced, fully electric, intelligent, and sustainable luxury mobility provider under the brand’s Vision80 strategy. “This is an exciting moment for all of us at Lotus Technology Inc.,” said Mr. Feng. “I would like to extend my appreciation to our shareholders, partners, suppliers, our outstanding employees, and most importantly, our customers, for their support.",
+            "metadata": {
+              "date_published": "2024-02-23",
+              "doc_id": "227dd13da99f2f69538207068496f6c7105e4ebc4f56e81eb16c9b4dd4a280fc",
+              "filename": "Lotus_6-K_20240223_final.json",
+              "global_id": 11918,
+              "next_chunk_id": "1f23b0ee4047103ad9550fe613b998b4ea1105f5edcadb938aff9c995d22332d",
+              "page_number": 3,
+              "prev_chunk_id": "4cd125957edcafc26ffdf9ad4af7ec730d7853ccc28456a7b177c243808ef4d6",
+              "title_summary": "title: Lotus Technology Celebrates Public Listing\non Nasdaq \nsummary: Lotus Technology Inc. (Lotus Tech), a leading luxury electric vehicle manufacturer, marked a significant milestone by going public on February 23, 2024, with its shares trading on the Nasdaq under the ticker \"LOT.\" This event followed its merger with L Catterton Asia Acquisition Corp (LCAA), a SPAC linked to the global investment firm L Catterton. The public listing is a crucial step in Lotus Tech's ambition to become a leader in advanced, fully electric, and sustainable luxury mobility, aligning with its Vision80 strategy. CEO Feng Qingfeng celebrated the achievement alongside the L Catterton team, expressing gratitude to stakeholders and emphasizing the company's commitment to its heritage and future growth.\n\nChinta Bhagat, Co-CEO of LCAA, highlighted the potential for Lotus Tech to thrive in the expanding luxury electric vehicle market, aided by insights from their partnership with LVMH. The listing is expected to accelerate Lotus Tech's development of next-generation automotive technologies and expand its global distribution network from around 200 to over 300 stores by 2025. The company aims to be the first traditional luxury auto brand to offer a fully electric lineup by 2027, with plans to introduce additional high-performance models, including the Eletre hyper-SUV and Emeya hyper-GT, in the coming years. The celebratory bell-ringing ceremony was broadcasted from Times Square, featuring Lotus's signature battery electric vehicle models, allowing global employees to join in the festivities."
+            },
+            "bundle_id": 11
+          },
+          {
+            "retriever": "Title Summary",
+            "score": 0.6818586587905884,
+            "page_content": "Lotus Technology Inc. is proud to carry Lotus’s heritage into the future and to open a new chapter in the Lotus story with our public listing today.” Chinta Bhagat, Co-Chief Executive Officer of L Catterton Asia Acquisition Corp, said: “L Catterton Asia Acquisition Corp believes that Lotus Technology Inc. is ideally positioned to seize the tremendous opportunity in the fast-growing and underserved luxury electric vehicle market, leveraging our global consumer insights and strategic relationship with LVMH. Today’s public listing is a significant step in Lotus Technology Inc.’s future expansion, and L Catterton Asia Acquisition Corp is looking forward to continued collaboration with Lotus Technology Inc.’s talented management team.” The Nasdaq listing will support Lotus Technology Inc.’s development of next generation automobility technologies and the expected expansion of its global distribution network from around 200 to over 300 stores globally by 2025. Set to become the first traditional luxury auto brand to achieve a 100% electric product portfolio by 2027, Lotus Technology Inc. has launched a well-balanced portfolio of exceptionally performant models, including the Eletre hyper-SUV and Emeya hyper-GT, and plans to launch two additional luxury battery electric vehicles (BEV) over the next two years. The bell-ringing ceremony was broadcast on Nasdaq’s digital billboards in Times Square and livestreamed online, with Lotus Technology Inc. employees joining the celebration remotely from offices across the world. The brand’s signature battery electric vehicle models, Evija, Eletre, and Emeya, were also displayed in Times Square in front of the Nasdaq stock exchange.",
+            "metadata": {
+              "date_published": "2024-02-23",
+              "doc_id": "1f23b0ee4047103ad9550fe613b998b4ea1105f5edcadb938aff9c995d22332d",
+              "filename": "Lotus_6-K_20240223_final.json",
+              "global_id": 11919,
+              "next_chunk_id": "c71a7254f56d2e6fb3edb69a7faac318037316b15a6c9611b14622833163f4dd",
+              "page_number": 3,
+              "prev_chunk_id": "227dd13da99f2f69538207068496f6c7105e4ebc4f56e81eb16c9b4dd4a280fc",
+              "title_summary": "title: Lotus Technology Celebrates Public Listing\non Nasdaq \nsummary: Lotus Technology Inc. (Lotus Tech), a leading luxury electric vehicle manufacturer, marked a significant milestone by going public on February 23, 2024, with its shares trading on the Nasdaq under the ticker \"LOT.\" This event followed its merger with L Catterton Asia Acquisition Corp (LCAA), a SPAC linked to the global investment firm L Catterton. The public listing is a crucial step in Lotus Tech's ambition to become a leader in advanced, fully electric, and sustainable luxury mobility, aligning with its Vision80 strategy. CEO Feng Qingfeng celebrated the achievement alongside the L Catterton team, expressing gratitude to stakeholders and emphasizing the company's commitment to its heritage and future growth.\n\nChinta Bhagat, Co-CEO of LCAA, highlighted the potential for Lotus Tech to thrive in the expanding luxury electric vehicle market, aided by insights from their partnership with LVMH. The listing is expected to accelerate Lotus Tech's development of next-generation automotive technologies and expand its global distribution network from around 200 to over 300 stores by 2025. The company aims to be the first traditional luxury auto brand to offer a fully electric lineup by 2027, with plans to introduce additional high-performance models, including the Eletre hyper-SUV and Emeya hyper-GT, in the coming years. The celebratory bell-ringing ceremony was broadcasted from Times Square, featuring Lotus's signature battery electric vehicle models, allowing global employees to join in the festivities."
+            },
+            "bundle_id": 12
+          },
+          {
+            "retriever": "Title Summary",
+            "score": 0.6769726276397705,
+            "page_content": "New York and Singapore  \n- February 22, 2024 – Lotus Technology Inc. (“Lotus Tech” or the “Company”), a leading global luxury electric vehicle maker, and L Catterton Asia Acquisition Corp (“LCAA”) (NASDAQ: LCAA), a special purpose acquisition company formed by affiliates of L Catterton, a leading global consumer-focused investment firm, today announced the completion of their previously announced business combination (“Business Combination”). The listed company following the Business Combination is “Lotus Technology Inc.” and its American depositary shares (“ADSs”) are expected to commence trading on the Nasdaq Stock Market LLC (“Nasdaq”) under the ticker symbol “LOT” on February 23, 2024. The announcement of the completion of the Business Combination comes after L Catterton Asia Acquisition Corp shareholders voted to approve the transaction on February 2, 2024. As a result of the Business Combination, L Catterton Asia Acquisition Corp became a wholly owned subsidiary of Lotus Technology Inc. and is expected to be delisted from the Nasdaq. Mr. Qingfeng Feng, Chief Executive Officer of Lotus Technology Inc., said: \"Becoming a U.S.-listed company marks a significant milestone in Lotus Technology Inc.'s advancement into a global sustainable luxury mobility provider under the brand's Vision80 strategy.",
+            "metadata": {
+              "date_published": "2024-02-22",
+              "doc_id": "8640f1b14228b9b3397676082b2f0459ed5a938a3872f1b756bc813025742dac",
+              "filename": "20240222_final.json",
+              "global_id": 6048,
+              "next_chunk_id": "bf956c3206816e44d53e9788271e50c4d71e9f04419b547b7863a9e75f68dbe6",
+              "page_number": 3,
+              "prev_chunk_id": "",
+              "title_summary": "title: Lotus Tech and  L  Catterton Asia Acquisition\nCorp Complete Business Combination \nsummary: On February 22, 2024, Lotus Technology Inc., a leading luxury electric vehicle manufacturer, announced the successful completion of its merger with L Catterton Asia Acquisition Corp (LCAA), a special purpose acquisition company backed by L Catterton. Following shareholder approval on February 2, 2024, LCAA has become a wholly owned subsidiary of Lotus Tech, which will continue to operate under its name. The company's American depositary shares (ADSs) are set to begin trading on the Nasdaq under the ticker symbol \"LOT\" on February 23, 2024. CEO Qingfeng Feng highlighted this listing as a significant milestone in Lotus Tech's ambition to lead in sustainable luxury mobility, while LCAA Co-CEO Chinta Bhagat expressed optimism about the growth opportunities this merger presents. To commemorate the occasion, Lotus Tech will ring the Nasdaq opening bell on February 23, 2024, with the event available for live streaming."
+            },
+            "bundle_id": 13
+          },
+          {
+            "retriever": "Title Summary",
+            "score": 0.6769726276397705,
+            "page_content": "I look forward to further collaboration with L Catterton Asia Acquisition Corp as our respected partner, joining us in contributing to a greener future for all through sustainable innovation.\" Chinta Bhagat, Co-Chief Executive Officer of L Catterton Asia Acquisition Corp, said: \"L Catterton Asia Acquisition Corp is very pleased to announce the successful completion of the business combination with Lotus Technology Inc., a pioneer in the electrification of luxury mobility with a world-leading product portfolio of luxury vehicles. L Catterton Asia Acquisition Corp is confident that Lotus Technology Inc.’s listing on the Nasdaq will further its global expansion, and looks forward to joining Lotus Technology Inc. in the exciting growth journey ahead.\" Lotus Technology Inc. is expected to ring the Nasdaq opening bell in New York City on February 23, 2024, to commemorate its public listing. A live stream of the event can be viewed at https://www.nasdaq.com/marketsite/bell-ringing-ceremony.",
+            "metadata": {
+              "date_published": "2024-02-22",
+              "doc_id": "bf956c3206816e44d53e9788271e50c4d71e9f04419b547b7863a9e75f68dbe6",
+              "filename": "20240222_final.json",
+              "global_id": 6049,
+              "next_chunk_id": "",
+              "page_number": 3,
+              "prev_chunk_id": "8640f1b14228b9b3397676082b2f0459ed5a938a3872f1b756bc813025742dac",
+              "title_summary": "title: Lotus Tech and  L  Catterton Asia Acquisition\nCorp Complete Business Combination \nsummary: On February 22, 2024, Lotus Technology Inc., a leading luxury electric vehicle manufacturer, announced the successful completion of its merger with L Catterton Asia Acquisition Corp (LCAA), a special purpose acquisition company backed by L Catterton. Following shareholder approval on February 2, 2024, LCAA has become a wholly owned subsidiary of Lotus Tech, which will continue to operate under its name. The company's American depositary shares (ADSs) are set to begin trading on the Nasdaq under the ticker symbol \"LOT\" on February 23, 2024. CEO Qingfeng Feng highlighted this listing as a significant milestone in Lotus Tech's ambition to lead in sustainable luxury mobility, while LCAA Co-CEO Chinta Bhagat expressed optimism about the growth opportunities this merger presents. To commemorate the occasion, Lotus Tech will ring the Nasdaq opening bell on February 23, 2024, with the event available for live streaming."
+            },
+            "bundle_id": 14
+          },
+          {
+            "retriever": "Title Summary",
+            "score": 0.673809289932251,
+            "page_content": "This prospectus supplement is being filed to update and supplement the information contained in the prospectus dated September 30, 2024 (as supplemented or amended from time to time, the “Prospectus”), which forms a part of Lotus Technology's Registration Statement on Form F-1 (Registration No. 333-282217), as amended and supplemented, with the information contained in Lotus Technology's Current Reports on Form 6-K, furnished with the Securities and Exchange Commission on December 2, 2024. The Prospectus relates to the potential offer and sale from time to time by Westwood Capital Group LLC (“Westwood”), of up to 44,450,000 ADSs including (i) up to 43,750,000 ADSs that Lotus Technology may, at its discretion, elect to issue to Westwood from time to time pursuant to the securities purchase agreement dated September 16, 2024 that Lotus Technology entered into with Westwood (the “Purchase Agreement”), and (ii) 700,000 ADSs, representing 700,000 Ordinary Shares that Lotus Technology issued to Westwood as consideration for Westwood's irrevocable commitment to subscribe for ADSs at Lotus Technology's direction, from time to time, upon the terms and subject to the conditions set forth in the Purchase Agreement. This prospectus supplement updates and supplements the information in the Prospectus and is not complete without, and may not be delivered or utilized except in combination with, the Prospectus. This prospectus supplement should be read in conjunction with the Prospectus, and if there is any inconsistency between the information in the Prospectus and this prospectus supplement, you should rely on the information in this prospectus supplement.",
+            "metadata": {
+              "date_published": "2024-12-02",
+              "doc_id": "a89fa238c18b347e40f8c696402e19491d3e0f3b8d4583c7e9b5e248c7ef7f33",
+              "filename": "Lotus_424B3_20241202_final.json",
+              "global_id": 9872,
+              "next_chunk_id": "5f97e87fd254799a2598342cf85a7ec3f1ba8d9ba41a01c195dd5395de60614c",
+              "page_number": 0,
+              "prev_chunk_id": "",
+              "title_summary": "title: Lotus Technology Inc. 44,450,000 AMERICAN DEPOSITARY\nSHARES REPRESENTING 44,450,000 ORDINARY\nSHARES \nsummary: This prospectus supplement, dated December 2, 2024, updates the information in the prospectus dated September 30, 2024, which is part of Registration Statement Form F-1 (Registration No. 333-282217). It incorporates details from Current Reports on Form 6-K filed with the SEC on the same date. The document outlines the potential offer and sale of up to 44,450,000 American Depositary Shares (ADSs) by Westwood Capital Group LLC, including 43,750,000 ADSs that may be issued at the company's discretion under a securities purchase agreement dated September 16, 2024, and 700,000 ADSs representing ordinary shares issued to Westwood for its commitment to subscribe for ADSs. This supplement should be read in conjunction with the Prospectus, as it is not a standalone document. In case of discrepancies, the information in the supplement takes precedence. The ADSs are traded on the Nasdaq under the symbol \"LOT,\" with a closing price of $4.06 per share as of November 29, 2024. Investors are encouraged to review the entire Prospectus, this supplement, and any future amendments thoroughly, as investing in these securities involves significant risks detailed in the \"Risk Factors\" section of the Prospectus. The SEC and other regulatory bodies have not approved or disapproved these securities, nor assessed the accuracy of the information provided."
+            },
+            "bundle_id": 15
+          },
+          {
+            "retriever": "Title Summary",
+            "score": 0.673809289932251,
+            "page_content": "Lotus Technology's American Depositary Shares (ADSs) are listed on the Nasdaq Stock Market LLC, or Nasdaq, under the trading symbols “LOT.” On November 29, 2024, the closing price of Lotus Technology's ADSs on Nasdaq was \\$4.06 per share. Lotus Technology may further amend or supplement the Prospectus and this prospectus supplement from time to time by filing amendments or supplements as required. Investors should read the entire Prospectus, this prospectus supplement, and any amendments or supplements carefully before making their investment decision. Investing in Lotus Technology's securities involves a high degree of risk. See “Risk Factors” beginning on page 17 of the Prospectus for a discussion of information that should be considered in connection with an investment in Lotus Technology's securities. Neither the U.S. Securities and Exchange Commission nor any other regulatory body has approved or disapproved of these securities or determined if this prospectus supplement or the Prospectus is truthful or complete. Any representation to the contrary is a criminal offense. The date of this prospectus supplement is December 2, 2024.",
+            "metadata": {
+              "date_published": "2024-12-02",
+              "doc_id": "5f97e87fd254799a2598342cf85a7ec3f1ba8d9ba41a01c195dd5395de60614c",
+              "filename": "Lotus_424B3_20241202_final.json",
+              "global_id": 9873,
+              "next_chunk_id": "8858e5f7ef8a27dbb3d4338670e78af19fb221487d76f70f9baedc394723f168",
+              "page_number": 0,
+              "prev_chunk_id": "a89fa238c18b347e40f8c696402e19491d3e0f3b8d4583c7e9b5e248c7ef7f33",
+              "title_summary": "title: Lotus Technology Inc. 44,450,000 AMERICAN DEPOSITARY\nSHARES REPRESENTING 44,450,000 ORDINARY\nSHARES \nsummary: This prospectus supplement, dated December 2, 2024, updates the information in the prospectus dated September 30, 2024, which is part of Registration Statement Form F-1 (Registration No. 333-282217). It incorporates details from Current Reports on Form 6-K filed with the SEC on the same date. The document outlines the potential offer and sale of up to 44,450,000 American Depositary Shares (ADSs) by Westwood Capital Group LLC, including 43,750,000 ADSs that may be issued at the company's discretion under a securities purchase agreement dated September 16, 2024, and 700,000 ADSs representing ordinary shares issued to Westwood for its commitment to subscribe for ADSs. This supplement should be read in conjunction with the Prospectus, as it is not a standalone document. In case of discrepancies, the information in the supplement takes precedence. The ADSs are traded on the Nasdaq under the symbol \"LOT,\" with a closing price of $4.06 per share as of November 29, 2024. Investors are encouraged to review the entire Prospectus, this supplement, and any future amendments thoroughly, as investing in these securities involves significant risks detailed in the \"Risk Factors\" section of the Prospectus. The SEC and other regulatory bodies have not approved or disapproved these securities, nor assessed the accuracy of the information provided."
+            },
+            "bundle_id": 16
+          },
+          {
+            "retriever": "Title Summary",
+            "score": 0.6726812720298767,
+            "page_content": "(adopted by Lotus Technology's Board of Directors through a Special Resolution dated 16 January 2024 and effective on 22 February 2024) The name of the company is Lotus Technology Inc. 2. The Registered Office of Lotus Technology Inc. will be situated at the offices of Maples Corporate Services Limited, PO Box 309, Ugland House, Grand Cayman, KY1-1104, Cayman Islands, or at such other location within the Cayman Islands as the Directors may from time to time determine. 3. The objects for which Lotus Technology Inc. is established are unrestricted and Lotus Technology Inc. shall have full power and authority to carry out any object not prohibited by the Companies Act or any other law of the Cayman Islands. 4. Lotus Technology Inc. shall have and be capable of exercising all the functions of a natural person of full capacity irrespective of any question of corporate benefit as provided by the Companies Act. 5. Lotus Technology Inc. will not trade in the Cayman Islands with any person, firm or corporation except in furtherance of the business of Lotus Technology Inc. carried on outside the Cayman Islands; provided that nothing in this section shall be construed as to prevent Lotus Technology Inc. from effecting and concluding contracts in the Cayman Islands, and exercising in the Cayman Islands all of its powers necessary for the carrying on of its business outside the Cayman Islands. 6. The liability of each Shareholder is limited to the amount, if any, unpaid on the Shares held by such Shareholder. 7.",
+            "metadata": {
+              "date_published": "2024-04-22",
+              "doc_id": "3c66f68b77f08e41ef7228e0c2f8c3e0cb779a7e110a76d2c81fecb3a073b27e",
+              "filename": "20240422_final.json",
+              "global_id": 10939,
+              "next_chunk_id": "56adca70d87a687af0453cfc703a5f57f0530fa8da4f372d7bd8b9b33454b4a3",
+              "page_number": 271,
+              "prev_chunk_id": "43397b565ba31b4849940122844deb6f2c94050740a1ecb856118cf35dea1b41",
+              "title_summary": "title: LOTUS TECHNOLOGY INC. \nsummary: On January 16, 2024, Lotus Technology Inc. adopted a Special Resolution that will take effect on February 22, 2024. The company, recognized for its innovative solutions and commitment to its core values, aims to establish itself as a significant player in its industry. The resolution details the establishment and operation of the company, which will be registered in the Cayman Islands with its office at Maples Corporate Services Limited, allowing directors the flexibility to change its location within the jurisdiction. The company has unrestricted objectives, enabling it to engage in any lawful activities, although it will not conduct trade within the Cayman Islands except to support its business operations elsewhere. Shareholder liability is limited to unpaid amounts on shares, with an authorized share capital of US$50,000 divided into 5 billion shares, and provisions for share redemption and various classes of shares as determined by the Board of Directors. The company also holds the authority to deregister in the Cayman Islands and register in other jurisdictions. Qingfeng Feng serves as the Director and Chief Executive Officer, as indicated by his signature."
+            },
+            "bundle_id": 17
+          },
+          {
+            "retriever": "Title Summary",
+            "score": 0.6726812720298767,
+            "page_content": "The authorized share capital of Lotus Technology Inc. is US$50,000 divided into 5,000,000,000 shares of a par value of US$0.00001 each consisting of (i) 4,500,000,000 Ordinary Shares of a par value of US$0.00001 each, and (ii) 500,000,000 shares of a par value of US$0.00001 each of such class or classes (however designated) as the Board of Directors may determine in accordance with the articles of association of Lotus Technology Inc. (as amended or substituted from time to time, the “Articles”). Subject to the Companies Act and the Articles, Lotus Technology Inc. shall have power to redeem or purchase any of its Shares and to increase or reduce its authorized share capital and to sub-divide or consolidate the said Shares or any of them and to issue all or any part of its capital whether original, redeemed, increased or reduced with or without any preference, priority, special privilege or other rights or subject to any postponement of rights or to any conditions or restrictions whatsoever and so that unless the conditions of issue shall otherwise expressly provide every issue of shares whether stated to be ordinary, preference or otherwise shall be subject to the powers on the part of Lotus Technology Inc. hereinbefore provided. 8. Lotus Technology Inc. has the power contained in the Companies Act to deregister in the Cayman Islands and be registered by way of continuation in some other jurisdictions. 9.",
+            "metadata": {
+              "date_published": "2024-04-22",
+              "doc_id": "56adca70d87a687af0453cfc703a5f57f0530fa8da4f372d7bd8b9b33454b4a3",
+              "filename": "20240422_final.json",
+              "global_id": 10940,
+              "next_chunk_id": "26b6ea246957e5a97f317944961b10f237547d7c88be0072370f5b80d1bd9026",
+              "page_number": 271,
+              "prev_chunk_id": "3c66f68b77f08e41ef7228e0c2f8c3e0cb779a7e110a76d2c81fecb3a073b27e",
+              "title_summary": "title: LOTUS TECHNOLOGY INC. \nsummary: On January 16, 2024, Lotus Technology Inc. adopted a Special Resolution that will take effect on February 22, 2024. The company, recognized for its innovative solutions and commitment to its core values, aims to establish itself as a significant player in its industry. The resolution details the establishment and operation of the company, which will be registered in the Cayman Islands with its office at Maples Corporate Services Limited, allowing directors the flexibility to change its location within the jurisdiction. The company has unrestricted objectives, enabling it to engage in any lawful activities, although it will not conduct trade within the Cayman Islands except to support its business operations elsewhere. Shareholder liability is limited to unpaid amounts on shares, with an authorized share capital of US$50,000 divided into 5 billion shares, and provisions for share redemption and various classes of shares as determined by the Board of Directors. The company also holds the authority to deregister in the Cayman Islands and register in other jurisdictions. Qingfeng Feng serves as the Director and Chief Executive Officer, as indicated by his signature."
+            },
+            "bundle_id": 18
+          },
+          {
+            "retriever": "Title Summary",
+            "score": 0.6726812720298767,
+            "page_content": "Capitalized terms that are not defined in this Memorandum of Association bear the same meanings as those given in the Articles of Association of Lotus Technology Inc. By: /s/ Qingfeng Feng  \nName: Qingfeng Feng  \nTitle: Director and Chief Executive Officer of Lotus Technology Inc.",
+            "metadata": {
+              "date_published": "2024-04-22",
+              "doc_id": "26b6ea246957e5a97f317944961b10f237547d7c88be0072370f5b80d1bd9026",
+              "filename": "20240422_final.json",
+              "global_id": 10941,
+              "next_chunk_id": "8a7eb2211cba23a6627e37f79f3cdb53ee1417b61f939ea69128eb93f9eba6c5",
+              "page_number": 271,
+              "prev_chunk_id": "56adca70d87a687af0453cfc703a5f57f0530fa8da4f372d7bd8b9b33454b4a3",
+              "title_summary": "title: LOTUS TECHNOLOGY INC. \nsummary: On January 16, 2024, Lotus Technology Inc. adopted a Special Resolution that will take effect on February 22, 2024. The company, recognized for its innovative solutions and commitment to its core values, aims to establish itself as a significant player in its industry. The resolution details the establishment and operation of the company, which will be registered in the Cayman Islands with its office at Maples Corporate Services Limited, allowing directors the flexibility to change its location within the jurisdiction. The company has unrestricted objectives, enabling it to engage in any lawful activities, although it will not conduct trade within the Cayman Islands except to support its business operations elsewhere. Shareholder liability is limited to unpaid amounts on shares, with an authorized share capital of US$50,000 divided into 5 billion shares, and provisions for share redemption and various classes of shares as determined by the Board of Directors. The company also holds the authority to deregister in the Cayman Islands and register in other jurisdictions. Qingfeng Feng serves as the Director and Chief Executive Officer, as indicated by his signature."
+            },
+            "bundle_id": 19
+          },
+          {
+            "retriever": "Title Summary",
+            "score": 0.6660296320915222,
+            "page_content": "This prospectus supplement is being filed to update and supplement the information contained in the prospectus dated September 30, 2024 (as supplemented or amended from time to time, the “Prospectus”), which forms a part of Lotus Technology's Registration Statement on Form F-1 (Registration No. 333-282217), as amended and supplemented, with the information contained in Lotus Technology's Current Report on Form 6-K, furnished with the Securities and Exchange Commission on December 9, 2024. The Prospectus relates to the potential offer and sale from time to time by Westwood Capital Group LLC (“Westwood”), of up to 44,450,000 ADSs including (i) up to 43,750,000 ADSs that Lotus Technology may, at its discretion, elect to issue to Westwood from time to time pursuant to the securities purchase agreement dated September 16, 2024 that Lotus Technology entered into with Westwood (the “Purchase Agreement”), and (ii) 700,000 ADSs, representing 700,000 Ordinary Shares that Lotus Technology issued to Westwood as consideration for its irrevocable commitment to subscribe for ADSs at Lotus Technology's direction, from time to time, upon the terms and subject to the conditions set forth in the Purchase Agreement. This prospectus supplement updates and supplements the information in the Prospectus and is not complete without, and may not be delivered or utilized except in combination with, the Prospectus. This prospectus supplement should be read in conjunction with the Prospectus, and if there is any inconsistency between the information in the Prospectus and this prospectus supplement, you should rely on the information in this prospectus supplement.",
+            "metadata": {
+              "date_published": "2024-12-09",
+              "doc_id": "af35a5445a9fbeb3f00469135c985cab1ebc977daddfc78dbe1ed16279132d2b",
+              "filename": "Lotus_424B3_20241209_final.json",
+              "global_id": 11417,
+              "next_chunk_id": "ed8298457775ac90afb6be3b7428469339dab8c1d98fa8623930ae6c99656700",
+              "page_number": 0,
+              "prev_chunk_id": "",
+              "title_summary": "title: Lotus Technology Inc. 44,450,000 AMERICAN DEPOSITARY\nSHARES REPRESENTING 44,450,000 ORDINARY\nSHARES \nsummary: This prospectus supplement, dated December 9, 2024, updates the information in the prospectus dated September 30, 2024, which is part of Registration Statement No. 333-282217. It incorporates details from a Current Report on Form 6-K filed with the SEC on the same date. The supplement pertains to the potential offer and sale of up to 44,450,000 American Depositary Shares (ADSs) by Westwood Capital Group LLC, including 43,750,000 ADSs that may be issued at the company's discretion under a securities purchase agreement dated September 16, 2024, and 700,000 ADSs representing Ordinary Shares issued to Westwood as part of its subscription commitment. It is crucial to read this supplement in conjunction with the original Prospectus, as it cannot stand alone, and any discrepancies should defer to the supplement. The ADSs are traded on the Nasdaq under the symbol \"LOT,\" with a closing price of $3.93 per share as of December 6, 2024. The Prospectus and this supplement may be periodically amended, and investors are urged to review all documents thoroughly before making investment decisions. Investing in these securities involves significant risks, detailed in the \"Risk Factors\" section of the Prospectus. The SEC and other regulatory bodies have not approved or disapproved the securities mentioned, nor verified the accuracy of the documents. Any claims to the contrary are criminal offenses."
+            },
+            "bundle_id": 20
+          },
+          {
+            "retriever": "Title Summary",
+            "score": 0.6660296320915222,
+            "page_content": "Lotus Technology's American Depositary Shares (ADSs) are listed on the Nasdaq Stock Market LLC, or Nasdaq, under the trading symbols “LOT.” On December 6, 2024, the closing price of Lotus Technology's ADSs on Nasdaq was \\$3.93 per share. Lotus Technology may further amend or supplement the Prospectus and this prospectus supplement from time to time by filing amendments or supplements as required. Investors should read the entire Prospectus, this prospectus supplement, and any amendments or supplements carefully before making their investment decision. Investing in Lotus Technology's securities involves a high degree of risk. See “Risk Factors” beginning on page 18 of the Prospectus for a discussion of information that should be considered in connection with an investment in Lotus Technology's securities. Neither the U.S. Securities and Exchange Commission nor any other regulatory body has approved or disapproved of these securities or determined if this prospectus supplement or the Prospectus is truthful or complete. Any representation to the contrary is a criminal offense. The date of this prospectus supplement is December 9, 2024.",
+            "metadata": {
+              "date_published": "2024-12-09",
+              "doc_id": "ed8298457775ac90afb6be3b7428469339dab8c1d98fa8623930ae6c99656700",
+              "filename": "Lotus_424B3_20241209_final.json",
+              "global_id": 11418,
+              "next_chunk_id": "7c67c5dcc960e06529cbb1967108fecd32c2a3a6fac80518a80acd2f7b5ae81f",
+              "page_number": 0,
+              "prev_chunk_id": "af35a5445a9fbeb3f00469135c985cab1ebc977daddfc78dbe1ed16279132d2b",
+              "title_summary": "title: Lotus Technology Inc. 44,450,000 AMERICAN DEPOSITARY\nSHARES REPRESENTING 44,450,000 ORDINARY\nSHARES \nsummary: This prospectus supplement, dated December 9, 2024, updates the information in the prospectus dated September 30, 2024, which is part of Registration Statement No. 333-282217. It incorporates details from a Current Report on Form 6-K filed with the SEC on the same date. The supplement pertains to the potential offer and sale of up to 44,450,000 American Depositary Shares (ADSs) by Westwood Capital Group LLC, including 43,750,000 ADSs that may be issued at the company's discretion under a securities purchase agreement dated September 16, 2024, and 700,000 ADSs representing Ordinary Shares issued to Westwood as part of its subscription commitment. It is crucial to read this supplement in conjunction with the original Prospectus, as it cannot stand alone, and any discrepancies should defer to the supplement. The ADSs are traded on the Nasdaq under the symbol \"LOT,\" with a closing price of $3.93 per share as of December 6, 2024. The Prospectus and this supplement may be periodically amended, and investors are urged to review all documents thoroughly before making investment decisions. Investing in these securities involves significant risks, detailed in the \"Risk Factors\" section of the Prospectus. The SEC and other regulatory bodies have not approved or disapproved the securities mentioned, nor verified the accuracy of the documents. Any claims to the contrary are criminal offenses."
+            },
+            "bundle_id": 21
+          },
+          {
+            "retriever": "Title Summary",
+            "score": 0.6649510264396667,
+            "page_content": "By: /s/ Alexious Kuen Long Lee  \nName: Alexious Kuen Long Lee  \nTitle: Director and Chief Financial Officer THE SYMBOL “[REDACTED]” DENOTES PLACES WHERE CERTAIN IDENTIFIED INFORMATION HAS BEEN EXCLUDED FROM THE EXHIBIT BECAUSE IT IS BOTH (I) NOT MATERIAL, AND (II) IS THE TYPE THAT LOTUS COMPANY TREATS AS PRIVATE OR CONFIDENTIAL. Geely UK Limited Lotus Technology Innovative Limited SHARE SALE AND TRANSFER AGREEMENT relating to the sale and transfer of shares in Lotus Tech Innovation Center GmbH THIS SHARE SALE AND TRANSFER AGREEMENT (the “Agreement”) is made on September 27, 2024 (the “Signing Date”)",
+            "metadata": {
+              "date_published": "2024-10-01",
+              "doc_id": "8f27bf91d9841e9c45e1b1b7ab5d95c7697facccbc7d422209d54886b44d7d21",
+              "filename": "1001.json",
+              "global_id": 3403,
+              "next_chunk_id": "ae3168f2220a13c2839a9f6d5f17dcdc0cceb11b833a64811f3ecb582fc0ceb5",
+              "page_number": 4,
+              "prev_chunk_id": "",
+              "title_summary": "title: Lotus Technology Inc. \nsummary: On September 27, 2024, Lotus Technology Inc. executed a Share Sale and Transfer Agreement concerning the sale and transfer of shares in Lotus Tech Innovation Center GmbH. This agreement involves Geely UK Limited and Lotus Technology Innovative Limited. The document was signed by Alexious Kuen Long Lee, who serves as the Director and Chief Financial Officer of Lotus Technology Inc. Certain details within the agreement have been redacted, as they are considered non-material and treated as private or confidential by the company, indicated by the symbol “[REDACTED].” This transaction reflects Lotus Technology Inc.'s strategic initiatives and partnerships aimed at enhancing its operational capabilities and market presence."
+            },
+            "bundle_id": 22
+          },
+          {
+            "retriever": "BM25",
+            "score": 5.274534702301025,
+            "page_content": "The board of directors of Lotus Technology will determine whether, to what extent, at what times and places, and under what conditions or regulations the accounts and books will be open to inspection by shareholders, and no shareholder will otherwise have any right of inspecting any account, book, or document of Lotus Technology except as required by law or authorized by the board of directors or the shareholders by special resolution.",
+            "metadata": {
+              "date_published": "2024-05-24",
+              "doc_id": "a865b506cf6acf1c4a1d9b472e9234572c307d5db3fdddf875bd959b539dd8a5",
+              "filename": "20240524_final.json",
+              "global_id": 9316,
+              "next_chunk_id": "52e7c7f7c82603a21c79ed4b1235774a21837b9f6950f13e04adee3c70106d35",
+              "page_number": 221,
+              "prev_chunk_id": "4ab5eecae7bd18506c1e2f29d27ee8cfe206ef49bd9737e3fa91a6c28d098047",
+              "title_summary": "title: Inspection of Books and Records \nsummary: The board of directors will establish the guidelines for shareholder access to the company's accounts and records. Shareholders may only inspect these documents if granted permission by the board, mandated by law, or approved through a special resolution by the shareholders."
+            },
+            "bundle_id": 23
+          },
+          {
+            "retriever": "BM25",
+            "score": 5.227222919464111,
+            "page_content": "The board of directors of Lotus Technology Corporation will determine whether, to what extent, at what times and places, and under what conditions or regulations the accounts and books of Lotus Technology Corporation will be open to the inspection by Lotus Technology Corporation shareholders, and no Lotus Technology Corporation shareholder will otherwise have any right of inspecting any account or book or document of Lotus Technology Corporation except as required by law or authorized by the board of directors of Lotus Technology Corporation or Lotus Technology Corporation shareholders by special resolution.",
+            "metadata": {
+              "date_published": "2024-01-12",
+              "doc_id": "8e34ef444dd2e6d0654b6d5b3d286f313e51892b0b5bfc5fb06120110b7a046c",
+              "filename": "20240112_final.json",
+              "global_id": 7464,
+              "next_chunk_id": "",
+              "page_number": 385,
+              "prev_chunk_id": "",
+              "title_summary": "title: Inspection of Books and Records \nsummary: The board of directors of LTC holds the power to determine the conditions for shareholder access to the company's accounts and books. Shareholders do not possess an automatic right to inspect these documents; such access is contingent upon board approval, legal requirements, or a special resolution passed by the shareholders."
+            },
+            "bundle_id": 24
+          },
+          {
+            "retriever": "BM25",
+            "score": 4.873816967010498,
+            "page_content": "The board of directors of Lotus Technology will determine whether, to what extent, at what times and places, and under what conditions or regulations the accounts and books will be open to inspection by shareholders, and no shareholder will otherwise have any right to inspect any account, book, or document of Lotus Technology except as required by law or authorized by the board of directors or the shareholders by special resolution. Under the Delaware General Corporation Law, any shareholder of Lotus Technology may for any proper purpose inspect or make copies of Lotus Technology’s stock ledger, list of shareholders, and other books and records. Shareholders of Cayman Islands exempted companies like Lotus Technology have no general right under Cayman Islands law to inspect corporate records (other than the memorandum and articles of association, the register of mortgages and charges, and any special resolutions passed by Lotus Technology's shareholders) or obtain copies of the list of shareholders of these companies. Under Cayman Islands law, the names of Lotus Technology's current directors can be obtained from a search conducted at the Registrar of Companies. However, Lotus Technology intends to provide its shareholders with annual reports containing audited financial statements.",
+            "metadata": {
+              "date_published": "2024-04-22",
+              "doc_id": "507b52003a4920d34d8885cbe6efad5c6fb9d89358f5711aabd3a10760d7c48f",
+              "filename": "20240422_final.json",
+              "global_id": 10538,
+              "next_chunk_id": "9a76eeec9a215f3ddf75aed01f03d1e987642786c14a3664260aa10728feec15",
+              "page_number": 164,
+              "prev_chunk_id": "2f0508885b7544f5f2f4d78a7622c6a6f834f640f3c8b67c08514c73850d5d7f",
+              "title_summary": "title: Inspection of Books and Records \nsummary: The board of directors determines the conditions for shareholder access to the company's accounts and records, including the timing, extent, and location of inspections. Shareholders can only inspect documents if allowed by law, authorized by the board, or through a special resolution. Under Delaware General Corporation Law, shareholders have the right to inspect the stock ledger, shareholder list, and other relevant records for legitimate purposes. In contrast, shareholders of Cayman Islands exempted companies have limited rights to inspect corporate records, only accessing specific documents like the memorandum and articles of association, the register of mortgages and charges, and special resolutions. While the names of current directors are available through the Registrar of Companies, shareholders receive annual reports containing audited financial statements."
+            },
+            "bundle_id": 25
+          },
+          {
+            "retriever": "BM25",
+            "score": 4.783723831176758,
+            "page_content": "What is the reason for the company's sales forecast adjustment?Based on Lotus Technology's prudent assessment of the global macro market environment and the uncertainty of tariffs, Lotus Technology has adjusted the delivery forecast for 2024 to 12,000 units.",
+            "metadata": {
+              "date_published": "2024-10-16",
+              "doc_id": "dc5da2e50626bfe9c567e71d5b84c2577f06c5f6c6563f2f053f7719577d00fa",
+              "filename": "first_half_final.json",
+              "global_id": 13716,
+              "next_chunk_id": "237e0a4f3776e97ece27f389a9078902cc940c48327723e8cc852cff323db062",
+              "page_number": 1,
+              "prev_chunk_id": "d007daea4f0ec0f3ccf547c7c742d98ba412ae74916e197e91844b5ae462a037",
+              "title_summary": "title: 6. What is the reason for the company's sales forecast adjustment?\nsummary: The company has made a significant adjustment to its sales forecast for 2024, revising its delivery estimate to 12,000 units. This decision stems from a cautious evaluation of the current global macroeconomic environment, which is characterized by uncertainties related to tariffs and other regulatory factors that could impact market conditions. The adjustment reflects the company's strategic response to these challenges, aiming to align its operations with the evolving economic landscape. By taking these factors into account, the company seeks to mitigate risks and ensure more accurate forecasting in a volatile market."
+            },
+            "bundle_id": 26
+          },
+          {
+            "retriever": "BM25",
+            "score": 4.739492416381836,
+            "page_content": "What is the gross margin outlook and reasons?  Specific measures include:Maintain luxury positioning and a unified pricing strategy to protect brand value, continuously enhance brand desirability and used vehicle value. ◼ Lotus Technology will adjust product plans (such as high-performance special editions, limited editions, etc.) to cater to diverse global markets. ◼ Optimize operations and organizational structure to achieve cost initiatives while ensuring a premium customer experience.",
+            "metadata": {
+              "date_published": "2024-10-16",
+              "doc_id": "2690fac956be4621fc722043821b8e0560a986db02736f8267dc4fa776d033ef",
+              "filename": "first_half_final.json",
+              "global_id": 13721,
+              "next_chunk_id": "",
+              "page_number": 2,
+              "prev_chunk_id": "0a354112be7f8014488e860d66accc9edf440a2e73f931a251cf1e8e8ba3d322",
+              "title_summary": "title: 11. What is the gross margin outlook and reasons? How will the company improve profit margins in the future?\nsummary: The company is strategically positioned to achieve positive EBITDA and cash flow by 2026 through its Win26 program, which incorporates a series of targeted initiatives aimed at enhancing gross margins and overall profitability. Central to this strategy is the maintenance of a luxury brand positioning and a unified pricing strategy designed to protect brand value and elevate brand desirability. This approach also focuses on increasing the value of used cars, thereby enhancing customer satisfaction and loyalty.\n\nTo cater to diverse global markets, the company plans to adjust its product offerings by introducing high-performance special editions and limited editions. These initiatives are expected to resonate with various consumer segments, driving sales and improving margins. Additionally, the company is committed to optimizing its operations and organizational structure, which will facilitate the implementation of cost-saving measures without compromising the premium customer experience that is synonymous with its brand.\n\nOverall, the Win26 program represents a comprehensive approach to improving profit margins, leveraging brand strength, product innovation, and operational efficiency to secure a sustainable financial future. The company's focus on these key areas is expected to yield significant improvements in gross margin outlook as it moves toward its 2026 financial goals."
+            },
+            "bundle_id": 27
+          },
+          {
+            "retriever": "BM25",
+            "score": 4.7045111656188965,
+            "page_content": "The board of directors will determine whether, to what extent, at what times and places, and under what conditions or regulations the accounts and books will be open to inspection by shareholders. No shareholder will otherwise have any right to inspect any account, book, or document of the company except as required by law or authorized by the board of directors or the shareholders by special resolution.",
+            "metadata": {
+              "date_published": "2024-05-03",
+              "doc_id": "13f4e317f96bfa650cb35faa44fc3721af779e4b649b9a9fef5466d1ecd8e187",
+              "filename": "0503_final.json",
+              "global_id": 911,
+              "next_chunk_id": "ab5fbe86f65f13f466d1370f289da792b3602dd3ac7559b8d61395ad6d4ec5dc",
+              "page_number": 207,
+              "prev_chunk_id": "6c4d95cd1c95979a69854f00aa4de4d15b8b3abcd2d34fddb793df18d2e7a1f3",
+              "title_summary": "title: Inspection of Books and Records \nsummary: In the \"Inspection of Books and Records\" chapter, it is outlined that the board of directors holds the authority to determine the conditions under which shareholders may inspect the company's accounts and financial records. This includes specifying the extent, timing, location, and regulations that govern such inspections. Importantly, shareholders do not possess an inherent right to access the company's accounts, books, or documents unless such access is mandated by law, explicitly authorized by the board, or granted through a special resolution passed by the shareholders.\n\nThe board's discretion ensures that inspections are conducted in an organized manner, safeguarding the company's sensitive information while balancing shareholders' rights. The chapter emphasizes that any requests for inspection must adhere to the established conditions, and shareholders should be aware that their rights to access information are contingent upon the board's regulations and legal stipulations. \n\nOverall, the framework for inspecting books and records is designed to maintain transparency while protecting the company's interests, ensuring that all parties understand the legal and regulatory context surrounding such inspections."
+            },
+            "bundle_id": 28
+          },
+          {
+            "retriever": "BM25",
+            "score": 4.699268341064453,
+            "page_content": "The board of directors will determine whether, to what extent, at what times and places, and under what conditions or regulations the accounts and books of Lotus Technology will be open to inspection by shareholders. No shareholder will otherwise have any right to inspect any account, book, or document of Lotus Technology except as required by law or authorized by the board of directors or the shareholders by special resolution. Lotus Technology may from time to time by ordinary resolution: ● increase the share capital by such sum, to be divided into shares of such classes and amount, as the resolution will prescribe; ● consolidate and divide all or any share capital into shares of a larger amount than existing shares; ● sub-divide the existing shares or any of them into shares of a smaller amount; provided that in the subdivision the proportion between the amount paid and the amount, if any, unpaid on each reduced share will be the same as it was in the case of the share from which the reduced share is derived;",
+            "metadata": {
+              "date_published": "2024-09-19",
+              "doc_id": "03a3c974cc2890a43fd23693113fcfd64718a403e66c6472ca96f0d51fb420d7",
+              "filename": "0919_final.json",
+              "global_id": 2811,
+              "next_chunk_id": "655d67a9496a32c2d6b64d5579a503fda93328303f24a996917bf2d3123f7410",
+              "page_number": 202,
+              "prev_chunk_id": "ef2a46e24fa189cab2885e3a44424a43a369868601c99ab8785de6a15f81ece1",
+              "title_summary": "title: Inspection of Books and Records \nsummary: The chapter on \"Inspection of Books and Records\" outlines the protocols established by the board of directors regarding shareholder access to the company's financial documents. The board holds the authority to define the conditions under which shareholders may inspect the company's accounts and books, including the extent of access, timing, location, and specific regulations governing such inspections. \n\nIt is important to note that shareholders do not possess an inherent right to inspect company documents. Access is contingent upon either legal mandates, explicit authorization from the board, or approval through a special resolution passed by the shareholders. This framework ensures that the inspection process is regulated and aligned with both corporate governance and legal requirements.\n\nIn summary, the board of directors plays a crucial role in determining the parameters for document inspection, thereby safeguarding the company's interests while also adhering to applicable laws that may grant shareholders certain rights."
+            },
+            "bundle_id": 29
+          },
+          {
+            "retriever": "BM25",
+            "score": 4.387879848480225,
+            "page_content": "130. The books of account relating to Lotus Technology’s affairs shall be kept in such manner as may be determined from time to time by the Directors. The books of account shall be kept at the Registered Office of Lotus Technology, or at such other place or places as the Directors think fit, and shall always be open to the inspection of the Directors. The Directors may from time to time determine whether and to what extent and at what times and places and under what conditions or regulations the accounts and books of Lotus Technology or any of them shall be open to the inspection of Shareholders not being Directors, and no Shareholder (not being a Director) shall have any right to inspect any account or book or document of Lotus Technology except as conferred by law or authorized by the Directors or by Special Resolution. 27 The accounts relating to Lotus Technology’s affairs shall be audited in such manner and with such financial year end as may be determined from time to time by the Directors or failing any determination as aforesaid shall not be audited. 134. The Directors may appoint an auditor of Lotus Technology who shall hold office until removed from office by a resolution of the Directors and may fix the auditor's remuneration.",
+            "metadata": {
+              "date_published": "2024-04-22",
+              "doc_id": "3e252dce592abe097bf7b0586119e0cc96bb9abdafb1388051659ac677612c85",
+              "filename": "20240422_final.json",
+              "global_id": 11028,
+              "next_chunk_id": "e9d3da4edcad773a49479be72cc20c580005ea37571d43f05cacf675e5b4cedd",
+              "page_number": 296,
+              "prev_chunk_id": "1c695babec20870ede9c6e300fff3c8ca33eea3d2ec1dd83a73d62c2c7564c1a",
+              "title_summary": "title: ACCOUNTS, AUDIT AND ANNUAL RETURN AND DECLARATION \nsummary: The Company's financial records will be maintained in a manner determined by the Directors, who have the discretion to change this approach as necessary. The books of account must be kept at the Registered Office or other suitable locations, and will be accessible for inspection by the Directors. Non-director Shareholders may inspect the Company's documents only under specific conditions set by the Directors, as there is no automatic right to do so unless permitted by law or through a Special Resolution.\n\nThe Company’s accounts will be audited based on the procedures and financial year-end established by the Directors; if no determination is made, the accounts will remain unaudited. The Directors have the authority to appoint an auditor, who will serve until removed by a Directors' resolution, and they also set the auditor's remuneration. Auditors have the right to access the Company's financial records and request information from the Directors and officers to perform their duties. They are required to report on the Company's accounts at the next annual general meeting following their appointment, and can provide additional reports as requested by the Directors or Shareholder meetings.\n\nFurthermore, the Directors must prepare an annual return and declaration each year, containing information required by the Companies Act, which must be submitted to the Registrar of Companies in the Cayman Islands."
+            },
+            "bundle_id": 30
+          },
+          {
+            "retriever": "BM25",
+            "score": 4.354450225830078,
+            "page_content": "130. The books of account relating to Lotus Technology's affairs shall be kept in such manner as may be determined from time to time by the Directors. 131. The books of account shall be kept at the Registered Office, or at such other place or places as the Directors think fit, and shall always be open to the inspection of the Directors. 132. The Directors may from time to time determine whether and to what extent and at what times and places and under what conditions or regulations the accounts and books of Lotus Technology or any of them shall be open to the inspection of Shareholders not being Directors, and no Shareholder (not being a Director) shall have any right to inspect any account or book or document of Lotus Technology except as conferred by law or authorized by the Directors or by Special Resolution. 133. The accounts relating to Lotus Technology's affairs shall be audited in such manner and with such financial year end as may be determined from time to time by the Directors or failing any determination as aforesaid shall not be audited. 134. The Directors may appoint an auditor of Lotus Technology who shall hold office until removed from office by a resolution of the Directors and may fix his or their remuneration. 135.",
+            "metadata": {
+              "date_published": "2024-01-11",
+              "doc_id": "0fcc08fa215b97e04669fdc7a2625b969f1c37bbfba54ff2539056edf79841aa",
+              "filename": "20240111_final.json",
+              "global_id": 5941,
+              "next_chunk_id": "",
+              "page_number": 678,
+              "prev_chunk_id": "",
+              "title_summary": "title: ACCOUNTS, AUDIT AND ANNUAL RETURN AND DECLARATION \nsummary: The summary details the regulations established by the Directors concerning the management and inspection of the Company's financial records. Key aspects include the maintenance of the Company's books of account at designated locations, accessible for Director inspection. Shareholder access to these accounts is regulated by the Directors, limited to legal provisions or special resolutions. The auditing process is at the Directors' discretion, who may appoint an auditor with set remuneration; however, if no decision is made, the accounts may remain unaudited. Auditors are granted full access to financial records and can request necessary information from Directors and officers. They may also be required to report on the accounts at the annual general meeting or upon request. Additionally, the Directors are responsible for preparing and submitting an annual return and declaration to the Registrar of Companies in the Cayman Islands, as mandated by the Companies Act."
+            },
+            "bundle_id": 31
+          },
+          {
+            "retriever": "BM25",
+            "score": 4.354450225830078,
+            "page_content": "130. The books of account relating to Lotus Technology’s affairs shall be kept in such manner as may be determined from time to time by the Directors. 131. The books of account shall be kept at the Registered Office, or at such other place or places as the Directors think fit, and shall always be open to the inspection of the Directors. 132. The Directors may from time to time determine whether and to what extent and at what times and places and under what conditions or regulations the accounts and books of Lotus Technology or any of them shall be open to the inspection of Shareholders not being Directors, and no Shareholder (not being a Director) shall have any right to inspect any account or book or document of Lotus Technology except as conferred by law or authorized by the Directors or by Special Resolution. 133. The accounts relating to Lotus Technology’s affairs shall be audited in such manner and with such financial year end as may be determined from time to time by the Directors or failing any determination as aforesaid shall not be audited. 134. The Directors may appoint an auditor of Lotus Technology who shall hold office until removed from office by a resolution of the Directors and may fix his or their remuneration. 135.",
+            "metadata": {
+              "date_published": "2024-01-12",
+              "doc_id": "9aaafafa28f81ac7f54ed4319bb57f003ff016c65e4743c8fefe533663a354f9",
+              "filename": "20240112_final.json",
+              "global_id": 8425,
+              "next_chunk_id": "9592b6782db7525117b516f4540066615e15ed91c085baa2a7615bfe71c0e244",
+              "page_number": 677,
+              "prev_chunk_id": "997571de276a060e01770033f7a1273183e4870a95fee2ac353cf0bca823c376",
+              "title_summary": "title: ACCOUNTS, AUDIT AND ANNUAL RETURN AND DECLARATION \nsummary: The text outlines the regulations regarding the maintenance and inspection of the Company's financial records as set by the Directors. It specifies that the Directors will determine the location and method of bookkeeping, with records available for their inspection at any time. Shareholders, typically restricted from accessing these accounts, may do so only under conditions set by the Directors or as permitted by law. The auditing of accounts is also at the discretion of the Directors, who may appoint an auditor to serve until removed, with their remuneration determined by the Directors. Auditors have the right to access financial records and request information from the Company's officers. They may be required to report on the accounts at the annual general meeting or upon request. Additionally, the Directors are responsible for preparing and submitting an annual return and declaration to the Registrar of Companies in the Cayman Islands, ensuring a framework for financial accountability and transparency within the Company."
+            },
+            "bundle_id": 32
+          }
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "generated_date": "2025-06-06 11:42:18",
+    "database": "/root/autodl-tmp/RAG_Agent_production/tmp/database_202506_zeekr",
+    "batch_index": "2_2"
+  },
+  "questions": [
+    {
+      "question_index": 0,
+      "original_question": "What is the background of Zeekr's Chairman?",
+      "answer": "Zeekr's Chairman, An Conghui, has a strong background in the automotive industry, particularly in the development of electric vehicles. He has been instrumental in driving innovation and growth within the sector, leveraging his extensive experience to position Zeekr as a key player in the EV market. If you need more detailed information, our human assistant can provide it.",
+      "duration": 5.442563533782959,
+      "rewritten_question": [
+        "What is the background of Zeekr's Chairman?"
+      ],
+      "need_rag": false,
+      "rag_info": [],
+      "all_retrieved_content": []
+    }
+  ]
+}

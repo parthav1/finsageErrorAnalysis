@@ -1,0 +1,631 @@
+{
+  "metadata": {
+    "generated_date": "2025-08-18 01:06:37",
+    "database": "/root/autodl-tmp/RAG_Agent_production/tmp/database_202506",
+    "batch_index": "14_14"
+  },
+  "questions": [
+    {
+      "question_index": 0,
+      "original_question": "路特斯科技的用户画像？",
+      "answer": "路特斯在过去75年积累了一批热爱汽车文化，注重驾驶乐趣的车主和粉丝。在路特斯实行Vision 80的战略路径中，目标客户群体在扩充、升级的产品线下进一步增加。现在，重视驾趣的年轻一代、新女性、特立独行者、科技极客，以及注重社会责任的奢侈品消费者都是我们的客户及潜在客户。\n\n以上信息基于2025年3月31日之前的知识。",
+      "duration": 6.20962119102478,
+      "rewritten_question": [
+        "What is the user profile for Lotus Technology?"
+      ],
+      "need_rag": true,
+      "rag_info": [
+        {
+          "timeinfo": "2024-11-21",
+          "chunk_id": "68dfd09250473ca4ceb5cfe9966b6216044f40628d3c4bf954344910aee68c81",
+          "chunk_content": "Over the past 75 years, the user profile of Lotus is car fan who loves car culture and focuses on driving pleasure. In the strategic path of Lotus' implementation of Vision 80, the target customer group has further increased with the expanded and upgraded product line. Now the younger generation who value driving pleasure, new-era women, mavericks, technology geeks, and luxury consumers who pay attention to social responsibility are all our customers and potential customers.",
+          "chunk_bundle_id": 2.0,
+          "sub_query": "What is the user profile for Lotus Technology?"
+        },
+        {
+          "timeinfo": "2024-01-11",
+          "chunk_id": "3d5324e78605cfb977f506196b268978ce2ee539f709862e034ba89a349b63d5",
+          "chunk_content": "Lotus Technology is a pioneering luxury battery electric vehicle (BEV) maker that designs, develops, and sells luxury lifestyle vehicles (non-sports car vehicles for daily usage) under the iconic British brand “Lotus.” With over seven decades of racing heritage and proven leadership in the automotive industry, the Lotus brand symbolizes the market-leading standards in performance, design, and engineering. Fusing proprietary next-generation technology built on world-class research and development capabilities and an asset-light model empowered by Geely Holding, Lotus Technology is breaking new ground in electrification, digitization, and intelligence. The mailing address of Lotus Technology’s principal executive office is No. 800 Century Avenue, Pudong District, Shanghai, People’s Republic of China, and its phone number is +86 21 5466-6258. Lotus Technology’s corporate website address is www.group-lotus.com. Lotus Technology’s website and the information contained on, or that can be accessed through, the website are not deemed to be incorporated by reference in, and are not considered part of, this proxy statement/prospectus.",
+          "chunk_bundle_id": 7.0,
+          "sub_query": "What is the user profile for Lotus Technology?"
+        },
+        {
+          "timeinfo": "2024-01-11",
+          "chunk_id": "312b3ff7c0d3d729f3c3b0103c86d3b9709e0bc395d31f1dad82114fd7506e68",
+          "chunk_content": "The LCAA Board considered the following selection criteria to determine the comparable companies of Lotus Technology: (i) the nature of products offered, including body type, power system, configuration, and price segment, (ii) the existing product portfolio coverage and launch schedule of future products, (iii) the business model/revenue stream similarity, (iv) heritage and brand influence, (v) growth profile, and (vi) profitability profile. These companies have a high degree of similarity to Lotus Technology with respect to the above factors and are therefore included in the list of comparable companies. These companies were further categorized into two groups based on detailed intra-similarities as summarized below: BEV companies: Companies in this group share similarities with Lotus Technology mainly from the following perspectives: •  Focusing on BEV Products. These companies are all focused on the production and sale of battery electric vehicles (BEVs), with the goal of promoting sustainability. Although Lotus Technology is currently still selling internal combustion engine (ICE) models designed and manufactured by LGIL, its future revenue is expected to be mostly generated from BEV sales. Additionally, Lotus Technology is expected to achieve 100% BEV production by 2027. •  Advanced Technology. The vehicle models of each of these companies are equipped with cutting-edge technologies, including advanced battery systems, charging infrastructure, and intelligent driving capabilities. •  Growth Profile. Each of the companies is expected to experience significant growth in the next few years, supported by production expansion, entry into new markets, as well as the launch of new models. •  Profitability Profile.",
+          "chunk_bundle_id": 29.0,
+          "sub_query": "What is the user profile for Lotus Technology?"
+        },
+        {
+          "timeinfo": "2024-04-22",
+          "chunk_id": "82563723b5e55d0c2b40b5fc2c49a863beed337bbb92f772946999433a8b402c",
+          "chunk_content": "Utilizing signed certificates, encryption keys, message authentication codes, and cryptography algorithms, Lotus Technology adopts authentication and encryption to secure its products, software, vehicles and their components, and over-the-air (OTA) updates. Additionally, Lotus Technology utilizes pre-condition checks, sequence and dependency execution, and failure recovery when performing updates during the OTA process. Lotus Technology's vehicle development involves a significant degree of automation and technology. With that level of complexity and interconnectivity in mind, Lotus Technology is building cybersecurity by the TARA process into its vehicle development process itself, with the intent of enabling the business to remain resilient to any potential attacks during the vehicle development. The objective of Lotus Technology's privacy policies is to facilitate beneficial uses of data to improve its products and services while preserving its customers’ privacy expectations and complying with applicable law. Global privacy laws and practices will guide the operational design, controls, procedures, and policies for Lotus Technology's program. Lotus Technology's strategy accounts for increased risk as its business scales by addressing appropriate security and access controls for customer and employee information. A core tenet of Lotus Technology's privacy measures is to implement privacy-by-design principles in both software and hardware development throughout the organization. Lotus Technology's privacy measures will continue to evolve and adapt, utilizing best practices and tailored risk management frameworks, to allow for close collaboration across the organization, particularly between its information technology and legal functions, which is critical for effective privacy measures. Lotus Technology also works to increase cybersecurity and privacy awareness throughout the organization through education and training.",
+          "chunk_bundle_id": 8.0,
+          "sub_query": "What is the user profile for Lotus Technology?"
+        },
+        {
+          "timeinfo": "2024-05-06",
+          "chunk_id": "84d18d1f6cdb0f5ffe86ad8e605aa5222a8f621a8ead6353274d143861c7d512",
+          "chunk_content": "Lotus Technology consents to the use of this opinion as an exhibit to the Registration Statement and further consents to all references to Lotus Technology in the Registration Statement and any amendments thereto. In giving such consent, Lotus Technology does not consider that Lotus Technology is “experts” within the meaning of such term as used in the Securities Act, or the rules and regulations of the Commission issued thereunder, with respect to any part of the Registration Statement, including this opinion as an exhibit or otherwise. Yours faithfully /s/ Maples and Calder (Hong Kong) LLP Maples and Calder (Hong Kong) LLP",
+          "chunk_bundle_id": 23.0,
+          "sub_query": "What is the user profile for Lotus Technology?"
+        },
+        {
+          "timeinfo": "2024-05-24",
+          "chunk_id": "0bc6f131ba217f05780eb12740d040c87a6b89c6eca2ae3057abd2d507f7ab99",
+          "chunk_content": "In the deposit agreement, all parties to the deposit agreement acknowledge that the DRS and Profile Modification System, or Profile, will apply to uncertificated American Depositary Shares (ADSs) upon acceptance thereof to the DRS by the Depository Trust Company (DTC). The DRS is the system administered by DTC pursuant to which the depositary may register the ownership of uncertificated ADSs, which ownership shall be evidenced by periodic statements issued by the depositary to the ADS holders entitled thereto. The Profile is a required feature of the DRS which allows a DTC participant, claiming to act on behalf of an ADS holder, to direct the depositary to register a transfer of those ADSs to DTC or its nominee and to deliver those ADSs to the DTC account of that DTC participant without receipt by the depositary of prior authorization from the ADS holder to register such transfer. TAXATION",
+          "chunk_bundle_id": 33.0,
+          "sub_query": "What is the user profile for Lotus Technology?"
+        },
+        {
+          "timeinfo": "2024-05-29",
+          "chunk_id": "f67c04d6523f47d6844c9e04d4fa17ca989022f7ee757d5fa1ae8f9047e34732",
+          "chunk_content": "Lotus Technology Inc. has operations across the UK, the EU, and China. Lotus Technology Inc. is dedicated to delivering luxury lifestyle battery electric vehicles, with a focus on world-class research and development in next-generation automobility technologies such as electrification, digitalisation, and more. For more information about Lotus Technology Inc., please visit www.group-lotus.com.",
+          "chunk_bundle_id": 18.0,
+          "sub_query": "What is the user profile for Lotus Technology?"
+        },
+        {
+          "timeinfo": "2025-02-28",
+          "chunk_id": "4f6f3307628c2e5188c49b7ce690d1126807ff6ff3acb8d39689b2aadca12502",
+          "chunk_content": "Lotus Technology Inc.  \nBy:  \nName:  \nTitle: [Signature Page to Senior Convertible Note (Convertible Note)] HOLDER:",
+          "chunk_bundle_id": 14.0,
+          "sub_query": "What is the user profile for Lotus Technology?"
+        },
+        {
+          "timeinfo": "2025-03-31",
+          "chunk_id": "20ff617268c098293ce2c15085b3ad524ef7636e1fe720fc0c51b770656664a0",
+          "chunk_content": "Pursuant to the requirements of the Securities Exchange Act of 1934, Lotus Technology has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized. Lotus Technology Inc. By /s/ Alexious Kuen Long Lee  \nName: Alexious Kuen Long Lee  \nTitle: Director and Chief Financial Officer",
+          "chunk_bundle_id": 19.0,
+          "sub_query": "What is the user profile for Lotus Technology?"
+        }
+      ],
+      "all_retrieved_content": [
+        [
+          {
+            "retriever": "FAISS",
+            "score": 0.6722400784492493,
+            "page_content": "With that level of complexity and interconnectivity in mind, Lotus Technology is building cybersecurity through the TARA process into its vehicle development process itself, with the intent of enabling the business to remain resilient to any potential attacks during vehicle development. The objective of Lotus Technology's privacy policies is to facilitate beneficial uses of data to improve its products and services while preserving customers’ privacy expectations and complying with applicable law. Global privacy laws and practices will guide the operational design, controls, procedures, and policies for Lotus Technology's program. Lotus Technology's strategy accounts for increased risk as the business scales by addressing appropriate security and access controls for customer and employee information. A core tenet of Lotus Technology's privacy measures is to implement privacy-by-design principles in both software and hardware development throughout the organization. Lotus Technology's privacy measures will continue to evolve and adapt, utilizing best practices and tailored risk management frameworks, to allow for close collaboration across the organization, particularly between the information technology and legal functions, which is critical for effective privacy measures. Lotus Technology also works to increase cybersecurity and privacy awareness throughout the organization through education and training.",
+            "metadata": {
+              "date_published": "2024-09-19",
+              "doc_id": "4bd2fbf41401ecc195960e8775fadb01407481de0275ed6438fc240cece1f727",
+              "filename": "0919_final.json",
+              "global_id": 2452,
+              "next_chunk_id": "b21a04a1d3ae0d498dfa510b9ed487ea68e2f01a97411ccacf6c5228e751e445",
+              "page_number": 120,
+              "prev_chunk_id": "3c49200ef8aa6dc1530e6486cf64b8e1ef50a628ac3fd51c45435245ca0e2199",
+              "title_summary": "title: Cybersecurity and Privacy \nsummary: The organization places a strong emphasis on building and maintaining customer and employee trust through robust systems and product security, cybersecurity, and privacy initiatives. A dedicated team is responsible for implementing a comprehensive range of technical and organizational security measures, which are supported by recognized certifications such as ISO/IEC 27001 (GB/T 22080-2016) and R155/R156. To further enhance its commitment to data privacy, the organization has launched a corporate-wide initiative that leverages cross-functional resources.\n\nTo manage enterprise vulnerabilities, the organization conducts regular security vulnerability scans, internal and external penetration testing, and adheres to established incident response protocols. A centralized view of information assets has been established to improve management and protection, complemented by cybersecurity risk monitoring policies designed to detect potential threats.\n\nIn terms of cloud security, the organization has developed policies aimed at securing its cloud architecture while extending security capabilities. This includes the use of signed certificates, encryption keys, and cryptographic algorithms to ensure product and software security, particularly for over-the-air (OTA) updates. The vehicle development process integrates a Threat Analysis and Risk Assessment (TARA) approach, enhancing resilience against potential cyberattacks.\n\nPrivacy policies are crafted to balance the beneficial use of data with customer privacy and legal compliance, guided by global privacy laws. The organization adheres to privacy-by-design principles in both software and hardware development, adapting its measures to address increased risks as the business scales. Collaboration between IT and legal functions is emphasized to ensure effective privacy management.\n\nTo foster a culture of cybersecurity and privacy awareness, the organization promotes education and training initiatives. Overall, the organization is committed to continuously evolving its security and privacy strategies by employing best practices and tailored risk management frameworks, ensuring a proactive approach to safeguarding both customer data and organizational integrity."
+            },
+            "bundle_id": 0
+          },
+          {
+            "retriever": "FAISS",
+            "score": 0.6692428588867188,
+            "page_content": "Utilizing signed certificates, encryption keys, message authentication codes, and cryptography algorithms, Lotus Technology adopts authentication and encryption to secure its products, software, vehicles and their components, and OTA updates. Additionally, Lotus Technology utilizes pre-condition checks, sequence and dependency execution, and failure recovery when performing updates during the OTA process. Lotus Technology's vehicle development involves a significant degree of automation and technology. With that level of complexity and interconnectivity in mind, Lotus Technology is building cybersecurity by the Threat Assessment and Remediation Analysis (TARA) process into its vehicle development process itself, with the intent of enabling the business to remain resilient to any potential attacks during the vehicle development. The objective of Lotus Technology's privacy policies is to facilitate beneficial uses of data to improve its products and services while preserving its customers’ privacy expectations and complying with applicable law. Global privacy laws and practices will guide the operational design, controls, procedures, and policies for Lotus Technology's program. Lotus Technology's strategy accounts for increased risk as its business scales by addressing appropriate security and access controls for customer and employee information. A core tenet of Lotus Technology's privacy measures is to implement privacy-by-design principles in both software and hardware development throughout the organization. Lotus Technology's privacy measures will continue to evolve and adapt, utilizing best practices and tailored risk management frameworks, to allow for close collaboration across the organization, particularly between its information technology and legal functions, which is critical for effective privacy measures.",
+            "metadata": {
+              "date_published": "2025-04-30",
+              "doc_id": "90d48751d82372f0e2c61e50af7c2ce77ac01801d4f98227fc6f39f958b49a42",
+              "filename": "20250430.json",
+              "global_id": 11704,
+              "next_chunk_id": "337ed698e2409065fe417b5c22a15ee5a29d680de1a913d05668a5201690df94",
+              "page_number": 87,
+              "prev_chunk_id": "abd8ab86a8901ee4ff37556984cebc542d78277edbac765a54f0af684dc74d82",
+              "title_summary": "title: Cybersecurity and Privacy \nsummary: The organization places a strong emphasis on building trust with customers and employees by prioritizing systems and product security, cybersecurity, and privacy. To protect its assets, it employs a comprehensive range of technical and organizational security measures, including policies, procedures, and controls, supported by a dedicated team focused on application, network, system, and product security. The organization has achieved ISO/IEC 27001 and R155/R156 certifications and has implemented robust data privacy policies, backed by cross-functional resources.\n\nA key component of its security strategy is a thorough enterprise vulnerability management process that involves regular security scans, internal and external penetration testing, and adherence to incident response protocols. Vulnerabilities are assessed and addressed based on their severity and risk level, while a centralized view of information assets enhances management and protection efforts. Cybersecurity risk monitoring policies are in place to proactively identify and mitigate threats to enterprise information assets and products.\n\nThe organization also emphasizes secure cloud architecture through its cloud security policies, utilizing signed certificates, encryption keys, and cryptographic algorithms to ensure the integrity of products and software. The over-the-air (OTA) update process is designed with security in mind, incorporating pre-condition checks and recovery mechanisms to safeguard updates.\n\nIn vehicle development, the integration of the Threat Assessment and Remediation Analysis (TARA) process enhances resilience against cyber threats. The organization’s privacy policies aim to balance beneficial data use with customer privacy, guided by global privacy laws and the principles of privacy-by-design in product development. As the organization grows, it recognizes the importance of robust security and access controls for both customer and employee information.\n\nTo foster a culture of cybersecurity and privacy awareness, the organization invests in education and training initiatives, continually evolving its practices and collaborating between IT and legal teams to ensure effective protection of sensitive information."
+            },
+            "bundle_id": 1
+          },
+          {
+            "retriever": "FAISS",
+            "score": 0.6647158861160278,
+            "page_content": "Over the past 75 years, the user profile of Lotus is car fan who loves car culture and focuses on driving pleasure. In the strategic path of Lotus' implementation of Vision 80, the target customer group has further increased with the expanded and upgraded product line. Now the younger generation who value driving pleasure, new-era women, mavericks, technology geeks, and luxury consumers who pay attention to social responsibility are all our customers and potential customers.",
+            "metadata": {
+              "date_published": "2024-11-21",
+              "doc_id": "68dfd09250473ca4ceb5cfe9966b6216044f40628d3c4bf954344910aee68c81",
+              "filename": "1121_ppt.json",
+              "global_id": 3647,
+              "next_chunk_id": "",
+              "page_number": 43,
+              "prev_chunk_id": "93ab470aa9fc383763e20861436658149c9c1b669fcbed901dc06091713c19dc"
+            },
+            "bundle_id": 2
+          },
+          {
+            "retriever": "FAISS",
+            "score": 0.664498507976532,
+            "page_content": "Lotus Technology's strategy accounts for increased risk as the business scales by addressing appropriate security and access controls for customer and employee information. A core tenet of Lotus Technology's privacy measures is to implement privacy-by-design principles in both software and hardware development throughout the organization. Lotus Technology's privacy measures will continue to evolve and adapt, utilizing best practices and tailored risk management frameworks, to allow for close collaboration across the organization, particularly between the information technology and legal functions, which is critical for effective privacy measures. Lotus Technology also works to increase cybersecurity and privacy awareness throughout the organization through education and training. Lotus Technology's cloud security policies seek to enable secure cloud architecture deployments and extend security capabilities. Utilizing signed certificates, encryption keys, message authentication codes, and cryptographic algorithms, Lotus Technology has deployed authentication and encryption as part of its efforts to secure its products, software, vehicles and their components, and OTA updates. Additionally, Lotus Technology utilizes pre-condition checks, sequence and dependency execution, failure detection, and rollback and recovery when performing updates during the OTA process.",
+            "metadata": {
+              "date_published": "2024-05-03",
+              "doc_id": "f7c32368f02a5f914a6096cf2265f3d977ecf52f2b06ce1052a2b715bdd4b750",
+              "filename": "0503_final.json",
+              "global_id": 517,
+              "next_chunk_id": "b5fbbdada1a0fe83cc2747f9bf9cd8c50b59937e44592665f989630793bd407e",
+              "page_number": 128,
+              "prev_chunk_id": "4192b99c5ec238042de9c5ff83423b93b71cfb45bb00481721c1d31c21e67960",
+              "title_summary": "title: Cybersecurity and Privacy \nsummary: The organization places a strong emphasis on cybersecurity, privacy, and product security to foster trust among customers and employees. It employs a comprehensive array of technical and organizational security measures, backed by a dedicated team focused on application, network, system, and product security. The company has achieved notable certifications, including ISO/IEC 27001 and R155/R156, and has initiated corporate-wide data privacy policies that utilize cross-functional resources.\n\nTo manage vulnerabilities effectively, the organization has established enterprise vulnerability management processes that include periodic scans, internal and external penetration tests, and the use of threat intelligence to identify and remediate vulnerabilities based on severity and risk. A centralized view of information assets has been developed, complemented by cybersecurity risk monitoring policies designed to detect potential threats. Additionally, the organization has implemented cloud security policies that incorporate encryption and authentication measures to safeguard products, software, vehicles, and over-the-air (OTA) updates, alongside robust update procedures.\n\nIn vehicle development, cybersecurity is integrated through a Threat Analysis and Risk Assessment (TARA) process, which enhances resilience against potential attacks. The organization’s privacy policies strive to balance beneficial data use with customer privacy expectations, adhering to global privacy laws. It adopts privacy-by-design principles in both software and hardware development, emphasizing collaboration between IT and legal functions to strengthen privacy measures.\n\nTo promote cybersecurity and privacy awareness, the organization invests in education and training initiatives. The competitive landscape includes traditional luxury automotive developers and new entrants in the electric and alternative fuel vehicle sectors. Key competitive factors include brand recognition, technological innovation, product quality, customer service, and environmental impact. While the organization believes it is well-positioned to compete, it faces challenges from competitors with greater resources and market presence.\n\nLeveraging its brand heritage, focus on design and experience, advanced technologies, and a strategic partnership with Geely Holding, the company has developed a differentiated market strategy. Its asset-light business model is designed to minimize upfront capital expenditure while emphasizing research and development (R&D) and technology advancement. This comprehensive approach ensures that the organization remains competitive and resilient in a rapidly evolving market landscape."
+            },
+            "bundle_id": 3
+          },
+          {
+            "retriever": "FAISS",
+            "score": 0.6638725996017456,
+            "page_content": "Lotus Technology has implemented cybersecurity monitoring capabilities that collect and analyze telemetries from a wide range of sources and take proactive actions to ensure the security risk visualization of its systems and products. Lotus Technology's cloud security policies seek to enable secure cloud architecture deployments and extend security capabilities. Utilizing signed certificates, encryption keys, message authentication codes, and cryptographic algorithms, Lotus Technology adopts authentication and encryption to secure its products, software, vehicles and their components, and OTA updates. Additionally, Lotus Technology utilizes pre-condition checks, sequence and dependency execution, and failure recovery when performing updates during the OTA process. Lotus Technology's vehicle development involves a significant degree of automation and technology. With that level of complexity and interconnectivity in mind, Lotus Technology is building cybersecurity by the TARA process into its vehicle development process itself, with the intent of enabling the business to remain resilient to any potential attacks during vehicle development. The objective of Lotus Technology's privacy policies is to facilitate beneficial uses of data to improve its products and services while preserving customers’ privacy expectations and complying with applicable law. Global privacy laws and practices will guide the operational design, controls, procedures, and policies for Lotus Technology's program.",
+            "metadata": {
+              "date_published": "2024-05-03",
+              "doc_id": "4192b99c5ec238042de9c5ff83423b93b71cfb45bb00481721c1d31c21e67960",
+              "filename": "0503_final.json",
+              "global_id": 516,
+              "next_chunk_id": "f7c32368f02a5f914a6096cf2265f3d977ecf52f2b06ce1052a2b715bdd4b750",
+              "page_number": 128,
+              "prev_chunk_id": "85bf25ad0836c20a48728dec142cc57a0451afa1b1452d87da558cfc422bb583",
+              "title_summary": "title: Cybersecurity and Privacy \nsummary: The organization places a strong emphasis on cybersecurity, privacy, and product security to foster trust among customers and employees. It employs a comprehensive array of technical and organizational security measures, backed by a dedicated team focused on application, network, system, and product security. The company has achieved notable certifications, including ISO/IEC 27001 and R155/R156, and has initiated corporate-wide data privacy policies that utilize cross-functional resources.\n\nTo manage vulnerabilities effectively, the organization has established enterprise vulnerability management processes that include periodic scans, internal and external penetration tests, and the use of threat intelligence to identify and remediate vulnerabilities based on severity and risk. A centralized view of information assets has been developed, complemented by cybersecurity risk monitoring policies designed to detect potential threats. Additionally, the organization has implemented cloud security policies that incorporate encryption and authentication measures to safeguard products, software, vehicles, and over-the-air (OTA) updates, alongside robust update procedures.\n\nIn vehicle development, cybersecurity is integrated through a Threat Analysis and Risk Assessment (TARA) process, which enhances resilience against potential attacks. The organization’s privacy policies strive to balance beneficial data use with customer privacy expectations, adhering to global privacy laws. It adopts privacy-by-design principles in both software and hardware development, emphasizing collaboration between IT and legal functions to strengthen privacy measures.\n\nTo promote cybersecurity and privacy awareness, the organization invests in education and training initiatives. The competitive landscape includes traditional luxury automotive developers and new entrants in the electric and alternative fuel vehicle sectors. Key competitive factors include brand recognition, technological innovation, product quality, customer service, and environmental impact. While the organization believes it is well-positioned to compete, it faces challenges from competitors with greater resources and market presence.\n\nLeveraging its brand heritage, focus on design and experience, advanced technologies, and a strategic partnership with Geely Holding, the company has developed a differentiated market strategy. Its asset-light business model is designed to minimize upfront capital expenditure while emphasizing research and development (R&D) and technology advancement. This comprehensive approach ensures that the organization remains competitive and resilient in a rapidly evolving market landscape."
+            },
+            "bundle_id": 4
+          },
+          {
+            "retriever": "FAISS",
+            "score": 0.6613528728485107,
+            "page_content": "Lotus Technology Inc.",
+            "metadata": {
+              "date_published": "2024-01-11",
+              "doc_id": "2728542af49381a97e68b0a962b38d4b16127686f7e37414b0b276a42907146d",
+              "filename": "20240111_final.json",
+              "global_id": 3676,
+              "next_chunk_id": "bd7e8aa81478f94ffed3d71e6cf37d3d571b9812c343aabf085a56fcd7e8c757",
+              "page_number": 703,
+              "prev_chunk_id": "b6032465ad9090105e2a63ccbb14231f09666b26bba0cadb50a55a49a5e582c1",
+              "title_summary": "title: Lotus Technology Inc. \nsummary: L Catterton Asia Acquisition Corp (LCAA) has received approval from its board of directors for a Merger Agreement involving Lotus Technology Inc. (LTC) and its subsidiaries, Lotus Temp Limited and Lotus EV Limited. The agreement, which outlines a two-step merger process, was initially dated January 31, 2023, and amended on October 11, 2023. In the first step, Lotus Temp Limited will merge with LCAA, making LCAA a wholly-owned subsidiary of LTC, and converting its shareholders into LTC shareholders. The second step involves the surviving entity from the first merger merging into Lotus EV Limited, which will also become a wholly-owned subsidiary of LTC. \n\nShareholders of LCAA will vote on the proposed Business Combination, which, if approved, will transition their shares to LTC shares. Key actions prior to the merger include the conversion of LTC's preferred shares into ordinary shares, the adoption of amended articles of association, and a recapitalization process that will affect the share structure and outstanding options. \n\nLTC, a Cayman Islands holding company, has undergone a restructuring to eliminate its previous variable interest entity (VIE) structure, now directly operating through its subsidiaries in China. This change presents certain risks, including regulatory challenges in China and potential trading prohibitions in the U.S. under the Holding Foreign Companies Accountable Act (HFCAA). The company plans to list its American Depositary Shares (ADSs) on Nasdaq following the merger.\n\nThe document also outlines the financial performance of LTC, including audited and unaudited financial statements, and details the registration fees associated with the securities being registered in connection with the merger. The extraordinary general meeting for LCAA shareholders will address the merger proposals, with the board recommending approval. However, shareholders are advised to consider potential conflicts of interest among LCAA's directors and officers regarding the Business Combination. The SEC has not evaluated the merits of the transactions, and any claims to the contrary are considered criminal offenses."
+            },
+            "bundle_id": 5
+          },
+          {
+            "retriever": "FAISS",
+            "score": 0.660186231136322,
+            "page_content": "Lotus Technology is a pioneering luxury battery electric vehicle (BEV) maker that designs, develops, and sells luxury lifestyle vehicles (non-sports car vehicles for daily usage) under the iconic British brand “Lotus.” With over seven decades of racing heritage and proven leadership in the automotive industry, the Lotus brand symbolizes the market-leading standards in performance, design, and engineering. Fusing proprietary next-generation technology built on world-class research and development capabilities and an asset-light model empowered by Geely Holding, Lotus Technology is breaking new ground in electrification, digitization, and intelligence. The mailing address of Lotus Technology’s principal executive office is No. 800 Century Avenue, Pudong District, Shanghai, People’s Republic of China, and the phone number is +86 21 5466-6258. Lotus Technology’s corporate website address is www.group-lotus.com. Lotus Technology’s website and the information contained on, or that can be accessed through, the website are not deemed to be incorporated by reference in, and are not considered part of, this proxy statement/prospectus.",
+            "metadata": {
+              "date_published": "2024-01-12",
+              "doc_id": "1cb59d404c47e112a423d5375cd268d26ee3976ca9571e8887dfc942f2a8390a",
+              "filename": "20240112_final.json",
+              "global_id": 6234,
+              "next_chunk_id": "01ba19aac8c2af1e55d364a6a93fa6b2d634ccc16d71149d9570cddff4279c71",
+              "page_number": 46,
+              "prev_chunk_id": "1599be36a4ac98a4a03aacb6c2e47e27f232cfe928b61816cc837e76b055c415",
+              "title_summary": "title: Lotus Tech \nsummary: Lotus Tech is a cutting-edge luxury battery electric vehicle (BEV) manufacturer known for its high-end lifestyle vehicles under the prestigious British brand \"Lotus.\" With a legacy of over 70 years in racing and a strong automotive reputation, Lotus embodies excellence in performance, design, and engineering. The company leverages advanced proprietary technology and robust research and development, operating under an asset-light model supported by Geely Holding. Lotus Tech is leading the way in electrification, digitization, and intelligent vehicle solutions. Its principal office is located in Shanghai, China, and further information can be found on their corporate website, though it is not part of the official proxy statement/prospectus."
+            },
+            "bundle_id": 6
+          },
+          {
+            "retriever": "FAISS",
+            "score": 0.6601814031600952,
+            "page_content": "Lotus Technology is a pioneering luxury battery electric vehicle (BEV) maker that designs, develops, and sells luxury lifestyle vehicles (non-sports car vehicles for daily usage) under the iconic British brand “Lotus.” With over seven decades of racing heritage and proven leadership in the automotive industry, the Lotus brand symbolizes the market-leading standards in performance, design, and engineering. Fusing proprietary next-generation technology built on world-class research and development capabilities and an asset-light model empowered by Geely Holding, Lotus Technology is breaking new ground in electrification, digitization, and intelligence. The mailing address of Lotus Technology’s principal executive office is No. 800 Century Avenue, Pudong District, Shanghai, People’s Republic of China, and its phone number is +86 21 5466-6258. Lotus Technology’s corporate website address is www.group-lotus.com. Lotus Technology’s website and the information contained on, or that can be accessed through, the website are not deemed to be incorporated by reference in, and are not considered part of, this proxy statement/prospectus.",
+            "metadata": {
+              "date_published": "2024-01-11",
+              "doc_id": "3d5324e78605cfb977f506196b268978ce2ee539f709862e034ba89a349b63d5",
+              "filename": "20240111_final.json",
+              "global_id": 3808,
+              "next_chunk_id": "",
+              "page_number": 47,
+              "prev_chunk_id": "",
+              "title_summary": "title: Lotus Tech \nsummary: Lotus Tech is a luxury battery electric vehicle (BEV) manufacturer known for producing high-end lifestyle vehicles under the esteemed British brand \"Lotus.\" With over 70 years of experience in racing and a strong automotive reputation, Lotus embodies excellence in performance, design, and engineering. The company utilizes advanced proprietary technology and a research-driven approach, supported by an asset-light model from Geely Holding, positioning itself at the forefront of electrification, digitization, and intelligent vehicle solutions. Lotus Tech's headquarters is located in Pudong District, Shanghai, China, and can be contacted at +86 21 5466-6258. While information about the company is available on its website, it is not considered part of the official proxy statement/prospectus."
+            },
+            "bundle_id": 7
+          },
+          {
+            "retriever": "FAISS",
+            "score": 0.6599820852279663,
+            "page_content": "Utilizing signed certificates, encryption keys, message authentication codes, and cryptography algorithms, Lotus Technology adopts authentication and encryption to secure its products, software, vehicles and their components, and over-the-air (OTA) updates. Additionally, Lotus Technology utilizes pre-condition checks, sequence and dependency execution, and failure recovery when performing updates during the OTA process. Lotus Technology's vehicle development involves a significant degree of automation and technology. With that level of complexity and interconnectivity in mind, Lotus Technology is building cybersecurity by the TARA process into its vehicle development process itself, with the intent of enabling the business to remain resilient to any potential attacks during the vehicle development. The objective of Lotus Technology's privacy policies is to facilitate beneficial uses of data to improve its products and services while preserving its customers’ privacy expectations and complying with applicable law. Global privacy laws and practices will guide the operational design, controls, procedures, and policies for Lotus Technology's program. Lotus Technology's strategy accounts for increased risk as its business scales by addressing appropriate security and access controls for customer and employee information. A core tenet of Lotus Technology's privacy measures is to implement privacy-by-design principles in both software and hardware development throughout the organization. Lotus Technology's privacy measures will continue to evolve and adapt, utilizing best practices and tailored risk management frameworks, to allow for close collaboration across the organization, particularly between its information technology and legal functions, which is critical for effective privacy measures. Lotus Technology also works to increase cybersecurity and privacy awareness throughout the organization through education and training.",
+            "metadata": {
+              "date_published": "2024-04-22",
+              "doc_id": "82563723b5e55d0c2b40b5fc2c49a863beed337bbb92f772946999433a8b402c",
+              "filename": "20240422_final.json",
+              "global_id": 8820,
+              "next_chunk_id": "",
+              "page_number": 90,
+              "prev_chunk_id": "b70895c9be7d32814f4defb3da0eb227ef124fd9537dacb70f890c9f9855e7be",
+              "title_summary": "title: Cybersecurity and Privacy \nsummary: Our organization places a strong emphasis on building trust with customers and employees through robust systems and product security, cybersecurity, and privacy measures. We employ a comprehensive array of technical and organizational security protocols, backed by a dedicated team focused on safeguarding application, network, system, and product security. Our commitment is validated by ISO/IEC 27001 and R155/R156 certifications, alongside the implementation of corporate data privacy policies supported by cross-functional resources.\n\nTo effectively manage vulnerabilities, we conduct regular scans, internal and external penetration tests, and utilize threat intelligence, adhering to established incident response procedures based on risk severity. A centralized overview of our information assets enhances their management and protection. Our cybersecurity risk monitoring policies are designed to identify and analyze threats to our information assets, allowing for proactive security measures.\n\nIn terms of cloud security, we have developed policies to ensure secure deployments, incorporating signed certificates, encryption, and cryptographic algorithms to protect our products and facilitate secure over-the-air (OTA) updates. The OTA process is reinforced with pre-condition checks, dependency execution, and recovery strategies to maintain integrity and reliability.\n\nRecognizing the complexities of vehicle development, we integrate the Threat Analysis and Risk Assessment (TARA) process into our development workflow to bolster resilience against cyber threats. Our privacy policies aim to enhance product and service offerings while ensuring customer privacy and compliance with global regulations. We adopt privacy-by-design principles and continuously evolve our privacy measures through best practices and collaboration between IT and legal teams.\n\nTo foster a culture of cybersecurity and privacy awareness, we implement education and training initiatives, ensuring that our security capabilities are robust and aligned with our growth objectives."
+            },
+            "bundle_id": 8
+          },
+          {
+            "retriever": "FAISS",
+            "score": 0.6593537330627441,
+            "page_content": "Utilizing signed certificates, encryption keys, message authentication codes, and cryptography algorithms, Lotus Technology adopts authentication and encryption to secure its products, software, vehicles and their components, and over-the-air (OTA) updates. Additionally, Lotus Technology utilizes pre-condition checks, sequence and dependency execution, and failure recovery when performing updates during the OTA process. Lotus Technology's vehicle development involves a significant degree of automation and technology. With that level of complexity and interconnectivity in mind, Lotus Technology is building cybersecurity by the TARA process into its vehicle development process itself, with the intent of enabling the business to remain resilient to any potential attacks during vehicle development. The objective of Lotus Technology's privacy policies is to facilitate beneficial uses of data to improve its products and services while preserving its customers’ privacy expectations and complying with applicable law. Global privacy laws and practices will guide the operational design, controls, procedures, and policies for Lotus Technology's program. Lotus Technology's strategy accounts for increased risk as its business scales by addressing appropriate security and access controls for customer and employee information. A core tenet of Lotus Technology's privacy measures is to implement privacy-by-design principles in both software and hardware development throughout the organization. Lotus Technology's privacy measures will continue to evolve and adapt, utilizing best practices and tailored risk management frameworks, to allow for close collaboration across the organization, particularly between its information technology and legal functions, which is critical for effective privacy measures. Lotus Technology also works to increase cybersecurity and privacy awareness throughout the organization through education and training.",
+            "metadata": {
+              "date_published": "2024-05-24",
+              "doc_id": "6de2f6a52b2330e1c1cf4442cdfc75f0ecb32a1620378407eb397aeaf4f05882",
+              "filename": "20240524_final.json",
+              "global_id": 10498,
+              "next_chunk_id": "",
+              "page_number": 134,
+              "prev_chunk_id": "",
+              "title_summary": "title: Cybersecurity and Privacy \nsummary: Our organization places a strong emphasis on building trust with customers and employees by prioritizing security, cybersecurity, and privacy across all operations. We implement a comprehensive range of technical and organizational measures to protect our systems, products, and data, supported by a dedicated team focused on various security domains. Our commitment to security is validated by ISO/IEC 27001 and R155/R156 certifications, alongside robust corporate data privacy policies and controls.\n\nTo effectively manage vulnerabilities, we have established an enterprise vulnerability management process that includes regular security scans, internal and external penetration testing, and the acquisition of threat intelligence. This process is designed to identify and remediate vulnerabilities based on their severity and risk. Additionally, we maintain a centralized view of our information assets and have implemented cybersecurity risk monitoring policies to proactively identify threats to our enterprise information and products.\n\nOur cloud security policies are designed to support secure cloud architecture and enhance security measures through the use of signed certificates, encryption keys, and cryptographic algorithms. We also ensure the integrity of over-the-air (OTA) updates by incorporating pre-condition checks, execution sequencing, and failure recovery protocols.\n\nIn vehicle development, we integrate the Threat Assessment and Remediation Analysis (TARA) process to strengthen our cybersecurity framework, addressing the complexities of interconnected systems. Our privacy policies aim to balance beneficial data use with customer privacy and legal compliance, guided by global privacy laws and a focus on privacy-by-design principles.\n\nTo foster a culture of security and privacy, we provide ongoing education and training for employees, ensuring they are aware of best practices. Our approach to privacy and security is dynamic, continuously evolving to incorporate new best practices and tailored risk management frameworks, while promoting collaboration between our information technology and legal teams."
+            },
+            "bundle_id": 9
+          },
+          {
+            "retriever": "Title Summary",
+            "score": 0.6547222137451172,
+            "page_content": "Lotus Technology Inc. (the “Company”) No. 800 Century Avenue Pudong District, Shanghai, People's Republic of China Dear Sirs/Madams, Lotus Technology Inc. has acted as the PRC legal counsel as to the laws of the People’s Republic of China (the “PRC”, for the purpose of this letter only, excluding the Hong Kong Special Administrative Region, the Macau Special Administrative Region and Taiwan) to the Company in connection with the Company’s registration statement on Form F-3, including all amendments and supplements thereto (the “Registration Statement”), filed with the Securities and Exchange Commission (the “SEC”) under the U.S. Securities Act of 1933 (as amended). Lotus Technology Inc. hereby consents to the reference of its name in the Registration Statement and the filing of this consent letter with the SEC as an exhibit to the Registration Statement. In giving such consent, Lotus Technology Inc. does not thereby admit that Lotus Technology Inc. comes within the category of persons whose consent is required under Section 7 of the Securities Exchange Act of 1933, or under the Securities Exchange Act of 1934, in each case, as amended, or the regulations promulgated thereunder.",
+            "metadata": {
+              "date_published": "2025-03-04",
+              "doc_id": "96a3e374c06f4d40f57108392121bd48bb55f89de01c2f2e32e4ef5ef072b999",
+              "filename": "Lotus_F-3_20250304.json",
+              "global_id": 16986,
+              "next_chunk_id": "7beea817c65a81e72d79191c3b80bc5a8e97dea489cfe18b4ddd2dff20622fdb",
+              "page_number": 91,
+              "prev_chunk_id": "5c28632cd8852f8775062aec4367311b6deea109a816f6688fb56fb4c1cf1541",
+              "title_summary": "title: To: \nsummary: Lotus Technology Inc. is an innovative technology company likely operating in the automotive, software, or advanced manufacturing sectors. While specific details about its products and market position are not disclosed, the company aims to utilize cutting-edge technology to enhance user experiences, improve efficiency, and promote sustainability. Additional insights into its operations and strategic goals would clarify its impact in the industry.\n\nThe company is associated with a location at No. 800 Century Avenue, which may be significant in a commercial district, though further context about the building's purpose is needed for a detailed understanding. \n\nPudong District, where the company may be located, is a rapidly developing area in Shanghai, China. It has evolved from an agricultural region into a major financial and commercial hub, featuring iconic skyscrapers and advanced infrastructure, including the Shanghai Free Trade Zone and Pudong International Airport. This vibrant district combines residential, commercial, and recreational spaces, showcasing the dynamic urban growth of modern Shanghai.\n\nAdditionally, the company has engaged legal counsel regarding its registration statement on Form F-3 with the SEC, which includes a total offering cap of $1.5 billion for various equity and debt securities. The registration encompasses ordinary shares, preferred shares, warrants, subscription rights, and debt securities, although specific details about these securities remain unspecified. The registration statement allows for flexibility in the sale of securities over time and includes provisions for additional shares due to corporate actions. The registration fee is calculated based on the maximum total offering price, ensuring compliance with relevant securities regulations."
+            },
+            "bundle_id": 10
+          },
+          {
+            "retriever": "Title Summary",
+            "score": 0.6547222137451172,
+            "page_content": "[Table Level]\n- Table Title: Registration Table for Various Securities\n- Table Summary: The table lists various securities to be registered under a Form F-3 registration statement filed with the Securities and Exchange Commission (SEC). It includes categories such as Equity and Debt, detailing the types of securities, amounts to be registered, proposed maximum offering prices, fee rates, and registration fee amounts.\n- Context: The table is part of a legal document concerning the registration of securities for an offering, potentially involving ordinary shares, preferred shares, debt securities, and other financial instruments, with a total offering cap of US$1.5 billion.\n- Special Notes: The ordinary shares have a par value of US$0.00001 per share. Pursuant to various rules, there is a provision for an indeterminate number of additional shares due to corporate actions like stock splits.\n\n[Row Level]\nRow 1: For securities classified under \"Equity,\" titled as \"Ordinary shares\" with a par value of US$0.00001 per share, the specified registration conditions and amounts are referenced without specific values under this section.\nRow 2: Under the \"Equity\" category, \"Preferred shares\" are listed; however, specific registration values and details are not filled in.\nRow 3: \"Equity\" also includes \"Warrants,\" but similar to other entries, lacks specified registration values.\nRow 4: The \"Subscription rights\" appear under \"Equity,\" with similarly unspecified registration details.\nRow 5: For \"Equity\" titled \"Units,\" the section remains unfilled regarding specific amounts or other financial specifics.\nRow 6: Under the \"Debt\" category, there are \"Debt Securities,\" once again lacking specific registration details.\nRow 7: In the \"Debt Convertible into Equity\" segment, \"Debt Securities\" are mentioned without detailed registration specifics.\nRow 8: Another mention of \"Debt Securities\" under \"Non-Convertible Debt,\" continuing the trend of omitted details.\nRow 9: The total aggregate for the offering is listed as US$1,400,000,000.\nRow 10: Total fees previously paid are noted as \"N/A\" (not applicable).\nRow 11: Total fee offsets are also marked \"N/A.\"\nRow 12: The net fee due for the registration is calculated as US$214,340, reflecting the financial commitment required for the registration procedure, with a fee rate of 0.0001531 applied.",
+            "metadata": {
+              "date_published": "2025-03-04",
+              "doc_id": "7beea817c65a81e72d79191c3b80bc5a8e97dea489cfe18b4ddd2dff20622fdb",
+              "filename": "Lotus_F-3_20250304.json",
+              "global_id": 16987,
+              "next_chunk_id": "e84a50236f97e33dbf1948ac4d999adc9fede2e838d9a50965f3cb25fffd5342",
+              "page_number": 92,
+              "prev_chunk_id": "96a3e374c06f4d40f57108392121bd48bb55f89de01c2f2e32e4ef5ef072b999",
+              "title_summary": "title: To: \nsummary: Lotus Technology Inc. is an innovative technology company likely operating in the automotive, software, or advanced manufacturing sectors. While specific details about its products and market position are not disclosed, the company aims to utilize cutting-edge technology to enhance user experiences, improve efficiency, and promote sustainability. Additional insights into its operations and strategic goals would clarify its impact in the industry.\n\nThe company is associated with a location at No. 800 Century Avenue, which may be significant in a commercial district, though further context about the building's purpose is needed for a detailed understanding. \n\nPudong District, where the company may be located, is a rapidly developing area in Shanghai, China. It has evolved from an agricultural region into a major financial and commercial hub, featuring iconic skyscrapers and advanced infrastructure, including the Shanghai Free Trade Zone and Pudong International Airport. This vibrant district combines residential, commercial, and recreational spaces, showcasing the dynamic urban growth of modern Shanghai.\n\nAdditionally, the company has engaged legal counsel regarding its registration statement on Form F-3 with the SEC, which includes a total offering cap of $1.5 billion for various equity and debt securities. The registration encompasses ordinary shares, preferred shares, warrants, subscription rights, and debt securities, although specific details about these securities remain unspecified. The registration statement allows for flexibility in the sale of securities over time and includes provisions for additional shares due to corporate actions. The registration fee is calculated based on the maximum total offering price, ensuring compliance with relevant securities regulations."
+            },
+            "bundle_id": 11
+          },
+          {
+            "retriever": "Title Summary",
+            "score": 0.6547222137451172,
+            "page_content": "(1) Pursuant to Rule 416 of the Securities Act of 1933, as amended, or the Securities Act, this registration statement includes an indeterminate number of additional shares that may be issuable as a result of stock splits or stock dividends which occur during this continuous offering. (2) There are being registered under this registration statement such indeterminate number of ordinary shares, preferred shares, debt securities, warrants, subscription rights, and units as may be sold by Lotus Technology Inc. from time to time, which collectively shall have an aggregate initial offering price not to exceed US$1,500,000,000, or, if any securities are issued for consideration denominated in a foreign currency, such amount as shall result in an aggregate initial offering price equivalent to a maximum of US$1,500,000,000. The securities registered hereunder also include such indeterminate number of ordinary shares as may be issued upon conversion, exercise, or exchange of convertible debt securities and warrants that provide for such conversion into, exercise for, or exchange into ordinary shares. (3) Not specified as to each class of securities to be registered pursuant to Instruction 2.A.iii.b to the Calculation of Filing Fee Tables and Related Disclosure in Item 9(b) of Form F-3.",
+            "metadata": {
+              "date_published": "2025-03-04",
+              "doc_id": "e84a50236f97e33dbf1948ac4d999adc9fede2e838d9a50965f3cb25fffd5342",
+              "filename": "Lotus_F-3_20250304.json",
+              "global_id": 16988,
+              "next_chunk_id": "d273b0363ba4f2b58fc4b86582adaae8d02d9c9c3d4a93e6f018c6f15e9ea940",
+              "page_number": 92,
+              "prev_chunk_id": "7beea817c65a81e72d79191c3b80bc5a8e97dea489cfe18b4ddd2dff20622fdb",
+              "title_summary": "title: To: \nsummary: Lotus Technology Inc. is an innovative technology company likely operating in the automotive, software, or advanced manufacturing sectors. While specific details about its products and market position are not disclosed, the company aims to utilize cutting-edge technology to enhance user experiences, improve efficiency, and promote sustainability. Additional insights into its operations and strategic goals would clarify its impact in the industry.\n\nThe company is associated with a location at No. 800 Century Avenue, which may be significant in a commercial district, though further context about the building's purpose is needed for a detailed understanding. \n\nPudong District, where the company may be located, is a rapidly developing area in Shanghai, China. It has evolved from an agricultural region into a major financial and commercial hub, featuring iconic skyscrapers and advanced infrastructure, including the Shanghai Free Trade Zone and Pudong International Airport. This vibrant district combines residential, commercial, and recreational spaces, showcasing the dynamic urban growth of modern Shanghai.\n\nAdditionally, the company has engaged legal counsel regarding its registration statement on Form F-3 with the SEC, which includes a total offering cap of $1.5 billion for various equity and debt securities. The registration encompasses ordinary shares, preferred shares, warrants, subscription rights, and debt securities, although specific details about these securities remain unspecified. The registration statement allows for flexibility in the sale of securities over time and includes provisions for additional shares due to corporate actions. The registration fee is calculated based on the maximum total offering price, ensuring compliance with relevant securities regulations."
+            },
+            "bundle_id": 12
+          },
+          {
+            "retriever": "Title Summary",
+            "score": 0.6547222137451172,
+            "page_content": "An indeterminate aggregate amount of securities is being registered as may from time to time be sold at indeterminate prices by Lotus Technology Inc. The registration fee has been calculated pursuant to Rule 457(o) under the Securities Act on the basis of the maximum aggregate offering price of the securities registered by Lotus Technology Inc. (6) These ordinary shares may be represented by American depositary shares, each of which represents one ordinary share. American depositary shares issuable upon deposit of ordinary shares registered by Lotus Technology Inc. have been registered under separate registration statements on Form F-6 (Registration No. 333-275006 and No. 333-282411).",
+            "metadata": {
+              "date_published": "2025-03-04",
+              "doc_id": "d273b0363ba4f2b58fc4b86582adaae8d02d9c9c3d4a93e6f018c6f15e9ea940",
+              "filename": "Lotus_F-3_20250304.json",
+              "global_id": 16989,
+              "next_chunk_id": "",
+              "page_number": 92,
+              "prev_chunk_id": "e84a50236f97e33dbf1948ac4d999adc9fede2e838d9a50965f3cb25fffd5342",
+              "title_summary": "title: To: \nsummary: Lotus Technology Inc. is an innovative technology company likely operating in the automotive, software, or advanced manufacturing sectors. While specific details about its products and market position are not disclosed, the company aims to utilize cutting-edge technology to enhance user experiences, improve efficiency, and promote sustainability. Additional insights into its operations and strategic goals would clarify its impact in the industry.\n\nThe company is associated with a location at No. 800 Century Avenue, which may be significant in a commercial district, though further context about the building's purpose is needed for a detailed understanding. \n\nPudong District, where the company may be located, is a rapidly developing area in Shanghai, China. It has evolved from an agricultural region into a major financial and commercial hub, featuring iconic skyscrapers and advanced infrastructure, including the Shanghai Free Trade Zone and Pudong International Airport. This vibrant district combines residential, commercial, and recreational spaces, showcasing the dynamic urban growth of modern Shanghai.\n\nAdditionally, the company has engaged legal counsel regarding its registration statement on Form F-3 with the SEC, which includes a total offering cap of $1.5 billion for various equity and debt securities. The registration encompasses ordinary shares, preferred shares, warrants, subscription rights, and debt securities, although specific details about these securities remain unspecified. The registration statement allows for flexibility in the sale of securities over time and includes provisions for additional shares due to corporate actions. The registration fee is calculated based on the maximum total offering price, ensuring compliance with relevant securities regulations."
+            },
+            "bundle_id": 13
+          },
+          {
+            "retriever": "Title Summary",
+            "score": 0.6546707153320312,
+            "page_content": "Lotus Technology Inc.  \nBy:  \nName:  \nTitle: [Signature Page to Senior Convertible Note (Convertible Note)] HOLDER:",
+            "metadata": {
+              "date_published": "2025-02-28",
+              "doc_id": "4f6f3307628c2e5188c49b7ce690d1126807ff6ff3acb8d39689b2aadca12502",
+              "filename": "Lotus_6-K_20250228_final.json",
+              "global_id": 13852,
+              "next_chunk_id": "462bf0b492f8962d6d54498ff6e019e63da99c26e109b1a17007c63ceb396e13",
+              "page_number": 56,
+              "prev_chunk_id": "00520f79327c3fb70186cf84d391e614d793e8088cb1e4406cbe0ba6e492cde1",
+              "title_summary": "title: COMPANY: \nsummary: To create a comprehensive summary, I need specific details about Lotus Technology Inc., including its industry, key products or services, mission, and notable achievements. Additionally, please provide the name and title of the intended recipient for the summary. \n\nSeparately, the \"Signature Page to Senior Convertible Note\" is a formal document that signifies the agreement between the issuer and the investor regarding the issuance of a senior convertible note. This page includes the signatures of both parties, confirming their consent to the terms of the note, along with execution dates and identification details. It represents a binding commitment to the financial terms outlined in the convertible note agreement. \n\nIf you could clarify or provide more context regarding \"HOLDER,\" I would be happy to assist further."
+            },
+            "bundle_id": 14
+          },
+          {
+            "retriever": "Title Summary",
+            "score": 0.6513296365737915,
+            "page_content": "The registrant hereby certifies that Lotus Technology meets all of the requirements for filing its annual report on Form 20-F and that Lotus Technology has duly caused and authorized the undersigned to sign this annual report on its behalf. Lotus Technology Inc. By: /s/ Qingfeng Feng  \nName: Qingfeng Feng  \nTitle: Chief Executive Officer  \nLotus Technology Inc. Date: April 30, 2025",
+            "metadata": {
+              "date_published": "2025-04-30",
+              "doc_id": "32d46043716132e899aeb9e47a193f375890983b9582a54b1e63a1f3dbbc25af",
+              "filename": "20250430.json",
+              "global_id": 12134,
+              "next_chunk_id": "cc9ae4f118841be12545943f736f175302a0d15c8eb140fce329a700db2daea6",
+              "page_number": 194,
+              "prev_chunk_id": "4ac67f701c066e5382afa83ac58f6e7d2bb3649230452a09eaa74abd18330a0e",
+              "title_summary": "title: SIGNATURES \nsummary: Lotus Technology Inc. is dedicated to developing advanced technology solutions, particularly in the automotive industry, with a strong focus on electric vehicles (EVs) and smart mobility. The company is committed to sustainability and innovative design, enhancing user experience through integrated technology. It prioritizes research and development to lead in automotive advancements, including autonomous driving and connectivity. The registrant confirms compliance with the requirements for submitting its annual report on Form 20-F, with Chief Executive Officer Qingfeng Feng authorized to sign the report on its behalf."
+            },
+            "bundle_id": 15
+          },
+          {
+            "retriever": "Title Summary",
+            "score": 0.6455531120300293,
+            "page_content": "Pursuant to the requirements of the Securities Exchange Act of 1934, Lotus Technology has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized. Lotus Technology Inc. By: /s/ Alexious Kuen Long Lee  \nName: Alexious Kuen Long Lee  \nTitle: Director and Chief Financial Officer Date: January 23, 2025",
+            "metadata": {
+              "date_published": "2025-01-23",
+              "doc_id": "11f45dab9c3804ec6deb916ca9360e5766dcb9325a83d04aca221198a82e50b9",
+              "filename": "Lotus_6-K_20250123.json",
+              "global_id": 13699,
+              "next_chunk_id": "",
+              "page_number": 4,
+              "prev_chunk_id": "587c822d4471970621f61646f5dd22f534546dddc9d5810482e7543e86049970",
+              "title_summary": "title: SIGNATURES \nsummary: Lotus Technology Inc. is a forward-looking company dedicated to developing innovative solutions in the automotive and mobility sectors, with a strong focus on electric vehicles (EVs), smart mobility, and advanced technologies. Committed to sustainability and cutting-edge design, the company aims to enhance the driving experience through high-performance vehicles and integrated digital solutions. As part of the esteemed Lotus brand, known for its engineering excellence, Lotus Technology is well-positioned to influence the automotive industry's transition towards electrification and smart technologies. The report has been officially signed in compliance with the Securities Exchange Act of 1934, with Alexious Kuen Long Lee serving as the Director and Chief Financial Officer."
+            },
+            "bundle_id": 16
+          },
+          {
+            "retriever": "Title Summary",
+            "score": 0.6396119594573975,
+            "page_content": "THE SECURITIES REPRESENTED HEREBY HAVE NOT BEEN REGISTERED UNDER THE SECURITIES ACT OF 1933 (AS AMENDED, THE “SECURITIES ACT”) OR UNDER THE SECURITIES LAWS OF ANY OTHER JURISDICTIONS. THESE SECURITIES MAY NOT BE TRANSFERRED, SOLD, OFFERED FOR SALE, PLEDGED OR HYPOTHECATED: (A) IN THE ABSENCE OF (1) AN EFFECTIVE REGISTRATION STATEMENT UNDER THE SECURITIES ACT OR (2) AN EXEMPTION OR QUALIFICATION UNDER APPLICABLE SECURITIES LAWS, AND (B) UNLESS IN COMPLIANCE WITH THE CONVERTIBLE NOTE PURCHASE AGREEMENT BETWEEN LOTUS TECHNOLOGY AND GEELY INTERNATIONAL (HONG KONG) LIMITED, DATED JUNE 24, 2024 (THE “PURCHASE AGREEMENT”). ANY ATTEMPT TO TRANSFER, SELL, PLEDGE OR HYPOTHECATE THIS SECURITY IN VIOLATION OF THESE RESTRICTIONS OR ANY OTHER RESTRICTIONS SET FORTH IN THE PURCHASE AGREEMENT SHALL BE VOID. LOTUS TECHNOLOGY INC.",
+            "metadata": {
+              "date_published": "2024-06-24",
+              "doc_id": "ad773bf5378145cf5524b39bd170cbd0c4e618efbcdab033c07e8e2d81442ce6",
+              "filename": "Lotus_424B3_20240624_final.json",
+              "global_id": 12653,
+              "next_chunk_id": "0ea0336bd5a773febcd981a60d5f8c8fd014b68631bbf552c0e9de3e05cdf94c",
+              "page_number": 37,
+              "prev_chunk_id": "391f1817aa06b93aeb216deb4f2ef8807b916aa24138dcd3ed6ceb0830a71299",
+              "title_summary": "title: EXHIBIT B \nsummary: Lotus Technology Inc. is a forward-thinking company specializing in innovative technology solutions, including software development, data analytics, and digital transformation. The firm is dedicated to enhancing business efficiency and fostering growth for its clients through customized services and advanced technology. With a strong focus on research and development, Lotus aims to remain at the forefront of industry trends, delivering high-quality products that address the dynamic needs of businesses. The company prioritizes collaboration, customer satisfaction, and sustainability in its operations. However, it is important to note that the securities associated with Lotus Technology have not been registered under the Securities Act of 1933 or similar laws, and cannot be transferred or sold without an effective registration statement or applicable exemptions, in accordance with the Convertible Note Purchase Agreement with Geely International (Hong Kong) Limited dated June 24, 2024. Any unauthorized attempts to transfer or sell these securities will be deemed void."
+            },
+            "bundle_id": 17
+          },
+          {
+            "retriever": "Title Summary",
+            "score": 0.6383962631225586,
+            "page_content": "Lotus Technology Inc. has operations across the UK, the EU, and China. Lotus Technology Inc. is dedicated to delivering luxury lifestyle battery electric vehicles, with a focus on world-class research and development in next-generation automobility technologies such as electrification, digitalisation, and more. For more information about Lotus Technology Inc., please visit www.group-lotus.com.",
+            "metadata": {
+              "date_published": "2024-05-29",
+              "doc_id": "f67c04d6523f47d6844c9e04d4fa17ca989022f7ee757d5fa1ae8f9047e34732",
+              "filename": "Lotus_424B3_20240529_final.json",
+              "global_id": 12526,
+              "next_chunk_id": "07c16dd1be516ddbe65095e6207d11e64e4a0815ff0edbb2573cefebe1bb3bb5",
+              "page_number": 5,
+              "prev_chunk_id": "ac67251cc5a492e3b78ed54ca98096dc3a184c62b8cbb3e3bb486e52e9c7f554",
+              "title_summary": "title: About Lotus\nTechnology \nsummary: Lotus Technology Inc. is a luxury lifestyle electric vehicle manufacturer with operations in the UK, EU, and China. The company focuses on cutting-edge research and development in advanced automotive technologies, particularly in electrification and digitalization. For more information, you can visit their website at www.group-lotus.com."
+            },
+            "bundle_id": 18
+          },
+          {
+            "retriever": "Title Summary",
+            "score": 0.6379765272140503,
+            "page_content": "Pursuant to the requirements of the Securities Exchange Act of 1934, Lotus Technology has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized. Lotus Technology Inc. By /s/ Alexious Kuen Long Lee  \nName: Alexious Kuen Long Lee  \nTitle: Director and Chief Financial Officer",
+            "metadata": {
+              "date_published": "2025-03-31",
+              "doc_id": "20ff617268c098293ce2c15085b3ad524ef7636e1fe720fc0c51b770656664a0",
+              "filename": "Lotus_6-K_20250331_final.json",
+              "global_id": 14034,
+              "next_chunk_id": "",
+              "page_number": 2,
+              "prev_chunk_id": "b7119a7d0899c4fa54bee8c55013c99366db879abd6579250e326ac79f34bf36",
+              "title_summary": "title: SIGNATURES \nsummary: Lotus Technology Inc. has officially submitted its report in accordance with the Securities Exchange Act of 1934, with an authorized representative signing on its behalf. The company is dedicated to developing innovative technology solutions in the automotive and mobility sectors, focusing on enhancing the driving experience through advanced software and hardware integration. With a strong emphasis on electric vehicles and smart mobility, Lotus Technology is committed to sustainability and cutting-edge design, utilizing artificial intelligence and connectivity to deliver user-friendly and efficient products. Positioned at the forefront of transportation innovation, the company aims to address the evolving needs of consumers and the industry. Alexious Kuen Long Lee holds the role of Director and Chief Financial Officer."
+            },
+            "bundle_id": 19
+          },
+          {
+            "retriever": "Title Summary",
+            "score": 0.6346704959869385,
+            "page_content": "Lotus Technology has acted as Cayman Islands legal counsel to the Company in connection with a registration statement on Form S-8 to be filed with the Securities and Exchange Commission (the \"Commission\") on 6 May 2024 (the \"Registration Statement\") relating to the registration under the United States Securities Act of 1933, as amended, (the \"Securities Act\") of 51,550,661 ordinary shares, par value US$0.00001 per share (the \"Shares\"), issuable by the Company pursuant to the Company's 2022 Stock Incentive Plan (the \"Plan\"). For the purposes of giving this opinion, Lotus Technology has examined copies of the Registration Statement and the Plan. Lotus Technology has also reviewed copies of the sixth amended and restated memorandum and articles of association of the Company adopted by special resolution passed on 16 January 2024 and effective on 22 February 2024 (the \"Memorandum and Articles\"), the written resolutions of the shareholders of the Company dated 12 September 2022, and the minutes of a meeting of the board of directors of the Company held on 3 April 2024 (the \"Resolutions\"). Based upon, and subject to, the assumptions and qualifications set out below, and having regard to such legal considerations as Lotus Technology deems relevant, Lotus Technology is of the opinion that: 1. The Shares to be issued by the Company and registered under the Registration Statement have been duly and validly authorized. 2.",
+            "metadata": {
+              "date_published": "2024-05-06",
+              "doc_id": "115fbbd0c276b3cd5c3ad0c36395b5dd26ebe98604d488fae0cc9449a22031ac",
+              "filename": "20240506_final.json",
+              "global_id": 10019,
+              "next_chunk_id": "5247dc38d15d2e7a245138914d7cf175a2d0df20fc23d84b6114f5a84d628525",
+              "page_number": 8,
+              "prev_chunk_id": "893224fd4c583c933e75943dd97fcb1cd37e5caa413fcef6f6de11f4a8dc17d6",
+              "title_summary": "title: Lotus Technology Inc. (the \"Company\") \nsummary: The Cayman Islands legal counsel has prepared a registration statement on Form S-8 for the Company, which will be filed with the Securities and Exchange Commission on May 6, 2024. This statement involves the registration of 51,550,661 ordinary shares, each with a par value of US$0.00001, to be issued under the Company's 2022 Stock Incentive Plan. The legal opinion supporting this registration is based on a review of key documents, including the Registration Statement, the Plan, and the Company’s sixth amended and restated memorandum and articles of association, effective from February 22, 2024. \n\nThe opinion asserts that the shares will be validly issued, fully paid, and non-assessable upon issuance and payment according to the Plan and relevant resolutions, with proper entries in the company's register of members. \"Non-assessable\" indicates that shareholders are not obligated to make further contributions to the Company's assets concerning the issued shares, except in exceptional circumstances such as fraud or illegal activities. \n\nThe opinion also notes that the register of members serves as prima facie evidence under the Cayman Islands Companies Act, but does not reflect third-party interests and can be subject to rectification by court order in cases of fraud or error. The authors of the opinion clarify that it is based solely on the facts known at the time and does not extend to foreign laws. They rely on several assumptions regarding the authenticity of documents and the validity of resolutions without independent verification.\n\nAdditionally, the authors consent to the use of their opinion in the Registration Statement but do not consider themselves \"experts\" under the Securities Act. The correspondence concludes with a formal closing, \"Yours faithfully,\" reflecting professionalism. The law firm involved, Maples and Calder (Hong Kong) LLP, is recognized for its expertise in corporate and commercial law, offering tailored legal services to a diverse clientele."
+            },
+            "bundle_id": 20
+          },
+          {
+            "retriever": "Title Summary",
+            "score": 0.6346704959869385,
+            "page_content": "When issued and paid for in accordance with the terms of the Company's 2022 Stock Incentive Plan and in accordance with the Resolutions, and when appropriate entries are made in the register of members (shareholders) of the Company, the Shares will be validly issued, fully paid and non-assessable. In this opinion letter, the phrase \"non-assessable\" means, with respect to the issuance of Shares, that a shareholder shall not, in respect of the relevant Shares, have any obligation to make further contributions to Lotus Technology's assets (except in exceptional circumstances, such as involving fraud, the establishment of an agency relationship or an illegal or improper purpose or other circumstances in which a court may be prepared to pierce or lift the corporate veil). These opinions are subject to the qualification that under the Companies Act (As Revised) of the Cayman Islands (the \"Companies Act\"), the register of members of a Cayman Islands company is by statute regarded as prima facie evidence of any matters which the Companies Act directs or authorizes to be inserted therein. A third party interest in the shares in question would not appear. An entry in the register of members may yield to a court order for rectification (for example, in the event of fraud or manifest error). These opinions are given only as to, and based on, circumstances and matters of fact existing and known to Lotus Technology on the date of this opinion letter.",
+            "metadata": {
+              "date_published": "2024-05-06",
+              "doc_id": "5247dc38d15d2e7a245138914d7cf175a2d0df20fc23d84b6114f5a84d628525",
+              "filename": "20240506_final.json",
+              "global_id": 10020,
+              "next_chunk_id": "05f2ebc4f243d3a9ffab1173b8d7504acae95c258f326b2aede98748f81ce144",
+              "page_number": 8,
+              "prev_chunk_id": "115fbbd0c276b3cd5c3ad0c36395b5dd26ebe98604d488fae0cc9449a22031ac",
+              "title_summary": "title: Lotus Technology Inc. (the \"Company\") \nsummary: The Cayman Islands legal counsel has prepared a registration statement on Form S-8 for the Company, which will be filed with the Securities and Exchange Commission on May 6, 2024. This statement involves the registration of 51,550,661 ordinary shares, each with a par value of US$0.00001, to be issued under the Company's 2022 Stock Incentive Plan. The legal opinion supporting this registration is based on a review of key documents, including the Registration Statement, the Plan, and the Company’s sixth amended and restated memorandum and articles of association, effective from February 22, 2024. \n\nThe opinion asserts that the shares will be validly issued, fully paid, and non-assessable upon issuance and payment according to the Plan and relevant resolutions, with proper entries in the company's register of members. \"Non-assessable\" indicates that shareholders are not obligated to make further contributions to the Company's assets concerning the issued shares, except in exceptional circumstances such as fraud or illegal activities. \n\nThe opinion also notes that the register of members serves as prima facie evidence under the Cayman Islands Companies Act, but does not reflect third-party interests and can be subject to rectification by court order in cases of fraud or error. The authors of the opinion clarify that it is based solely on the facts known at the time and does not extend to foreign laws. They rely on several assumptions regarding the authenticity of documents and the validity of resolutions without independent verification.\n\nAdditionally, the authors consent to the use of their opinion in the Registration Statement but do not consider themselves \"experts\" under the Securities Act. The correspondence concludes with a formal closing, \"Yours faithfully,\" reflecting professionalism. The law firm involved, Maples and Calder (Hong Kong) LLP, is recognized for its expertise in corporate and commercial law, offering tailored legal services to a diverse clientele."
+            },
+            "bundle_id": 21
+          },
+          {
+            "retriever": "Title Summary",
+            "score": 0.6346704959869385,
+            "page_content": "These opinions only relate to the laws of the Cayman Islands which are in force on the date of this opinion letter. Lotus Technology expresses no opinion as to the meaning, validity or effect of any references to foreign (i.e. non-Cayman Islands) statutes, rules, regulations, codes, judicial authority or any other promulgations. Lotus Technology has also relied upon the assumptions, which Lotus Technology has not independently verified, that (a) all signatures, initials and seals are genuine, (b) copies of documents, conformed copies or drafts of documents provided to Lotus Technology are true and complete copies of, or in the final forms of, the originals, (c) where a document has been provided to Lotus Technology in draft or undated form, it will be duly executed, dated and unconditionally delivered in the same form as the last version provided to Lotus Technology, (d) the Memorandum and Articles remain in full force and effect and are unamended, (e) the Resolutions were duly passed in the manner prescribed in the Memorandum and Articles and have not been amended, varied or revoked in any respect, (f) there is nothing under any law (other than the laws of the Cayman Islands) which would or might affect the opinions set out above, and (g) upon the issue of any Shares, Lotus Technology will receive consideration which shall be equal to at least the par value of such Shares.",
+            "metadata": {
+              "date_published": "2024-05-06",
+              "doc_id": "05f2ebc4f243d3a9ffab1173b8d7504acae95c258f326b2aede98748f81ce144",
+              "filename": "20240506_final.json",
+              "global_id": 10021,
+              "next_chunk_id": "84d18d1f6cdb0f5ffe86ad8e605aa5222a8f621a8ead6353274d143861c7d512",
+              "page_number": 8,
+              "prev_chunk_id": "5247dc38d15d2e7a245138914d7cf175a2d0df20fc23d84b6114f5a84d628525",
+              "title_summary": "title: Lotus Technology Inc. (the \"Company\") \nsummary: The Cayman Islands legal counsel has prepared a registration statement on Form S-8 for the Company, which will be filed with the Securities and Exchange Commission on May 6, 2024. This statement involves the registration of 51,550,661 ordinary shares, each with a par value of US$0.00001, to be issued under the Company's 2022 Stock Incentive Plan. The legal opinion supporting this registration is based on a review of key documents, including the Registration Statement, the Plan, and the Company’s sixth amended and restated memorandum and articles of association, effective from February 22, 2024. \n\nThe opinion asserts that the shares will be validly issued, fully paid, and non-assessable upon issuance and payment according to the Plan and relevant resolutions, with proper entries in the company's register of members. \"Non-assessable\" indicates that shareholders are not obligated to make further contributions to the Company's assets concerning the issued shares, except in exceptional circumstances such as fraud or illegal activities. \n\nThe opinion also notes that the register of members serves as prima facie evidence under the Cayman Islands Companies Act, but does not reflect third-party interests and can be subject to rectification by court order in cases of fraud or error. The authors of the opinion clarify that it is based solely on the facts known at the time and does not extend to foreign laws. They rely on several assumptions regarding the authenticity of documents and the validity of resolutions without independent verification.\n\nAdditionally, the authors consent to the use of their opinion in the Registration Statement but do not consider themselves \"experts\" under the Securities Act. The correspondence concludes with a formal closing, \"Yours faithfully,\" reflecting professionalism. The law firm involved, Maples and Calder (Hong Kong) LLP, is recognized for its expertise in corporate and commercial law, offering tailored legal services to a diverse clientele."
+            },
+            "bundle_id": 22
+          },
+          {
+            "retriever": "Title Summary",
+            "score": 0.6346704959869385,
+            "page_content": "Lotus Technology consents to the use of this opinion as an exhibit to the Registration Statement and further consents to all references to Lotus Technology in the Registration Statement and any amendments thereto. In giving such consent, Lotus Technology does not consider that Lotus Technology is “experts” within the meaning of such term as used in the Securities Act, or the rules and regulations of the Commission issued thereunder, with respect to any part of the Registration Statement, including this opinion as an exhibit or otherwise. Yours faithfully /s/ Maples and Calder (Hong Kong) LLP Maples and Calder (Hong Kong) LLP",
+            "metadata": {
+              "date_published": "2024-05-06",
+              "doc_id": "84d18d1f6cdb0f5ffe86ad8e605aa5222a8f621a8ead6353274d143861c7d512",
+              "filename": "20240506_final.json",
+              "global_id": 10022,
+              "next_chunk_id": "244257da67fe40e5395129b6682bb0e12cd67daac17349c99cdbb52d9be9cd52",
+              "page_number": 8,
+              "prev_chunk_id": "05f2ebc4f243d3a9ffab1173b8d7504acae95c258f326b2aede98748f81ce144",
+              "title_summary": "title: Lotus Technology Inc. (the \"Company\") \nsummary: The Cayman Islands legal counsel has prepared a registration statement on Form S-8 for the Company, which will be filed with the Securities and Exchange Commission on May 6, 2024. This statement involves the registration of 51,550,661 ordinary shares, each with a par value of US$0.00001, to be issued under the Company's 2022 Stock Incentive Plan. The legal opinion supporting this registration is based on a review of key documents, including the Registration Statement, the Plan, and the Company’s sixth amended and restated memorandum and articles of association, effective from February 22, 2024. \n\nThe opinion asserts that the shares will be validly issued, fully paid, and non-assessable upon issuance and payment according to the Plan and relevant resolutions, with proper entries in the company's register of members. \"Non-assessable\" indicates that shareholders are not obligated to make further contributions to the Company's assets concerning the issued shares, except in exceptional circumstances such as fraud or illegal activities. \n\nThe opinion also notes that the register of members serves as prima facie evidence under the Cayman Islands Companies Act, but does not reflect third-party interests and can be subject to rectification by court order in cases of fraud or error. The authors of the opinion clarify that it is based solely on the facts known at the time and does not extend to foreign laws. They rely on several assumptions regarding the authenticity of documents and the validity of resolutions without independent verification.\n\nAdditionally, the authors consent to the use of their opinion in the Registration Statement but do not consider themselves \"experts\" under the Securities Act. The correspondence concludes with a formal closing, \"Yours faithfully,\" reflecting professionalism. The law firm involved, Maples and Calder (Hong Kong) LLP, is recognized for its expertise in corporate and commercial law, offering tailored legal services to a diverse clientele."
+            },
+            "bundle_id": 23
+          },
+          {
+            "retriever": "Title Summary",
+            "score": 0.6346019506454468,
+            "page_content": "Pursuant to the requirements of the Securities Exchange Act of 1934, Lotus Technology has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized. Lotus Technology Inc. By      : /s/ Alexious Kuen Long Lee  \nName : Alexious Kuen Long Lee  \nTitle : Director and Chief Financial Officer Date: March 28, 2025",
+            "metadata": {
+              "date_published": "2025-03-28",
+              "doc_id": "d684feac0cd0d027e16b9f8ca8a9e4ce258b5f3ee96f559f657bee70c0ebe813",
+              "filename": "Lotus_6-K_20250328_final.json",
+              "global_id": 13860,
+              "next_chunk_id": "6ef5a35d3be83579778176e4d9a89b79394942149244b6f301f4ccbfc2d11c94",
+              "page_number": 3,
+              "prev_chunk_id": "5711af425b62864c75b3a7dd9c664ba6ad332a8a95c1b9e898f11d5a14dc63d2",
+              "title_summary": "title: SIGNATURES \nsummary: Lotus Technology Inc. is dedicated to creating innovative technology solutions in the automotive and mobility sectors, focusing on enhancing user experiences through advanced software and hardware integration, particularly in electric vehicles and smart mobility. The company prioritizes sustainability and aims to lead the transition towards greener transportation. With a strong commitment to research and development, Lotus Technology seeks to advance automotive technology by delivering products that excel in performance, efficiency, and design. The report has been officially signed in accordance with the Securities Exchange Act of 1934, with Alexious Kuen Long Lee serving as the Director and Chief Financial Officer."
+            },
+            "bundle_id": 24
+          },
+          {
+            "retriever": "BM25",
+            "score": 3.9143152236938477,
+            "page_content": "The board of directors of Lotus Technology will determine whether, to what extent, at what times and places, and under what conditions or regulations the accounts and books will be open to inspection by shareholders, and no shareholder will otherwise have any right of inspecting any account, book, or document of Lotus Technology except as required by law or authorized by the board of directors or the shareholders by special resolution.",
+            "metadata": {
+              "date_published": "2024-05-24",
+              "doc_id": "a865b506cf6acf1c4a1d9b472e9234572c307d5db3fdddf875bd959b539dd8a5",
+              "filename": "20240524_final.json",
+              "global_id": 10802,
+              "next_chunk_id": "52e7c7f7c82603a21c79ed4b1235774a21837b9f6950f13e04adee3c70106d35",
+              "page_number": 221,
+              "prev_chunk_id": "4ab5eecae7bd18506c1e2f29d27ee8cfe206ef49bd9737e3fa91a6c28d098047",
+              "title_summary": "title: Inspection of Books and Records \nsummary: The board of directors will establish the guidelines for shareholder access to the company's accounts and records. Shareholders may only inspect these documents if granted permission by the board, mandated by law, or approved through a special resolution by the shareholders."
+            },
+            "bundle_id": 25
+          },
+          {
+            "retriever": "BM25",
+            "score": 3.9143152236938477,
+            "page_content": "The board of directors will determine whether, to what extent, at what times and places, and under what conditions or regulations the accounts and books of Lotus Technology will be open to inspection by shareholders, and no shareholder will otherwise have any right of inspecting any account, book, or document of Lotus Technology except as required by law or authorized by the board of directors or the shareholders by special resolution.",
+            "metadata": {
+              "date_published": "2025-05-30",
+              "doc_id": "ae4b6596be5aaf5b1350b1d85a65c9d9941ab8738943aedb8d98bacf95f1c845",
+              "filename": "Lotus_F-3:A_20250530_final.json",
+              "global_id": 15486,
+              "next_chunk_id": "433948a1834b4b50cc1f502d164743e8b7488bcf8583bfde690d392ba192d1c1",
+              "page_number": 26,
+              "prev_chunk_id": "",
+              "title_summary": "title: Inspection of Books and Records \nsummary: The board of directors will establish the terms for shareholder access to the company's accounts and records, determining the scope, timing, and location of such inspections. Shareholders generally lack the right to review company documents unless required by law or authorized through a special resolution from the board or fellow shareholders."
+            },
+            "bundle_id": 26
+          },
+          {
+            "retriever": "BM25",
+            "score": 3.9143152236938477,
+            "page_content": "The board of directors will determine whether, to what extent, at what times and places, and under what conditions or regulations the accounts and books of Lotus Technology will be open to inspection by shareholders. No shareholder will otherwise have any right to inspect any account, book, or document of Lotus Technology except as required by law or authorized by the board of directors or the shareholders by special resolution.",
+            "metadata": {
+              "date_published": "2025-06-20",
+              "doc_id": "7dc674d0d2c4d136088580b7584a56f962fa868b615695848451962aa23ba48a",
+              "filename": "20250620_final.json",
+              "global_id": 16431,
+              "next_chunk_id": "",
+              "page_number": 45,
+              "prev_chunk_id": "",
+              "title_summary": "title: Inspection of Books and Records \nsummary: The board of directors will establish the terms for shareholder access to the company's accounts and records. Shareholders may only inspect these documents if allowed by law, authorized by the board, or approved via a special resolution from the shareholders."
+            },
+            "bundle_id": 27
+          },
+          {
+            "retriever": "BM25",
+            "score": 3.909076452255249,
+            "page_content": "The board of directors of Lotus Technology Corporation will determine whether, to what extent, at what times and places, and under what conditions or regulations the accounts and books of Lotus Technology Corporation will be open to the inspection by Lotus Technology Corporation shareholders, and no Lotus Technology Corporation shareholder will otherwise have any right of inspecting any account or book or document of Lotus Technology Corporation except as required by law or authorized by the board of directors of Lotus Technology Corporation or Lotus Technology Corporation shareholders by special resolution.",
+            "metadata": {
+              "date_published": "2024-01-12",
+              "doc_id": "8e34ef444dd2e6d0654b6d5b3d286f313e51892b0b5bfc5fb06120110b7a046c",
+              "filename": "20240112_final.json",
+              "global_id": 7487,
+              "next_chunk_id": "",
+              "page_number": 385,
+              "prev_chunk_id": "",
+              "title_summary": "title: Inspection of Books and Records \nsummary: The board of directors of LTC holds the power to determine the conditions for shareholder access to the company's accounts and books. Shareholders do not possess an automatic right to inspect these documents; such access is contingent upon board approval, legal requirements, or a special resolution passed by the shareholders."
+            },
+            "bundle_id": 28
+          },
+          {
+            "retriever": "BM25",
+            "score": 3.880340099334717,
+            "page_content": "The LCAA Board considered the following selection criteria to determine the comparable companies of Lotus Technology: (i) the nature of products offered, including body type, power system, configuration, and price segment, (ii) the existing product portfolio coverage and launch schedule of future products, (iii) the business model/revenue stream similarity, (iv) heritage and brand influence, (v) growth profile, and (vi) profitability profile. These companies have a high degree of similarity to Lotus Technology with respect to the above factors and are therefore included in the list of comparable companies. These companies were further categorized into two groups based on detailed intra-similarities as summarized below: BEV companies: Companies in this group share similarities with Lotus Technology mainly from the following perspectives: •  Focusing on BEV Products. These companies are all focused on the production and sale of battery electric vehicles (BEVs), with the goal of promoting sustainability. Although Lotus Technology is currently still selling internal combustion engine (ICE) models designed and manufactured by LGIL, its future revenue is expected to be mostly generated from BEV sales. Additionally, Lotus Technology is expected to achieve 100% BEV production by 2027. •  Advanced Technology. The vehicle models of each of these companies are equipped with cutting-edge technologies, including advanced battery systems, charging infrastructure, and intelligent driving capabilities. •  Growth Profile. Each of the companies is expected to experience significant growth in the next few years, supported by production expansion, entry into new markets, as well as the launch of new models. •  Profitability Profile.",
+            "metadata": {
+              "date_published": "2024-01-11",
+              "doc_id": "312b3ff7c0d3d729f3c3b0103c86d3b9709e0bc395d31f1dad82114fd7506e68",
+              "filename": "20240111_final.json",
+              "global_id": 4497,
+              "next_chunk_id": "895349866dfc180d0d281b0f606a880e36281d2d18a3a0cfe01572f8f8b05671",
+              "page_number": 233,
+              "prev_chunk_id": "45eb7bcc0f8e55a73fdfd1946cbfd7a06f813cd014b8d66380e0a51648519d19",
+              "title_summary": "title: Summary of LCAA’s Financial and Valuation Analysis \nsummary: The summary provides an overview of the financial and valuation analyses conducted by the LCAA Board concerning the valuation of Lotus Tech in the context of a Business Combination. It underscores that the summary is not comprehensive and does not indicate the relative importance of the various analyses considered by LCAA's management. The Board may have prioritized certain assumptions over others, and the tabular data included should be interpreted within the broader financial analyses and methodologies to avoid misleading conclusions.\n\nThe valuation analyses were grounded in significant assumptions about market size, commercial efforts, industry performance, and economic conditions, many of which are beyond the control of LCAA, Lotus Tech, or other involved parties. Consequently, neither LCAA nor Lotus Tech can assure that future results will align with projections, as actual outcomes may differ significantly. The estimates provided do not represent actual market values or predict future trading prices for Lotus Tech shares post-transaction, and the financial analysis is subject to substantial uncertainty.\n\nThe LCAA Board utilized Comparable Company Analysis (CCA) to assess Lotus Tech's value by comparing it to similar companies in the Battery Electric Vehicle (BEV) and luxury Original Equipment Manufacturer (OEM) sectors. This method involves selecting peer companies based on shared characteristics, gathering financial data, calculating valuation multiples, and applying these multiples to estimate the target company's value while adjusting for differences in growth prospects and market conditions.\n\nIn the comparative analysis, the Board examined BEV companies such as Tesla, Lucid Group, Polestar, and NIO, alongside luxury OEMs like Ferrari, Porsche, and Aston Martin. The analysis highlighted similarities in innovation, sustainability, performance orientation, and market positioning between Lotus Tech and these companies. While Lotus Tech currently offers Internal Combustion Engine (ICE) models, it aims to transition to 100% BEV production by 2027, reflecting a broader industry trend toward sustainability and advanced technology.\n\nThe profitability profiles of emerging BEV companies reveal that they are currently operating at a loss, similar to Lotus Tech, which is still in the early stages of development compared to established luxury OEMs. These luxury manufacturers emphasize superior craftsmanship, innovative design, and brand prestige, targeting affluent consumers with a focus on performance and sustainability. Overall, the shared characteristics among luxury OEMs and Lotus Tech highlight a commitment to excellence and a distinctive market positioning within the automotive industry."
+            },
+            "bundle_id": 29
+          },
+          {
+            "retriever": "BM25",
+            "score": 3.880340099334717,
+            "page_content": "The LCAA Board considered the following selection criteria to determine the comparable companies of Lotus Technology: (i) the nature of products offered, including body type, power system, configuration, and price segment, (ii) the existing product portfolio coverage and launch schedule of future products, (iii) the business model/revenue stream similarity, (iv) heritage and brand influence, (v) growth profile, and (vi) profitability profile. These companies have a high degree of similarity to Lotus Technology with respect to the above factors and are therefore included in the list of comparable companies. These companies were further categorized into two groups based on detailed intra-similarities as summarized below: BEV companies: companies in this group share similarities with Lotus Technology mainly from the following perspectives: •  Focusing on BEV Products. These companies are all focused on the production and sale of battery electric vehicles (BEVs), with the goal of promoting sustainability. Although Lotus Technology is currently still selling internal combustion engine (ICE) models designed and manufactured by LGIL, its future revenue is expected to be mostly generated from BEV sales. Additionally, Lotus Technology is expected to achieve 100% BEV production by 2027. •  Advanced Technology. The vehicle models of each of these companies are equipped with cutting-edge technologies, including advanced battery systems, charging infrastructure, and intelligent driving capabilities. •  Growth Profile. Each of the companies is expected to experience significant growth in the next few years, supported by production expansion, entry into new markets, as well as the launch of new models. •  Profitability Profile.",
+            "metadata": {
+              "date_published": "2024-01-12",
+              "doc_id": "f4bd469e5adb61dbd7d4eb06baaac10cfe06d50a7b9d59455b9d384d575285b1",
+              "filename": "20240112_final.json",
+              "global_id": 6926,
+              "next_chunk_id": "3d13c5c163789c33f190115fd5697e31cfc975a793b02e9450078b4e5949b504",
+              "page_number": 232,
+              "prev_chunk_id": "08d41eccefa5b9a5dd3fa0533c5395e4c03d5408353590f569a78c250ff622b9",
+              "title_summary": "title: Summary of LCAA’s Financial and Valuation Analysis \nsummary: This summary presents the financial and valuation analyses conducted by the LCAA Board concerning the valuation of Lotus Tech in relation to a Business Combination. It clarifies that the summary does not cover all aspects of the analyses or the factors considered by LCAA management, nor does it indicate the relative importance of each analysis. The Board may have assigned varying probabilities to different assumptions, and while some financial data is provided, relying solely on this information without understanding the underlying methodologies and assumptions could lead to a misleading interpretation of the Board's evaluations and recommendations.\n\nThe valuation analyses were based on significant assumptions about market size, industry performance, and economic conditions, many of which are beyond the control of LCAA, Lotus Tech, or other involved parties. Consequently, neither LCAA nor Lotus Tech can be held responsible for discrepancies between projected and actual results, as estimates do not guarantee future performance and are subject to considerable uncertainty. The analyses do not represent appraisals or actual trading prices post-transaction.\n\nThe LCAA Board employed Comparable Company Analysis (CCA) to assess Lotus Tech's value by comparing it to similar companies in the Battery Electric Vehicle (BEV) and luxury original equipment manufacturer (OEM) sectors. This method involves selecting comparable firms, collecting financial data, calculating valuation multiples, and making necessary adjustments to derive a valuation range. The analysis highlighted key similarities among BEV companies, such as a focus on technology, sustainability, market positioning, and R&D, aligning closely with Lotus Tech's vision of transitioning to 100% BEV production by 2027.\n\nThe comparative analysis also examined luxury OEMs, emphasizing their shared characteristics with Lotus Tech, including high-quality craftsmanship, innovative design, performance orientation, and sustainability initiatives. The summary notes the esteemed heritage of luxury brands like Ferrari, Porsche, and Aston Martin, which are recognized for their high-performance vehicles and strong brand loyalty, positioning them as leaders in the high-end automotive market. Overall, the LCAA Board's analyses provide a comprehensive understanding of Lotus Tech's competitive landscape and potential valuation, while acknowledging the inherent uncertainties in financial projections and market conditions."
+            },
+            "bundle_id": 30
+          },
+          {
+            "retriever": "BM25",
+            "score": 3.496412992477417,
+            "page_content": "The board of directors will determine whether, to what extent, at what times and places, and under what conditions or regulations the accounts and books of Lotus Technology will be open to inspection by shareholders. No shareholder will otherwise have any right to inspect any account, book, or document of Lotus Technology except as required by law or authorized by the board of directors or the shareholders by special resolution. Lotus Technology may from time to time by ordinary resolution: ● increase the share capital by such sum, to be divided into shares of such classes and amount, as the resolution will prescribe; ● consolidate and divide all or any share capital into shares of a larger amount than existing shares; ● sub-divide the existing shares or any of them into shares of a smaller amount; provided that in the subdivision the proportion between the amount paid and the amount, if any, unpaid on each reduced share will be the same as it was in the case of the share from which the reduced share is derived;",
+            "metadata": {
+              "date_published": "2024-09-19",
+              "doc_id": "03a3c974cc2890a43fd23693113fcfd64718a403e66c6472ca96f0d51fb420d7",
+              "filename": "0919_final.json",
+              "global_id": 2811,
+              "next_chunk_id": "655d67a9496a32c2d6b64d5579a503fda93328303f24a996917bf2d3123f7410",
+              "page_number": 202,
+              "prev_chunk_id": "ef2a46e24fa189cab2885e3a44424a43a369868601c99ab8785de6a15f81ece1",
+              "title_summary": "title: Inspection of Books and Records \nsummary: The chapter on \"Inspection of Books and Records\" outlines the protocols established by the board of directors regarding shareholder access to the company's financial documents. The board holds the authority to define the conditions under which shareholders may inspect the company's accounts and books, including the extent of access, timing, location, and specific regulations governing such inspections. \n\nIt is important to note that shareholders do not possess an inherent right to inspect company documents. Access is contingent upon either legal mandates, explicit authorization from the board, or approval through a special resolution passed by the shareholders. This framework ensures that the inspection process is regulated and aligned with both corporate governance and legal requirements.\n\nIn summary, the board of directors plays a crucial role in determining the parameters for document inspection, thereby safeguarding the company's interests while also adhering to applicable laws that may grant shareholders certain rights."
+            },
+            "bundle_id": 31
+          },
+          {
+            "retriever": "BM25",
+            "score": 3.495893716812134,
+            "page_content": "In the deposit agreement, all parties to the deposit agreement acknowledge that the DRS and Profile Modification System, or Profile, will apply to uncertificated American Depositary Shares (ADSs) upon acceptance thereof to the DRS by the Depository Trust Company (DTC). The DRS is the system administered by DTC pursuant to which the depositary may register the ownership of uncertificated ADSs, which ownership shall be evidenced by periodic statements issued by the depositary to the ADS holders entitled thereto. The Profile is a required feature of the DRS which allows a DTC participant, claiming to act on behalf of an ADS holder, to direct the depositary to register a transfer of those ADSs to DTC or its nominee and to deliver those ADSs to the DTC account of that DTC participant without receipt by the depositary of prior authorization from the ADS holder to register such transfer.",
+            "metadata": {
+              "date_published": "2024-01-12",
+              "doc_id": "31c814a0b0224369d0af43a13aa708d2669df2fd360219d51e8cb5bfcb423eea",
+              "filename": "20240112_final.json",
+              "global_id": 7528,
+              "next_chunk_id": "df720e85b2a4f24902ac3e6a86d00fb2262d3e807a395a5bfd8ff7e59fe1e058",
+              "page_number": 396,
+              "prev_chunk_id": "efcad7d754dfdf5a784b3b365d0b2e66a7b949f44e523a1d828811aa96db3b61",
+              "title_summary": "title: Direct Registration System \nsummary: The deposit agreement specifies that the governance of uncertificated American Depositary Shares (ADSs) will be managed by the Direct Registration System (DRS) and the Profile Modification System (Profile) upon their acceptance by the Depository Trust Company (DTC). DRS facilitates the registration of ownership for these ADSs, with periodic statements sent to holders to confirm their ownership. Profile plays a crucial role within DRS, allowing DTC participants to instruct the depositary to transfer ADSs to DTC or its nominee on behalf of the ADS holders, enabling the transfer of ADSs to the participant's account without requiring prior approval from the holders."
+            },
+            "bundle_id": 32
+          },
+          {
+            "retriever": "BM25",
+            "score": 3.48868465423584,
+            "page_content": "In the deposit agreement, all parties to the deposit agreement acknowledge that the DRS and Profile Modification System, or Profile, will apply to uncertificated American Depositary Shares (ADSs) upon acceptance thereof to the DRS by the Depository Trust Company (DTC). The DRS is the system administered by DTC pursuant to which the depositary may register the ownership of uncertificated ADSs, which ownership shall be evidenced by periodic statements issued by the depositary to the ADS holders entitled thereto. The Profile is a required feature of the DRS which allows a DTC participant, claiming to act on behalf of an ADS holder, to direct the depositary to register a transfer of those ADSs to DTC or its nominee and to deliver those ADSs to the DTC account of that DTC participant without receipt by the depositary of prior authorization from the ADS holder to register such transfer. TAXATION",
+            "metadata": {
+              "date_published": "2024-05-24",
+              "doc_id": "0bc6f131ba217f05780eb12740d040c87a6b89c6eca2ae3057abd2d507f7ab99",
+              "filename": "20240524_final.json",
+              "global_id": 10878,
+              "next_chunk_id": "1a3c6764b666ccc92499ba12c71d74d3b1f20184411fa7478b876f19b23d01ab",
+              "page_number": 240,
+              "prev_chunk_id": "19a961a687f38a3da6975498ca917db331835db961f2d03b97f429818ef1505a",
+              "title_summary": "title: Direct Registration System \nsummary: The deposit agreement outlines the governance of uncertificated American Depositary Shares (ADSs) through the Deposit Registration System (DRS) and Profile Modification System, both managed by the Depository Trust Company (DTC). The DRS facilitates the registration of ADS ownership, with periodic statements confirming this ownership for holders. The Profile system allows DTC participants to manage transfers of ADSs without needing prior authorization from the holders, streamlining the process. In a broader context, taxation serves as a mechanism for governments to collect funds from individuals and businesses to support public services and infrastructure. It includes various tax forms, such as income, sales, property, and corporate taxes, and aims to generate revenue for essential government functions like education and healthcare. Tax systems differ globally and can impact income groups in various ways, while also influencing economic behavior and investment. Effective taxation is vital for fostering public trust and promoting equitable resource distribution in society."
+            },
+            "bundle_id": 33
+          }
+        ]
+      ]
+    }
+  ]
+}

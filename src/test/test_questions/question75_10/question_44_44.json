@@ -1,0 +1,488 @@
+{
+  "metadata": {
+    "generated_date": "2025-08-18 01:12:07",
+    "database": "/root/autodl-tmp/RAG_Agent_production/tmp/database_202506",
+    "batch_index": "44_44"
+  },
+  "questions": [
+    {
+      "question_index": 0,
+      "original_question": "Tell me more about Lotus management team",
+      "answer": "Lotus Technology's management team is composed of highly experienced professionals with diverse backgrounds in automotive, technology, and innovation. The team is led by Mr. Qingfeng Feng, the Chief Executive Officer, who has over 20 years of experience at Geely Holding. Other key members include Mr. Daniel Donghui Li, the Chairman of the Board of Directors, and Mr. Daxue Wang, the Chief Financial Officer, who was appointed in April 2025. The board also includes independent directors such as Ms. Catherine Cai, who brings extensive investment banking expertise, and Ms. Ada Yunfeng Yan, among others. This leadership team combines deep industry knowledge with a forward-thinking approach to drive Lotus Technology's vision as a global leader in intelligent and luxury mobility.\n\nThe information is based on knowledge available before 2025-04-30.",
+      "duration": 7.939846515655518,
+      "rewritten_question": [
+        "What is the composition of Lotus Technology's management team?"
+      ],
+      "need_rag": true,
+      "rag_info": [
+        {
+          "timeinfo": "2024-09-19",
+          "chunk_id": "cb08c7874e4c653881ce1a8d8def27166de32ef5b2a2fe72baa9098c59197775",
+          "chunk_content": "Lotus Group has a pioneering, tech-forward, and design-led management team with expertise in automotive, technology, and innovation. Led by Mr. Qingfeng Feng, an industry veteran and a visionary leader who has served at Geely Holding for more than 20 years, the management team is composed of seasoned professionals with diversified backgrounds in R&D, technology, and automotive design, along with extensive industry experience at other leading automotive firms, such as Geely Holding, Volvo, Mercedes Benz, BMW, Porsche, Maserati, Aston Martin, Ferrari, and Bugatti. Lotus Technology is a leading global intelligent and luxury mobility provider that designs, develops, and sells luxury lifestyle vehicles under the iconic British brand “Lotus.” With over seven decades of heritage and proven leadership in racetrack and road cars, the Lotus brand symbolizes market-leading standards in performance, design, and engineering. The company's first lifestyle production vehicle, Eletre, is a new breed of pure electric SUV powered by Lotus’s proprietary 800-volt EPA. Lotus Technology launched Eletre and Emeya in 2022 and 2023, respectively, and their deliveries commenced in 2023 and 2024, respectively. The company also started deliveries of Evija in 2024. In addition to Eletre and Emeya, Lotus Technology plans to introduce two new models in the near future.",
+          "chunk_bundle_id": 9.0,
+          "sub_query": "What is the composition of Lotus Technology's management team?"
+        },
+        {
+          "timeinfo": "2024-01-11",
+          "chunk_id": "12936eb7afac0a9b01955dc0956f726187d5bd6b1ee266a1bfd22866f284b6c8",
+          "chunk_content": "[Table Level]  \n- **Table Title**: Executive Officers and Directors of Lotus Technology Post-Business Combination  \n- **Table Summary**: The table lists the names, roles, and ages of the executive officers and directors of Lotus Technology immediately post-Business Combination. These individuals hold various leadership and governance positions within the organization.  \n- **Context**: The table provides a detailed overview of the executive team, which includes both directors and independent directors, providing insights into their roles and the company's organizational structure.  \n- **Special Notes**: No special formatting or footnotes are present in the table.\n\n[Row Level]  \n- **Row 1**: Daniel Donghui Li, aged 52, serves as the Director and Chairman of the Board of Directors of Lotus Technology.  \n- **Row 2**: Qingfeng Feng, aged 50, holds the position of Director and Chief Executive Officer of Lotus Technology.  \n- **Row 3**: Alexious Kuen Long Lee, aged 47, is the Director and Chief Financial Officer of Lotus Technology.  \n- **Row 4**: Ooi Teik Huat, aged 63, is listed as a Director of Lotus Technology.  \n- **Row 5**: Ning Yu, aged 52, serves as an Independent Director of Lotus Technology.  \n- **Row 6**: Ada Yunfeng Yan, aged 54, also holds the role of Independent Director of Lotus Technology.  \n- **Row 7**: Anish Melwani, aged 46, is an Independent Director of Lotus Technology.",
+          "chunk_bundle_id": 7.0,
+          "sub_query": "What is the composition of Lotus Technology's management team?"
+        },
+        {
+          "timeinfo": "2024-01-12",
+          "chunk_id": "72c8be7e29dc9d755c9b66c3ad0b55daf349841457f4054c53c58655b6fac001",
+          "chunk_content": "Guided by industry-iconic R&D leaders, Lotus Technology's global research and development team has extensive experience in the automotive and technology industries. As of June 30, 2023, Lotus Technology's R&D team consisted of 1,804 professionals with extensive knowledge in automotive engineering, software, and AI, as well as diversified working experiences from leading vehicle manufacturers globally. Such composition ensures solid technology development capabilities, especially in intelligence and digitalization. The diversified cultural and professional background promotes the exchange of ideas from different perspectives and ensures the generation of innovations.",
+          "chunk_bundle_id": 5.0,
+          "sub_query": "What is the composition of Lotus Technology's management team?"
+        },
+        {
+          "timeinfo": "2024-05-24",
+          "chunk_id": "a51669700d2559073d1e1ff236809be436ddf84d00ebcc0968258684fe6f8fc5",
+          "chunk_content": "Lotus Technology has a pioneering, tech-forward, and design-led management team with expertise in automotive, technology, and innovation. Led by Mr. Qingfeng Feng, an industry veteran and a visionary leader who has served at Geely Holding for more than 20 years, Lotus Technology's management team is made up of seasoned professionals with diversified backgrounds in R&D, technology, and automotive design, and with extensive industry experience at other leading automotive firms, such as Geely Holding, Volvo, Mercedes Benz, BMW, Porsche, Maserati, Aston Martin, Ferrari, and Bugatti.",
+          "chunk_bundle_id": 2.0,
+          "sub_query": "What is the composition of Lotus Technology's management team?"
+        },
+        {
+          "timeinfo": "2025-04-30",
+          "chunk_id": "3815f2665c4ab5f5c4efb3195d422fdf7b617836c1753f225b48a02fbf703aa0",
+          "chunk_content": "Lotus Technology has a dedicated global team to support its R&D activities with a sizable scale and comprehensive functionalities, covering all major technological perspectives. Lotus Technology's approach to innovation demonstrates an inter-connected global collaboration among highly experienced and dedicated teams across Europe and China, each with different technological focuses. Lotus Technology's research and development efforts are focusing on the development of key EV technologies while benefiting from the technological support from the Geely Holding ecosystem. Lotus Technology intends to continually develop cutting-edge technologies, including its 800-volt EPA architecture and hardware, algorithms, and software system to enhance the competitiveness of its vehicles. Lotus Technology also plans to monetize its R&D capabilities by licensing its intellectual properties and software via subscriptions to other luxury auto brands. Guided by Lotus Technology's R&D leaders, Lotus Technology's global research and development team has extensive experience in the automotive and technology industries. As of December 31, 2024, Lotus Technology's R&D team consisted of 1,030 professionals with extensive knowledge in automotive, engineering, software, and AI, as well as diversified working experiences from leading vehicle manufacturers globally. Such composition ensures solid technology development capabilities, especially in intelligence and digitalization. The diversified cultural and professional background promotes the exchange of ideas from different perspectives and ensures the generation of innovations. Lotus Technology established Lotus Robotics in China, the arm of its in-house intelligent driving competence. Lotus Robotics is committed to developing advanced intelligent driving technologies to foster global industry growth.",
+          "chunk_bundle_id": 1.0,
+          "sub_query": "What is the composition of Lotus Technology's management team?"
+        },
+        {
+          "timeinfo": "2024-02-23",
+          "chunk_id": "4cd125957edcafc26ffdf9ad4af7ec730d7853ccc28456a7b177c243808ef4d6",
+          "chunk_content": "By : /s/  \nAlexious Kuen Long Lee  \nName : Alexious Kuen Long Lee  \nTitle : Director and Chief Financial Officer",
+          "chunk_bundle_id": 11.0,
+          "sub_query": "What is the composition of Lotus Technology's management team?"
+        },
+        {
+          "timeinfo": "2025-03-31",
+          "chunk_id": "164ae23aa8f2f8e1a102c4bece4d3798209b5eff85f4e4c3d9e95b7ee106ad71",
+          "chunk_content": "The board of directors (the “Board”) of Lotus Technology Inc. (the “Company”) has appointed Ms. Catherine Cai as a new independent director of the Board and a member of the audit committee, compensation committee, and nominating and corporate governance committee of the Board, effective immediately. The Board has determined that Ms. Cai satisfies the independence requirements of Rule 5605(a)(2) of the Nasdaq Stock Market Rules and Rule 10A-3 under the Exchange Act. Ms. Catherine Cai has more than three decades of experience in China's investment banking industry and has held senior positions at international investment banks. She served as the Group Managing Director, Global Executive Vice Chairman, and Chairman of Greater China at UBS from 2018 to 2024. Prior to that, Ms. Cai was the Managing Director, Chairman, and Head of China at Citigroup from 2016 to 2018. Ms. Cai also held the position of Managing Director, Chairman, and Head of China Investment Banking at Bank of America Merrill Lynch. Ms. Catherine Cai obtained her bachelor’s degree in law from Peking University. Mr. Nathan Ning Yu has tendered his resignation as a member of the audit committee, compensation committee, and nominating and corporate governance committee of the Board, effective immediately. Mr. Yu will continue to serve as a director on the Board of Lotus Technology Inc. Following these changes, (i) the audit committee of the Board will be composed of Ms. Ada Yunfeng Yan, Mr. Anish Melwani, and Ms. Catherine Cai, all of whom are independent directors;",
+          "chunk_bundle_id": 16.0,
+          "sub_query": "What is the composition of Lotus Technology's management team?"
+        },
+        {
+          "timeinfo": "2025-03-31",
+          "chunk_id": "b7119a7d0899c4fa54bee8c55013c99366db879abd6579250e326ac79f34bf36",
+          "chunk_content": "(ii) the compensation committee of the Board will be composed of Mr. Donghui Li, Mr. Anish Melwani, and Ms. Catherine Cai, with both Mr. Melwani and Ms. Cai being independent directors; and (iii) the nominating and corporate governance committee of the Board will be composed of Mr. Donghui Li, Ms. Ada Yunfeng Yan, and Ms. Catherine Cai, with both Ms. Yan and Ms. Cai being independent directors.",
+          "chunk_bundle_id": 17.0,
+          "sub_query": "What is the composition of Lotus Technology's management team?"
+        },
+        {
+          "timeinfo": "2025-04-08",
+          "chunk_id": "4df016449716bca3c36ee75f9bb83f08369a6f9867858914283aef15ccfb4bfc",
+          "chunk_content": "NEW YORK, April 08, 2025 (GLOBE NEWSWIRE) -- Lotus Technology Inc. (“Lotus” or the “Company”) (Nasdaq: LOT), a leading global intelligent and luxury mobility provider, today announced changes to Lotus Technology's management team and board of directors. The board of directors of Lotus Technology Inc. (the “Board”) has approved the appointment of Mr. Daxue Wang as the Chief Financial Officer (“CFO”) of Lotus Technology Inc. effective April 8, 2025. Mr. Wang is a seasoned executive across corporate and prominent financial institutions, most recently serving as CFO of Radar Auto. Prior to that, Mr. Wang held several executive positions in Zhejiang Kangsheng, Huzhou Moshan Asset Management, Morgan Stanley Securities, ICBC Credit Suisse Asset Management, and Citi Group. The Board believes that Mr. Wang is highly qualified and a suitable candidate. The appointment came after Mr. Alexious Lee tendered his resignation as CFO of Lotus Technology Inc. for personal reasons on April 3, 2025. Mr. Lee will remain as a member of the board of directors. As previously announced on its filing with the U.S. Securities and Exchange Commission, Lotus Technology Inc. has also appointed Ms. Catherine Cai as an independent director as well as a member of the audit committee, the compensation committee, and the nominating and corporate governance committee of Lotus Technology's board of directors, with effect from March 31, 2025. Ms. Catherine Cai has more than three decades of experience in China's investment banking industry and has held senior positions at international investment banks.",
+          "chunk_bundle_id": 0.0,
+          "sub_query": "What is the composition of Lotus Technology's management team?"
+        },
+        {
+          "timeinfo": "2025-04-08",
+          "chunk_id": "ebeb1ac95433a51bc9e832e9001159181f4d088977cfefa6e984391e7b1d8aa2",
+          "chunk_content": "She was Group Managing Director, Global Executive Vice Chairman, and Chairman of Greater China at UBS. She also held multiple senior positions at Citigroup and Bank of America Merrill Lynch. Mr. Qingfeng Feng, Chief Executive Officer of Lotus Technology Inc., said: “Lotus Technology is delighted to welcome Mr. Daxue Wang as the new Chief Financial Officer. Mr. Wang brings years of financial and operational experience with a proven track record for driving financial excellence. I would also like to thank Mr. Alexious Lee for his contributions as Chief Financial Officer and look forward to his continued support as a board member.” Mr. Donghui Li, Chairman of Lotus Technology Inc.'s board of directors, commented: “Lotus Technology is honored to welcome Ms. Catherine Cai to its board. Her deep expertise in investment banking will bring significant value to the shareholders as Lotus Technology continues to execute its long-term vision.”",
+          "chunk_bundle_id": 10.0,
+          "sub_query": "What is the composition of Lotus Technology's management team?"
+        }
+      ],
+      "all_retrieved_content": [
+        [
+          {
+            "retriever": "FAISS",
+            "score": 0.7103559970855713,
+            "page_content": "NEW YORK, April 08, 2025 (GLOBE NEWSWIRE) -- Lotus Technology Inc. (“Lotus” or the “Company”) (Nasdaq: LOT), a leading global intelligent and luxury mobility provider, today announced changes to Lotus Technology's management team and board of directors. The board of directors of Lotus Technology Inc. (the “Board”) has approved the appointment of Mr. Daxue Wang as the Chief Financial Officer (“CFO”) of Lotus Technology Inc. effective April 8, 2025. Mr. Wang is a seasoned executive across corporate and prominent financial institutions, most recently serving as CFO of Radar Auto. Prior to that, Mr. Wang held several executive positions in Zhejiang Kangsheng, Huzhou Moshan Asset Management, Morgan Stanley Securities, ICBC Credit Suisse Asset Management, and Citi Group. The Board believes that Mr. Wang is highly qualified and a suitable candidate. The appointment came after Mr. Alexious Lee tendered his resignation as CFO of Lotus Technology Inc. for personal reasons on April 3, 2025. Mr. Lee will remain as a member of the board of directors. As previously announced on its filing with the U.S. Securities and Exchange Commission, Lotus Technology Inc. has also appointed Ms. Catherine Cai as an independent director as well as a member of the audit committee, the compensation committee, and the nominating and corporate governance committee of Lotus Technology's board of directors, with effect from March 31, 2025. Ms. Catherine Cai has more than three decades of experience in China's investment banking industry and has held senior positions at international investment banks.",
+            "metadata": {
+              "date_published": "2025-04-08",
+              "doc_id": "4df016449716bca3c36ee75f9bb83f08369a6f9867858914283aef15ccfb4bfc",
+              "filename": "Lotus_6-K_20250408_final.json",
+              "global_id": 14038,
+              "next_chunk_id": "ebeb1ac95433a51bc9e832e9001159181f4d088977cfefa6e984391e7b1d8aa2",
+              "page_number": 3,
+              "prev_chunk_id": "3a8e02d23f267d784a09cdb8e775dfbd8ce37fc421b532f86941fcbe64d8faae",
+              "title_summary": "title: Lotus Technology Announces Management and Board Changes \nsummary: Lotus Technology Inc. (Nasdaq: LOT), a leader in intelligent and luxury mobility solutions, announced significant changes to its management team and board of directors on April 8, 2025. Mr. Daxue Wang has been appointed as the new Chief Financial Officer (CFO), effective immediately, following the resignation of Mr. Alexious Lee, who will remain on the board. Mr. Wang, who previously served as CFO at Radar Auto and held executive positions at various financial institutions, is seen as a highly qualified candidate to drive financial excellence. Additionally, Ms. Catherine Cai has joined the board as an independent director, effective March 31, 2025, bringing over 30 years of experience in investment banking from her roles at UBS, Citigroup, and Bank of America Merrill Lynch. Both appointments were praised by Mr. Qingfeng Feng, CEO of Lotus, and Mr. Donghui Li, Chairman of the board, who expressed confidence that their expertise will significantly benefit the company and its shareholders as it pursues its long-term goals."
+            },
+            "bundle_id": 0
+          },
+          {
+            "retriever": "FAISS",
+            "score": 0.7100106477737427,
+            "page_content": "Lotus Technology has a dedicated global team to support its R&D activities with a sizable scale and comprehensive functionalities, covering all major technological perspectives. Lotus Technology's approach to innovation demonstrates an inter-connected global collaboration among highly experienced and dedicated teams across Europe and China, each with different technological focuses. Lotus Technology's research and development efforts are focusing on the development of key EV technologies while benefiting from the technological support from the Geely Holding ecosystem. Lotus Technology intends to continually develop cutting-edge technologies, including its 800-volt EPA architecture and hardware, algorithms, and software system to enhance the competitiveness of its vehicles. Lotus Technology also plans to monetize its R&D capabilities by licensing its intellectual properties and software via subscriptions to other luxury auto brands. Guided by Lotus Technology's R&D leaders, Lotus Technology's global research and development team has extensive experience in the automotive and technology industries. As of December 31, 2024, Lotus Technology's R&D team consisted of 1,030 professionals with extensive knowledge in automotive, engineering, software, and AI, as well as diversified working experiences from leading vehicle manufacturers globally. Such composition ensures solid technology development capabilities, especially in intelligence and digitalization. The diversified cultural and professional background promotes the exchange of ideas from different perspectives and ensures the generation of innovations. Lotus Technology established Lotus Robotics in China, the arm of its in-house intelligent driving competence. Lotus Robotics is committed to developing advanced intelligent driving technologies to foster global industry growth.",
+            "metadata": {
+              "date_published": "2025-04-30",
+              "doc_id": "3815f2665c4ab5f5c4efb3195d422fdf7b617836c1753f225b48a02fbf703aa0",
+              "filename": "20250430.json",
+              "global_id": 11690,
+              "next_chunk_id": "593ec5d833391b2a60143d83dd1a9023486aee3766712b763874750b344ec980",
+              "page_number": 83,
+              "prev_chunk_id": "742f7990984b9b253c6bef8f29e5ad23abf05b6702ef47565c7fd496666a8426",
+              "title_summary": "title: Worldwide Research and Development Footprint \nsummary: The organization features a dedicated global team that enhances its research and development (R&D) efforts across various technological domains, with a strong emphasis on collaboration between experienced teams in Europe and China. This innovation strategy is geared towards advancing critical electric vehicle (EV) technologies, supported by the Geely Holding ecosystem. Key initiatives include the development of cutting-edge technologies like the 800-volt EPA architecture, as well as hardware, algorithms, and software systems aimed at boosting vehicle competitiveness. The organization also plans to monetize its intellectual property and software through licensing and subscription models targeted at luxury automotive brands. As of December 31, 2024, the global R&D team, led by seasoned professionals, consists of 1,030 experts in automotive engineering, software, and AI, whose diverse backgrounds contribute to enhanced technology development, particularly in intelligence and digitalization. Additionally, Lotus Robotics, established in China, is at the forefront of intelligent driving technology, providing a comprehensive suite of solutions including advanced software, cloud toolchains, and integrated development services. Since 2024, Lotus Robotics has been delivering complete intelligent driving solutions to major automakers like Lynk&Co and Farizon Auto, further solidifying its role in the global automotive industry."
+            },
+            "bundle_id": 1
+          },
+          {
+            "retriever": "FAISS",
+            "score": 0.7063721418380737,
+            "page_content": "Lotus Technology has a pioneering, tech-forward, and design-led management team with expertise in automotive, technology, and innovation. Led by Mr. Qingfeng Feng, an industry veteran and a visionary leader who has served at Geely Holding for more than 20 years, Lotus Technology's management team is made up of seasoned professionals with diversified backgrounds in R&D, technology, and automotive design, and with extensive industry experience at other leading automotive firms, such as Geely Holding, Volvo, Mercedes Benz, BMW, Porsche, Maserati, Aston Martin, Ferrari, and Bugatti.",
+            "metadata": {
+              "date_published": "2024-05-24",
+              "doc_id": "a51669700d2559073d1e1ff236809be436ddf84d00ebcc0968258684fe6f8fc5",
+              "filename": "20240524_final.json",
+              "global_id": 10075,
+              "next_chunk_id": "",
+              "page_number": 14,
+              "prev_chunk_id": "c91f61522407108a0f98613bd9e532a2b80af59eb067d53c066127ca6903e7b5",
+              "title_summary": "title: Our Strengths \nsummary: The company is strategically positioned as a pioneer in the luxury battery electric vehicle (BEV) market, benefiting from its iconic brand heritage and advanced technological capabilities. With over 70 years of experience in sports car design and engineering, the brand is recognized for its commitment to aerodynamics and lightweight design, complemented by a successful motorsport legacy that includes multiple Formula 1 championships. \n\nLeveraging proprietary next-generation technologies developed through robust research and development, the company aims to offer a fully electric product portfolio, targeting the underserved luxury BEV segment with models priced between $80,000 and $149,000. The company plans to transition to a 100% BEV lineup by 2027, establishing a competitive edge in electrification.\n\nSupported by Geely Holding's extensive resources, the company operates an asset-light business model that enhances operational efficiency and enables rapid global expansion. This partnership provides access to advanced manufacturing facilities and a reliable supply chain, ensuring stability in sourcing critical components.\n\nThe company is also committed to sustainability, adhering to high international ESG standards and aiming for a complete lineup of electric vehicles. Its digital-first, omni-channel sales model enhances the luxury retail experience, integrating online and physical services to meet customer needs effectively.\n\nGuided by a visionary leadership team with extensive experience in the automotive industry, the company is well-positioned to maintain its competitive advantages and drive innovation in the luxury electric vehicle market."
+            },
+            "bundle_id": 2
+          },
+          {
+            "retriever": "FAISS",
+            "score": 0.6889785528182983,
+            "page_content": "Guided by Lotus Technology's R&D leaders, Lotus Technology's global research and development team has extensive experience in the automotive and technology industries. As of December 31, 2023, Lotus Technology's R&D team consisted of 1,802 professionals with extensive knowledge in automotive engineering, software, and AI, as well as diversified working experiences from leading vehicle manufacturers globally. Such composition ensures solid technology development capabilities, especially in intelligence and digitalization. The diversified cultural and professional background promotes the exchange of ideas from different perspectives and ensures the generation of innovations.",
+            "metadata": {
+              "date_published": "2024-04-22",
+              "doc_id": "a0617c75262dfb42eee9f72d3c4f79f3213e58dfeb39e7d08dad7b37cbf9297d",
+              "filename": "20240422_final.json",
+              "global_id": 8797,
+              "next_chunk_id": "c257328e619cf88cc7aefa49c4bd15ba205cb8dc5b1680ce7f71ff3928cfff81",
+              "page_number": 86,
+              "prev_chunk_id": "",
+              "title_summary": "title: Worldwide Research and Development Footprint \nsummary: Lotus has formed a dedicated global team to bolster its research and development (R&D) efforts, harnessing a wide array of technological expertise from various regions, including the U.K., Germany, and China. The company's global headquarters in Wuhan focuses on cloud computing and online data processing, while a software center in Shanghai specializes in global system integration and network security. Additionally, a research institute in Ningbo is dedicated to electric architecture, charging systems, and intelligent driving technologies. Lotus has also established two R&D centers: the Lotus Technology Creative Centre (LTCC) in Coventry, U.K., which concentrates on automotive design and sustainable materials, and the Lotus Technology Innovative Centre (LTIC) in Frankfurt, Germany, which emphasizes behavioral science and innovative vehicle technologies.\n\nThe R&D initiatives aim to advance critical electric vehicle (EV) technologies, supported by the Geely Holding ecosystem, with a particular focus on the development of the 800-volt EPA architecture and improvements in hardware, algorithms, and software systems to enhance vehicle competitiveness. Additionally, Lotus plans to monetize its R&D through licensing intellectual property and software via subscription models to other luxury automotive brands. As of December 31, 2023, the global R&D team, led by seasoned professionals, consists of 1,802 experts in automotive, engineering, software, and AI. This diverse team, drawing from leading vehicle manufacturers worldwide, fosters innovative idea exchange and enhances technology development, particularly in intelligence and digitalization."
+            },
+            "bundle_id": 3
+          },
+          {
+            "retriever": "FAISS",
+            "score": 0.6882692575454712,
+            "page_content": "Guided by Lotus Technology's R&D leaders, Lotus Technology's global research and development team has extensive experience in the automotive and technology industries. As of December 31, 2023, Lotus Technology's R&D team consisted of 1,802 professionals with extensive knowledge in automotive, engineering, software, and AI, as well as diversified working experiences from leading vehicle manufacturers globally. Such composition ensures solid technology development capabilities, especially in intelligence and digitalization. The diversified cultural and professional background promotes the exchange of ideas from different perspectives and ensures the generation of innovations.",
+            "metadata": {
+              "date_published": "2024-05-24",
+              "doc_id": "79aabdacc1aa19016b36556a6db5661e8a059228352cecb05b093a4fdd14621e",
+              "filename": "20240524_final.json",
+              "global_id": 10473,
+              "next_chunk_id": "802a5f752f6c69ef10383b6af39b10d48975528edef0d8885187c0b183d255a4",
+              "page_number": 130,
+              "prev_chunk_id": "ac1ae216b5a7deaec946e73eea52f4a5e8a32d22f7ea718ec4fe5324bdc3317d",
+              "title_summary": "title: Worldwide Research and Development Footprint \nsummary: Lotus has formed a dedicated global team to bolster its research and development (R&D) efforts, integrating a wide array of technological expertise across multiple locations. The team includes specialized groups in the U.K., Germany, and China, with the global headquarters in Wuhan focusing on cloud computing and data processing, a software center in Shanghai dedicated to system integration and network security, and a research institute in Ningbo that works on electric architecture, charging systems, and intelligent driving technologies. Additionally, Lotus operates two R&D centers: the Lotus Technology Creative Centre (LTCC) in Coventry, which emphasizes automotive design and sustainable materials, and the Lotus Technology Innovative Centre (LTIC) in Frankfurt, concentrating on behavioral science and innovative vehicle technologies.\n\nLotus's R&D initiatives prioritize the advancement of electric vehicle (EV) technologies, supported by the Geely Holding ecosystem. The company aims to innovate with cutting-edge technologies, including an 800-volt EPA architecture, while enhancing hardware, algorithms, and software systems to improve vehicle competitiveness. Furthermore, Lotus plans to leverage its R&D capabilities by licensing intellectual properties and software to other luxury automotive brands through subscription models.\n\nAs of December 31, 2023, the global R&D team, led by seasoned professionals, consists of 1,802 experts in automotive engineering, software, and AI. Their diverse experiences from leading vehicle manufacturers worldwide enrich Lotus's technology development, particularly in intelligence and digitalization, fostering a collaborative environment that drives innovation."
+            },
+            "bundle_id": 4
+          },
+          {
+            "retriever": "FAISS",
+            "score": 0.6834582090377808,
+            "page_content": "Guided by industry-iconic R&D leaders, Lotus Technology's global research and development team has extensive experience in the automotive and technology industries. As of June 30, 2023, Lotus Technology's R&D team consisted of 1,804 professionals with extensive knowledge in automotive engineering, software, and AI, as well as diversified working experiences from leading vehicle manufacturers globally. Such composition ensures solid technology development capabilities, especially in intelligence and digitalization. The diversified cultural and professional background promotes the exchange of ideas from different perspectives and ensures the generation of innovations.",
+            "metadata": {
+              "date_published": "2024-01-12",
+              "doc_id": "72c8be7e29dc9d755c9b66c3ad0b55daf349841457f4054c53c58655b6fac001",
+              "filename": "20240112_final.json",
+              "global_id": 7124,
+              "next_chunk_id": "450da0b226e85c150946b1d6391e43154ee930c1ce8e2a4969f14d5b86043076",
+              "page_number": 283,
+              "prev_chunk_id": "",
+              "title_summary": "title: Worldwide Research and Development Footprint \nsummary: Lotus has formed a dedicated global team to bolster its research and development (R&D) initiatives, leveraging a diverse array of technological expertise across multiple regions. The innovation strategy promotes collaborative efforts among specialized teams in the UK, Germany, and China. The global headquarters in Wuhan focuses on cloud computing and data processing, while Shanghai's software center prioritizes system integration and network security. Additionally, Ningbo's research institute is dedicated to electric architecture and intelligent driving technologies. Lotus has established two key R&D centers: the Lotus Technology Creative Centre in Coventry, UK, which specializes in automotive design and sustainable materials, and the Lotus Technology Innovative Centre in Frankfurt, Germany, which emphasizes behavioral science and innovative vehicle technologies. The overarching goal of these initiatives is to advance electric vehicle (EV) technologies, supported by the Geely Holding ecosystem, with innovations such as the 800-volt EPA architecture and enhancements in hardware, algorithms, and software systems to improve vehicle competitiveness. Furthermore, Lotus plans to monetize its R&D efforts by licensing intellectual property and software to other luxury automotive brands through subscription models. As of mid-2023, the global R&D team, led by industry experts, consists of 1,804 professionals with extensive backgrounds in automotive engineering, software, and AI, fostering a rich environment for innovative idea exchange and solution development."
+            },
+            "bundle_id": 5
+          },
+          {
+            "retriever": "FAISS",
+            "score": 0.6818948984146118,
+            "page_content": "Lotus Technology's research and development efforts are focusing on the development of key electric vehicle technologies while benefiting from the technological support from the Geely Holding ecosystem. Lotus Technology intends to continually develop cutting-edge technologies, including the 800-volt EPA architecture and hardware, algorithms, and software systems to enhance the competitiveness of its vehicles. Lotus Technology also plans to monetize its R&D capabilities by licensing its intellectual properties and software via subscriptions to other luxury automotive brands. Guided by Lotus Technology's R&D leaders, the global research and development team has extensive experience in the automotive and technology industries. As of December 31, 2023, Lotus Technology's R&D team consisted of 1,802 professionals with extensive knowledge in automotive engineering, software, and artificial intelligence, as well as diversified working experiences from leading vehicle manufacturers globally. Such composition ensures solid technology development capabilities, especially in intelligence and digitalization. The diversified cultural and professional background promotes the exchange of ideas from different perspectives and ensures the generation of innovations.",
+            "metadata": {
+              "date_published": "2024-05-03",
+              "doc_id": "407d881c83a57708644fade34df8ef01c0a9073e77d275a4eb1a38abc7f3867b",
+              "filename": "0503_final.json",
+              "global_id": 498,
+              "next_chunk_id": "60eaae8f3cb114424f4a0e8f445bd56cb5caf249ddcfea75f1f31dde4caaea13",
+              "page_number": 124,
+              "prev_chunk_id": "73ccf536610ccac18108fbfe27f7bc526d12297b71da398c115cf5254f27ddc3",
+              "title_summary": "title: Worldwide Research and Development Footprint \nsummary: Lotus has developed a comprehensive global research and development (R&D) footprint aimed at enhancing its technological capabilities across various sectors, particularly in the automotive industry. The core of this R&D initiative is centered at its global headquarters in Wuhan, China, where the focus is on cloud computing and online data processing. Complementing this facility are a software center in Shanghai, which specializes in global system integration and network security, and a research institute in Ningbo that concentrates on electric architecture, charging systems, and intelligent driving technologies.\n\nIn addition to its Chinese operations, Lotus operates two significant R&D centers in Europe: the Lotus Technology Creative Centre (LTCC) located in Coventry, U.K., which emphasizes automotive design, product communication, and the use of sustainable materials; and the Lotus Technology Innovative Centre (LTIC) in Frankfurt, Germany, which is dedicated to behavioral science, innovative vehicle technologies, and user interface development.\n\nA key focus of Lotus's R&D efforts is the advancement of essential electric vehicle (EV) technologies, supported by the Geely Holding ecosystem. Notable initiatives include the development of the 800-volt EPA architecture along with its associated hardware, algorithms, and software systems, all aimed at enhancing the competitiveness of Lotus vehicles in the luxury automotive market. Furthermore, Lotus is exploring opportunities to monetize its R&D capabilities by licensing its intellectual property and software to other luxury automotive brands.\n\nAs of December 31, 2023, Lotus's R&D team consists of 1,802 professionals with extensive expertise in automotive engineering, software development, and artificial intelligence. This diverse team fosters a rich cultural and professional environment that encourages innovation and the exchange of ideas, thereby reinforcing Lotus's strong capabilities in technology development, particularly in the realms of intelligence and digitalization."
+            },
+            "bundle_id": 6
+          },
+          {
+            "retriever": "FAISS",
+            "score": 0.6789044141769409,
+            "page_content": "[Table Level]  \n- **Table Title**: Executive Officers and Directors of Lotus Technology Post-Business Combination  \n- **Table Summary**: The table lists the names, roles, and ages of the executive officers and directors of Lotus Technology immediately post-Business Combination. These individuals hold various leadership and governance positions within the organization.  \n- **Context**: The table provides a detailed overview of the executive team, which includes both directors and independent directors, providing insights into their roles and the company's organizational structure.  \n- **Special Notes**: No special formatting or footnotes are present in the table.\n\n[Row Level]  \n- **Row 1**: Daniel Donghui Li, aged 52, serves as the Director and Chairman of the Board of Directors of Lotus Technology.  \n- **Row 2**: Qingfeng Feng, aged 50, holds the position of Director and Chief Executive Officer of Lotus Technology.  \n- **Row 3**: Alexious Kuen Long Lee, aged 47, is the Director and Chief Financial Officer of Lotus Technology.  \n- **Row 4**: Ooi Teik Huat, aged 63, is listed as a Director of Lotus Technology.  \n- **Row 5**: Ning Yu, aged 52, serves as an Independent Director of Lotus Technology.  \n- **Row 6**: Ada Yunfeng Yan, aged 54, also holds the role of Independent Director of Lotus Technology.  \n- **Row 7**: Anish Melwani, aged 46, is an Independent Director of Lotus Technology.",
+            "metadata": {
+              "date_published": "2024-01-11",
+              "doc_id": "12936eb7afac0a9b01955dc0956f726187d5bd6b1ee266a1bfd22866f284b6c8",
+              "filename": "20240111_final.json",
+              "global_id": 4983,
+              "next_chunk_id": "5ae0a563fb3328ca86a667dcb11eda102f4d838753e6f422479cf5ba5abaee5e",
+              "page_number": 367,
+              "prev_chunk_id": "0c800476e7e109ec1221b321b8a8ba9ee7d026705b3cf0c8c402ba946f5b22d4",
+              "title_summary": "title: Note 4   —   Earnings (Loss) per Share \nsummary: The summary presents a comprehensive overview of the financial implications and leadership structure of Lotus Tech following its Business Combination. It details the calculation of earnings (loss) per share based on historical weighted average shares outstanding, adjusted for the Business Combination, which is assumed to have been effective from the beginning of the reporting period. The unaudited pro forma condensed combined financial statements for the six months ending June 30, 2023, illustrate two scenarios: one with no redemptions and another with maximum redemptions. \n\nKey financial findings include a pro forma net loss of $368,365 under no redemptions and $376,603 under maximum redemptions, with corresponding weighted average shares of 695,266,135 and 673,482,513, leading to loss per share figures of $0.53 and $0.56, respectively. The breakdown of shares highlights the impact of redemption assumptions on financial metrics, with detailed categories of shareholders contributing to the total share count.\n\nAdditionally, the summary outlines the pro forma financial overview for the year ending December 31, 2022, showing a net loss of $720,046 without redemptions and $724,179 with maximum redemptions, along with respective loss per share calculations of $1.16 and $1.21. \n\nThe leadership structure post-Business Combination is also detailed, featuring key executive officers and directors, including Daniel Donghui Li (Chairman), Qingfeng Feng (CEO), and Alexious Kuen Long Lee (CFO), among others. Their backgrounds reflect extensive experience in finance, automotive, and corporate governance, underscoring the strategic leadership in place to guide Lotus Tech's future. Overall, the summary encapsulates the financial outcomes and governance framework critical to understanding Lotus Tech's position following the Business Combination."
+            },
+            "bundle_id": 7
+          },
+          {
+            "retriever": "FAISS",
+            "score": 0.6788023114204407,
+            "page_content": "The Group’s chief operating decision maker has been identified as the chief executive officer, who reviews consolidated results when making decisions about allocating resources and assessing performance of the Group. For the purpose of internal reporting and management’s operation review, Lotus Technology’s chief executive officer and management personnel do not segregate the Group’s business by product or service. Management has determined that the Group has one operating segment. As of December 31, 2022 and 2021, the long-lived assets amounted to US\\$4,180 and US\\$6,444, which were located in the United Kingdom, US\\$14,771 and US\\$14,286, which were located in Germany, US\\$11,773 and US\\$50, which were located in the Netherlands, respectively, and the remaining long-lived assets were primarily in the People's Republic of China.",
+            "metadata": {
+              "date_published": "2024-01-12",
+              "doc_id": "3577944ea460217fc2d3e6f935a4e520afb763efa01b2f1d1e19eb0787eeea54",
+              "filename": "20240112_final.json",
+              "global_id": 7890,
+              "next_chunk_id": "eeb95ecddba03ab6c3d60d13dd57c7fe0a7302b7b0013f646b31a50afe306d48",
+              "page_number": 492,
+              "prev_chunk_id": "54076f8f163c860c948ce458894930db6a120b8f3f0a10fda981a58c29542f44",
+              "title_summary": "title: (ff)   Segment Reporting \nsummary: The CEO of the Group acts as the chief operating decision maker, evaluating consolidated results to guide resource allocation and performance assessments. Management treats the Group as a single operating segment, without distinguishing between different products or services for internal reporting. As of December 31, 2022, the Group's long-lived assets were valued at US$4,180 in the UK, US$14,771 in Germany, and US$11,773 in the Netherlands, showing a decrease in the UK from US$6,444 in 2021, while Germany's assets increased slightly from US$14,286, and the Netherlands saw a significant rise from US$50. The majority of the remaining long-lived assets are situated in the People's Republic of China (PRC)."
+            },
+            "bundle_id": 8
+          },
+          {
+            "retriever": "FAISS",
+            "score": 0.6773995161056519,
+            "page_content": "Lotus Group has a pioneering, tech-forward, and design-led management team with expertise in automotive, technology, and innovation. Led by Mr. Qingfeng Feng, an industry veteran and a visionary leader who has served at Geely Holding for more than 20 years, the management team is composed of seasoned professionals with diversified backgrounds in R&D, technology, and automotive design, along with extensive industry experience at other leading automotive firms, such as Geely Holding, Volvo, Mercedes Benz, BMW, Porsche, Maserati, Aston Martin, Ferrari, and Bugatti. Lotus Technology is a leading global intelligent and luxury mobility provider that designs, develops, and sells luxury lifestyle vehicles under the iconic British brand “Lotus.” With over seven decades of heritage and proven leadership in racetrack and road cars, the Lotus brand symbolizes market-leading standards in performance, design, and engineering. The company's first lifestyle production vehicle, Eletre, is a new breed of pure electric SUV powered by Lotus’s proprietary 800-volt EPA. Lotus Technology launched Eletre and Emeya in 2022 and 2023, respectively, and their deliveries commenced in 2023 and 2024, respectively. The company also started deliveries of Evija in 2024. In addition to Eletre and Emeya, Lotus Technology plans to introduce two new models in the near future.",
+            "metadata": {
+              "date_published": "2024-09-19",
+              "doc_id": "cb08c7874e4c653881ce1a8d8def27166de32ef5b2a2fe72baa9098c59197775",
+              "filename": "0919_final.json",
+              "global_id": 2416,
+              "next_chunk_id": "aa9bbadf98917654b646598229e5dfbb65737f4777203fa783764a6e1d4496f1",
+              "page_number": 110,
+              "prev_chunk_id": "12cb11cf61f232f30f320b6c22ab5b280e3e941e8851a315055fa784af50d2b2",
+              "title_summary": "title: Our Strengths \nsummary: The company is strategically positioned in the luxury Battery Electric Vehicle (BEV) market, leveraging its status as an early mover to capitalize on the rapid growth of this segment. It offers a diverse portfolio of BEV models priced between $80,000 and $149,000, which represents the largest volume contributor to the luxury BEV market, currently characterized as underserved and ripe for expansion.\n\nWith over 70 years of heritage in sports car design and engineering, the Lotus brand is renowned for its iconic status and racing pedigree, having secured multiple Formula 1 championships. The brand's excellence has been recognized with accolades such as \"Luxury Brand of the Year\" at the 2019 Luxury Briefing Awards and the 2020 MUSE Global Design Award for its Evija model.\n\nThe company is at the forefront of innovation, boasting proprietary next-generation technology that includes an 800-volt EPA architecture for supercharging and energy conservation, as well as advanced driver-assistance systems (ADAS) featuring the world’s first deployable LiDAR system. Its operating system, Lotus Hyper OS, enhances the passenger experience through real-time 3D content.\n\nAdopting an asset-light business model, the company benefits significantly from its partnership with Geely Holding, which provides access to state-of-the-art manufacturing facilities in Wuhan, China. This collaboration facilitates scalable operations with minimal upfront capital and enables the establishment of relationships with top-tier suppliers, ensuring stable access to critical components.\n\nSustainability is a core focus, with the company aiming for carbon neutrality across its value chain by 2038. It has achieved an ESG rating of A- from SynTao Green Finance, placing it in the top 7% of listed companies evaluated. Additionally, its photovoltaic power generation system produced over 9,800 MWh in 2023.\n\nThe company employs a digital-first, omni-channel sales model, offering a seamless customer experience through the Lotus App and direct sales initiatives, while also partnering with automotive dealers for rapid market expansion.\n\nFinally, the management team, led by industry veteran Mr. Qingfeng Feng, consists of experienced professionals from leading automotive firms, ensuring a strong commitment to innovation and design, which is critical for maintaining competitive advantages in the evolving luxury BEV market."
+            },
+            "bundle_id": 9
+          },
+          {
+            "retriever": "Title Summary",
+            "score": 0.7295689582824707,
+            "page_content": "She was Group Managing Director, Global Executive Vice Chairman, and Chairman of Greater China at UBS. She also held multiple senior positions at Citigroup and Bank of America Merrill Lynch. Mr. Qingfeng Feng, Chief Executive Officer of Lotus Technology Inc., said: “Lotus Technology is delighted to welcome Mr. Daxue Wang as the new Chief Financial Officer. Mr. Wang brings years of financial and operational experience with a proven track record for driving financial excellence. I would also like to thank Mr. Alexious Lee for his contributions as Chief Financial Officer and look forward to his continued support as a board member.” Mr. Donghui Li, Chairman of Lotus Technology Inc.'s board of directors, commented: “Lotus Technology is honored to welcome Ms. Catherine Cai to its board. Her deep expertise in investment banking will bring significant value to the shareholders as Lotus Technology continues to execute its long-term vision.”",
+            "metadata": {
+              "date_published": "2025-04-08",
+              "doc_id": "ebeb1ac95433a51bc9e832e9001159181f4d088977cfefa6e984391e7b1d8aa2",
+              "filename": "Lotus_6-K_20250408_final.json",
+              "global_id": 14039,
+              "next_chunk_id": "",
+              "page_number": 3,
+              "prev_chunk_id": "4df016449716bca3c36ee75f9bb83f08369a6f9867858914283aef15ccfb4bfc",
+              "title_summary": "title: Lotus Technology Announces Management and Board Changes \nsummary: Lotus Technology Inc. (Nasdaq: LOT), a leader in intelligent and luxury mobility solutions, announced significant changes to its management team and board of directors on April 8, 2025. Mr. Daxue Wang has been appointed as the new Chief Financial Officer (CFO), effective immediately, following the resignation of Mr. Alexious Lee, who will remain on the board. Mr. Wang, who previously served as CFO at Radar Auto and held executive positions at various financial institutions, is seen as a highly qualified candidate to drive financial excellence. Additionally, Ms. Catherine Cai has joined the board as an independent director, effective March 31, 2025, bringing over 30 years of experience in investment banking from her roles at UBS, Citigroup, and Bank of America Merrill Lynch. Both appointments were praised by Mr. Qingfeng Feng, CEO of Lotus, and Mr. Donghui Li, Chairman of the board, who expressed confidence that their expertise will significantly benefit the company and its shareholders as it pursues its long-term goals."
+            },
+            "bundle_id": 10
+          },
+          {
+            "retriever": "Title Summary",
+            "score": 0.6792137622833252,
+            "page_content": "By : /s/  \nAlexious Kuen Long Lee  \nName : Alexious Kuen Long Lee  \nTitle : Director and Chief Financial Officer",
+            "metadata": {
+              "date_published": "2024-02-23",
+              "doc_id": "4cd125957edcafc26ffdf9ad4af7ec730d7853ccc28456a7b177c243808ef4d6",
+              "filename": "Lotus_6-K_20240223_final.json",
+              "global_id": 13115,
+              "next_chunk_id": "227dd13da99f2f69538207068496f6c7105e4ebc4f56e81eb16c9b4dd4a280fc",
+              "page_number": 2,
+              "prev_chunk_id": "609ca06f8b7c5fe2a5677891df8903815732f7301acc0041fde163e9336499d8",
+              "title_summary": "title: Lotus Technology Inc. \nsummary: Alexious Kuen Long Lee holds the positions of Director and Chief Financial Officer, overseeing financial operations and strategic direction."
+            },
+            "bundle_id": 11
+          },
+          {
+            "retriever": "Title Summary",
+            "score": 0.6715049743652344,
+            "page_content": "By: /s/ Alexious Kuen Long Lee  \nName: Alexious Kuen Long Lee  \nTitle: Director and Chief Financial Officer",
+            "metadata": {
+              "date_published": "2025-01-23",
+              "doc_id": "9b5502c07206d5fdbab07d05415a8abab188d2c5c2f90cfe156c261515cc9ab8",
+              "filename": "Lotus_424B3_20250123_final.json",
+              "global_id": 13054,
+              "next_chunk_id": "",
+              "page_number": 3,
+              "prev_chunk_id": "",
+              "title_summary": "title: Lotus Technology Inc. \nsummary: Alexious Kuen Long Lee holds the position of Director and Chief Financial Officer, where he is responsible for managing financial strategies and operations."
+            },
+            "bundle_id": 12
+          },
+          {
+            "retriever": "Title Summary",
+            "score": 0.6647395491600037,
+            "page_content": "By: /s/ Daxue Wang  \nName: Daxue Wang  \nTitle: Chief Financial Officer Date: June 25, 2025 Delivered close to 1,300 vehicles  \nTotal revenue reached \\$93 million  \nGross margin was 12% as the impact from prior destocking efforts eased  \nThe operating loss in the first quarter narrowed by more than 50% year-on-year to \\$103 million New York – June 25, 2025 – Lotus Technology Inc. (“Lotus Tech” or “the Company”), a leading global intelligent and luxury mobility provider, today announced its unaudited financial results for the first quarter ended March 31, 2025.",
+            "metadata": {
+              "date_published": "2025-06-25",
+              "doc_id": "9f5ecbe5a18419243faef31250052c5ad45b4aef75fb13435cd2022a7a94ab61",
+              "filename": "20250625_final.json",
+              "global_id": 16672,
+              "next_chunk_id": "dd5b5d9d561540c336bcc0225d4f5c4c91078112722573dc5df610bc49c2e603",
+              "page_number": 3,
+              "prev_chunk_id": "bdc792188068c139b90be9ee5f7c5776021822374f5f585d31c9bdfd98251ec1",
+              "title_summary": "title: Lotus Technology Inc. \nsummary: Daxue Wang serves as the Chief Financial Officer of Lotus Technology Inc., as indicated by his signature. In a recent report detailing the company's unaudited financial results for the first quarter ending March 31, 2025, Lotus Technology announced the delivery of nearly 1,300 vehicles and total revenue of $93 million. The company also reported an improvement in gross margin to 12%, reflecting the positive impact of previous destocking efforts. Furthermore, the operating loss for the quarter significantly decreased, narrowing by over 50% year-on-year to $103 million."
+            },
+            "bundle_id": 13
+          },
+          {
+            "retriever": "Title Summary",
+            "score": 0.6616744995117188,
+            "page_content": "By: /s/ Qingfeng Feng  \nName: Qingfeng Feng  \nTitle: Director and Chief Executive Officer",
+            "metadata": {
+              "date_published": "2024-05-03",
+              "doc_id": "30fe0dd8aeaa7449e38a91c870a36009218ab34b124e894417a2fa0730267f3a",
+              "filename": "0503_final.json",
+              "global_id": 1484,
+              "next_chunk_id": "72b180655a2624ae0d5b3e4bc975188bddbf03c10d19677a7c4cf5bd407c9b24",
+              "page_number": 343,
+              "prev_chunk_id": "0c76aab6e37bff2fcfab0cafc5bf063cd7d8b1cb4599edde4202c1d650168342",
+              "title_summary": "title: Lotus Technology Inc. \nsummary: **Comprehensive Summary of Lotus Technology Inc.**\n\nLotus Technology Inc. is led by Qingfeng Feng, who holds the position of Director and Chief Executive Officer. Under his leadership, the company has undertaken various initiatives aimed at enhancing its operational efficiency and market presence. While specific financial metrics, dates, and regulatory details are not provided in the current documentation, the emphasis on Feng's role highlights the importance of strong leadership in driving the company's strategic direction.\n\nTo gain a more comprehensive understanding of Lotus Technology Inc., additional context regarding its financial performance, regulatory compliance, and any significant events impacting the organization would be beneficial. This includes insights into revenue figures, profit margins, market share, and any pertinent legal or regulatory challenges the company may face.\n\nIn summary, while the current information underscores the leadership of Qingfeng Feng, further details are necessary to fully assess the financial health and operational status of Lotus Technology Inc. A complete analysis would ideally include key performance indicators, compliance records, and any notable developments that could influence the company's future trajectory."
+            },
+            "bundle_id": 14
+          },
+          {
+            "retriever": "Title Summary",
+            "score": 0.658320426940918,
+            "page_content": "By : /s/ Alexious Kuen Long Lee Name : Alexious Kuen Long Lee Title : Director and Chief Financial Officer By : /s/ Alexious Kuen Long Lee  \nName : Alexious Kuen Long Lee  \nTitle : Director and Chief Financial Officer LOTUS TECHNOLOGY INC. MERITZ SECURITIES CO., LTD. SHARE BUYBACK AGREEMENT in relation to the shares of LOTUS TECHNOLOGY INC.",
+            "metadata": {
+              "date_published": "2024-12-02",
+              "doc_id": "cc8092e99f9aedb2b0dd0280fccf908e758df8c5bea7981c7eadee79c6c94eaa",
+              "filename": "Lotus_424B3_20241202_final.json",
+              "global_id": 12991,
+              "next_chunk_id": "3ba177ec47c3461a4b3cf3d8ee4ccca6a28b4898976e52d9c48f0209daa0b42d",
+              "page_number": 3,
+              "prev_chunk_id": "1dffd47b143ea97be5096056d7c5519fea472ee4bab576c5e551e0d49ebe264f",
+              "title_summary": "title: Lotus Technology Inc. \nsummary: Alexious Kuen Long Lee holds the position of Director and Chief Financial Officer at Lotus Technology Inc., a company dedicated to innovative technology solutions, including software development, artificial intelligence, and data analytics. Lotus Technology aims to improve operational efficiency and facilitate digital transformation for its clients. In parallel, Meritz Securities Co., Ltd., a South Korean financial services firm, offers a wide range of investment and brokerage services, excelling in asset and wealth management for individual and institutional investors. The two companies may explore collaboration opportunities in financial technology, utilizing Lotus Technology's solutions to enhance Meritz Securities' service offerings.\n\nAdditionally, the Share Buyback Agreement for Lotus Technology Inc. details the terms under which the company will repurchase its shares from shareholders. The agreement's key elements include the purpose of enhancing shareholder value, the scope of shares to be repurchased, funding sources, regulatory compliance, execution procedures for shareholders, and the potential impact on remaining shareholders. This structured approach ensures that the buyback is conducted legally and effectively, benefiting both the company and its investors."
+            },
+            "bundle_id": 15
+          },
+          {
+            "retriever": "Title Summary",
+            "score": 0.6582483053207397,
+            "page_content": "The board of directors (the “Board”) of Lotus Technology Inc. (the “Company”) has appointed Ms. Catherine Cai as a new independent director of the Board and a member of the audit committee, compensation committee, and nominating and corporate governance committee of the Board, effective immediately. The Board has determined that Ms. Cai satisfies the independence requirements of Rule 5605(a)(2) of the Nasdaq Stock Market Rules and Rule 10A-3 under the Exchange Act. Ms. Catherine Cai has more than three decades of experience in China's investment banking industry and has held senior positions at international investment banks. She served as the Group Managing Director, Global Executive Vice Chairman, and Chairman of Greater China at UBS from 2018 to 2024. Prior to that, Ms. Cai was the Managing Director, Chairman, and Head of China at Citigroup from 2016 to 2018. Ms. Cai also held the position of Managing Director, Chairman, and Head of China Investment Banking at Bank of America Merrill Lynch. Ms. Catherine Cai obtained her bachelor’s degree in law from Peking University. Mr. Nathan Ning Yu has tendered his resignation as a member of the audit committee, compensation committee, and nominating and corporate governance committee of the Board, effective immediately. Mr. Yu will continue to serve as a director on the Board of Lotus Technology Inc. Following these changes, (i) the audit committee of the Board will be composed of Ms. Ada Yunfeng Yan, Mr. Anish Melwani, and Ms. Catherine Cai, all of whom are independent directors;",
+            "metadata": {
+              "date_published": "2025-03-31",
+              "doc_id": "164ae23aa8f2f8e1a102c4bece4d3798209b5eff85f4e4c3d9e95b7ee106ad71",
+              "filename": "Lotus_6-K_20250331_final.json",
+              "global_id": 14032,
+              "next_chunk_id": "b7119a7d0899c4fa54bee8c55013c99366db879abd6579250e326ac79f34bf36",
+              "page_number": 1,
+              "prev_chunk_id": "75be20df492a7edd51f5286043e808a9068b07de20bcc56147bf9ea49d1d9c5f",
+              "title_summary": "title: Changes in Board and Committee Composition \nsummary: Lotus Technology Inc. has appointed Ms. Catherine Cai as an independent director on its board, effective immediately. She will also participate in the audit, compensation, and nominating and corporate governance committees. The board confirmed that Ms. Cai meets the independence criteria established by Nasdaq and the Exchange Act. With over 30 years of experience in China's investment banking sector, Ms. Cai has held significant positions at major international banks, including Group Managing Director at UBS and Managing Director at Citigroup. She holds a law degree from Peking University. Concurrently, Mr. Nathan Ning Yu has resigned from his roles on the audit, compensation, and nominating committees but will remain a board director. The board's committee compositions have been updated to include Ms. Cai alongside other independent directors, enhancing the governance structure."
+            },
+            "bundle_id": 16
+          },
+          {
+            "retriever": "Title Summary",
+            "score": 0.6582483053207397,
+            "page_content": "(ii) the compensation committee of the Board will be composed of Mr. Donghui Li, Mr. Anish Melwani, and Ms. Catherine Cai, with both Mr. Melwani and Ms. Cai being independent directors; and (iii) the nominating and corporate governance committee of the Board will be composed of Mr. Donghui Li, Ms. Ada Yunfeng Yan, and Ms. Catherine Cai, with both Ms. Yan and Ms. Cai being independent directors.",
+            "metadata": {
+              "date_published": "2025-03-31",
+              "doc_id": "b7119a7d0899c4fa54bee8c55013c99366db879abd6579250e326ac79f34bf36",
+              "filename": "Lotus_6-K_20250331_final.json",
+              "global_id": 14033,
+              "next_chunk_id": "20ff617268c098293ce2c15085b3ad524ef7636e1fe720fc0c51b770656664a0",
+              "page_number": 1,
+              "prev_chunk_id": "164ae23aa8f2f8e1a102c4bece4d3798209b5eff85f4e4c3d9e95b7ee106ad71",
+              "title_summary": "title: Changes in Board and Committee Composition \nsummary: Lotus Technology Inc. has appointed Ms. Catherine Cai as an independent director on its board, effective immediately. She will also participate in the audit, compensation, and nominating and corporate governance committees. The board confirmed that Ms. Cai meets the independence criteria established by Nasdaq and the Exchange Act. With over 30 years of experience in China's investment banking sector, Ms. Cai has held significant positions at major international banks, including Group Managing Director at UBS and Managing Director at Citigroup. She holds a law degree from Peking University. Concurrently, Mr. Nathan Ning Yu has resigned from his roles on the audit, compensation, and nominating committees but will remain a board director. The board's committee compositions have been updated to include Ms. Cai alongside other independent directors, enhancing the governance structure."
+            },
+            "bundle_id": 17
+          },
+          {
+            "retriever": "BM25",
+            "score": 6.148667335510254,
+            "page_content": "Manage to score three victories – the first of the post-Chapman era. Having built 21 of its clever and pioneering carbon composite series chassis and not yet lost a single one, Lotus was now winning races with them too. The team from Norfolk was back in the running; of that there could be little doubt. ",
+            "metadata": {
+              "date_published": "2022-12-01",
+              "doc_id": "a7d5433f5dfa21d30dcd14d53e39a122f95d7583569e0c2420e67a674f43e7e8",
+              "filename": "car_stats.json",
+              "global_id": 14638,
+              "next_chunk_id": "8692e54097c9e0e37c9a43a501a80f04d464b37566e6823f2998cb2fde49cde8",
+              "page_number": 152,
+              "prev_chunk_id": "e723a229dcee97a01f137e7ab8503400ae88e300f1c39c992575e2cf1c275584"
+            },
+            "bundle_id": 18
+          },
+          {
+            "retriever": "BM25",
+            "score": 5.5234527587890625,
+            "page_content": "Francorchamps. Elio De Angelis proved as consistent as ever, but clearly overshadowed by the newcomer. \"This is a stronger, more refined and developed version of an already good car. I am even more confident than last year,\" said Peter Warr. Gradually, he slipped down the ranks. There was to be one more win for the Italian, inherited after Prost's McLaren was disqualified for being underweight after the San Marino race, but the 1985 season was still a sad end (as many observed at the time) for a driver who had served Team Lotus so well and for so long.\n\nFor the Type 97T, it was something of a triumphant year. With just four chassis to play with for the entire season (some were damaged, but none written off), Team Lotus may not have managed to put much of a dent in the McLaren points total, but it did manage to score three victories – the first of the post-Chapman era. Having built 21 of its clever and pioneering carbon composite series chassis and not yet lost a single one, Lotus was now winning races with them too. The team from Norfolk was back in the running.",
+            "metadata": {
+              "date_published": "2022-12-01",
+              "doc_id": "e723a229dcee97a01f137e7ab8503400ae88e300f1c39c992575e2cf1c275584",
+              "filename": "car_stats.json",
+              "global_id": 14637,
+              "next_chunk_id": "a7d5433f5dfa21d30dcd14d53e39a122f95d7583569e0c2420e67a674f43e7e8",
+              "page_number": 152,
+              "prev_chunk_id": "8d35a0bc29bfc77f49575b702fab14e3482cec50d101cfa5f38636a4ac5966d3"
+            },
+            "bundle_id": 19
+          },
+          {
+            "retriever": "BM25",
+            "score": 5.282661437988281,
+            "page_content": "Unpowered soapboxes had been racing down the famous hillclimb course at the Goodwood Festival of Speed since 2000, and an entry in the 2002 event was an ideal opportunity for graduates to represent Lotus in the competition. The first Lotus soapbox, designated as the Type 119, was entered in the open-topped 'roadster' class, rather than the more challenging closed-cockpit 'streamliner' class. Led by David Stacey, the team was granted access to the extensive facilities at Lotus’ Hethel site, but it could only work outside working hours and within the regulations’ budget. Support would eventually be required from over 150 Lotus employees, from metalwork fabricators to CAD modellers, from Lotus Design stylists to buyers. The team also brought in sponsors to supply hi-tech materials in return for logo placement on the vehicle.\n\nTowards the end of 2001, the Group Lotus board gave approval for a team of young engineers on the company’s Graduate Scheme to enter the prestigious 'Goodwood Gravity Racing Club Soapbox Challenge', paving the way for what was to become an annual graduate project. To ensure a super smooth aerodynamic profile, the advanced carbon composite monocoque chassis was designed using the latest Computer-Aided Engineering (CAE) software, while ultra-lightweight components were used to minimize the overall weight. The soapbox's performance was impressive, with a top speed of 60 mph and an acceleration of 0 to 60 mph in just 4.2 seconds. The Type 119 showcased not only the engineering prowess of the graduates but also the innovative spirit of Lotus.",
+            "metadata": {
+              "date_published": "2022-12-01",
+              "doc_id": "914197a90bf747fa081251ed3e5c27be8d26fcce643128de5a763fe3cb4c74bb",
+              "filename": "car_stats.json",
+              "global_id": 14866,
+              "next_chunk_id": "0b086ac5ca6c59fc499c4f737e0463ddc1af7b150e0a4b65fece017808c7e50e",
+              "page_number": 210,
+              "prev_chunk_id": "6331222920355cdb0305352235ec97f00200d126005e6df4e3d815cc3592ceff"
+            },
+            "bundle_id": 20
+          },
+          {
+            "retriever": "BM25",
+            "score": 4.979578971862793,
+            "page_content": "The Lotus team's best result all year, and with the South African race still to be run, served as a bright finish for a European season which had started so badly. It was just what Mansell needed to keep his drive with Lotus, and vindication, if any were needed, that Imperial Tobacco and the John Player Special brand had done well to stick with Team Lotus through the years of famine. The striking Type 94T was competitive? No, not really, but it certainly represented a superb effort on the part of the factory, its suppliers, and its workers, and at a time when morale in Norfolk could have been rock bottom, that was no mean achievement. In the final analysis, for race-goers and Lotus fans alike, it also marked a return to form for the team. Producing a car which worked, realizing improved results, and landing a great sponsorship deal were accomplishments evocative of the team's more glorious past. At the end of it all, it was left to Elio De Angelis to say what everyone else was thinking: \"It's a pity the Old Man is not here. He would have loved this.\" All too true.\n\n1983",
+            "metadata": {
+              "date_published": "2022-12-01",
+              "doc_id": "67b9784a96a59ec0f44dcae4e4c6f4af6269aaff2cffb8e646403b87eb340dc8",
+              "filename": "car_stats.json",
+              "global_id": 14617,
+              "next_chunk_id": "d689f104ce8ee7eda539eb90161ef568cfe724f38961fa81f3db2b8b14eb18e5",
+              "page_number": 148,
+              "prev_chunk_id": "b07c1e0d7aa96ab5e6604bb9beb3f93fc93de18e49c5f65ef7e80e0e296dea3d"
+            },
+            "bundle_id": 21
+          },
+          {
+            "retriever": "BM25",
+            "score": 4.8964948654174805,
+            "page_content": "Sides of the cockpit. A week later, Piquet expressed delight with the new car: \"Once I was driving the car, I completely forgot about my painful ribs. I am sure I will be 100 percent fit very soon.\" For Dernie, these same shakedown tests provided a moment for cool reflection. \"I am enormously pleased with what we have achieved in the time we have had, only time will tell how successful the car will be. If diligent hours spent by the whole team were any measure of success, we would win every Grand Prix of the season.\" However, diligent hours don't reliably measure anything other than time spent, and the early races proved it too, with one failure following another. Indeed, not until Canada and the sixth round of the championship did events swing round in favor of the Lotus team, with Piquet managing a fourth place on the Ile Notre Dame track and another to follow in Britain. A week later, it was announced that two of the old school, Peter Warr and Fred Bushell, were to leave the team, and Tony Rudd stepped over from the position of Technical Director of Group Lotus.",
+            "metadata": {
+              "date_published": "2022-12-01",
+              "doc_id": "f2069ec15fa64ff61149cb11e32607865f7116f60d0642fec53624c976700423",
+              "filename": "car_stats.json",
+              "global_id": 14682,
+              "next_chunk_id": "009479b1c192649a32c55681db8948ce753dd27456908947fce9d778d03ef465",
+              "page_number": 163,
+              "prev_chunk_id": "df23346f0bd6a2169fab948a69eca2b8058ca183169e4891bab44d9ccfb32f41"
+            },
+            "bundle_id": 22
+          },
+          {
+            "retriever": "BM25",
+            "score": 4.882107734680176,
+            "page_content": "Constructors' title race. What went wrong? It is hard to say. Certainly, as the season wore on, the World Champion's performance became a lot less impressive than the team had hoped for. It was also felt that Team Lotus had been misled by the reams of possibly incorrect data it had compiled from the many hundreds of hours spent with the prototype in the wind-tunnel at Comtec.",
+            "metadata": {
+              "date_published": "2022-12-01",
+              "doc_id": "8413322cc753ff5fc7d6568fc8a7d812112be82333d862ecfc7b445afe8bc58d",
+              "filename": "car_stats.json",
+              "global_id": 14669,
+              "next_chunk_id": "ed7d2578ee099a6024c85baea08ca96bb4f3ed8493cd22f57d14961309ac2e45",
+              "page_number": 160,
+              "prev_chunk_id": "a351f857cc0e06294c66259e597e15f3bef0af64de555341dc5c9957e3d16b2c"
+            },
+            "bundle_id": 23
+          },
+          {
+            "retriever": "BM25",
+            "score": 4.695343017578125,
+            "page_content": "Formula 1\nType 128\n\nOn September 24th, 2010, it was announced that Lotus Racing, headed up by Tony Fernandes, had acquired the name rights of Team Lotus, marking what would eventually be an all too brief, official rebirth of Team Lotus in Formula 1. By 2012, however, the F1 team based out of Norfolk would be rebranded as Caterham F1. On October 5th, 2010, the team announced that they had agreed to a deal with Red Bull Technology for the supply of their seven-speed, semi-automatic gearbox and hydraulic systems for 2011. On November 5th, the team confirmed an engine partnership for the next two years with Renault, and on November 30th, the FIA released the entry list for the 2011 season in which the former Lotus Racing was listed under the name “Team Lotus.”\n\nOne of the most striking details of the Lotus TL11 (T128) was its lack of a roll hoop, in its place a ‘blade’. The concept was essentially the same as that employed on the Mercedes MGP W01, removing the hoop and relocating the intakes for the 90-degree Renault V8 engine to lower on the engine cover, while fulfilling the requirement for a roll-over structure with a",
+            "metadata": {
+              "date_published": "2022-12-01",
+              "doc_id": "238cee35142c7692789ac802944642a87cc6083a30fbea95d4f70b67878f12a0",
+              "filename": "car_stats.json",
+              "global_id": 15019,
+              "next_chunk_id": "65664c480bfb4d4a84d40aa1ec036a0cc9d4186126a7592567d8bf1cdd2d9f1a",
+              "page_number": 253,
+              "prev_chunk_id": "abbbb20792042590dc3fc1cdc86d424f5eccee6cc5e6f40564423276edc1ea81"
+            },
+            "bundle_id": 24
+          }
+        ]
+      ]
+    }
+  ]
+}
