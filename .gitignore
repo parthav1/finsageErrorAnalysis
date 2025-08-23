@@ -3,7 +3,6 @@
 *.txt
 *.out
 *.log
-*.png
 log/
 
 # Ignore testing results
