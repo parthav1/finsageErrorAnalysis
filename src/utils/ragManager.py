@@ -10,7 +10,11 @@ from langchain_chroma import Chroma
 from langchain_core.documents import Document
 
 from .ensembleRetriever import EnsembleRetriever
-import GPUtil
+
+try:
+    import GPUtil
+except ImportError:
+    GPUtil = None  # optional; only used by log_gpu_usage when running this module as __main__
 
 class RAGManager:
     """Singleton class for managing RAG collections"""
@@ -147,6 +151,8 @@ def main():
         
 
 def log_gpu_usage(event_name):
+    if GPUtil is None:
+        return
     gpus = GPUtil.getGPUs()
     timestamp = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
     gpu_log_file = "gpu_usage.log"

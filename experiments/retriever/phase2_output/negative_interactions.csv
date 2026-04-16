@@ -1,0 +1,9 @@
+parent_config,child_config,added_component,chunks_lost,chunks_gained,net_change
+faiss,faiss_expand,expand,7,0,-7
+faiss,faiss_bm25,bm25,35,51,16
+faiss,faiss_ts,ts,15,42,27
+faiss,faiss_hyde(qwen7b),hyde(qwen7b),36,28,-8
+faiss,faiss_hyde(qwen72b),hyde(qwen72b),31,33,2
+faiss,faiss_hyde(qwen7b-sft),hyde(qwen7b-sft),27,43,16
+faiss_bm25,faiss_bm25_ts,ts,10,56,46
+faiss_bm25_ts,faiss_bm25_ts_hyde,hyde,20,23,3

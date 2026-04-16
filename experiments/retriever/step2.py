@@ -180,8 +180,11 @@ def main():
         sys.exit(1)
 
     # Load configuration
-    config_path = os.getenv('CONFIG_PATH', os.path.join(project_root, 'config', 'production.yaml'))
-    with open(config_path, 'r') as file:
+    _cfg = os.path.join(project_root, 'config', 'production.yaml')
+    if not os.path.isfile(_cfg):
+        _cfg = os.path.join(project_root, 'config', 'example.yaml')
+    config_path = os.getenv('CONFIG_PATH', _cfg)
+    with open(config_path, 'r', encoding='utf-8') as file:
         config = yaml.safe_load(file)
 
     # Initialize retriever

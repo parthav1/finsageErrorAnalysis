@@ -1,0 +1,835 @@
+<html><head><style>
+body { font-family: 'Segoe UI', sans-serif; margin: 20px; }
+table { border-collapse: collapse; font-size: 12px; }
+th, td { padding: 6px 10px; text-align: center; border: 1px solid #ddd; }
+th { background: #333; color: white; position: sticky; top: 0; }
+.q-label { text-align: left; font-size: 11px; max-width: 200px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+</style></head><body>
+<h2>Coverage Heatmap: GT Chunk Recall per Question × Config</h2>
+<p>Cell value = fraction of ground-truth chunks retrieved. Green = 1.0 (perfect), Red = 0.0 (total miss). Sorted: hardest questions on top, weakest configs on left.</p>
+<table><tr><th>Q#</th>
+<th>faiss_expand</th>
+<th>faiss</th>
+<th>faiss_hyde(qwen7b)</th>
+<th>faiss_hyde(qwen72b)</th>
+<th>faiss_bm25</th>
+<th>faiss_hyde(qwen7b-sft)</th>
+<th>faiss_ts</th>
+<th>faiss_bm25_ts</th>
+<th>faiss_bm25_ts_hyde</th>
+</tr>
+<tr><td class="q-label">Q58</td>
+<td style="background:rgb(229,25,80);color:white">0.10</td>
+<td style="background:rgb(229,25,80);color:white">0.10</td>
+<td style="background:rgb(204,51,80);color:white">0.20</td>
+<td style="background:rgb(229,25,80);color:white">0.10</td>
+<td style="background:rgb(204,51,80);color:white">0.20</td>
+<td style="background:rgb(229,25,80);color:white">0.10</td>
+<td style="background:rgb(153,102,80);color:white">0.40</td>
+<td style="background:rgb(127,127,80);color:black">0.50</td>
+<td style="background:rgb(127,127,80);color:black">0.50</td>
+</tr>
+<tr><td class="q-label">Q25</td>
+<td style="background:rgb(170,85,80);color:white">0.33</td>
+<td style="background:rgb(170,85,80);color:white">0.33</td>
+<td style="background:rgb(136,119,80);color:white">0.47</td>
+<td style="background:rgb(136,119,80);color:white">0.47</td>
+<td style="background:rgb(153,102,80);color:white">0.40</td>
+<td style="background:rgb(136,119,80);color:white">0.47</td>
+<td style="background:rgb(170,85,80);color:white">0.33</td>
+<td style="background:rgb(153,102,80);color:white">0.40</td>
+<td style="background:rgb(119,136,80);color:black">0.53</td>
+</tr>
+<tr><td class="q-label">Q31</td>
+<td style="background:rgb(208,46,80);color:white">0.18</td>
+<td style="background:rgb(208,46,80);color:white">0.18</td>
+<td style="background:rgb(208,46,80);color:white">0.18</td>
+<td style="background:rgb(115,139,80);color:black">0.55</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(46,208,80);color:black">0.82</td>
+<td style="background:rgb(185,69,80);color:white">0.27</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+</tr>
+<tr><td class="q-label">Q56</td>
+<td style="background:rgb(153,102,80);color:white">0.40</td>
+<td style="background:rgb(153,102,80);color:white">0.40</td>
+<td style="background:rgb(102,153,80);color:black">0.60</td>
+<td style="background:rgb(102,153,80);color:black">0.60</td>
+<td style="background:rgb(102,153,80);color:black">0.60</td>
+<td style="background:rgb(50,204,80);color:black">0.80</td>
+<td style="background:rgb(153,102,80);color:white">0.40</td>
+<td style="background:rgb(102,153,80);color:black">0.60</td>
+<td style="background:rgb(50,204,80);color:black">0.80</td>
+</tr>
+<tr><td class="q-label">Q62</td>
+<td style="background:rgb(109,145,80);color:black">0.57</td>
+<td style="background:rgb(72,182,80);color:black">0.71</td>
+<td style="background:rgb(72,182,80);color:black">0.71</td>
+<td style="background:rgb(36,218,80);color:black">0.86</td>
+<td style="background:rgb(145,109,80);color:white">0.43</td>
+<td style="background:rgb(182,72,80);color:white">0.29</td>
+<td style="background:rgb(109,145,80);color:black">0.57</td>
+<td style="background:rgb(109,145,80);color:black">0.57</td>
+<td style="background:rgb(109,145,80);color:black">0.57</td>
+</tr>
+<tr><td class="q-label">Q17</td>
+<td style="background:rgb(85,170,80);color:black">0.67</td>
+<td style="background:rgb(85,170,80);color:black">0.67</td>
+<td style="background:rgb(85,170,80);color:black">0.67</td>
+<td style="background:rgb(85,170,80);color:black">0.67</td>
+<td style="background:rgb(127,127,80);color:black">0.50</td>
+<td style="background:rgb(85,170,80);color:black">0.67</td>
+<td style="background:rgb(85,170,80);color:black">0.67</td>
+<td style="background:rgb(127,127,80);color:black">0.50</td>
+<td style="background:rgb(85,170,80);color:black">0.67</td>
+</tr>
+<tr><td class="q-label">Q68</td>
+<td style="background:rgb(136,119,80);color:white">0.47</td>
+<td style="background:rgb(136,119,80);color:white">0.47</td>
+<td style="background:rgb(136,119,80);color:white">0.47</td>
+<td style="background:rgb(119,136,80);color:black">0.53</td>
+<td style="background:rgb(136,119,80);color:white">0.47</td>
+<td style="background:rgb(119,136,80);color:black">0.53</td>
+<td style="background:rgb(33,221,80);color:black">0.87</td>
+<td style="background:rgb(16,238,80);color:black">0.93</td>
+<td style="background:rgb(16,238,80);color:black">0.93</td>
+</tr>
+<tr><td class="q-label">Q22</td>
+<td style="background:rgb(153,102,80);color:white">0.40</td>
+<td style="background:rgb(153,102,80);color:white">0.40</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(50,204,80);color:black">0.80</td>
+<td style="background:rgb(102,153,80);color:black">0.60</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(153,102,80);color:white">0.40</td>
+<td style="background:rgb(102,153,80);color:black">0.60</td>
+<td style="background:rgb(102,153,80);color:black">0.60</td>
+</tr>
+<tr><td class="q-label">Q27</td>
+<td style="background:rgb(85,170,80);color:black">0.67</td>
+<td style="background:rgb(85,170,80);color:black">0.67</td>
+<td style="background:rgb(113,141,80);color:black">0.56</td>
+<td style="background:rgb(141,113,80);color:white">0.44</td>
+<td style="background:rgb(85,170,80);color:black">0.67</td>
+<td style="background:rgb(141,113,80);color:white">0.44</td>
+<td style="background:rgb(56,198,80);color:black">0.78</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+</tr>
+<tr><td class="q-label">Q24</td>
+<td style="background:rgb(93,161,80);color:black">0.63</td>
+<td style="background:rgb(80,174,80);color:black">0.68</td>
+<td style="background:rgb(107,147,80);color:black">0.58</td>
+<td style="background:rgb(107,147,80);color:black">0.58</td>
+<td style="background:rgb(93,161,80);color:black">0.63</td>
+<td style="background:rgb(107,147,80);color:black">0.58</td>
+<td style="background:rgb(53,201,80);color:black">0.79</td>
+<td style="background:rgb(13,241,80);color:black">0.95</td>
+<td style="background:rgb(13,241,80);color:black">0.95</td>
+</tr>
+<tr><td class="q-label">Q43</td>
+<td style="background:rgb(76,178,80);color:black">0.70</td>
+<td style="background:rgb(76,178,80);color:black">0.70</td>
+<td style="background:rgb(76,178,80);color:black">0.70</td>
+<td style="background:rgb(102,153,80);color:black">0.60</td>
+<td style="background:rgb(50,204,80);color:black">0.80</td>
+<td style="background:rgb(76,178,80);color:black">0.70</td>
+<td style="background:rgb(76,178,80);color:black">0.70</td>
+<td style="background:rgb(25,229,80);color:black">0.90</td>
+<td style="background:rgb(102,153,80);color:black">0.60</td>
+</tr>
+<tr><td class="q-label">Q1</td>
+<td style="background:rgb(76,178,80);color:black">0.70</td>
+<td style="background:rgb(76,178,80);color:black">0.70</td>
+<td style="background:rgb(89,165,80);color:black">0.65</td>
+<td style="background:rgb(76,178,80);color:black">0.70</td>
+<td style="background:rgb(50,204,80);color:black">0.80</td>
+<td style="background:rgb(63,191,80);color:black">0.75</td>
+<td style="background:rgb(63,191,80);color:black">0.75</td>
+<td style="background:rgb(25,229,80);color:black">0.90</td>
+<td style="background:rgb(76,178,80);color:black">0.70</td>
+</tr>
+<tr><td class="q-label">Q26</td>
+<td style="background:rgb(85,170,80);color:black">0.67</td>
+<td style="background:rgb(85,170,80);color:black">0.67</td>
+<td style="background:rgb(63,191,80);color:black">0.75</td>
+<td style="background:rgb(85,170,80);color:black">0.67</td>
+<td style="background:rgb(42,212,80);color:black">0.83</td>
+<td style="background:rgb(42,212,80);color:black">0.83</td>
+<td style="background:rgb(85,170,80);color:black">0.67</td>
+<td style="background:rgb(63,191,80);color:black">0.75</td>
+<td style="background:rgb(21,233,80);color:black">0.92</td>
+</tr>
+<tr><td class="q-label">Q23</td>
+<td style="background:rgb(102,153,80);color:black">0.60</td>
+<td style="background:rgb(102,153,80);color:black">0.60</td>
+<td style="background:rgb(102,153,80);color:black">0.60</td>
+<td style="background:rgb(102,153,80);color:black">0.60</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(50,204,80);color:black">0.80</td>
+<td style="background:rgb(102,153,80);color:black">0.60</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+</tr>
+<tr><td class="q-label">Q71</td>
+<td style="background:rgb(85,170,80);color:black">0.67</td>
+<td style="background:rgb(85,170,80);color:black">0.67</td>
+<td style="background:rgb(42,212,80);color:black">0.83</td>
+<td style="background:rgb(85,170,80);color:black">0.67</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(85,170,80);color:black">0.67</td>
+<td style="background:rgb(85,170,80);color:black">0.67</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+</tr>
+<tr><td class="q-label">Q44</td>
+<td style="background:rgb(50,204,80);color:black">0.80</td>
+<td style="background:rgb(50,204,80);color:black">0.80</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(102,153,80);color:black">0.60</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(102,153,80);color:black">0.60</td>
+<td style="background:rgb(153,102,80);color:white">0.40</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+</tr>
+<tr><td class="q-label">Q8</td>
+<td style="background:rgb(72,182,80);color:black">0.71</td>
+<td style="background:rgb(72,182,80);color:black">0.71</td>
+<td style="background:rgb(54,200,80);color:black">0.79</td>
+<td style="background:rgb(72,182,80);color:black">0.71</td>
+<td style="background:rgb(18,236,80);color:black">0.93</td>
+<td style="background:rgb(54,200,80);color:black">0.79</td>
+<td style="background:rgb(36,218,80);color:black">0.86</td>
+<td style="background:rgb(18,236,80);color:black">0.93</td>
+<td style="background:rgb(54,200,80);color:black">0.79</td>
+</tr>
+<tr><td class="q-label">Q67</td>
+<td style="background:rgb(56,198,80);color:black">0.78</td>
+<td style="background:rgb(28,226,80);color:black">0.89</td>
+<td style="background:rgb(85,170,80);color:black">0.67</td>
+<td style="background:rgb(28,226,80);color:black">0.89</td>
+<td style="background:rgb(85,170,80);color:black">0.67</td>
+<td style="background:rgb(85,170,80);color:black">0.67</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(28,226,80);color:black">0.89</td>
+<td style="background:rgb(28,226,80);color:black">0.89</td>
+</tr>
+<tr><td class="q-label">Q47</td>
+<td style="background:rgb(50,204,80);color:black">0.80</td>
+<td style="background:rgb(50,204,80);color:black">0.80</td>
+<td style="background:rgb(50,204,80);color:black">0.80</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(102,153,80);color:black">0.60</td>
+<td style="background:rgb(50,204,80);color:black">0.80</td>
+<td style="background:rgb(50,204,80);color:black">0.80</td>
+<td style="background:rgb(50,204,80);color:black">0.80</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+</tr>
+<tr><td class="q-label">Q55</td>
+<td style="background:rgb(50,204,80);color:black">0.80</td>
+<td style="background:rgb(50,204,80);color:black">0.80</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(50,204,80);color:black">0.80</td>
+<td style="background:rgb(50,204,80);color:black">0.80</td>
+<td style="background:rgb(50,204,80);color:black">0.80</td>
+<td style="background:rgb(50,204,80);color:black">0.80</td>
+<td style="background:rgb(50,204,80);color:black">0.80</td>
+<td style="background:rgb(50,204,80);color:black">0.80</td>
+</tr>
+<tr><td class="q-label">Q73</td>
+<td style="background:rgb(50,204,80);color:black">0.80</td>
+<td style="background:rgb(50,204,80);color:black">0.80</td>
+<td style="background:rgb(50,204,80);color:black">0.80</td>
+<td style="background:rgb(50,204,80);color:black">0.80</td>
+<td style="background:rgb(50,204,80);color:black">0.80</td>
+<td style="background:rgb(25,229,80);color:black">0.90</td>
+<td style="background:rgb(25,229,80);color:black">0.90</td>
+<td style="background:rgb(25,229,80);color:black">0.90</td>
+<td style="background:rgb(76,178,80);color:black">0.70</td>
+</tr>
+<tr><td class="q-label">Q54</td>
+<td style="background:rgb(63,191,80);color:black">0.75</td>
+<td style="background:rgb(63,191,80);color:black">0.75</td>
+<td style="background:rgb(63,191,80);color:black">0.75</td>
+<td style="background:rgb(63,191,80);color:black">0.75</td>
+<td style="background:rgb(63,191,80);color:black">0.75</td>
+<td style="background:rgb(63,191,80);color:black">0.75</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+</tr>
+<tr><td class="q-label">Q14</td>
+<td style="background:rgb(85,170,80);color:black">0.67</td>
+<td style="background:rgb(85,170,80);color:black">0.67</td>
+<td style="background:rgb(42,212,80);color:black">0.83</td>
+<td style="background:rgb(42,212,80);color:black">0.83</td>
+<td style="background:rgb(85,170,80);color:black">0.67</td>
+<td style="background:rgb(42,212,80);color:black">0.83</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+</tr>
+<tr><td class="q-label">Q21</td>
+<td style="background:rgb(56,198,80);color:black">0.78</td>
+<td style="background:rgb(56,198,80);color:black">0.78</td>
+<td style="background:rgb(28,226,80);color:black">0.89</td>
+<td style="background:rgb(28,226,80);color:black">0.89</td>
+<td style="background:rgb(56,198,80);color:black">0.78</td>
+<td style="background:rgb(28,226,80);color:black">0.89</td>
+<td style="background:rgb(56,198,80);color:black">0.78</td>
+<td style="background:rgb(56,198,80);color:black">0.78</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+</tr>
+<tr><td class="q-label">Q63</td>
+<td style="background:rgb(56,198,80);color:black">0.78</td>
+<td style="background:rgb(56,198,80);color:black">0.78</td>
+<td style="background:rgb(85,170,80);color:black">0.67</td>
+<td style="background:rgb(85,170,80);color:black">0.67</td>
+<td style="background:rgb(28,226,80);color:black">0.89</td>
+<td style="background:rgb(56,198,80);color:black">0.78</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+</tr>
+<tr><td class="q-label">Q42</td>
+<td style="background:rgb(50,204,80);color:black">0.80</td>
+<td style="background:rgb(50,204,80);color:black">0.80</td>
+<td style="background:rgb(50,204,80);color:black">0.80</td>
+<td style="background:rgb(50,204,80);color:black">0.80</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(50,204,80);color:black">0.80</td>
+<td style="background:rgb(50,204,80);color:black">0.80</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(50,204,80);color:black">0.80</td>
+</tr>
+<tr><td class="q-label">Q60</td>
+<td style="background:rgb(50,204,80);color:black">0.80</td>
+<td style="background:rgb(50,204,80);color:black">0.80</td>
+<td style="background:rgb(33,221,80);color:black">0.87</td>
+<td style="background:rgb(16,238,80);color:black">0.93</td>
+<td style="background:rgb(33,221,80);color:black">0.87</td>
+<td style="background:rgb(33,221,80);color:black">0.87</td>
+<td style="background:rgb(50,204,80);color:black">0.80</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(50,204,80);color:black">0.80</td>
+</tr>
+<tr><td class="q-label">Q74</td>
+<td style="background:rgb(15,239,80);color:black">0.94</td>
+<td style="background:rgb(7,247,80);color:black">0.97</td>
+<td style="background:rgb(55,199,80);color:black">0.78</td>
+<td style="background:rgb(39,215,80);color:black">0.84</td>
+<td style="background:rgb(39,215,80);color:black">0.84</td>
+<td style="background:rgb(39,215,80);color:black">0.84</td>
+<td style="background:rgb(31,223,80);color:black">0.88</td>
+<td style="background:rgb(39,215,80);color:black">0.84</td>
+<td style="background:rgb(39,215,80);color:black">0.84</td>
+</tr>
+<tr><td class="q-label">Q12</td>
+<td style="background:rgb(102,153,80);color:black">0.60</td>
+<td style="background:rgb(50,204,80);color:black">0.80</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(102,153,80);color:black">0.60</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(50,204,80);color:black">0.80</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+</tr>
+<tr><td class="q-label">Q16</td>
+<td style="background:rgb(50,204,80);color:black">0.80</td>
+<td style="background:rgb(50,204,80);color:black">0.80</td>
+<td style="background:rgb(50,204,80);color:black">0.80</td>
+<td style="background:rgb(50,204,80);color:black">0.80</td>
+<td style="background:rgb(50,204,80);color:black">0.80</td>
+<td style="background:rgb(50,204,80);color:black">0.80</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+</tr>
+<tr><td class="q-label">Q28</td>
+<td style="background:rgb(50,204,80);color:black">0.80</td>
+<td style="background:rgb(50,204,80);color:black">0.80</td>
+<td style="background:rgb(50,204,80);color:black">0.80</td>
+<td style="background:rgb(50,204,80);color:black">0.80</td>
+<td style="background:rgb(50,204,80);color:black">0.80</td>
+<td style="background:rgb(50,204,80);color:black">0.80</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+</tr>
+<tr><td class="q-label">Q50</td>
+<td style="background:rgb(50,204,80);color:black">0.80</td>
+<td style="background:rgb(50,204,80);color:black">0.80</td>
+<td style="background:rgb(50,204,80);color:black">0.80</td>
+<td style="background:rgb(50,204,80);color:black">0.80</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(50,204,80);color:black">0.80</td>
+<td style="background:rgb(50,204,80);color:black">0.80</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+</tr>
+<tr><td class="q-label">Q66</td>
+<td style="background:rgb(50,204,80);color:black">0.80</td>
+<td style="background:rgb(50,204,80);color:black">0.80</td>
+<td style="background:rgb(50,204,80);color:black">0.80</td>
+<td style="background:rgb(50,204,80);color:black">0.80</td>
+<td style="background:rgb(16,238,80);color:black">0.93</td>
+<td style="background:rgb(50,204,80);color:black">0.80</td>
+<td style="background:rgb(33,221,80);color:black">0.87</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+</tr>
+<tr><td class="q-label">Q59</td>
+<td style="background:rgb(50,204,80);color:black">0.80</td>
+<td style="background:rgb(50,204,80);color:black">0.80</td>
+<td style="background:rgb(50,204,80);color:black">0.80</td>
+<td style="background:rgb(50,204,80);color:black">0.80</td>
+<td style="background:rgb(50,204,80);color:black">0.80</td>
+<td style="background:rgb(50,204,80);color:black">0.80</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+</tr>
+<tr><td class="q-label">Q29</td>
+<td style="background:rgb(31,223,80);color:black">0.88</td>
+<td style="background:rgb(31,223,80);color:black">0.88</td>
+<td style="background:rgb(31,223,80);color:black">0.88</td>
+<td style="background:rgb(31,223,80);color:black">0.88</td>
+<td style="background:rgb(31,223,80);color:black">0.88</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(31,223,80);color:black">0.88</td>
+<td style="background:rgb(63,191,80);color:black">0.75</td>
+<td style="background:rgb(31,223,80);color:black">0.88</td>
+</tr>
+<tr><td class="q-label">Q5</td>
+<td style="background:rgb(31,223,80);color:black">0.88</td>
+<td style="background:rgb(31,223,80);color:black">0.88</td>
+<td style="background:rgb(31,223,80);color:black">0.88</td>
+<td style="background:rgb(31,223,80);color:black">0.88</td>
+<td style="background:rgb(31,223,80);color:black">0.88</td>
+<td style="background:rgb(31,223,80);color:black">0.88</td>
+<td style="background:rgb(31,223,80);color:black">0.88</td>
+<td style="background:rgb(31,223,80);color:black">0.88</td>
+<td style="background:rgb(31,223,80);color:black">0.88</td>
+</tr>
+<tr><td class="q-label">Q30</td>
+<td style="background:rgb(46,208,80);color:black">0.82</td>
+<td style="background:rgb(46,208,80);color:black">0.82</td>
+<td style="background:rgb(46,208,80);color:black">0.82</td>
+<td style="background:rgb(46,208,80);color:black">0.82</td>
+<td style="background:rgb(46,208,80);color:black">0.82</td>
+<td style="background:rgb(46,208,80);color:black">0.82</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+</tr>
+<tr><td class="q-label">Q46</td>
+<td style="background:rgb(30,225,80);color:black">0.88</td>
+<td style="background:rgb(30,225,80);color:black">0.88</td>
+<td style="background:rgb(45,210,80);color:black">0.82</td>
+<td style="background:rgb(15,240,80);color:black">0.94</td>
+<td style="background:rgb(30,225,80);color:black">0.88</td>
+<td style="background:rgb(15,240,80);color:black">0.94</td>
+<td style="background:rgb(30,225,80);color:black">0.88</td>
+<td style="background:rgb(45,210,80);color:black">0.82</td>
+<td style="background:rgb(30,225,80);color:black">0.88</td>
+</tr>
+<tr><td class="q-label">Q48</td>
+<td style="background:rgb(63,191,80);color:black">0.75</td>
+<td style="background:rgb(63,191,80);color:black">0.75</td>
+<td style="background:rgb(63,191,80);color:black">0.75</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(63,191,80);color:black">0.75</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+</tr>
+<tr><td class="q-label">Q15</td>
+<td style="background:rgb(50,204,80);color:black">0.80</td>
+<td style="background:rgb(50,204,80);color:black">0.80</td>
+<td style="background:rgb(50,204,80);color:black">0.80</td>
+<td style="background:rgb(50,204,80);color:black">0.80</td>
+<td style="background:rgb(50,204,80);color:black">0.80</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+</tr>
+<tr><td class="q-label">Q38</td>
+<td style="background:rgb(50,204,80);color:black">0.80</td>
+<td style="background:rgb(50,204,80);color:black">0.80</td>
+<td style="background:rgb(50,204,80);color:black">0.80</td>
+<td style="background:rgb(50,204,80);color:black">0.80</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(50,204,80);color:black">0.80</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+</tr>
+<tr><td class="q-label">Q69</td>
+<td style="background:rgb(21,233,80);color:black">0.92</td>
+<td style="background:rgb(21,233,80);color:black">0.92</td>
+<td style="background:rgb(42,212,80);color:black">0.83</td>
+<td style="background:rgb(63,191,80);color:black">0.75</td>
+<td style="background:rgb(21,233,80);color:black">0.92</td>
+<td style="background:rgb(21,233,80);color:black">0.92</td>
+<td style="background:rgb(42,212,80);color:black">0.83</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(21,233,80);color:black">0.92</td>
+</tr>
+<tr><td class="q-label">Q33</td>
+<td style="background:rgb(46,208,80);color:black">0.82</td>
+<td style="background:rgb(46,208,80);color:black">0.82</td>
+<td style="background:rgb(46,208,80);color:black">0.82</td>
+<td style="background:rgb(23,231,80);color:black">0.91</td>
+<td style="background:rgb(46,208,80);color:black">0.82</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(23,231,80);color:black">0.91</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+</tr>
+<tr><td class="q-label">Q10</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(28,226,80);color:black">0.89</td>
+<td style="background:rgb(28,226,80);color:black">0.89</td>
+<td style="background:rgb(28,226,80);color:black">0.89</td>
+<td style="background:rgb(28,226,80);color:black">0.89</td>
+<td style="background:rgb(28,226,80);color:black">0.89</td>
+<td style="background:rgb(28,226,80);color:black">0.89</td>
+<td style="background:rgb(56,198,80);color:black">0.78</td>
+</tr>
+<tr><td class="q-label">Q18</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(63,191,80);color:black">0.75</td>
+<td style="background:rgb(63,191,80);color:black">0.75</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(63,191,80);color:black">0.75</td>
+<td style="background:rgb(31,223,80);color:black">0.88</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+</tr>
+<tr><td class="q-label">Q52</td>
+<td style="background:rgb(31,223,80);color:black">0.88</td>
+<td style="background:rgb(31,223,80);color:black">0.88</td>
+<td style="background:rgb(31,223,80);color:black">0.88</td>
+<td style="background:rgb(31,223,80);color:black">0.88</td>
+<td style="background:rgb(31,223,80);color:black">0.88</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(31,223,80);color:black">0.88</td>
+<td style="background:rgb(31,223,80);color:black">0.88</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+</tr>
+<tr><td class="q-label">Q4</td>
+<td style="background:rgb(36,218,80);color:black">0.86</td>
+<td style="background:rgb(36,218,80);color:black">0.86</td>
+<td style="background:rgb(36,218,80);color:black">0.86</td>
+<td style="background:rgb(36,218,80);color:black">0.86</td>
+<td style="background:rgb(36,218,80);color:black">0.86</td>
+<td style="background:rgb(36,218,80);color:black">0.86</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+</tr>
+<tr><td class="q-label">Q34</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(63,191,80);color:black">0.75</td>
+<td style="background:rgb(42,212,80);color:black">0.83</td>
+<td style="background:rgb(21,233,80);color:black">0.92</td>
+<td style="background:rgb(42,212,80);color:black">0.83</td>
+<td style="background:rgb(21,233,80);color:black">0.92</td>
+<td style="background:rgb(21,233,80);color:black">0.92</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+</tr>
+<tr><td class="q-label">Q2</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(42,212,80);color:black">0.83</td>
+<td style="background:rgb(42,212,80);color:black">0.83</td>
+<td style="background:rgb(42,212,80);color:black">0.83</td>
+<td style="background:rgb(42,212,80);color:black">0.83</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(42,212,80);color:black">0.83</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+</tr>
+<tr><td class="q-label">Q7</td>
+<td style="background:rgb(39,215,80);color:black">0.85</td>
+<td style="background:rgb(39,215,80);color:black">0.85</td>
+<td style="background:rgb(39,215,80);color:black">0.85</td>
+<td style="background:rgb(19,235,80);color:black">0.92</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(19,235,80);color:black">0.92</td>
+<td style="background:rgb(19,235,80);color:black">0.92</td>
+<td style="background:rgb(19,235,80);color:black">0.92</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+</tr>
+<tr><td class="q-label">Q6</td>
+<td style="background:rgb(36,218,80);color:black">0.86</td>
+<td style="background:rgb(36,218,80);color:black">0.86</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(36,218,80);color:black">0.86</td>
+<td style="background:rgb(36,218,80);color:black">0.86</td>
+<td style="background:rgb(36,218,80);color:black">0.86</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+</tr>
+<tr><td class="q-label">Q11</td>
+<td style="background:rgb(50,204,80);color:black">0.80</td>
+<td style="background:rgb(50,204,80);color:black">0.80</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(50,204,80);color:black">0.80</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+</tr>
+<tr><td class="q-label">Q64</td>
+<td style="background:rgb(16,238,80);color:black">0.93</td>
+<td style="background:rgb(16,238,80);color:black">0.93</td>
+<td style="background:rgb(33,221,80);color:black">0.87</td>
+<td style="background:rgb(16,238,80);color:black">0.93</td>
+<td style="background:rgb(33,221,80);color:black">0.87</td>
+<td style="background:rgb(16,238,80);color:black">0.93</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(16,238,80);color:black">0.93</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+</tr>
+<tr><td class="q-label">Q57</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(50,204,80);color:black">0.80</td>
+<td style="background:rgb(50,204,80);color:black">0.80</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+</tr>
+<tr><td class="q-label">Q65</td>
+<td style="background:rgb(39,215,80);color:black">0.85</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(39,215,80);color:black">0.85</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(19,235,80);color:black">0.92</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+</tr>
+<tr><td class="q-label">Q51</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(28,226,80);color:black">0.89</td>
+<td style="background:rgb(28,226,80);color:black">0.89</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(28,226,80);color:black">0.89</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+</tr>
+<tr><td class="q-label">Q3</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(21,233,80);color:black">0.92</td>
+<td style="background:rgb(21,233,80);color:black">0.92</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+</tr>
+<tr><td class="q-label">Q53</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(36,218,80);color:black">0.86</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+</tr>
+<tr><td class="q-label">Q32</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+</tr>
+<tr><td class="q-label">Q13</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+</tr>
+<tr><td class="q-label">Q0</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+</tr>
+<tr><td class="q-label">Q19</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+</tr>
+<tr><td class="q-label">Q20</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+</tr>
+<tr><td class="q-label">Q40</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+</tr>
+<tr><td class="q-label">Q61</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+</tr>
+<tr><td class="q-label">Q49</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+</tr>
+<tr><td class="q-label">Q37</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+</tr>
+<tr><td class="q-label">Q36</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+</tr>
+<tr><td class="q-label">Q35</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+</tr>
+<tr><td class="q-label">Q39</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+</tr>
+<tr><td class="q-label">Q41</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+</tr>
+<tr><td class="q-label">Q45</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+</tr>
+<tr><td class="q-label">Q72</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+</tr>
+<tr><td class="q-label">Q70</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+<td style="background:rgb(0,255,80);color:black">1.00</td>
+</tr>
+</table></body></html>

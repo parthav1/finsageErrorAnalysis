@@ -1,0 +1,10 @@
+config,unique_chunks,total_chunks_retrieved,uniqueness_pct
+faiss_bm25,2,531,0.3766478342749529
+faiss_bm25_ts_hyde,2,580,0.3448275862068966
+faiss,1,515,0.1941747572815534
+faiss_hyde(qwen7b),1,507,0.19723865877712032
+faiss_hyde(qwen72b),1,517,0.19342359767891684
+faiss_expand,0,508,0.0
+faiss_bm25_ts,0,577,0.0
+faiss_hyde(qwen7b-sft),0,531,0.0
+faiss_ts,0,542,0.0
