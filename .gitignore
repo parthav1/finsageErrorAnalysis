@@ -147,3 +147,4 @@ dmypy.json
 #Data
 config/*
 !config/example.yaml
+visuals.ipynb
