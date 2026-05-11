@@ -1,0 +1,13 @@
+transition,count,fraction
+correct->correct,7,0.0958904109589041
+correct->wrong,6,0.0821917808219178
+wrong->correct,0,0.0
+wrong->wrong,60,0.821917808219178
+avg_retrieval_recall,0.4739148858171659,
+avg_retrieval_precision,0.07388493894285084,
+avg_retrieval_f1,0.11760006512263459,
+avg_rerank_recall,0.30478574445577333,
+avg_rerank_precision,0.24384496781757045,
+avg_rerank_f1,0.23849135834997318,
+avg_retrieved_chunk_count,45.6986301369863,
+avg_reranked_chunk_count,6.616438356164384,
